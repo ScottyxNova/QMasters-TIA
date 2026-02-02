@@ -1,0 +1,30 @@
+name: Sync News to README
+
+on:
+  push:
+    paths:
+      - 'News.md' # Runs only when News.md is changed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Sync News content
+        run: |
+          # Read News.md content
+          NEWS=$(cat News.md)
+          
+          # Use a temporary file to handle the replacement
+          sed -i '//,//{//!d;}' README.md
+          sed -i '//r News.md' README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync News.md to README" || exit 0
+          git push
