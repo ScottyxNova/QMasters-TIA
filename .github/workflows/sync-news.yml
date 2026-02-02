@@ -1,0 +1,31 @@
+name: Sync News to README
+
+on:
+  push:
+    paths:
+      - 'News.md'
+  workflow_dispatch: # This allows you to run it manually to test!
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Extra safety to ensure it can write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Sync News content
+        run: |
+          # 1. Clear everything between the markers
+          sed -i '//,//{//!d;}' README.md
+          # 2. Insert the content of News.md after the start marker
+          sed -i '//r News.md' README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto-sync News.md to README" || exit 0
+          git push
