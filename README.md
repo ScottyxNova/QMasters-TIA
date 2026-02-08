@@ -9,64 +9,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUnRpZlEwa2JvZXZIb3Z4aUFhc1l6M2UwUVhWN3otUngzWFczdV96eHYxTFhrMXlfOFpTdUJ3T2Zob2NHUDk2Z0VkYkR4Qm8tVEQ0elZRLXF5U0JNbG9VSjlUb2dMYlN4RmRiNTgzYlgxQURCNVljT0duNjkyM3lUVmtBbW42VC1q?oc=5" target="_blank">Ransomware attackers are exploiting critical SmarterMail vulnerability (CVE-2026-24423) - Help Net Security</a></td>
-      <td>Fri, 06 Feb 2026 10:42:45 </td>
-      <td>Help Net Security</td>
+      <td><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQVFRWUZRNERfWmxqUHdvUXV2S1ZUcWtQQWhSWDctS2VJSkVjY1d6T3pBVFJsb3ozWEVJUnM3TkZCM21oUmJFR2loSnNKWW13LVBndm9GRzU2X25INUFBSTBKY3pFSFowVFRCT0hGLVVnOEZmdk9kYmNMUF9Bem90YnFLc1hrZXlTV21YTVp5WDN4ckJXNkdHS01weFdBbjM0QWVQak9WVXhVWjJnVGYzMmNPNVdxS044S2tHS2tFYThjWnduS0ZIRUFXT0J1SmZKTGxCN3k3UjM?oc=5">Adobe ColdFusion CAR File Parsing Directory Traversal Remote Code Execution Vulnerability (CVE-2025-61808) - systemtek.co.uk</a></td>
+      <td>Sat, 07 Feb 2026 19:59:00 </td>
+      <td>systemtek.co.uk</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnpLY1g5TlhuRFpMdmNJdjhCbEt4YVZsTTFlZWctbE1tX3srT0R3bUVXc19GbnBWRHg3VUlqaTZjbm9pelZMVm9fMXVJOUFHOEJBTmMydXNBaGRiUnF4OVdZd3ZEaG91TXBlRXgxbUFQb3lqam1KVEtLa0hFNEVhdjdTaDlDUC11RkIxSWm5aHBHNklGTElvY3M5bDE0f_tclhQY2t5Z3QzYk5iNUZDRHNqRGg0dm90aWhhNm54QklKekl3bWt2dmk?oc=5" target="_blank">CVE-2026-21643: Critical SQL Injection Vulnerability in Fortinet FortiClientEMS - Red Hot Cyber</a></td>
-      <td>Fri, 06 Feb 2026 09:45:12 </td>
-      <td>Red Hot Cyber</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEUtMXhCd0duRzhjTDhxTTVodmoxeTIwQ1FDY08tb0VwcGdZc21nR0ZUYV90TFljOHF6cW91M3hNRjV6MTBkNUE2YUNNTG9ROWNaR09tM3ExZGx2WWFnaElLR1Y5aElmMUlwVmNGTWh0ak5uaFBUUjY5dkJWVTktNkdVUjBpdWtxYzZLS0tRWmJQOGs?oc=5" target="_blank">Microsoft squares away 121-CVE Patch Tuesday for August - Sophos</a></td>
-      <td>Sat, 07 Feb 2026 02:51:26 </td>
-      <td>Sophos</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOcno4OTRPYWdNNkFXcmkwUlE1Ty1Bbk1JVUdhQlpEMEd2V1NLekxseHJ5Q0ZpRExabklXS2czY2VOckJpb2pKalQtVWpKbG5xajdDRDVkQlJxVWM1OHFjMEdicnNLSDJmSFcxeHhacV8xQXd1QU1uWTlqMG9HU2g2MllzS1FRMGdUSm1JdTZ0MHJSUnBDRl8zbGNaQ0doTWlZZGN1bEhDRFhfemdid3gwaDRMYUtHLVdQQWNua0ktUVM3bm5V?oc=5" target="_blank">Cybersecurity News: Substack admits breach, Russian attacks target Olympics, GitHub Codespaces enable RCE - CISO Series</a></td>
-      <td>Fri, 06 Feb 2026 11:00:00 </td>
-      <td>CISO Series</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxONUJ1UDdaTy1MTERCeWI1TDN5RFBnbDRNQXBIMXA3anJKWXBsVTl4UEJ0UWR6ODhHeThyb3J1bGZXLXZBRENSTm1ubFVLanJmaEswUnBXcW9Nc2pzX1A5T3o1YWNWcERIR0d5TUJXNkVsMFJBQjlCcFZhZ0l4QnZNVkJueW82YkRaMFBNMS1BMWkwemdmNDN3RGFxSzU0TmVrYmlMeFh6anMwSU5uTG45ZXBGM3AyNHhBTFc3eVV0UWRnYlg4S0ZySF9PcU1TTXNPSlHSAdIBQVVfeXFMTjVCdVA3Wk8tTExEQnliNUwzeURQZ2w0TUFwSDFwN2pySllwbFU5eFBCdFFkejg4R3k4cm9ydWxmVy12QURDUk5tbmxVS2pyZmhLMFJwV3FvTXNqc19PtlB5T3o1YWNWcERIR0d5TUJXNkVsMFJBQjlCcFZhZ0l4QnZNVkJueW82YkRaMFBNMS1BMWkwemdmNDN3RGFxSzU0TmVrYmlMeFh6anMwSU5uTG45ZXBGM3AyNHhBTFc3eVV0UWRnYlg4S0ZySF9PcU1TTXNPSlHQ?oc=5" target="_blank">Critical flaw in iOS 26 exposes iPhones to attacks and demands immediate update from Apple - Mix Vale</a></td>
-      <td>Fri, 06 Feb 2026 10:20:01 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1F0WHl2OFkyRThpQVZTYlFBZVZGUHVMMXh5dEEyY2V5UkNFNUdPdlcydUg0VHo5U25EeV9QelhoQVBTcTc4OVdaSm9vRkpOSWd6SWpDX3gyaEdwME87a241RHdNbVBmVFlNaTg1cGNmOE1fWWNhbGRMNjF2bDJzY2hjOW5jbW15Rzg4VlFnZVBaSFZDRXVfX1NqXzdoX2ZkRkwwLTZNT0wxckVuRDdIWUp5SUoteHZFanFFWFEzR3ZPVXZ4cHJqMG9kZXl0eVpjbzhv0gHTAUFVX3lxTFBfUXRYdXY4WTJFOGlBVlNiUUFlVkZQdUwxeHl0QTJjZXlSQ0U1R092VzJ1SDRUejlTbkR5X1B6WGhBUFNxNzg5V1pKb29GkpOSWd6SWpDX3gyaEdwME83a241RHdNbVBmVFlNaTg1cGNmOE1fWWNhbGRMNjF2bDJzY2hjOW5jbW15Rzg4VlFnZVBaSFZDRXVfX1NqXzdoX2ZkRjBMMDZNQUwxckVuRDdIWUp5SUoteHZFanFFWFEzR3ZPVXZ4cHJqMG9kZXl0eVpjbzhv?oc=5">Strengthened security: Apple begins automatic patch testing for iOS 26.3 and the new macOS Tahoe - Mix Vale</a></td>
+      <td>Sun, 08 Feb 2026 06:48:45 </td>
       <td>Mix Vale</td>
-      <td>Critical</td>
+      <td>Low</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWV4TXFpUGRrVFJRb0JxV3NiRVRqNjlOVEJUM3ZfOWhZTm9ra1R2dk9QblBBdFdDSU9hUVF4MmVPNFh3amJNMld4a1hVbHFFazRwemczb0hBTEo5Qnk3QWJMMDZybTZhM3VrcjNTNXlZQ1VBNVlHS2RfMUplWWFqQjcyTnlWOGI0Y3dCUVMyWXNQRHVpWk10czJMOEFCd01SbExNYlR5RlhwcXJrUXpHUHdQONIBuAFBVV95cUxQaUtzbExpVWpQUHRQSTgtNm14d0hoT0pGTTRQajBPd2ZWMmU5aFRiQzF3SGFtX3NPbkNMRzdXbndvUmt4LXlYX0NHT0pmdkxXbWNDTkJRYnUxNE1QRFlWSW55T2RtZ1l1dnRVTVE1ZUV6RzdGZnAzWUxBbFYxVzEtRVpQci1nWjR0VDhyaTUweDVySWtYaDRxS0JYUmNaZHV4NVUzV2tMTWo2Q041aEF1SjVIS3dDS3Q3?oc=5" target="_blank">Apple’s New iOS 26.2.1 Update Fixes Security Flaws, Adds AirTag 2 Support - Mix Vale</a></td>
-      <td>Sat, 07 Feb 2026 02:07:33 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxObGl3VHdlcTkzZkdvNS1PRjBuMFVGQk9UMXB1V1MwTnRrRGYyZlQ3QnZjamhKY2k4eno0RUZmUkRyUXo0Y1VZbWtfRFAyOWxXcVF5bFRvM25MbkFRaW1GZFVkbUUxbDBHSTRBSmNkOUpyeklzRldlV1hhZ29oYzBqSmNKOGNJeV9sLVdBcTBzaUpQdllrUzFGdDlNMmxRYVFSM3BRb0NYQUdfSUFWSjBZOTdBeVdidGxBUVFSQkZlakQ0ZDFrX2N4ZXZRRnhYNXpEUGQw0gHYAUFVX3lxTE5JUlZsWU9LWWI1U2JpN0hBREZrT3F0NnpzZkppbWljTy1KTVVpWnd6Rl9IbVQzVFBJd0xla3VsRE5EM1pHdEV3Z1pTQldFZ19DdnZabkFrU0lGdFZtMTlEZnJ3aXdfNjFGWENlVllHclJ6ZHJ4TG1HdEhKY2F2UmhJU0VkeXE3TF9aaWZoOGlrVUFvLTcxWGVfcHZ6bjFuN2w2YS1TbUtCRGprdnFDb0JhQXAwd3V4TjVILWE4bXI3N0MyYzJ1c1RETDRMQzNYdFdyM1ViVUw5VQ?oc=5">Apple releases iOS 18.2 with improved Apple Intelligence and security fixes for several iPhones - Mix Vale</a></td>
+      <td>Sun, 08 Feb 2026 01:43:18 </td>
       <td>Mix Vale</td>
-      <td>High</td>
+      <td>Medium</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjBhY2Fsd2FlTFBEd1c3azktQWdnemxYLXhGX3A5MHRpWjhMLWQ1N3lEenROZThvNEhJZUVzRDhlanVSSVNtMVV6dC1iZ2VDOFRnZ0tpc21FV0N6NjkyWnJ3M2JISzhqSGZVN3NJNDdxNkRmVFg0ZGlwdkZrYjBjckFZRVYzdU1WRjZkSWNR?oc=5" target="_blank">F5 Releases Urgent Security Fixes for Critical Vulnerabilities in BIG‑IP and NGINX - gbhackers.com</a></td>
-      <td>Fri, 06 Feb 2026 09:42:28 </td>
-      <td>gbhackers.com</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFB0QTFRdVFER1RYZDMyT29Rc0diU1RjUGtHWktYcmNlT2x3STN2TXJvd3F0THVEY2NlSU9ESWVPY2xRdFVWckt6TmZrMkUtX0pPRkFicW9qZWRxbVJqZ2lNWnRsYTJrQ18tWkxj?oc=5" target="_blank">F5 Patches Critical Vulnerabilities in BIG-IP, NGINX, and Related Products - Cyber Press</a></td>
-      <td>Fri, 06 Feb 2026 11:20:34 </td>
-      <td>Cyber Press</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlpRbUVDZ0cwWnRVSDJoc09GUTQ5TGp6R1ctNWlOZ2VBS3RGby1IUFNnZl9MUGFJQ1ZCeFFxb1QxTlZPX3FCNF9NX296Q0NfTHZYTml4b0tkbnlMYzIwT0JZRG9LZ2RPYWhIS0U3MWI2VEl4bEZiSTF5NEJzaEVPVTV0Qk5mZmNPS2laQ3RMZEhBdzUzeW9iQjJEQi0zNjg?oc=5" target="_blank">Attackers Used AI to Breach an AWS Environment in 8 Minutes - Security Boulevard</a></td>
-      <td>Fri, 06 Feb 2026 17:44:17 </td>
-      <td>Security Boulevard</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUJHSDN6QTd5NDAtZy02M25nSmZyNmtuUWVwVXd3dUdQd1I2c1E1RjlFTnhMMFZwVUdOLW5VbzlPS09Da0hlMDRrVUhtM2FFc3picHZYQ011ZjB0NXZCV3MxbVVQZ2JFYVl1VWQyZzZXZzlCcVhIUTlhWmt2cUNRWVRUOGhwejdXVy1fZzBQd2ZKN3QtMjNPUlYtZ2R0THFGMWE0?oc=5" target="_blank">APT28 hackers exploited a critical vulnerability in Microsoft Office. - Việt Báo</a></td>
-      <td>Fri, 06 Feb 2026 08:27:01 </td>
-      <td>Việt Báo</td>
-      <td>Critical</td>
+      <td><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcVVMZjkxM1VTWnZGRDFpVU9GRElUZm1rYnNXQ09janBYcm9TSXhFVmZXMl9hMGlDQU85dVNkNlMtbkNiZVFiVU1RWktfYlp1Z0JlMkYxY253TlZUNk1FVElQcUJ5MUxTTWtJdFQ4dVNqT1VYVDVWTl9NdXhSTF9meWxXU0pHdFpnaWtiR2RjSkdpdWNkNWRWVXlZaTVOWHE3YTVQNXNVeU9MUlFMZzFBUWRpWmRiRUh1RjRsX0txVXlvTDNtTFpocTZGRnVOSUotWkNEckNB0gHWAUFVX3lxTE9xVUxmOTEzVVNadkZEMWlVT0ZESVRmbWtic1dDT2NqcFhyb1NJeEVWZlcyX2EwMUlDMjl1U2Q2Uy1uQ2JlUWJVTVFaS19iWnVnQmUyRjFjbndOVlQ2TUVUSVBxQnkxTFNNa0l0VDh1U2pPVVhUNVZOX011eFJMX2Z5bFdTSkd0Wmdpa2JHZGNKR2l1Y2Q1ZFZVeVlpNU5YcTdhNVA1c1V5T0xSUUxnMUFRZGlaZGJFSHVGNGxfS3FVeW9MM21MWlpxNkZGdU5JSi1aQ0RyQ0E?oc=5">Apple releases iOS 26.2.1 with more than 60 security and compatibility fixes for the new AirTag 2 - Mix Vale</a></td>
+      <td>Sat, 07 Feb 2026 13:08:23 </td>
+      <td>Mix Vale</td>
+      <td>Medium</td>
     </tr>
   </tbody>
 </table>
