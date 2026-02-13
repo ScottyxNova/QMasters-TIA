@@ -2,305 +2,294 @@
   <thead>
     <tr>
       <th>Title</th>
-      <th>Publish Date</th>
+      <th>Published Date</th>
       <th>Source</th>
       <th>Severity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2JSdWJSQ1dBc3V2S3YtajZQRU84c19qOGgyWmR2LTJLanFHX3NsWEJ6T2dweDFyZWRIWGpvZ3ZWSG5WY0xJdXNNOE9QazVRMzVVcHU1YVAtdWxVNFNuclM3RVFoQWRfbUR6ckxRV2tIUGVjYlRqd3pvb2VxdFo5aE9MSjZrVkNKT2xDeVQ2TEhlSTVSNFJaNEw4TW04Zzd6eFJjZ3VvUXUyMTMzeU9hOWJIbTB5cXRDeGZ2TFprOUxTSmNw0gHKAUFVX3lxTE9qUWpfS21tQVJEY3g1eVpxbFB5TElvRXdadWZOTmZfdmI0VE5CSXlDVFVrc1g1SkVOZmMxeVRDMmxaWVlzOUJPdmVyS0NDTzBLcWgzRWFKT1VtWlBwNHlRaWtXRjBpWEhZdjlXT3lBc2pDdUwyRFA5azZLUkp4ZXpVWjJJbUdpZU1JdlhmZkptWXVLVXFoTG9oOUljUkp5ZmQzbkNhVTYwbW1jMndHMlozVWs1VG96SGtmSEZpVloyQTZoQVdZNzJ2LVE?oc=5">Microsoft issues urgent patches for actively exploited Windows, Office zero-days - Storyboard18</a></td>
-      <td>Thu, 12 Feb 2026 07:31:48 </td>
-      <td>Storyboard18</td>
+      <td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPZVNiczU3Y1Vma3otc2JIOFZ0cWIxN2Rsc3F3RkVoRTNxNmc1NUJ6RDh3ODV1MmdMSUN3WlljTWR4ZHcxVExLVU53ek1yUDMtX1pjX08tVkRRTWoyaUpVT3pfcldxN0Z2SjJMU0xENUhaWDlyQXJuTUZLTW9WX3lrSFZXaHgydw?oc=5">Apple fixes zero-day flaw exploited in targeted attacks (CVE-2026-20700) - Help Net Security</a></td>
+      <td>Thu, 12 Feb 2026 10:55:26 </td>
+      <td>Help Net Security</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxORi0tWnBKWWxRbGNnMmc4TWsxNEt2UTVtUjRzZmNOQkduQ3RuUEt4OGpsRVg0blREajZOYWRnTkVvSXBXUVM2QkpMdEVEdW4wS0Z5TUdMZlFlVjRxMXZUaFFSRTJjWWt2XzQtTmptTTkydXdmYjhWYWFvNmM4TFJMMXczX190RnlZTUQtMExnN1pBcEtpVVUzeTNhdjBta0twMDVDbUtDNWd6TklN?oc=5">Microsoft Patches Six Actively Exploited Windows 11 Zero-Day Vulnerabilities - Technobezz</a></td>
-      <td>Wed, 11 Feb 2026 15:31:03 </td>
-      <td>Technobezz</td>
+      <td><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfNVUyU0dFc24wd0t2Z21iWlVPMTdhak5SOVhlMThxS3ZSX3Q4YmpUX2I5TWtFcXVxUTFxZkIxdVFvOWNxampJaDJfNEEweVYzd1p4SDc5LXJyR196Qll3T05GenNhZw?oc=5">CVE-2026-20700: Apple Patches Zero-Day Exploited in Sophisticated Cyber Attacks - SOC Prime</a></td>
+      <td>Thu, 12 Feb 2026 16:03:20 </td>
+      <td>SOC Prime</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZVpvZHd3MzVNaXVtaDFjc2l4VGpFM2haNmhUQ2dyYndCU0ltTmdKX19ZlktNDlFWkVVOS1VcE9vYjB2amZ5YVVRNEhrVjhWZDJXSERma1psbW9uZDhOUEdkWDJjcExiRnFJRWd6Zy1ONlNnNkJ1QnR0cFJRZEw4ckRPeG9lM3dwcy1zT1dEVHliOVJJV09LYUtGS2I3VHdzMk9lb1JTaFM5cHVNbFNkY1N0bGNRRUVvcW1tU3Fad1hXRnlhR0ttZkhKZFZQRTYxM09rWdIB2gFBVV95cUxNVnFGTzNrYXVpd2NRekZ0aHRZNldxOTFmRHJxaFkyV1RSMmxIQUtNU21iX3g3TlZ0RjZxRVlER3otR3dMalQ1ak5naXpLTkhuVFBudG9Mb0RkMWFWQWRIWHMyMGFMVUxGT29FMV90bWg3SEZDQnJ5dmNPeWZqYkg0bVJjS0JXdWlJRkxIa1YtUGcycXdaWktGRmxOZ2p2UDMtM29EdDRJYVpwb0tybkxoVUFQU21qM1BzQW5lTG5HTEllSGs0N1pPMzNjcjdmYjNSMzFNUFhFa1dYUQ?oc=5">Microsoft rushes to patch actively exploited security bugs in Windows, Office - Moneycontrol</a></td>
-      <td>Thu, 12 Feb 2026 04:48:10 </td>
-      <td>Moneycontrol</td>
+      <td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2czLUcxcTJqY0hFdGNWbVVjdGlBUDlVMF9fTnNxbVE1bllIcFpDdkU0bU1Qel9GSTY2aXhBZ3FXcUc5LURxUjdZWW9XR29BZms0OFNzSGsydXN5UDlPc3I1RDl5Vnh5X1EzTGMtZXFUNXhPSkxMd3hZSzlpOElrTGhEaVkwN1NjZVNuQQ?oc=5">Apple patches actively exploited zero-day in iOS and macOS - CyberInsider</a></td>
+      <td>Thu, 12 Feb 2026 08:22:48 </td>
+      <td>CyberInsider</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGwxbWNsNF9mYlh1OVJVQnBkeTkwQndYWVhMczM2cWt4SkJ6c2BPcTk2ZjJiX29wRTl0V3J3NlB2TWlRMWVfYjBiOXJSQ1p4U0NNOXVrUzNkWlllZl8yWGVUaVVjN1hXa1JHWlZUNDVRN0NzdGRuSmtTUlQtSE8yT3Mwb3VmZU5BUG5PUVlVSUxyYmRod09NTGpfZFl5T240NlBtOXdmM3NIZksyZ3Y2NWllY0dtYmgwSWFmZWZCQzhkd0xIUGc?oc=5">Windows 11 February 2026 Patch: KB5077181 and KB5075941 fix zero-days, shutdown bugs - Notebookcheck</a></td>
-      <td>Wed, 11 Feb 2026 10:58:00 </td>
-      <td>Notebookcheck</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXU3LUJxb1FWeHV3UjVYdVZfc1cxb0pMSGk4SEZhNGYtOC1pY05TMnJTVG85Q1RLYmJoenlNZDNYVEdXOV9NaEhJTkw3U2wtNGFQbWlaX0h1OC1Ka2ZoUk5XTExjcDNvczBiWWRfM1pZWkhpZDRUazhwQW1mRjhmcTN6ZjJHWW5NbW5SSEJ1X1dDZ3hfRlRYUHlCbzlwbUp3QVgzUElTaw?oc=5">Microsoft’s Latest Windows 10 Patch Fixes 58 Bugs, 6 Zero-Days — Here’s What to Know - Techloy</a></td>
-      <td>Wed, 11 Feb 2026 16:14:53 </td>
-      <td>Techloy</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxObjFjM0k1LUI5RnlRcUkzWDAwNU8zQTZsd3M2MERmNVMxbFNzR25WUVBfQWV3Rm5oaU51M1I5dl8ySjFJaU51OTlVU2VVQi11djZfZXZWbi1wTkkxME1IU3EwaVhOQnNGVVNYemk0SjJIN0xNcHFsZ3NweEJkVWRBOGFMMk1nQnMxZXdNNHZWTHp1QTA?oc=5">Microsoft fixes exploited zero-day bugs in Windows, Office - Tech in Asia</a></td>
-      <td>Thu, 12 Feb 2026 01:58:00 </td>
-      <td>Tech in Asia</td>
+      <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3NfQjNPdjE5cGd6X2lNSV9XNnVGeVZiaGIxeFozM1hRWkNiNkE4RVZESk0wRVRYOXBRYWlQYzZqTVczV2dub0o5cXhhS2RKTDlrQ3h0R0UtT0hMVlFuY3ZmbGk3LTMyWHlPdTBlQUhNQzZSUk5PTTZiQlo4bWhrZk1WOU1XWXlQMTRqa3ZWQkJ6MXZtaUkybEJuVlZqRDZhMVFuMg?oc=5">Apple fixed first actively exploited zero-day in 2026 - Security Affairs</a></td>
+      <td>Thu, 12 Feb 2026 11:10:23 </td>
+      <td>Security Affairs</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGg5WWU2Q25EaW05T0g0SFpmRlVnVi11V2daVlR2QmQyUnNRcER3cWUxMzV5VTdFZmpkMWVZQjM4YmRaLVBuOGswN2hRTDFadjJlMk9Jd3QzN3VRcnk3TF9md3A5cl9iNkxQQlZJTFlsc25KUFBhcTJkRHE4cmRUaUUxVDBwbGc3OHZkTlVicXpHbDdVYV90N2ZKTG9mRlZVZXFrUjBCX3FTaFlPajYxTlpZTHdZdkwwWnVpQzBldW92b1c0NXdBVQ?oc=5">Reynolds Ransomware Exploits CVE-2025-68947 in NsecSoft NSecKrnl Driver to Disable Windows EDR Security Tools - Rescana</a></td>
-      <td>Wed, 11 Feb 2026 08:58:39 </td>
-      <td>Rescana</td>
+      <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPSTNocHVXVm1GRVlFaEY1cXhfSGRZNWhUZThiOVBBcko4OGh6eS1CaUczN1ZQZ0FaNTRXREpWZXBRX202VkJfcDZPNy15THAzTF95bGVROHk0cHJpdXJfN0p0M0d6Vm83RzlLSG5aRWRiWmxPV0FOUTlqaVFXSk1HWHQwTndYWksyMXVyLWpsRjU?oc=5">Apple Patches Actively Exploited Zero-Day Flaw - eSecurity Planet</a></td>
+      <td>Thu, 12 Feb 2026 23:27:20 </td>
+      <td>eSecurity Planet</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zUFhAzpmSjBlZUlILVRxYlRmeFdOVk5rWThrelR4bVhEUUdvOTZYOWlrODM1T2VLbHd2NkJNTVVWMWNUUlE?oc=5">Hackers Exploit Zero-Day Vulnerabilities in Windows and Office, Microsoft Warns - FilmoGaz</a></td>
-      <td>Wed, 11 Feb 2026 23:58:05 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE44NzZlUVhjYlFpSk9ETzJjX1JwNnl1S0s4VExpZFZsR1RfUnBVV3JEVmFaVldNYzBiblhjbHlLWEtnTHdpVk5UNEYyTTFKdwRsV0pwNGFoS1dwM1ptSWRsbXhHYw?oc=5">Apple patches decade-old iOS zero-day, possibly exploited by commercial spyware - theregister.com</a></td>
+      <td>Thu, 12 Feb 2026 14:01:00 </td>
+      <td>theregister.com</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOMXZyelhfWDkwQWgweDZnbzd0a1FNd0wwNS1GNERiWmJBZVhYOF92R1JIZjF1UEJsdwBLS1EzVkluNmtIeVI2TnItWG16NlpRSENtU09Uemc2YlN0dUlkTnFTYW94ZFozVjBlTzhMcU15LWFFbWdpSkZuNTRod1hNNUd4V1ZVeHo2XzJuTDdCNEV3YlFuaXc?oc=5">Apple fixes zero-day that exploited OS bug in open-source code - SC Media</a></td>
+      <td>Thu, 12 Feb 2026 18:39:03 </td>
+      <td>SC Media</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWhrS1ZjRjI0dmFjaEhDSkNWWlVvdHNpVzFpMnZJdzdHMGMycGNXcmMzQ2RaVXF6d1Y5V3Vwc3BhcGlIcjd6Ui1QczVZR3lfVDNUMXU4UEE0X2ptSThYcW12SFZzQ05uc2Q1QjNnR2pDX25Zek90NG1sOV9mN2NJWHlnZnVhYnV0NDJIWjBxSF84QmVVemJMNjRuakd2NUlLS0lWcHo3REtlM2JkZXVhNTV4eVBJbkdHdmZjZ2hHd00?oc=5">Apple patches zero-day flaw that could let attackers take control of devices - Malwarebytes</a></td>
+      <td>Thu, 12 Feb 2026 11:51:22 </td>
+      <td>Malwarebytes</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZbDEzMWhpUWZ4d0dLbTc3WmtPRXJ5Z001TEJPdWREb2E0eUxpUFlFTVFSaXdYc1JhcGFQQ19yZFExX3NEbVZiTDJCY3d2dWxQODlRUC0ycm5kWkluYjVnNlBrLXprbHgwdjFrZGxnQXl2V0k3cFE?oc=5">Apple discloses first actively exploited zero-day of 2026 - CyberScoop</a></td>
+      <td>Thu, 12 Feb 2026 23:49:18 </td>
+      <td>CyberScoop</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYV9kRnFhOThxT0hnVFU4LUhpMVNRUENod2NEc3JLajBDbk41WDh6Y0J0QWk2d2FJMWxnaldtNlZZNVpQWEo0X2IwQjk0TjlHbjBEWnFQM19ULUVwdmNrRUdPeVJrNWRSeDN3Mi1NS1NKcXJJM2tIN1dCNUlUSTFmcEVSVVRSOTQ2UlhJZGVtUkJHSm5BQl_UXSMxU09FSHJfb2NPeXNPM3pyMUU1b2laS0xnQ1c2NEZqUmVvR3BlcFlILVpRUWZmYnpGWXlwaDhxMjNjbW9zZ2IxLUVzUkZBOXcwSmRRNGRQQ0E?oc=5">Apple fixes dangerous zero-day flaw affecting macOS, iOS and more - TechRadar</a></td>
+      <td>Thu, 12 Feb 2026 14:05:00 </td>
+      <td>TechRadar</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOLXcyWnd1emE2dVVydG5hejYwQ0M0aWJibV_GTFQ3VFhxZjlubkdIcUxtV0t1U0czdWFORXVqWDd2Nldhak9kU2JOWkMydWZsTF8wdzFMM3FHYWlGWXVnNG1uek9NeHlXYTUtNTFZY2RkSGxQVWtPTkFUQnhudzRXbjZhNHFnbkU?oc=5">Apple Fixes Zero-Day Flaw Used in macOS and iOS Attacks - gHacks</a></td>
+      <td>Thu, 12 Feb 2026 11:13:33 </td>
+      <td>gHacks</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQUERYVVlBLUt3MjhyNF9qLUNpd0JGM29ib2JtSjctS0ZrMDF4U2czWkVHN1M3eFVoU2lqZUpPYjdhZjJFYlVXOGN6dFF6NmU5dzNtZWJEMXpOS1d0WFAyQWRIWjV3LVlqNHVXODJyZTFsX2lURllNcGc3Nk90b1pnQmFB?oc=5">Apple ships emergency updates across iOS, macOS, visionOS, after exploitation - CryptoRank</a></td>
+      <td>Thu, 12 Feb 2026 20:38:24 </td>
+      <td>CryptoRank</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOExCcHRHSzRUSlZRZkJKdWhOa2FXdEZUZkV6cXRCOG43eW1zWi1EVTVQTmVEQWRYZzBrNV9TcjNTMktjbjdqWEw5d1hnWnNTa1lyZEVKSnh6a1RKWC01LUFPenpVMDJKUTZMalJWZVNkN3RfaGdWU0Z1NzVjd21DckYwdGQtcks0dW5IWWFRVkNhMmhuaFRmUUNReHphajZ0RklGSTVjSncxUV9nbDRWOEdaTUpzVElTTnZiZTNSMWIzSXZwTWV3eGQtYlZkM0VaMUM5ZW04M08?oc=5">Apple fixes dangerous zero-day flaw affecting macOS,… - inkl</a></td>
+      <td>Thu, 12 Feb 2026 14:05:00 </td>
+      <td>inkl</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE9HeVhORUE3cldVSkdYTjFNYVNEcEhFNUhuUWFYM0c4a1hPdFFUZmxwNmJXdERoLTRMd25xWW05V0IxbkMwdmc?oc=5">Apple Resolves Decade-Old iOS Zero-Day Vulnerability Exploited in the Wild - FilmoGaz</a></td>
+      <td>Fri, 13 Feb 2026 00:04:02 </td>
       <td>FilmoGaz</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb296Y3hHTkV5elNIZC1aNjJFLXQwUzZ5T2NXemN6NjRpa29jMW9scjJoTmNIdGczZzRrbTZHWUFjcTZ0TWhBSjUtZHB2cGFpLUVaUVV6ejk4UVItTzk3X3pYWFhhdmY5cU9Ia280RUFubWl2dldVODBHcnlhUkRVVzgw0kI3R3lfOEQzYmxIT0ZLX0ZFV3ZuV3BVZ3MxSzV5amdiRk9xeGlDNlJYYXpFZ0ZDYUlSZ0dkZ1QwWWRFemdzcW5TZUdSaHRxT01FeGJCaFHSAeQBQVVfeXFMTUJWYkJtdURLS0VoS0NVdFJpaVItUDFWb3ZzMjNuY01nV3hUczNVY2FqeWRRSzdiSkV6ancyLThYU0pGQmVUUnRheHhuSnNRSkRrdWV1RlZqY181YWFITEtKRTV0b1JKdTBrT2dYWUxRN241N0ZmWFBjMVoyVEE3dm1WSDctRk1lZ3g2WVctcHlkS2VmekwtY1BTeGowekhRUThHa2tqamItUnl0alp5SHdkeDlfcnRUNks3VzRrYllsN0tqdk9yOGVKeFhZMG1rUmM3Z1lMaDUzYUdLcHRLbWp2Vkxi?oc=5">Microsoft urgent patch: Hackers exploit critical Windows and Office vulnerabilities - Gulf News</a></td>
-      <td>Thu, 12 Feb 2026 05:29:40 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQMy1ISlhiRmlVRmNUUy13ZUVoMjRlVjlvaHlCdFg2WVBGTGxmeTc5VWJqcU9LaURhSkJZQlh1MGtiUDJiXzVGb05TQ1VRczVXNnF5UllVWjRLTFpaTFBPa0lVanpzMGwtNWUtM3ZJc1ZyWjhPU254VWVxRFhBVWJ5emZOLWFLdmY4dDRHZlRzbnlULUtpZlZhZTduS2NFVnRLT2JxM2NEV3dvcm1pV0ZPU0tmRWJMQTZVUjkyYkk3aHI3ejFM0gHKAUFVX3lxTE92bldlWE5XcE1NMHJ6OVktZzh0cTk2VWJPaThidW9hb2E0R0ZwYkt1N3hPVDVsYll5OTZhTUQxM0NBako3TFI0WUFCQlZ3ajVVdk5SUWZRUV9rME8zRWNiMThrSnpUVm9ieE00elBhNXltSjlYeG9Jdl9nQzhRVEdrbzc5RHllY1Byb1N1RmYtSmZvVlFxR0tsQ1JhNjBCX2xQSzh0a2lZMGR4Vklia2tCdFZWa1BlZ0JJbXpNR3JkZ0QzemtsZVdvVVE?oc=5">NCSA urges immediate updates after Apple fixes critical Zero-Day flaw - Qatar Tribune</a></td>
+      <td>Thu, 12 Feb 2026 21:08:30 </td>
+      <td>Qatar Tribune</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkxCV01YUkt6UHlwamJYbm1pZmZMM1didlYtZmtEdkdwOWxwbEJWTGMzUUtSQl9UMHUzbm5qVGJrQWlmbnFESmdVdVgtQ0l3MVpETDlLUE5QeXZJQlp4T0J4Y0ZQS0ZuQWttdzJ2SHMyd3RaTDhXUFA5WE5MaVBxUE9HUHdINU4xVk1xdmpSUkdtdW9KVTRSaUJNVmE4ejVrNkh2clAyNDRFbThhUGo3ZnVibWZmVjlacHdaclp3MFl4OHhabGJpTDNkdGMxMUdsOTNPaE5jSmRpQUFk0gHcAUFVX3lxTFB2TEJXTVhSS3pQeXBqYlhubWlmZkwzV2J2Vi1ma0R2R3A5bHBsQlZMYzNRS1JCX1QwdTNubmpUYmtBaWZucURKZ1V1WC1DSXcxWkRMOUtQTlB5dklCWnhPQnhjRlBLRm5Ba213MnZIczJ3dFpMOFdQUDlYTkxpUHFQT0dQd0g1TjFWTXF2alJSR211b0pVNFJpQk1WYTh6NWs2SHZyUDI0NEVtOGFQajdmdWJtZmZWOVpwd1pyWncwWXg4eFpsYmlMM2R0YzExR2w5M09oTmNKZGlBQWQ?oc=5">Apple releases urgent fix in iOS 26.3 for thirty-nine vulnerabilities and blocks iPhone intrusions - Mix Vale</a></td>
+      <td>Thu, 12 Feb 2026 23:11:24 </td>
+      <td>Mix Vale</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGJ5MU9TVDQ3YnIxMEhWWmF1ckFfOWxOdEh5aVo4Wm5aSUtkaDkxWGx3b296SV9uLVpMTFRFUFBuUGJESFgwOFFOVHFpMWVTZUNaR3pmVS0tUEFnazN6V0RCOTJqVkhfN1U0amIxdDVZUEJ0cEM3Ti1qTE4zbFMzRXEydnBIQ3FkQ1l1WW5XSWRQcUJ4OTU3azNlemFkREFIZmsyVWxtc003Nm0xdzFSeFZnQVMwS0lRM09pX0JKUENWVVI3YnN3VdIB2AFBVV95cUxNNWxoUDVTdDdraHkzZmNWRmNUYzR2SDJkVEJBdGtlczVHZlpPV25ZdGVlNzVKc2QwdWg3TG5Fa2RheVl1Z0gyRUJrbDRRVjlmY2VxMVhjSDNIclpjaFdmSTZLcTNjV1VFUkdWUk83SGQxM2Z6M0phU2pDOHpWQU9vUDl0SEdDUUV4Ym45ZS05Ny0tM0JQQXhma0dNNGdoanhuYmRuMU8xY3Z5MHRfbnlKN3BvTk94aWdTRmQwSmlfZER3RW9xZnlCMlp2ZmZiOFoycV9Nc2laeHI?oc=5">Apple calls for urgent update of iPhones: iOS 26.3 update fixes critical security flaws - Gulf News</a></td>
+      <td>Thu, 12 Feb 2026 12:37:50 </td>
       <td>Gulf News</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPcE1seE84YkxSS3NhOE9tUVhsZ2ZuLXROdDZidTExWnBUeVJFSTllLWUzLVo3bUtQWF9YT0ZFNElZcW1VZTFxQkdxYkNwVnZkaEVxLTM5NWk1TFJ5TzhPSVJBNVRCVEhBU1NEX3lJeF9tMWRsZkVkMDQ4TWpPUjlRbmtKNWR5OEpKWXVzc3dwNVBMcGtxeHQ0?oc=5">Microsoft patches zero-day flaws in latest Windows update - SecurityBrief Australia</a></td>
-      <td>Thu, 12 Feb 2026 00:00:00 </td>
-      <td>SecurityBrief Australia</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0NXQ3hGOHZKQnkyUlNyMXhYNGd3NVdkaVBuVjNGdjg4QVQtMVl2cExhU3NOZ196cGpsWGxyWlVmd2g5SF9zdFpFWW1qWjN6RGQxWi1rQy1pN2djdTV2TzRiOGtMMzNlaTB4M3NJN0laeFpjRXR5eDUwcTBaRzhEbjBtekJHQXM1eG84RUttdlp6ZldzdFdwRVJiakNIZWloUE1HaWhqOVlwZ0U?oc=5">Windows 11 February 2026 Update Fixes Multiple Zero-days & More - Android Headlines</a></td>
-      <td>Wed, 11 Feb 2026 21:35:44 </td>
-      <td>Android Headlines</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE15am1RZ01lZXgwQmhzOUJjbXN6MGZFQy0xNllSSGMtTXFEVTJNWHBsZDFmZHdzM1RmX291STBFYmpjcURyc0J0YkJzb2xRVmlhWFhlSjJURUxZY2NNbFE4RWhUaTNHMHc5?oc=5">Today is the monthly Windows Update day, fixing six zero-day vulnerabilities, 58 vulnerabilities, and introducing a new Secure Boot certificate before its expiration in June. - GIGAZINE</a></td>
-      <td>Thu, 12 Feb 2026 03:10:00 </td>
-      <td>GIGAZINE</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnRVNkhOUWx5R3doWlRNcE9XR09aOXZYUEh6RmZoaXBfRmozekJRc0VtTlJCZ2FPajFoamtjSDdicjN1dkJFOUcwMTlYUFVEYzQ5dU1Gd0ttcEQyQ0lvWFRhelFqaGdGaGJkUnA5MkVqeFpTc1l1U3doU3NzVC1jVlRuWmNsZTd6bk1JZDNObVBSdXZlOTBIaF91UUxvOVRHeTJsRlpmejZiWFhGYzZpaW1uMGZKOUsyWExxZ3h0WjBXUE9MWWc5bkJvNDZxZ3VHVWN3?oc=5">Microsoft Says Hackers Are Exploiting Critical Zero-day Bugs To Target Windows And Office Users - Beritaja</a></td>
-      <td>Wed, 11 Feb 2026 20:55:37 </td>
-      <td>Beritaja</td>
+      <td><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxON1VmWWMxWmRzM05qc3B0Q0YyMVpsZ3dlM3VEU3lHcjVNYnNwdWxwYWlhQjZkeGwybHNVRzJjNTQzdkhncjRiUmctRG9nVWxCS1dDblBuVklXcV9ncFZIYUdnaWptanAxeVN5dHROTkFUUzR4M1QxV0pPUVFzRDhUNGJIVEttZUQwS1E?oc=5">Critical Apple Flaw Exploited in ‘Sophisticated’ Attacks, Company Urges Rapid Patching - TechRepublic</a></td>
+      <td>Thu, 12 Feb 2026 20:57:59 </td>
+      <td>TechRepublic</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNeklCWUlTUFB6N2ZoeWwwZUZLaDlhaUJzWkJfeV81RkhJT1dHLTNzVUN6NXpXRh81eGp6aFN0MVgyYXJUdUJvV29mYWl1dGNpdkJ0MWFGZ3RzeURoMEtEazlEM09FbHNlUHhXUGFQdUNnY0JQM2ZrV0JSTHBabUM1NWppS3LSAYQBQVVfeXFMTXpJQllJU1BQejdmaHlsMGVGS2g5YWlCc1pCX3lfNUZISU9XRy0zc1VDejV6V0ZfNXhqemhTdDFYMmFyVHVCb1dvZmFpdXRjaXZCdDFhRmd0c3lEaDBLRGs5RDNPRWxzZVB4V1BhUHVDZ2NCUDNma1dCUkxwWm1DNTVqaUty?oc=5">Microsoft patches critical Windows and Office flaws exploited by hackers - ARY News</a></td>
-      <td>Thu, 12 Feb 2026 05:43:42 </td>
-      <td>ARY News</td>
+      <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPT3VpcEZfcnhMUS1JUklUVUZrRUZqSVFNeGVHM1pJTnlEbGJnMUpkVnpxQWZEUzJGSUNQNGdxanN4VTYyRWs1M0ZBUFA3dVJncmpKdnVjaWtwVDIwSWVnVXJxd "
+            "nducjFyNmE2bnFNOHpNRHFmUXdIQTEwVWl6emVCMjZWNUxodzV2VC0zYmYzTXFDamJBRGIxRmJrbnI1OUhoalFFSGY1SEhSSkd4bU82VFB3?oc=5">Apple Just Patched Its First Zero-Day Security Vulnerability of 2026 - Lifehacker</a></td>
+      <td>Thu, 12 Feb 2026 18:00:00 </td>
+      <td>Lifehacker</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQaU5vTTZJV3ZqNGQwMHRNTTRnWEhQOC1tajVtemdlYUNrb3ZuR2ZIQktsWjBKWDFVRlBfaHpEemhPZWI4dmtFN1pfWDFDR0FPRmNsZTZEZ1ZsVEY0N1hnTnVsemFxVlpic3V4UnJvZ3BJYkJ4ZXBlVXNMNEY0X3lSd1FuVFJ2Znp3WnpWbmJ1aDVudnBnMExpemJ3ZWQ5dw?oc=5">AI-upgraded Notepad now exposes Windows users to critical exploit - Cybernews</a></td>
-      <td>Wed, 11 Feb 2026 09:47:24 </td>
-      <td>Cybernews</td>
+      <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDg4V3VEa2h4b24yek1OZm5XUzY3ZEZqRFdIeV9YdVVMbWowYXdiVWpPTzNuSTB1RHNWT2xBWUh1QmdEMl84aDVQblM1MGdsX3hsRVlVa3Y2NVJmM2tpblJUZGxSblNGQ1VFYlFBVU5sTnUyWFVhbG1SdHMteV9QLVZoRDFMWXpDeVY3RnJQWmprTktFcEUwNTQ0V1BiajJVVFFZdw?oc=5">Apple Patches 'Sophisticated' Zero-Day Attack Targeting Specific iPhone Users - PCMag</a></td>
+      <td>Thu, 12 Feb 2026 15:58:47 </td>
+      <td>PCMag</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcFB3Wl9sZ0FvMDBkYkx4OUxtWnZ1d2VOVzJtd3dELTk3c3ozSG9FbTRkYng4QjAxcnd2WUgzLXZHMHVCMjdaWnVtRXlsSS1nNFVXcS16WXNpOEVsdmRRQ2NSLTZ2RUVnQUc0bQ?oc=5">Windows Shell Zero-Day Vulnerability Allows Attackers to Bypass Authentication - Cyber Press</a></td>
-      <td>Wed, 11 Feb 2026 10:52:49 </td>
-      <td>Cyber Press</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZjdVdnJyZ2pCUVpjSmxTM1I3QWkwdkdrLXFUek9fVzU3R0NfQTFoTGakWmZjVm9qRlBFVUJDa2oxN2hKc2RleUZEM2ZNTndUNW43MEo1UGNBemZuMEt6bG1QM21NNTZIRWNRZg?oc=5">Windows Remote Access Connection Manager Zero-Day Enables DoS Attacks - Cyber Press</a></td>
-      <td>Wed, 11 Feb 2026 10:27:48 </td>
-      <td>Cyber Press</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMidAFBVV95cUxQcnJsMHR5aXhUVHFVTlZvYk9SVkJtUzd3ZkV4bHZveC1hR0NMQnV1SlBpMG5ZX3BDdEJMSXpLb01SdGtLellJQ0lDNVRSZlQ3VnlfY2RWaG9DaE5GQ0dkcEQtTnhoczZQcWY0bjdOOF9CblBx0gF6QVVfeXFMTXk2ME82eWxlREpXM2ZEdXRKSUtLQ2RnODdFNGpfeklrcG83T0V0dVJwLXBnaGFSSXV3d051cndVN3pyam9LSFBsYVZDU01Ianl1ajJVdHVDcFV0M0JCaFVmTDV4NlhFdkZiV0Y4S1VNS0hnUFl1dlFtaXc?oc=5">Windows Remote Access Connection Manager 0-Day Vulnerability Let Attackers Trigger DoS Attack - CybersecurityNews</a></td>
-      <td>Wed, 11 Feb 2026 08:52:37 </td>
-      <td>CybersecurityNews</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUxLcXdpczB0MEtIRjdweTVlYktiU3hjQWhuZlBNbzg1c09lZ0RRU1JVV09EZkdYckNoWGs0T005ZWFoVkF4Yzlu0k1YSDQ3VklUV3l5V0lwNVQzaklPN2N2OTcyZXFtT1ZRUzVRQzFRa21aYWdtbml2M1ZhQ0k3R0t6MFlhY0xJQkgzTWVyX1Jnd3VEZmNvU25BWFRwdnpjbG9NUzQ5Z9IBpAFBVVfeXFMTUhWaHlVajBUMFhnX1NGdVFWSXJZdWVQSk83Z0hVaG5uTGFIWEIzVXdIajFYSGkweDQtSHlRRnhhUTZUSXFFU3JnNmwxWnJMeVZPSFZKaXo0UlBQQjJmeWdWRDdSLTdoV1V0V2hDS0FNWHljeTlLMHFXeHhpWWxEYzJibGlneEJQSC0tdmU0VVZHY3UtUnhSQUZDTTQ5d2NRQXYxQ24y?oc=5">Microsoft patches Notepad flaw that could let attackers hijack Windows PCs - Neowin</a></td>
-      <td>Wed, 11 Feb 2026 11:08:00 </td>
-      <td>Neowin</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWVTZWdGOUs2MEtUSDNxek1jdXpkcTZVbWNCdHFkWHFVaUpsMTM1RFZmMlpIZVpKa0I5WUNsczl0ZHh3SFZBR0hyODVaaEpzZ3VBenlrNng4S3A1QXlKbVJ3TzZwN2s3MHp3YTlicVhaR2RtQ09pTGEtbUtMNWpBWWRaSEFEazhTMmtMMVVLbHlqdThVcmRNWVQ2UkFOVFdmN2NJ?oc=5">Microsoft Patches Critical Notepad Flaw That Could Hijack Windows PCs - Technobezz</a></td>
-      <td>Wed, 11 Feb 2026 14:30:56 </td>
-      <td>Technobezz</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUN4UWdlQ3UtVVk1Vzd4T0Y1QW5NYXliMkNBQ1N2bG5iRnVMQk1lRXRIYVk5N2VzVnh4RUFYZVpUY2pFVUNsTFB4b3JRNjF0R2NnNXM1TWkzT2E3c1FvdHdRcmFIVVdkcTRNTVpvcEE1MUhoSFkxNzVNektqSjZiamZUSTh3b3VPenczelBXaE5fRDh0dDF6WGlkNjNId3dQ0gGfAUFVX3lxTE5BUmoxU3Izb1ZHUjhTNHg1NzFtanVzRG1kMnZZc294WldLREFMVS1JSVZJQlJTVlFlXzNnQkpXY0FtSmFRYmwtVjVKWDU3cGY0T18zYU9KMlBxdmZfUUNvWTE4RDJFVTVDMnpkMWNVblE?oc=5">Windows 11 KB5077181, KB5075941 February 2026 Patch Tuesday updates out - Neowin</a></td>
-      <td>Thu, 12 Feb 2026 03:52:01 </td>
-      <td>Neowin</td>
+      <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWxTZXNzNzlSU3M0LTFLazRqWjVnYU5zOUl1cHhiTXFEeXJyRjBsR0RGV1hsQTc1Y3J6aEtDclJ5NGpwc2YwU051ZmY3eDJKOTlCSmFjall1ZWJMb1k0emV0OFZ3TlY2SmI2TlJoWlFENkdxOUdHVkNlSEExbXhRb2NuOWZTQndwaWxoS3M2cXBzMExSaU5DRXFiRWxkcGxjanFEX0VzWE5VcnNx?oc=5">Apple releases macOS Tahoe 26.3 update, homes in on bug fixes and security updates - O'Grady's Power Page</a></td>
+      <td>Thu, 12 Feb 2026 10:51:45 </td>
+      <td>O'Grady's Power Page</td>
       <td>Medium</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXVOZGE1cWRtcWFkczRPWk1NZWoxajQ1RkRaanF1aktISENWNlExSXRuZlVOWGo4UDMzR01UbGdtMGl0N3NubnZ5bVpDdXFzZG42S01uLVY1cnFyc0V5eUpkcjVBbnZGNW5XRW9qNkdpYlVISGJxT0loaHI4V3JGMFVFQUFETkFVRThRV0NfRjU?oc=5">Patchday: Microsoft Office Updates (February 10, 2026)Born's Tech and Windows World - BornCity</a></td>
-      <td>Thu, 12 Feb 2026 07:20:51 </td>
-      <td>BornCity</td>
-      <td>Medium</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVRvT1AzTEpWY2NxS1cxNEVWTHo1MjFDNDRVX0VSMWlMSEpIb19sd1lkTWNTaG9sUnNMdkdtVzdfNWZ2Ym03VFRoWG5MSW5IVTRFZnJ0RWFsUHhJTE1yMnpudGRBT0VqNFlMdURvRXM0M29SS2NJTXpGM2tsbVgtbWk0U2RnQUdPNHhpa3ltaGZPRUnSAZIBQVVfeXFMT0VvWXlrLVg1bmtXZ19vQjY2UHVYM2lvSGxKQnNIQ1lidkdiNHdkQng0NGdVT1dsaXhtS1pneWdHMlJZNTdCTWt4UmVoTXB1VXdXU1pPWkEya0lyMjhnT3cxaDhodzAzaVFmRy1vYTlSY0t1M3lXS0NfYXRkRGZfUUNvWTE4RDJFVTVDMnpkMWNVblE?oc=5">Windows 10 gets KB5075912 February 2026 Patch Tuesday update - Neowin</a></td>
-      <td>Thu, 12 Feb 2026 03:52:01 </td>
-      <td>Neowin</td>
-      <td>Medium</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNOGJLRkFvSTNqdGRORkhPeXlGTFdkNDNuQ3VueTNuVUVFWFhRRy15QktlVHZtcU1RQ2FUQTVPTk9pdmNwa2RwNWp4RkROVnVIWFF5WU5kWWtJeDhmUUxIWVpwUUgwaldTYldtWmpkN3A2R0VDZlliezdBT29yTVU5bnlTMlNkSjdjQm5DTFE5Mk92ZXJubXNPbHVFbnNUbDBCVUgxaVprd1dLbXgyc0JJOW9PSQ?oc=5">Microsoft fixes dozens of security flaws in Windows, Office, and Azure - PCWorld</a></td>
-      <td>Wed, 11 Feb 2026 16:30:00 </td>
-      <td>PCWorld</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmNreS1TY0RKUW44aXVNLWw4OWdMQnRmMi13RTdWTlRJVy1MVkRlSDlUZ3VYbzhmeXlaZmxPVGZIYk9OOWs4ZlhTdVV4bUVhd3llNGM4cHN6QWJyQnYyRjVrX0pFREpIV0dMV2tTRXF6b3JjOExIZlJGVTNCQ2pVdVJoZEdYX29X?oc=5">Microsoft issues emergency Windows 11 fix after computers fail to shut down - AOL.com</a></td>
-      <td>Wed, 11 Feb 2026 15:05:08 </td>
-      <td>AOL.com</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEFtaXNVMlM0b3VmOUw1MGplUldhQnljSHhHQmd6UGJpRURXbmJLNjNDejZNSGFONDN2S0tick93cG81LWliYkVpMjdMejNnVndTTVAwUVZZU2RzdGhfUkpiVUFINGprOENtVzg2SFBQQXhmWnlPVU1NR0h0empEMVFaMGxfa2pjOS1DWVBCWTZsbXpzMkNEejBKc0hPN0puS1NkMmIxRTU1NUZUZmdxb1I5WkhoVVFsU3fSAb8BQVVfeXFMTjhqSFhfTGkzLXAtWmRtNjV4dHJlR0F4QlJyUGNqeVhVaVd0NTNyVThRaWlSSUk5bGVHemJ6NjByS2kwMVNUb00zRUZmaUhsTUlyN0x2TFo3RU42WW84UmNPTlhjaHFQMGJBU2FPN0ZvNUVyMlJSSmJ6WmtEVGVINkZ5Vm95eV9EcTFGQ1BwYXdGX2Y2X1pKeXMxUjl6czA0WU1WQXA4Z2wtT25lN1NPT3FtRVVRQ29QZnptYzJhaWM?oc=5">Windows 11 Notepad flaw let files execute silently via Markdown links - BleepingComputer</a></td>
-      <td>Wed, 11 Feb 2026 23:15:41 </td>
-      <td>BleepingComputer</td>
+      <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPMm5LRndSaUJvYm0xUUE2NXZEeG9LdmxNN0tWOW9kdkZhWEM2Z0owV2Fubm9Vb1dDdmhMMXlUZlg5ZkQ4QWlZVVJkUTRjRWJzX1hnVFFNTkk1T0F3bzFpUU4yQkZ3My13VjlieEVkbXlxTnRONmREOVMyaXc5UGxVRmlKLWVINHZUYzdGZk9MbjRMdw?oc=5">Apple's iOS 26.3 Security Update Addresses A Huge iPhone Exploit - bgr.com</a></td>
+      <td>Thu, 12 Feb 2026 16:00:13 </td>
+      <td>bgr.com</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNazBOV1o3ak54SXVTM2VDUFdfRGZkdGl0aUtUODBpNng2aGt5OEN1NjNCb1otSjg0YUxCcmlrNmF2U29LYjdMcERTZUZRVE1yaXlOaWI0UjVUSDVDNWlMQlFZOUYwYjhOaUlPZ3lOSFdlYXpsUFNRQ29WMHBTS1ZkTy1MczJ2QklIQlE2Q05RWXAyMUnSAZsBQVVfeXFMTWpNX1FJck9wOWl0MkpFSU5GMjBmbW1ha1RXS09SaWVJVkU1UUt5b1AySDIxaVNuLW91Nl8zX0JhMTVud3BBTUpwc0MyelNHY25Jdll3VTZaWHdOWGJ0LUstVHBpaGNvNF9nM01YdWtYQ001d3VadHVIWlZ6VmdFTXNReXNhWXlveXI4a1BYS2huMm5vQmVmVTBrdE0?oc=5">Microsoft Says Hackers Exploit Windows and Office Zero Days - findarticles.com</a></td>
-      <td>Wed, 11 Feb 2026 22:02:21 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenctNjhmekc2YWhDNVV1SEJ3ZVdTT1ZFV3ppVHk2Tm1pZjJ0eTlXZkpqaGd4Q3BTWUJ0RUU2X2oxUnU4MmhWTWxEUlRQRHZORUNPcHlsdlpIaGpvZGNFRkN3dTdUT2RHWjNxMHlPRFU4SFhnUEpQM1hwb2ZXSy1lbHRwakVqY2xVU285YWpqOEVycjlJYWFERmhpRXZaUW1kdEJ5bTE5dFJMWVlnQVJYcWRIOGpWQXlNUk1VWjh0LTk?oc=5">CVE-2026-1281 &amp; CVE-2026-1340: Actively Exploited Pre-Authentication RCE in Ivanti EPMM - Security Boulevard</a></td>
+      <td>Fri, 13 Feb 2026 07:43:32 </td>
+      <td>Security Boulevard</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWFGOWJCZjBJSnhxcVUwN2xYQk9aTGVVNUhHNDl6X1djRUpSUmdyd3VMdXhxOFZvX2FIT0t6OGNQVXpwa2ZZSEd3eThWMDR6NERZQm1NbGVXcGpaYWcydVZYcGNTS3RJZDV4NlJVWWJyb1ZJNFFiVWEzWTYwM3lsWTA2bnFKblpqVktBdURvVUVRbUlma2w1cVZkc0ctbU44M3ZEbkd0OVBGS2RKX0E?oc=5">Windows Notepad Markdown feature opens door to RCE (CVE-2026-20841) - Help Net Security</a></td>
+      <td>Thu, 12 Feb 2026 14:47:41 </td>
+      <td>Help Net Security</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWowZW94RlQxbUFRT01iVlRPRDR6cTh3SENVSjE5TE5MSWtJMHNqbGJDY0dxXzV6dmVCcWc2U29RSWtZWFlvQmd1U1FST1o4QmdSaWdKT2I0aU5zcFhxRzhOZUowTGJON1lfaFJWZS1fMUtMMnRrQjBBRHVialZieHM4cktuM3ZyQmlyNWdwVQ?oc=5">Why does CVE-2026-20841 expose Windows 11 Notepad AI features to remote code execution - westminsterpimliconews.co.uk</a></td>
+      <td>Thu, 12 Feb 2026 19:27:15 </td>
+      <td>westminsterpimliconews.co.uk</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5CUGtUYWNxQVJiX29FbW02Qy1nZlJWeWN0UnJ2cVFPWVMxdkVkMDJGMS02bDQ5c1l4MFlUZUJham41QU94cTB3RnhIQ3gzT3paei1fN0t5TWNWUjJlZ2gyVjZzdTJ1VjJkdDhEZ1ExNkhOajNVNU1SSERjQQ?oc=5">Critical BeyondTrust vulnerability CVE-2026-1731 exploited - thestack.technology</a></td>
+      <td>Thu, 12 Feb 2026 22:06:12 </td>
+      <td>thestack.technology</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPQmFRc1RiUUdLS1hzX0M2LVF6VkU3MU9fUGg2UFNlOVNfMVIwaW50SVp4SFZuYTB0d0dQOWwwZ01xY0NvdTJwVmZtZUt6WVhpTC1Qa3NUZmxpRTZINW52bFJqSkRwdnotUlEteUVmZE9rZ2hSZfLmNlU3pObVFtRVZtSHFueWFzc1BDY0RheExMM291a0dWVl9YWHZxUHF1Z05ENUJhYmlNSkV4TEFPeGxjVUs0OWgyMmdoUVNhek1R?oc=5">Junos OS specifically crafted ‘show chassis’ command causes chassisd to crash (CVE-2025-60007) - systemtek.co.uk</a></td>
+      <td>Thu, 12 Feb 2026 19:45:00 </td>
+      <td>systemtek.co.uk</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWZFWlJ4ZTlYbTUxS3RvSUpEQ2ZuU1dWQ2VzZmswWTk3Vm1GaF92RXZqNGtzSXZjMWlNZlhFV1NjNms3ZWVSVjhEanVpbVFCMmtDZDY0cGRLVG05TkRLejI5dUVPQlVndXlheFNRT1JudjlGMU40dURIcHE5c1FVSnZLSnpJVENIUm5jR1c1bHJKbXpXcmhsMHpjOTRQR3NxMU5KcmctZkF3RzFKcU9wRg?oc=5">macOS Tahoe 26.3 Released: Bug Fixes, Security Updates &amp; Should You Install? - zeera wireless</a></td>
+      <td>Thu, 12 Feb 2026 18:21:53 </td>
+      <td>zeera wireless</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLWJrbWV5Y2ROTWgtM2c2QUp4R3h1NGJJZ1pIUm5qYVNBdWtOX1lHSV9QeklVNmZxa3JUNnFTNC1QX2ZRUjY2VFIrclRIdng4SHB2cm9LYUt5UVd4T1V1c19jZmVsOHRFV1BaZ19Ja2Vyc3kwUk10SHEtS3YxZzAzSS0zcEpNNDc1UkJXVy02amVCTkxxb2JYRXhtOXhka2FGb25tQ2xuY3N2STh4RXNnN2FVVUtaTGtNOGsxVDF6RDFnbW_SAcgBQVVfeXFMTUJjVmxyaFhuLXpSMXYwWWJkdS0tVWVGQ3Nycnp1UTB1eDhwV0tUR0FwUFNEMm5vQjdmVksxMV9CcElTZzRqekEwcjBFamJBRnpuMnVYOTkwZlk4cUVOU2Nvc202czF3WTJLUmlIclRGMDB1ZWtkM0pseXJWLV9KSTdwX2N5WDFKeUZPWmQ5aHpPY2pRZmFtQ0oxdXRGZGVoRG5KYzI5TDI1N01SNWdrbzBJTlE1UGIzUHF1VmlUbzNCMXlVcEgwaXU?oc=5">Push the Update Button: iOS 26.3, iPadOS 26.3, and macOS Tahoe 26.3 Fix Dozens of Security Vulnerabilities - MacTrast</a></td>
+      <td>Thu, 12 Feb 2026 19:47:09 </td>
+      <td>MacTrast</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPYkcyTmtYZ3ZyVzFFc0U5SWNnelVQbTM2b296dUUwMkZVUVdQQnNtNUlpcGFrUTlHMFNBcXh3Q21ObGNUQy1iRjBwYUJ5Qk1UajdfNk5nUnU4djNLV3dsODZ4bHo2MzZzVDdrZHBQSU9hVTBzSGwwalc0cW9hYm1COHRQbkQtaDlvMHA3anFtSWxIRmVBM3BDZGRpR0tnYV9TUU9kbnU3WEpHdVBSUExfWmVDZWduV2Z0LVlIRGVB?oc=5">iOS 26.3 Fixes an Important Security Flaw Exploited in Targeted Hacker Attacks. Update Now! - Bitdefender</a></td>
+      <td>Thu, 12 Feb 2026 13:12:50 </td>
+      <td>Bitdefender</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPTnJmS1VieFJUNG52cG54U181ZFpsX296eTVKdHdaZGN1ck9hVmVOdElyUTJ0cy1YWlVJZGhNTWpmYnhMWFJCMEVqUmlrejhoN2hfYXpDRlBLOERpMEMzOXpCaDhwUEZJTEp0ODlDLWhXajdCU1FrdjhhSWVzVXhhT2Zram9iZmNJbGc3bnBDc0l1c1YyREJEbmFWZ0duaG1vejJXM2xlallZcEFm?oc=5">Update now! iOS 26.3 contains dozens of critical security fixes - Macworld</a></td>
+      <td>Thu, 12 Feb 2026 12:15:00 </td>
+      <td>Macworld</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWZCLUxEU29fbTFBNGU0dUg5VnJwYnJrdktwbG0tX1JSUXhqeW5KT3VwWURScXF6Rk5GcG5WMGoyYVJGd1ZnY0FVRFp6UThRSUNnakhNSHlGWHhBOFdDVmtRRW1OcFNZLTVSN2gzYWZRMXdWZV9uUzBTOGtTZTBscTZxUVBMaC12ZWNVanVEekNhbUJPQlFoaXhMSlJyUTVFQjg3QnEtekRzdDZzZUhmRldKN1VhNEJIMkZPWHJ2cm82dlc?oc=5">New Windows 10 Security Update Released: KB5075912 Fixes Zero-Day Vulnerabilities and Critical Bugs - thewincentral.com</a></td>
+      <td>Thu, 12 Feb 2026 11:25:22 </td>
+      <td>thewincentral.com</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE42eDJVMlMtMkhyWVQwY0hPU3NLcWxCbEttd01IRmpPRkxXdjZPWXJURnRvWXAwWUlFaW1WYko1aXlKU2VRZ21UbzNpTjROOXJCSUZPcTdZZHg3NkhVV25KR1JmTm5qQ25QaTFYRUh0ZGdHaVIydzROYmZrWQ?oc=5">Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet - ZDNET</a></td>
+      <td>Thu, 12 Feb 2026 12:03:00 </td>
+      <td>ZDNET</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOZktqeTRxS0xVUWFsYXVvTHNuV01BbWM3V0N6UF9GdHpYV3JZaTZrbzB6bmZjVjBkeVZkOEVjXzF4TExvOUY5bmdWaUtXUXYwM3RtR2IwaTVKajZqbU1BYUhnc0QweXhnd3g2czR0THZYOVUzQ08tNVhFWXdXTUtQbkxNclFjWWRuVDNjQnhKSnhnTkRFLWVhSlZHSktKajZwVFA3azJjdFdQM0JRaEFCM3hWQUFzTzBKUkM3VnpCVQ?oc=5">Microsoft patches six zero-days targeting Windows, Word, and more – here’s what you need to know - IT Pro</a></td>
+      <td>Thu, 12 Feb 2026 10:37:31 </td>
+      <td>IT Pro</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX3dqWjBJbG5SdGZVY3dxQjZJVUZvZENMNUV4VVBoWTVfaURRSnhNUmdzWEhyM2dYQlFEYTZLcFIwTHFpLWxYazVvWmxJRHdEZlVjaG9BRzNkRzRTNmVIcXZiM3hWdUQtdFFFWllDRGVBb2ZmcWpjUTktUWc3WU1pUEd3Yk1JdnMtWlVIWmM0YXdPbWoycHNsMGhialItS2o1aEZKUWo5Vlo?oc=5">Microsoft Warns of Hacks via Zero-day Vulnerabilities on Windows, MS Office - CXOToday.com</a></td>
+      <td>Thu, 12 Feb 2026 08:46:00 </td>
+      <td>CXOToday.com</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPclNzbTVKSExrdUpycEpadDd0ZWs0aW9oQ3d0dGtUZnExNnc1a2FsczRCOENQRXVMeng0OEJPd293OUFncU5KdXhJbFVLZEZJaC1jV2tiRGpjYlpXak9XRE5HNEhDeEEya1NRaVZpcUppSTIyeFA2UzJzbjU4ZkhnLW51THAwOFIzSm1zUjc1aDNNNlBjVVZmdlBUS0NGX3d2Sjh2LUdFbkplc2FKNmlXRVZxWHAtRXJ6RFcxRVNVX09RLWPSAcMBQVVfeXFMT3JTc201SkhMa3VKcnBKWnQ3dGVrNGlvaEN3dHRrVGZxMTZ3NWthbHM0QjhDUEV1THp4NDhCT3dvdzlBZ3FOSnV4SWxVS2RGSWgtY1drYkRqY2JaV2pPV0RORzRIQ3hBMmtTUWlWaXFKaUkyMnhQNlMyc241OGZIZy1udUxwMDhSM0ptc1I3NWgzTTZQY1VWZnZQVEtDRl93dko4di1HRW5KZXNhSjZpV0VWcVhwLUVyekRXMUVTVV9PUS1j?oc=5">Zero-Day Bugs Under Attack; Microsoft Issues Alert to Windows and Office Users - Analytics Insight</a></td>
+      <td>Thu, 12 Feb 2026 09:49:34 </td>
+      <td>Analytics Insight</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQckRlcEpwN3RZbURiaTEwNnpEeTB0b0V0WFR3a0VIdVc1MHliakROcmNBNFRGa2NQdldIZ2xNNlo0Z3FPdWMtNGNSVEFiMG5mcXZ0UThSaGlzWl9YejJKRllBWlc3c2R0TlhGN2M1aGhJb2pnb25lQ1dDT1BlYlRycXZ4cTbSAYwBQVVfeXFMUGlDaEVJeUk5Y05DUnBlME9RNjF4di1sVEJGYTVBT050all5VFY3LWJ6MlpzdmZXbWVITFpqTkpGTndTZUhROFpKVmN2Y3ZUc3ltRV9FRTZReFJ2S2dmblBIcXMxNnlqVUM4NlUyejlZSllJa3dQaXl0bnk3WXdaVHhFcUxidUF0VTI4ZFg?oc=5">Microsoft Fixes Critical Windows 11 Notepad Flaw - findarticles.com</a></td>
+      <td>Thu, 12 Feb 2026 19:08:55 </td>
       <td>findarticles.com</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHpXalN5bGVIOWE3cUlLMm4zYWdmOVFqUjdfSUlPaFlWVGJBOEZFelRRSUJTYmZKZmZya0h6TDdmRGl3VEZ4T3ZSVlE5SEpkOFQzMWdtZVQ4eGxyVzJfN0F3NkxDYWd3ZUlPMmZlWHlNN0V4TzJvTFRyNkM0YkY5cGNiaHRFRGlFVzVyWk9WQmlCc1ZoVGZ4dVFGOVZMV0F0Vm10NlJ6aTBIY0VISHNNWXl5Q2QyZHdRQ0dKeGVIYw?oc=5">Microsoft warns of critical vulnerabilities in Windows, Office - NewsBytes</a></td>
-      <td>Thu, 12 Feb 2026 05:37:27 </td>
-      <td>NewsBytes</td>
+      <td><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTGx1NTlJdzM2Tkc4WU5IME9hSzl5QnZsRnAxM2xTeVc3cHgtdW53YXhCSlFLckF1emRZUnBRQWFENGZNeVFyYVk0OXViRDk0blBTQTVuTURzSFFoeWR1ZHBwSTJMSWl3eVRNSWJKbTZDZXo0Wlk2dGNMS3ZfWkNxYUJqWmFnTzBjTS02U1F5ZUVHSTQ1WkM2RFlmeXROQ1I5U0Q4NTQ4bnE3U21ERlBlZFd6UGlEVUczZjBnTkJ2cmV2a0NRd2hCVVYtNTNGVHBDWGxiRmo5S2tVdC1HRVBQLU43Yi1rNTE4N0x5QVgtMFR3ZExD0gH0AUFVX3lxTFBMbHU1OUl3MzZORzhZTkgwT2FLOXlCdmxGcDEzbFN5VzdweC11bndheEJKUUtyQXV6ZFlScFFBYUQ0Zk15UXJhWTQ5dWJEOTRuUFNBNW5NRHNIUWh5ZHVkcHBJMkxJaXd5VE1JYmptNkNlejRaWTZ0Y0xLdl9aQ3FhQmpaYWdPMGNNLTZTUXllRUdJNDVaQzZEWWZ5dE5DUjlTRDg1NDgwbkE3U21ERlBlZFd6UGlEVUczZjBnTkJ2cmV2a0Nsd2hCVVYtNTNGVHBDWGxiRjlpS2tVdC1HRVBQLU43Yi1rNTE4N0x5QVgtMFR3ZExD?oc=5">Microsoft detects and fixes a dangerous vulnerability in the most unexpected place in Windows: Notepad - Diario AS</a></td>
+      <td>Thu, 12 Feb 2026 16:53:05 </td>
+      <td>Diario AS</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQazQxOFAtaFc3WjNOMXZncjVuUDVwdVdhREdvU3Y5dTBpcS0xRUVlUkRjUzhGRWp2X0FKcTdXelBvampvblBqTVllSUJMUXpsYi1zZy1ET0VzOWU1OTdQRnpuZ3BYR1ZLU2xDbXZjazBKQlg1d21DYk54Tjl0ZWVSNHE0X24tNlBidUZXeVRLaDBIQ2VHWElz?oc=5">Microsoft begins Secure Boot certificate update for Windows devices - Help Net Security</a></td>
-      <td>Wed, 11 Feb 2026 14:52:15 </td>
-      <td>Help Net Security</td>
+      <td><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmZaS1NWbzNMU05KR1VWbFVSNXMxV3B6Z29wYldYdWFydnExUmirQkhtMTU4bWpoaThLOEk4dkVWT00tSW53dnd0dnlzTnVLS0lIbXU5dWpkNjhSdTdZZVBMSHZrdlNMbDlwN1RBZ2VTQWVKUmV0OUk5bnVhR0Ric2lGZmRUbThadzN1VU9PVXhZOXZTZ2trT3lzTXBCRXNHTGc?oc=5">Microsoft patches concerning Windows 11 Notepad security flaw - TechRadar</a></td>
+      <td>Thu, 12 Feb 2026 12:25:00 </td>
+      <td>TechRadar</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1oclcya2NSa01nU0hTNmh0TkdKQjctUGJvR0dRU19ReE5QeFRhc0JBd3I3VU5jY1VYc2xmNDkzcDJHMnJCSmlYUlZWdEFSZTV5Z3lSQ0pyazVZb0hCZjFocUdPWVVWRGlJRGZwcE05REhnVUJBdFZGVktvRFg?oc=5">'Critical' Windows security update released by Microsoft to fix 59 flaws — update your devices NOW - GB News</a></td>
+      <td>Thu, 12 Feb 2026 11:59:10 </td>
+      <td>GB News</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGp6Uk1fY0ZKMGVvSTRSTW1KWkp6aTI4ek5oYjFiUzhkdUhGVDV4cElWV080b0x6Q214Yi1YekphQ1FoNVdBalN2MDNDV01tRDgzZGI1QVg2WVJJMGpTRDRuTFdiLUFhdm1zN1hIbkxUNVJqN2t4Sjg0R2FiZTZJS0REaWcxLUxXMlBwQ09tVG9TQnpFdk9ubTA0YWRJU2p3bjhTVGFiYWFkX2R5azNXcEFKWWVuamhneEE4TzN4c9IBxgFBVV95cUxNSlV4NzJObGZpVm9xNjBoaDNVS3VKUmVzUTZiUW8xdVVWMFhxT1pXNXp1NE9XOU1MSzBYMkd5XzRmNXpCZUEyeWhfQ0lFNHhKQlJJMG1yWE1sOHg5azBleXVJTFp5WXBBTEhhWW51SDdaQmMzWXRvbm1nVWJRUkJ3MnU0b1k4cEd6VkV0aUdxS1RncV9NMW5QdlMtcE5BQWdtaDNCNTRFTXVZZXdBUkxTdVpDbDRUbUt1cnVxbFFRTFNYbDdCRUE?oc=5">Microsoft fixes Notepad flaw that could allow attackers hijack your Windows PC - The Indian Express</a></td>
+      <td>Fri, 13 Feb 2026 03:38:00 </td>
+      <td>The Indian Express</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOWl9YUWVDNUxVZ1N0MVRtRUEwbWU3a0VTYUh4T3UwdS1YVnprLWFaTDc3MnNiSEZFZVBKeWdzRGt6bXhmcFBCYUxfYTJhTVIwYVJ4ckhWaHQ4YUUxV0ZNYTRPNjRDTl9lcUZwOEVCTURUZ3RGYmdhX1NzZ1gtX0ZWUzFZV0ZRYlg3c1VtSVI0TQ?oc=5">Microsoft Issues 2026 Secure Boot Warning — What This Means For Windows Security - LinkedIn</a></td>
+      <td>Thu, 12 Feb 2026 22:04:02 </td>
+      <td>LinkedIn</td>
       <td>Low</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxOaGNDUmtCMmhxT1lBT3A5V19BNDU0Q1pLZ3pOQjVyR1ZzVVVYa2JCR0tmLXJ1NzRGYjZFVlhsVGV5MUpOMHBoWTBObWJ1Y3pXWWcweVdRbUc1QmVQLW85NGZfZVZWbUtHTHljMmNJTjRWd2llSjNDV1NSWGtzTV80R2lzV3FjQ2VlQUw5MDdWZjRBWFdfR01fOXBGMGFlbjg4QXE0LU40WTB5QS1FRHdibHN4bGJlaENtREpCaEVoSUZqUkZVZkprWUZLRDFuSklWd21XYTFoc3ppOUdyY2dtS2o0TFNZRkp3UHlwVUwyM0N1ay1SQk54RjlwaDc4Rmx4RUE?oc=5">Windows 10 users warned to upgrade now or risk a ‘degraded security state’ as Microsoft ends Secure Boot support - Tom's Guide</a></td>
-      <td>Wed, 11 Feb 2026 11:38:30 </td>
-      <td>Tom's Guide</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi2wJBVV95cUxNeC1yRWlaa2s2d1NvVFV6RnZHcFVzdEFESWJNVUl6X3R5Rldrb3gyZUNUM05iTzItWXpaajdwbXA5TkI0UGozT293OWJSaEp1TUtveUNKMlBRTDI0eGdIV3M2d0cybHJWTUdNaVBjWmRZemN2YzJrdGctOHM5Q2dMVlZ5NFFnZG13VGdqTXVWSTdFclVhS0ZPa1B4R0Q5NlpLRGp0TnV6dmxTNWNDRk92Z2Z1NlFwSzJub0dQT1Azb0VraVdWdVhZQ2ZQTGZtM3ZVVGZxbE5tRWx3QWs?oc=5">Upgrade now: Microsoft issues security warning to those still on Windows 10 - MSN</a></td>
-      <td>Wed, 11 Feb 2026 12:51:37 </td>
-      <td>MSN</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNGtpb1VxVWtNWndISzhGV3g5bFVOMzN4ZWRYRWtqNnhhNzR5SUtZOURPSDh3YWxUV210MkhXVmV3SFI3WXVOWUNvY25jT1lOeHRlVmlnNUlmS0ROZ1N6b0NWV2Y5VndaWWNWazd0WV9ZVHZ0LTFkQQ?oc=5">Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Apple Devices - The Hacker News</a></td>
-      <td>Thu, 12 Feb 2026 05:39:00 </td>
-      <td>The Hacker News</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBxd1N4UTNnY01LOEZaZXNxNWtMZmZEYWx5dUxKb2tWX0tmSC1rckxWQndjQjhPVFhTREw2cUh0N0drYkQzQk5sbFZzSklhOUYtSTRJRmpwdXVpX3NoR3liTW9OazR6UExRd2FsTUJDX3VpaWbiQXhwSWFKdEM?oc=5">Apple Rushes Patch for Actively Exploited Zero-Day Linked to Spyware Attacks - cyberkendra.com</a></td>
-      <td>Thu, 12 Feb 2026 03:45:00 </td>
-      <td>cyberkendra.com</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR1FQZWNKZmZsWVhsSlZWNkVmXzRwTDJqd2JEaU9uQXlXcmc0b0RSWV9wSzd4Wm5pc2tVLVh4anhadThlMzJsOFJMUFRsdldyZ3RRRGJlZ1Y1LVNyeDdhNlhSeUJLVWNaQU9FZ29QMGU0dEItci1sWkUwT2Q0b0E3SkczVmNVRng1X1BFSG95d183bG9leU5xRFlBelV6ZHJ2T3VsTTZteHo?oc=5">Apple Zero-Day Vulnerability Actively Exploited in Sophisticated Targeted Attacks - Cyber Press</a></td>
-      <td>Thu, 12 Feb 2026 07:27:19 </td>
-      <td>Cyber Press</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMidAFBVV95cUxONkltZ2VnT3o3SXdEZW1pRlJrdFpwWV8tQk4yYzJPNm1YVWU2cnNDVHp2YmxraUhGZDYzQzVCYVpGblMxdkVIT2xlaDhfMnRDc1QzcjYwMVRXRVRIelRVeHhHSG1DVFFYMjFoVk9YNE1iWlpv0gF6QVVfeXFMUERDNk5Xbm92NEJZMGVVS2pyd2pjRFFocEJBTmtseldCeHN2ZF8xc1NvUDNseGFRZFVjMnBycTBrSnVaZ3RnUlAyeUpJaEljTUxJTXp4SGdaRXFqMmVELVdXMXZsNkFvc2ZWb2VNS3ljZTA0ck5xUTJDMUE?oc=5">Apple 0-Day Vulnerability Actively Exploited in Sophisticated Attack to Target Individuals - CybersecurityNews</a></td>
-      <td>Thu, 12 Feb 2026 02:42:16 </td>
-      <td>CybersecurityNews</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5nUVRudnpuV2UtbC1oblRuNXVMSUxjRUtuemY1bWpHR0k2TFhMbkRSY3FMeWotdUpsdXA2cHNJV0dBM2R6RkJyRlVoWjZnS0x3TURXSzdSb3RIS3V6b3BvdUc0UVFaYnVNQmfSAW9BVV95cUxQWVJ5UkVkdWw5a3dFWDdsbzhsTllOV0NLRXlxek1rTlkxYW9aOEZnbUMyU0lBZWplZDItSHBIdksxOVphZUJHZV84QzQ4cjlWN3h5OHJkaVpfUnd3RTF2ejh5Tmp2U0lIV3RzRkxfaXM?oc=5">Apple 0-Day Flaw Actively Exploited in Targeted Cyberattacks on Individuals - gbhackers.com</a></td>
-      <td>Thu, 12 Feb 2026 04:53:30 </td>
-      <td>gbhackers.com</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNTkRkT0RDCH53bFdqUV9YYmM4WE91blBfT0xAzRXTGdMeEotZ2VTVl9LUTd6QVctMmU0RnBramo1VjZ4WTRsY1ZLQU81WUlncDk0TVpiSWlvaG9rQnFQNVh4WXhDZ2IwWnpXdGJ3TkFxeEFndmJXbUpzVDdZdDBOcVVMRFo4TWc1cEVrd3lDN0VfWWY1T3FOSUU3akFIa0g5NkE4dDUwb3lJQ1draFZpTnhZS1Q2VThzTVE?oc=5">iOS 26.3 update rolled out: Apple patches critical flaws, Bluetooth DoS bug - Deccan Herald</a></td>
-      <td>Thu, 12 Feb 2026 07:12:06 </td>
-      <td>Deccan Herald</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPMWg0OGQ4TlN6djBjS0ZDVXdCVDJqU1IyRlN0d1MtRXNEa0pFdU1VRUgyZ3RZZGg2QmxoWV94Uno0SVIxWlpiZkZtY05fYU1LT0tsQjBPZGxwRzVSRXlSMjF5OGt5TDVEX1AwbWZuWlhBdWZnd01ibncydGU0YkRuMDBoUGJ1SEQ2U3ZOQ2xqLXhyaTNOZkdPMlAyUGNuNDk5?oc=5">Apple Releases iOS 26.3 With 37 Security Fixes and Critical Patch - The Mac Observer</a></td>
-      <td>Wed, 11 Feb 2026 22:40:52 </td>
-      <td>The Mac Observer</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFd5YUI3Q2V4Tk8yMHNKQmVKd3U1NmI3X2M2dERrVnF6dEVvQWExWWFJSmZDMzZZVXp0X0QwYmowU0k2SWQxdFlXTzBhUm1GaDZSVzVPZTU5akJLMk05bzFCVmZBV09HTTF5cTc3QXNYSHJKTnVJUlgyeVNsbFhiT2Zqd2h6OFE0cVhnWG1sSjUzLUpOZ3hFckxvQ0p2VWRnbm50MUZZYnNjWUw1XzNBaUlGRQ?oc=5">Apple fixes zero-day flaw used in 'extremely sophisticated' attacks - BleepingComputer</a></td>
-      <td>Thu, 12 Feb 2026 01:06:05 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOekJhdW1FTGwvX1hZWFpqc0lrNWFFZk5rWnVTTF_5dWlDU2ZlVk5kSHdwV3JHcFRHWWlfUE5hR3JmeEVsdXYwQTdHc3RSVDBneXpmWHFkVGhyRkdoazR5UTY0QkFOZFJCSG1jRHJOc2pVVzJkMlBEMWF6SVJkckZzOFVuM3NSSUhnblJXRlVrOTJZdzhNY25wVG5PM3hfdU9DVUhDTzBQUXhBUC1GNzU4dVZ1OXNaQdIBuwFBVV95cUxPeDMxUDc2YzdOR1pEbE5OWTVSUlJqX1hCeWp2Zm1nN3JyR0JpX1pjY3ZZRDk2N3EtV1BMRTNxMlFCMV8zM2ZuSF9KNjJmb0lJV2pPOFVMSjFvdWtCam42VzJhSUt0ejFRbkZGY2lWb3JlTVZuUDVZcEQ4SUppSW00U3JhUmlhUG9tVEtieFI5Nzh3SXNGTjg5aUNmSmZIaWptV1l2dW1fb2llRlh3UFExem5SZVo2M3VvZWZn?oc=5">WordPress plugin with 900k installs vulnerable to critical RCE flaw - BleepingComputer</a></td>
+      <td>Thu, 12 Feb 2026 17:09:41 </td>
       <td>BleepingComputer</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3A5UDEzSmRQdXI4QUNWajdfTmxCeFpjUVhyVGI5NUIxTzdEcGZ4c0lxOWN0MHJQS0VlNWdYdGRndF83YVpVcmZDUzZBalVmUnhSMGlxUHNlMmcxRVA2d0RlSGZxU2t1S1BlblFrSWMwcnYtdFc2b2JxVzlZNUVSV21nUUI4VDNpSFpxYUhCeHpXYTBCS0JkNWJ3bENfLWR5bmxaTnRfdmRjMlZRQy1VM1dmeFFtYTJ6dk9B?oc=5">Apple patches critical zero-day flaw exploited in sophisticated attacks - NewsBytes</a></td>
-      <td>Thu, 12 Feb 2026 07:50:01 </td>
-      <td>NewsBytes</td>
+      <td><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fdG9UdnBpR0pNTHhkUEdibXIydnNCRExsWmNvTWRYUE9UX3hvWngtOVRZS0Z5T0RERUxYSmZDN0dDVFVRSTdHQkxGWUE3QVVsLTlpTVB1cEstVml2N0ZMY2dGUW9XZw?oc=5">Critical WordPress Backup Plugin Flaw Leaves 800,000 Sites Exposed to Remote Code Execution - Cyber Press</a></td>
+      <td>Fri, 13 Feb 2026 07:37:30 </td>
+      <td>Cyber Press</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUVuR1Q3QURSMTR3VjVtWFdSUjhZMDFYWjE0ZXlNLXR1NTUzSzNSSFVObDlOb043RllMZXVDSWUtQ2ZtaDBiT1pRUGJkV1hxbS11N2w5RWk5NmFnNm1oaDhuVElOMDhvdmRLWnAxRVkxOHZpSFpoc2lkdUtla1NaRVZTZEFkTHBaN00yM0t3WE1ObUktMERVQW5lT1dXN2tDLW1vOG4xMEVpM3NsZWdNWXFMbjd3N3I4eVHSAcIBQVVfeXFMTTkyVjVnVEJJNWRLS0pLWnVnLTI2Y0hScEV6aVBuZ0RueW03R0ZlV3NIZ0FCZXZMY1FScEVPQXFucmZQdGVVcnpTTk1jVUJNeldXOThrSVhYUTVVOEtLMmtrWHFING41S051a1RHTkE4SG1WRklTTS0xV2VEMmY1SGNtU01DLUNQLVBPRWVscVR6WUc4dVdWY2s1Tm5vai1SMUNGVTFlQ19JeHNGckYwdzd2R24zSmwtZzZDR2xZV2pGR3c?oc=5">Apple iPhone Users, Urgently Update To iOS 26.3 — 39 Security Issues Fixed - NDTV Profit</a></td>
-      <td>Thu, 12 Feb 2026 05:42:34 </td>
-      <td>NDTV Profit</td>
-      <td>High</td>
+      <td><a href="https://news.google.com/rss/articles/CBMibAFBVV95cUxQZ0VPLWJjN0ltU2EzOEVhOXpGLUpwT3VtXzhFNTRPREk2QjdPN0FCbHB1cE5mRGtuWmlsX29zOHcyS0tYZ0lWSmpzWGVVRWd1aWhfNWhOYUk5a3hubXJtWmliV0trQ2pqQVJsNg?oc=5">WordPress Backup Plugin Vulnerability Exposes 800,000 Sites to Remote Code Execution Attacks - gbhackers.com</a></td>
+      <td>Thu, 12 Feb 2026 09:33:45 </td>
+      <td>gbhackers.com</td>
+      <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOM2RTemUydS1JTnFEMDBIRHNUZml6VGxQS19EaTE4OGhyWHEzNERQVWJWTmtMS0JwSXdIMFJqZF9yQXVmc2UzOUxkOF9JMlQ4QW54MlZqX1ZzZFRzWDJZanYyS3h0Z1hVLUZrWXJqb3lxRElMZG1fQkZDVUxIZHhVakNHc3hjT3J0NGFjTXBxLWJxb1Z5OERuLVZuZktnYUY3c3pxNVJOQUdaWXdK?oc=5">Apple didn't forget macOS Sonoma, macOS Sequoia & iOS 18 on patch day - AppleInsider</a></td>
-      <td>Wed, 11 Feb 2026 19:07:00 </td>
-      <td>AppleInsider</td>
+      <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzV0QTExM2N1VDR2alRIcGd5OGYtZ2tUd1pRbzVFSU5ZMFhtVExVYWM4dEs0bzJHX0wzVDhfYm1IRlVIWFM3MEpTTWVONjdxS2xPSXU3elliU0oxbmhvUjhiZkNQZUlkU2RzSW55cnNaX245UUlnN09WODZQbzNRQzNsQU9SQ1lUUEdfeHhpMmdLWVFHNTQ2M1ViMlFOc3o4NFhfQtIBqgFBVV95cUxQUmhCYlJmNHZFeGhRYlluaW1lMkdaYkZUdHJmMEh2Z0RNZ1gtWTVYd08tY3c0TjdNcm4yeGxJdVFXYkZMRy03U2dhNm1YUWFfdkRzTlFTWl9VSlQ0UmI4MmFTREw3UWFPM3IwYUJBOHRFd2x3VmRkb0d2TWJrOVotWHNLWGYxOHBIRDhZMGc2ZFZQLVcyZ2Y1MTdmV0twcmV3dlhYd0hoaXZ0QQ?oc=5">Critical WordPress Plugin Flaw Exposes 900,000+ Sites to Remote Code Execution - TechJuice</a></td>
+      <td>Fri, 13 Feb 2026 07:36:58 </td>
+      <td>TechJuice</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TcnQwZFhyQzlNYnVTSG1vR3FrdmxwVWJiWVVwakVqRm14YzBCSEZrcTdibUdyR0F6dXBhY2xDa1dXTFZiamtUeVhwbnRHaEV0OTE3ZEYtQ3dQXy0tSlE?oc=5">Ubuntu 24.04.4 LTS Released with Bug Fixes and Security Updates - Linuxiac</a></td>
+      <td>Thu, 12 Feb 2026 16:23:55 </td>
+      <td>Linuxiac</td>
       <td>Medium</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxON2dKbzl6cTVsY05UbEhKdXBPSTNwb0hrb2pfR19raXNKd29EMUlEUXZ4MTRaQVN2Zlp1Q1BHX0VPOVpRcGNHSXJfOTh0aVduaHJ3LVNsUWlXZ2c5NWxBMXhiN0w3NE02enREbkdZUVdoN0dSdGNHdy1jTnpoQ3RjSU5yeFdqYy1ObVJXTDhIcEo4Znhyd2RSYndWN2N2c3NIYURHZGVWZXI3NkFCYlhR?oc=5">Apple rolls out iOS 18.7.5 and iPadOS 18.7.5 with important security fixes - Appleosophy</a></td>
-      <td>Wed, 11 Feb 2026 19:44:13 </td>
-      <td>Appleosophy</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE1KV3plSEpMdTRpdUNqZHVIeS0yeXlkYm9yVlU1QkVla291YWRqUjcyUVZSTlJLdW4zd3loQ1FxLTVZOFlzNGc?oc=5">Apple Resolves Zero-Day Flaw Exploited in Sophisticated Attacks - FilmoGaz</a></td>
-      <td>Thu, 12 Feb 2026 07:52:01 </td>
-      <td>FilmoGaz</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBNSm1oQTQzTXlrbm5CVThudWFYbHg1Y3l2WlBsSERRejk2SkliR3NfSG5CWU4xR0hBQ2tIb2VWcHc1dkUzbWlGRWpaa21TWXdVQmhNOGRNd284dC1mQ3JKa094c3hyd212XzJPRXdUQUVJZUF4R3pYME5VTQ?oc=5">Update Now: iOS 26.3 and macOS Tahoe 26.3 Fix Dozens of Security Vulnerabilities - MacRumors</a></td>
-      <td>Wed, 11 Feb 2026 18:51:50 </td>
-      <td>MacRumors</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi2wJBVV95cUxPd0dsb0RpOHFIYzhEMU82cElDWU02ZXhFU1VqUzQ2REpGbnJKdjZnRUNmVDlHaTNKYmNYeFV2U0lNRXlXWi00UlV1VmFDQUtuYV85NGdqWVI1SmRXclZRU2ZNZWpFa1VYcEVIdFlUZDIxdmhwazRId0RfTktlVkI1bjl2dnlUQ0ctNGg0UXBhT3RoTTVpR1UyZVB2b0ktQnBBRHJ3b2Y2cjdhdEdQbnlxYWpIWDA5cE9vMHNFMElScEZNR3c4aU55X3B0YTRJRlZqRXJTbEdNYTNPSUtZbGc5SEhvODhabTFuUlF4OXgwcXNSbVZpbzNSWmtrSjlvZlhyR0wwZzdGM2FKTWluODhndkpCdFcwTE5UX05vd0RBU1YzSXY2TXVvdFFEbDJTYTVZb29XQjdXd3BUYmtsN2ZSbXRYODllc2RrOVVqejZYSmtZOUs1bDJ4NGs4NA?oc=5">Cisco warns zero-day vulnerability exploited in attacks on IOS software - MSN</a></td>
-      <td>Thu, 12 Feb 2026 04:11:52 </td>
-      <td>MSN</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjNIQmF5Qm5ldkZuQmxnQ3doQ1N2bFVPdExXZzdIYWFSM3BTZGI4M2tUNjR0cGxnVG1LRWFLQXVHREJ6a2NEMm1Zb2k4VUxhMkF3UnhqRXJfa1QyRURVOWt6Q1VaS0I1czJGZWdaMjNEZkdCMU5LOW8zLVZNVHZQSzhzc0pWWkVhZVdOaXF6TlRxcFBFLVc5dmVPd0JNZFk3cWNheUhPdXpHSFRwSk0w?oc=5">iOS 26.3—Update Now Warning Issued To All iPhone Users - Forbes</a></td>
-      <td>Wed, 11 Feb 2026 19:31:52 </td>
-      <td>Forbes</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPemtzRWdwTkV5d1VKOWFDSFNNRG5BZ0hOUW5iaDhGOFE2NjkxUnotcHZNYjZ1V2NHdTd4SlIzMldBSUF4ZlVFejhmY0Y3cnRlcTFRcXU0MHFBVElLTHhqU2k1TXBBYUhSNDJvRmcxTjVhckc0LTcxZTdlRGFuVGk3NDQxY3Z2bTVYUGJTaVljNVYzUFBSYzdmV0l0TktLRm5rR3h4cFl5dFZBNTla?oc=5">BeyondTrust Remote Support and Privileged Remote Access (CVE-2026-1731) - Security Boulevard</a></td>
-      <td>Wed, 11 Feb 2026 19:31:25 </td>
-      <td>Security Boulevard</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE0taHBuOFIyZ2lZN1VpV1JGOWlZNi1qdjZtU2k0RWpTQXk2LVNJa0tlMkRmV1Q5azlWVFpabkJ3UnkxQ0ozZGE5NklZc3JXVlZPcTRvaThqb1lZRkRXdXY0SUtKb2s0RWpxZXpCb3BPOVFYaGtZS3JNZm1JT0TSAYIBQVVfeXFMUHY5djFfdWpVdTFWQk9ZbzlPdlUwQUl5aGszcDZ4Z19QdTNxVTIxajdBNmlETHZkMnZVWk5sdklYdENXeUplc0l1Q2JJWTRUcnhOV1dvdlRYRWVPdm12djFHUi00VGFpN3dIeTJJZV83ZzZTcU9PNkNOZ1FNNk02cWlOZw?oc=5">Microsoft Office Word 0-day Vulnerability Actively Exploited in the Wild - CybersecurityNews</a></td>
-      <td>Wed, 11 Feb 2026 12:57:08 </td>
-      <td>CybersecurityNews</td>
-      <td>Critical</td>
     </tr>
   </tbody>
 </table>
