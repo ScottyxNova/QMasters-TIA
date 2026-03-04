@@ -2,82 +2,70 @@
   <thead>
     <tr>
       <th>Title</th>
-      <th>Publication Date</th>
-      <th>Source</th>
+      <th>pubDate</th>
+      <th>source</th>
       <th>Severity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPOEZTandZMEhDVzhyYmpld21maFpVYTI2N1lMV1RqUEktVnBvU0M4aFlHTFhvbjVpY05LV2RvRW1iOVpFTEQ4YnpDR1hSWEx4MzZtcTZLazBVeGwwdDNnaHlQUGMtMnY0TDhhTHFSVW14STlucUw4VW92MmFyNjJSQlFB?oc=5">APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday - The Hacker News</a></td>
-      <td>Mon, 02 Mar 2026 10:36:00 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE0wSWI0eVZsQ3ZJYnBWR21VcjlJenIzdktaTWZ5SkhicDBYRVVzLXhiLUgyT2dCZllxRU1sUTZJYmtBVldfU3p6T0o1aldzSllHUFEyN1BVanN6YW45S0E3MHQ2YlBVSVNDZ1lJV3UzbVQ0WldyeVJpcE02N1J0REk?oc=5">CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog - The Hacker News</a></td>
+      <td>Wed, 04 Mar 2026 04:35:00 </td>
       <td>The Hacker News</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFVsYkhvVWVmTFFoUGhEUXFfUHY2TldXMlVpRDQ5Skg3Mk0xeEtWbVJGczh2dnIyMW1QR0xMdWYxNlBzakNnVHMxdEhxaEFuOVZYc3N0d0lfN2p0cFR5YkxJNl9DYzRCamlCNlh6TGUwRGRyVWgzcko5YjV3SnNwU096SUlDNXNqR0FuQjh1T1k1QnZCWm51cjhJLWlUdzlicG04QmRTbVdRUk5TT1RqeE5IVmRXdmZvbVR5OGh3RQ?oc=5">Russia-linked APT28 exploited MSHTML zero-day CVE-2026-21513 before patch - Security Affairs</a></td>
-      <td>Mon, 02 Mar 2026 14:49:35 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxONE9vTWwyV0JCLVRrQnNaR253ZGUwbUlTWDZPNmJmQ1pENlhrUEZnbTZfY194cDhyZU1FNkJpMkNva2l3WjVUc1JfREpYRF9kWTg0ckdOQUszQi1mM1NySktrU19VVWlTSlA4eWdQTWFIOUJuMjl5UlZhN1JpaVZGeWZxTUpobmY2NGI5a0lSeUF0ajdpNEVRQ0o3aG5zRUhDYlI4RUptQlpyYlpMdVBFVHE1SkpkYkxRYXc?oc=5">Sometimes, You Can Just Feel The Security In The Design (Juniper Junos Evolved CVE-2026-21902 Pre-Auth RCE) - watchTowr Labs</a></td>
+      <td>Tue, 03 Mar 2026 14:18:13 </td>
+      <td>watchTowr Labs</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNYktZWllSSnB3N040STB3X0lGX2s4RkpzTDJSY3RTYlJoWi1NQ1RHR0RBSHBILVhHNy15YmVZQTBXR0lVVGpfTkVuZllIclAyU2hMYkQtWjRlR0ZzbVRfYlhzOGZyWGFhUFBJdW5YbjdXVHhnTkNnMUlXb0RiQmdPbEZSMHY5QmJwNDdWemFzc2xHU2ljZHIwZ21jc044QzhfbXdPZ0swbEtQRWRycy130gG0AUFVX3lxTFBoWEkxbjhINndvcVJ2LWl0MU9MQTFtcW5jVGFoV19ieFJ3bWJEN1FkYUhQeXlTdWRzOFoxai11QW4zM05VWE85c3BGTmQtZFlNeHpxRjlLdmJEWktkN3Q0NzBHTjhmNk1zbEl0cXdnZDNHMmZDNGRHbm1jc2JqQk5ka05rWGVJQjg4U19FSEZrNk5RbDdYaHNvOUNmc0pHcmpkT25IMkQ3MkZkOEJDUWp6MHNHRQ?oc=5">Android devices hit by exploited Qualcomm flaw CVE-2026-21385 - Security Affairs</a></td>
+      <td>Tue, 03 Mar 2026 10:17:12 </td>
       <td>Security Affairs</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5QcjMybUROcjFUay0yVE1hRHdIQ3h2d1U3R1dTd01yYkJmSzhyeUktTlNLeTFhQzZpdjR4OXh0UGVqVldRbG93U0YtaDBzVGZZNTZoOEZNMWpzX0xDRjJWRVAzcHo2eml2SWZ0M1lsXzdKRkRVam5hUHNITVQ?oc=5">Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited - The Hacker News</a></td>
-      <td>Tue, 03 Mar 2026 07:08:00 </td>
-      <td>The Hacker News</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQc21xOWY4TW5LbDU5bFEzczlQeTFmVTRnTXU4THNXN1ZoM3V5eFBuMV9rOW96bjZzMDRVTERxNkNWRVVMZVc2WEhlT25YZmw2UU1KQW9LSmsyamR5alJZbVJkclpPcUthMkVQaF90ZUJvOUZ0dTdDWnlIbWRFNjVWTENzWGlMUXhCdFI4YmVrYzRYRW93Ni1PRWVjWFZsNlI4?oc=5">CVE-2026-3102: macOS ExifTool image-processing vulnerability - Kaspersky</a></td>
-      <td>Mon, 02 Mar 2026 15:17:41 </td>
-      <td>Kaspersky</td>
-      <td>Medium</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMjNPb3FEajNRZDU4MVFkTDN1bDNEWTkwZ3pOVElfZmhyUXU4Y1JUSTVEYXBNVFN6akstUXlfNVl1MHo5dFBGdXVlVjJ3SEdPMG9xR0dSTEtBeURKbVRMd1owbDVTY20xY3VZX1lDQ3NzRUxaSWc0eG9iS2gyQWItbnFtb25uR0g1NFB2NC0tMEdna0lvOFdYZFdTZExrcUxCRXNtWFBpcXVJdUE?oc=5">Vulnerabilities (CVE-2025-59536, CVE-2026-21852) in Anthropic Claude Code - BornCity</a></td>
-      <td>Mon, 02 Mar 2026 11:25:49 </td>
-      <td>BornCity</td>
+      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBfU1FRaU5wVFdkTHVlV0lSaVpqcWRqZ3gxTTFFd0VuelhZZjh6NTBRZGEyZUFpTEkzb0tqQm4yUmJpdW9HUkQ5VzdqR2VZU1pTbEN6c04xVHhsS_UyeUMyTXlfV0lWUklqb0F6NjNhUUxOYXpHUXlnU2dZQWk?oc=5">CVE-2026-0628: Chrome “Gemini Live” Side Panel Injection Bug - SOCRadar® Cyber Intelligence Inc.</a></td>
+      <td>Tue, 03 Mar 2026 11:29:58 </td>
+      <td>SOCRadar® Cyber Intelligence Inc.</td>
       <td>High</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE4zalVzOWlhRFFCUVRmZHhUaGE1U0pSaWMzNWtET2tPU09TMVVFazhUQV9mSVBMQ0ZmaGpWRWFENWxJU2sxdkpHRUhUZWlObHM3b3JaN1BtTDN4NmJONzYxWTE2cXc1eDd0Tm01X0Rrb1V3aWNjWGNN0gF8QVVfeXFMTnZrOVZObjFvVzE5Rm1NemJUMVE5N19oN2hLRjhfQ0VGRW5yeXFwSjFfejZQaElQeWRWWTAzRy1mRlA0azJEa29rcGt0U1FES2Roa09nWDY5WEZYaHdlWDFvUks2VkNwYzNUM3p3Z1g0Mms3MDltMFJseVBrQQ?oc=5">MSHTML Zero-Day in Windows Exploited by APT28 Prior to Feb 2026 Security Update - gbhackers.com</a></td>
-      <td>Mon, 02 Mar 2026 13:40:14 </td>
-      <td>gbhackers.com</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1LVWFBa3BpbFpOdFZMTksyNVRpVmNOZnpuZk1qWlJuVlBqd25UaG9KOS0wODFXU2NwS2JNSWVEU3J5amhmTkl5bEhGU3MwMUp3c2NENFdWeDNOMXpPeldPMk1RQV8xWEhTQ2xxSEFBaEtrRVpWeG82ZkM3ZHXSAXxBVV95cUxNS1VhQWtwaWxaTnRWTE5LMjVUaVZjTmZ6bmZNalpSblZQanduVGhvSjktMDgxV1NjcEtiTUllRFNyeWpoZk5JeWxIRkNzMDFKd3NjRDRXVngzTjF6T3pXTzJNUUFfMVhIU0NscUhBQWhLa0VwVnhvNmZDN2R1?oc=5">PoC Exploit Released for Windows Error Reporting ALPC Privilege Escalation - CybersecurityNews</a></td>
-      <td>Mon, 02 Mar 2026 16:30:09 </td>
-      <td>CybersecurityNews</td>
+      <td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNczJDV3BQTFNBT25ZS0FiWEJCMDNXVXpneFdWRmQ2T1l5ZERwNTQzRGVQRGFiZ21LVS1qUFBEcDBRV3ozcE1DcjF0WU5LaHpJbDRZekVhalhGQzc0RUp3ZEpyaE10ZWJvWDlFaWpob095UzQxRTN4M2FPQnZ6S2Y2dmpZc29HQXRPeGdCVGRDOEl2bzA?oc=5">Checkmk and CVE-2025-64999: When a log entry becomes a gateway - igor´sLAB</a></td>
+      <td>Wed, 04 Mar 2026 05:00:00 </td>
+      <td>igor´sLAB</td>
       <td>High</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHc1R29WVlZUSE5NOU1jTl8xdGp5dmFLQmZmR2FkTUpxS1B2OVViTG0xZkhIemtiZUhtWWlHTkdicUw2WFpDU1drMUlRVzRYNnhxVHF6NnBaOEtFQnVqS0NvbWg5Q01PT2FpM211UXFFWlJBTVZkZWtpTXQxV1NzeDd3Yjhsa0hROWRaVFBId18tZHhpS3EzYXg0R3VkWWNoSDlOelZVYU16LW9KenlhSUczQzE4UHpkeDlTMkpzTEpDRU1yc3NhTEd3bG9xQXhnVHlQSTRFX1pyTXdlSVpTb2U1MNIB6AFBVV95cUxNX2I2YTVBX1Q4b0FBRmI3VUwyMHVscEphTEhremVHaGhZWlVmcF9ETkRzaXF3QWpWVlBiZXUySUphbVl5R0JNWE84UWpSVGxjbzZrNjRud1hPaVVWdTVtdFR1V09ZRElhMDhKNVRfVmJCZ2o3ZTBfSXpENG83NjlzMkVwVkRaX2t1a3c3RFVuQlA1QmItR1lXSkJTbVBxeWIxOVc3WEZsNFRiemEyWUEzZ0FNUmozZk9yaEM3b3FXNUJmMkNKcnlpZWdvQ0F0T0d3R29SQWNHem5xQVowdDNKV0F0Z3lkUDEz?oc=5">Does Oracle-Linked Data Breach Shift the Bull Case for Madison Square Garden Entertainment (MSGE)? - simplywall.st</a></td>
-      <td>Mon, 02 Mar 2026 16:28:15 </td>
-      <td>simplywall.st</td>
+      <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOVW9qY2dVcktoZGtVelRNOHR3YjBoWlFyUTRaQUpyX0VmRkxJV3R6eXpCdjhVUzdoeDlQbEtlZlJ4UjBPblBqTWh3d1Z3bGctbFdMRlhFY21jeGFBbV9DOWszcTllbFdLRmt1Yk93UEhQYk01TllqS3RoUW5OV29Lb0FTODJSTEc4WXNOeU1ub1A0VVYyOGF5Z0NJRXRlbmpGOUw1c2gtcHdFT0NLX01KLXNMVWXSAboBQVVfeXFMTVNNbkNRQjBTY0ZIY1NVZ2htZkVBQ1huQ2s0dlFRS3FDcXA2S094eFhxYW0xallPQnZRSWVuQmtqM09IZjZaNjk0Q0VHd3NWVllfTjktQUUyYkotYzlLbzVsZmN2ZXJPeTZId1RWVGY1LW1mVFJJNmpfejR4ODg4M3R3RElSTGNXQ2lwNHNJaEhXWFVnYXRYazBEbUlfaTdfbkZVdnFnM1kyVi1QVEFETGxlRjB5ZkQyODlB?oc=5">CISA flags VMware Aria Operations RCE flaw as exploited in attacks - BleepingComputer</a></td>
+      <td>Tue, 03 Mar 2026 23:40:37 </td>
+      <td>BleepingComputer</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSS1vS2tFVVF5amNnWnZzcnVQeURKOEE1YWpKZjNpbkx0dmdISEQtT0lnZk1sNXBBQnZTanIza0RKWXgwQk5qbzA3M0hLQ2RMa0V0WWJBZ0VCbDMyZ0RSMG93cUVqMkcyNld5aHZBcHlFeHpvQktUdUYtWVI5NHpXSlYwQ0J4TTd1cl9RTVIyS0FONmtzZ1VXd2l6MHFyaUNJRDJrNVExRThYU0lfN2ZTZ1RxS1hoVUM1TFVBWjJhdExUOXRxUXM0WHVMZi1raUkzT2VQS0d30gHbAUFVX3lxTE4yclFjam56YzIxNDVzdDZfSDd1dTN3U19JQ0xka295OExnVEVDb0xIR0tvbDB1RGRhZjlSdWI0emplcDg0SDJvZ2VUSjZvdWlwb3lfZ3NNcF9Ia0tqUGN6UERzem40RnYyV21qMGd3bE1vT01HTWdvdlJ0WUZMSHhyRXVpcGVUNlJFV1dSNXhYMUpueTZ1TlRvSHdEcnNqQ1Nqa3UxUnlwdmYzU0FYV2ZVTV9HQmlQRmVpd0JCTFBDYUQtdTFaLUJuTkh3bWIwZ3A3MFpmSERzNUp4WQ?oc=5">CERT-In warns Indian users of serious security flaws in trend Micro Apex One - India TV News</a></td>
-      <td>Mon, 02 Mar 2026 10:54:49 </td>
-      <td>India TV News</td>
-      <td>High</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBDaGVkVGxkN1dtSkJsZDU4ZlF5NDZHYmd5ZGZJLUliYVNPQ0dFdmdlM0k5azc4S0syOFpwV3daZnBDWkEydnBjT0FDRzh3blBDN3ptNnp5YmxMTmlwZHlCNWRIaVJxRVh2OUpkYXhkQmFDdWVVMmloWHE4QmvSAXxBVV95cUxQQ2hlZFRsZDdXbUpCbGQ1OGZReTQ2R2JneWRmSScxSWJjU09DR0V2Z2UzSQk4S0syOFpwV3daZnBDWkEydnBjT0FDRzh3bnBDN3ptNnp5YmxMTmlwZHlCNWRIaVJxRVh2OUpkYXhkQmFDdWVVMmloWHE4Qmv?oc=5">Hackers Attacking SonicWall Firewalls from 4,000+ unique IP Addresses to Exploit Vulnerabilities - CybersecurityNews</a></td>
-      <td>Mon, 02 Mar 2026 12:26:49 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBreExJaFppNGRMdUwzS3ZUWXhyeGFQZE5xTG90SHVJbFNXREV3V0J5VHFKWFE0eVU4WDRteDVUQ3R6Nnc0dGxRNTFEcXdwX1lpQXc5UUhMcENObXNLdDIyTFd3SDM4SWo4SkZOOU9YQ0tEQ0dsejh3UtIBfkFVX3lxTFBSZmxkMjNDVzh3UmhqTTgwN3ZLblg5QWpuSGhIdmVPOTQyalJSYUdiR3ZDOHVqVzZhZGtnZ2o5VkcycmlPTWNkVHlHdFNZb0JfdGxyNFNVM3lncXhaMEgwUkdHdWgxa0kwZFZEc1JmYzY1TU94M1pvVW9CckdSQQ?oc=5">CISA Warns of VMware Aria Operations Vulnerability Exploited in Attacks - CybersecurityNews</a></td>
+      <td>Wed, 04 Mar 2026 05:32:25 </td>
       <td>CybersecurityNews</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBDODRJcXRyVwJnajlaSUNleTJSRDh3M2N1ZE0wU3JpY3QxcWFDcE9rSTA4MWt0Ni03LWROdkpWQ1dOS0NObjd4aWJlaVp4TDlMNVNVRXZfdnhuQ3JETkhwQTNZY1M1T3NkMWdFckhfQ0tSdlViNG1J?oc=5">Apple's iOS 26.3 Security Update Addresses A Huge iPhone Exploit - AOL.com</a></td>
-      <td>Mon, 02 Mar 2026 09:54:26 </td>
+      <td><a href="https://news.google.com/rss/articles/CBMidAFVX3lxTFBwM2ZyQlhHOVlFNWE0N0RrTDBSSlZ4VXdnR2lWYjFlSWI4ejFqQ1BRZ2RBTF94a01HVDF3OWJTTmVDZnU5M1VXbzI0YWdDLUNCTW9mR3QtSVFheGUwa2xNSHkzR1BESW5MTGNCa3h5SkJHcmt0?oc=5">Coruna: Spy-grade iOS exploit kit powering financial crime - Help Net Security</a></td>
+      <td>Tue, 03 Mar 2026 18:59:00 </td>
+      <td>Help Net Security</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMidAFVX3lxTE51c0J3bUpaUF9tbDN2a0NYRzFhVjl6Z0pyTmxxTy1ra1dnSHdPbTE4R25xamt3VGd3SnBNeXJsTFJxUFdRdGNxUGMyQXpWd2w4ZGhvQVVacnRrWWpRb1VtbnBjX2Q3Qk9qckZtT0RKZThJOWh2?oc=5">Possible U.S.-developed exploits linked to first known ‘mass’ iOS attack - CyberScoop</a></td>
+      <td>Tue, 03 Mar 2026 22:42:34 </td>
+      <td>CyberScoop</td>
+      <td>Critical</td>
+    </tr>
+    <tr>
+      <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBDODRJcXRyVzJnamlaSUNleTJSRDh3M2N1ZE0wU3JpY3QxcWFDcE9rSTA4MWt0Ni03LWROdkpWQ1dOS0NObjd4aWJlaVp4TDlMNVNVRXZfdnhuQ3JETkhwQTNZY1M1T3NkMWdFckhfQ0tSdlViNG1J?oc=5">Apple's iOS 26.3 Security Update Addresses A Huge iPhone Exploit - AOL.com</a></td>
+      <td>Tue, 03 Mar 2026 18:16:20 </td>
       <td>AOL.com</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSmFmZEVRSHBZMGdCQlNjdmQ3Smgzblo0cjlPWnpfeVlUUEZaYmpkTThEYmFJSFBfUElWaUFWTGx1aEdGR3VWbm9QRW1YbkR1X20w?oc=5">Hackerbot-Claw Bot Exploits GitHub Actions CI/CD Flaw to Attack Microsoft and DataDog - gbhackers.com</a></td>
-      <td>Tue, 03 Mar 2026 07:00:55 </td>
-      <td>gbhackers.com</td>
       <td>Critical</td>
     </tr>
   </tbody>
