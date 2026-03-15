@@ -1,78 +1,55 @@
 <table>
   <thead>
     <tr>
+      <th>Category</th>
       <th>Title</th>
-      <th>Publication Date</th>
+      <th>Pub Date</th>
       <th>Source</th>
       <th>Severity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBBajk0VjBxbmREbGRNUktXeDNfZVRTZ2VXanFjTVNKWGkzbzl6V1BjblNrOUdvUlVycXltZE1NT2RReGg3eUhUeDFEeDJLbG9YVl9oVTBhWThteXpyY1pRRGYzX0VhSUR5eWNiTlR5TFg2empQLWZNNGR3?oc=5">Over 1,200 IceWarp servers still vulnerable to unauthenticated RCE flaw (CVE-2025-14500) - Help Net Security</a></td>
-      <td>Wed, 04 Mar 2026 13:57:59 </td>
-      <td>Help Net Security</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9UR2N1Vm5venlJNThuaHEwS1Zzb1QwNHlyeUwxODNvQnlrXzJwemgtOVdTRlJfdHJjcnRsV3p2T0NraDJOOUNfVksxY2sxRzQ4RFZwTk16WWFaWTZfRWpEN19BME1uRmpMVjkwcGFVZHU?oc=5">CVE-2026-22719: VMware Aria Operations Command Injection Added to CISA KEV - SOCRadar® Cyber Intelligence Inc.</a></td>
-      <td>Wed, 04 Mar 2026 12:34:43 </td>
-      <td>SOCRadar® Cyber Intelligence Inc.</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDJWV1pTdmNoSFhGYjVUYTVfYUFpdTM4cDFGc0FJVGNfXzNPNUlEODJyczdCRnpLcGVCYUFyX3RrOEdmdDl1b19BemxJRml1SHR4d3Awdlp6OUZKX1pHS3REOXRKR2dMb19IdUJZczc2T1NQYlZXUmYyQ3RreE1GWVF3OUl4RzZjTG9Dcw?oc=5">WARNING: Cisco Issues Emergency Patches for Critical Firewall Management Vulnerabilities - LinkedIn</a></td>
-      <td>Thu, 05 Mar 2026 03:35:22 </td>
-      <td>LinkedIn</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmdVdTB1YzRTdlVHSmNhbTNlVll6cFVJbWxBRUhKc0cteko3MEMxLVRUQmZGdUcyY0ZzWEluUzlGSkRHb0dRVUFLTFNhd1d3NnBScTYwb2tpSGl0RzQ3RlhfQk12MmoxbU9JMXhVekJ0NkVKYmg0TlRxWTJiZkpiUEdWZXhQUFJFb2dNQUF4Q0Q2RWZ4cWtUVm5KeU5faS1Ib2wtV3MtZE9pVEJHSHFCQ9IBtgFBVV95cUxOWlpxOGRzZ25xRnFVLXlLLUJvSTA2ajlWY3RsUEJyY1h2MGFYZS1IMGY4Ykl6UGZaUTRQUGpmNHZfUkhpUTZJanRIS0thOTRPeHBSVkhmWDRrYlE0NVVTRm01cmQzbUhYZEYxWm90XzV6MXlPYUYxSW85UVlsWnJqa0VtOXNDSnVnREdzMWg5bHZTN0VPN05wY3NCZ1BjVnFxMjk2OXQ0Y0ZTMUc0ajdzR2RBY2ROZw?oc=5">Cisco warns of max severity Secure FMC flaws giving root access - BleepingComputer</a></td>
-      <td>Wed, 04 Mar 2026 19:12:43 </td>
+      <td>Windows</td>
+      <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2hQdFVDcTUwR3RzcVJoTkowak9JeGZTVDh4ZzJfaHhlTVk3UGtTQ2o3NFFzdGtVWHBJOGxTQVAtZXFwcjdVM1dBNGx1UlJMcTFIOUcxQmR6MjAzdXhIbnZzSk5ja0pVakM1aVNzVEltMDJMYmdSaVFWZF9fNkZLWDBpQnRWcldmbWRPYnNvR2FJQWVyOE9HQjdHOUhiM2lvOWxWR1JMMXJsLUY5bWhTUDdR0gG3AUFVX3lxTE5mV3U3cG9XTHpjclkzVWxrZ1E0c1kyYVQ1bG50V04ydlBBZzVqbHJhRG54aXJiM2w5RTBlQmlnYjJMSnFmNHc2TlV4My11R2hqVkhaY05xMmJObTdPZ2trZjRfX3l2c1R2RWVrUGlnb1l6aGxFeTNKdHJLS2VmVzZRUjQ3V0lPVW9RSXdMVllJZmF4eHFtZUVvM2hZZWJrX09sanBkLUtJYmhNU1RqTWotdFgzV0RoMA?oc=5">Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw - BleepingComputer</a></td>
+      <td>Sat, 14 Mar 2026 21:48:14 </td>
       <td>BleepingComputer</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQWHpwSXNZOS1EdHhzelZBMkNybWlfU29BVVctQ0hjRmVpbnVtcHFxQm1VYlRzZlBsdHFjOFhZWnFGQk9ITGtUMzl6b2g5WDZ1T29ITkNhWG1oVTFrZl9qUGU4bkI2ZFZBNFRoWlhTa096LUVpOXNHREZpX2FJTW14MkJ3VXBjbGFqQVpIV28xR0xlZGt6TVBKVk5xTnlGMDRNSExYcDVoSHFXNWpwZWVCNkRLYllrdmxxV29oWVdPTk9kS2lLaUHSAcYBQVVfeXFMUFh6cElzWTktRHR4c3pWQTJDcm1pX1NvQVVXLUNIY0ZlaW51bXBxcUJtVWJUc2ZQbHRxYzhYWVpxRkJoSEwrdDQzOTB3aDk0VjZ1T29ITkNhWG1oVTFrZl9qUGU4bkI2ZFZBNFRoWlhTa096LUVpOXNHREZpX2FJTW14MkJ3VXBjbGFqQVpIV28xR0xlZGt6TVBKVk5xTnlGMDRNSExYcDVoSHFXNWpwZWVCNkRLYllrdmxxV29oWVdPTk9kS2lLaB?oc=5">Cisco fixes maximum-severity Secure FMC bugs threatening firewall security - Security Affairs</a></td>
-      <td>Wed, 04 Mar 2026 22:10:06 </td>
-      <td>Security Affairs</td>
+      <td>Windows</td>
+      <td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQajNRTExJdUN4V1lKNmMtNEdkV1M3YjNKTGdFa3RFTHRBWlZwY0FzLWhkS1l3RDBadWFzZWhkWTQ5dERyZlN4dTQ2ZVdCRjJXUWI5ZVVwdFFxZ243dENHaUdyQzI1ajG0clpDOUhQam9CalZiOWljUzBSTTNqelZORGtKekpLalEwYzNEV1JBb1J2NDZpdHRrTEE1dE5JNnQy?oc=5">Windows 11 24H2-25H2: Hotpatch KB5084597 closes vulnerabilities - BornCity</a></td>
+      <td>Sun, 15 Mar 2026 06:46:42 </td>
+      <td>BornCity</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Google Chrome</td>
+      <td><a href="https://news.google.com/rss/articles/CBMibAFBVV95cUxNY2N0UWluWjVfZ2NZT1l3UDVCT3pZRDZoRExBYTA5UkNXVlhKczItVGh6d0lXLU5XanEtMjJsR2J5cHk1R3dGaTlmTHNqRG1QLWtudnlpTzJ5Q0lzVjJKN2pxczE1QlhJVWo1Rw?oc=5">Zero-Day Alert on Google Chrome Puts 3.5 Billion Users at Risk; Immediate Update Advised - The420.in</a></td>
+      <td>Sun, 15 Mar 2026 07:01:35 </td>
+      <td>The420.in</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMicEFVV3lxTE01MGdUaWE0NENsZHRRUzRnak5GTm1tUHJWamY2NnVvc0ZNbjJrNW1HTk5wUUZkQnZEbUZGayNWMmdHelBFUG9fdktpamhkeHVmS2lNbnNpX0hzWjRkeUV0VElNWGkyb003SkY3WmJrOTM?oc=5">CISA Warns of Actively Exploited Vulnerability in VMware Aria Operations - cyberpress.org</a></td>
-      <td>Wed, 04 Mar 2026 12:04:26 </td>
-      <td>cyberpress.org</td>
+      <td>Apple</td>
+      <td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTZKNlhKMkdHcldhZUZhcDRLT1g5Wjd5QlNKajgtRGNDTGNlRmszWmZROG9mYzN2dmRzMjdSQ2NOY2RicGpKNGxKcU95WTZRWTFCWDRLVjBIQ1NhbFV6R2lXeWxycWZnTUlDNDVnTXl4elMyRXVubEQ4MXlfUXFFWk5QbmNFTG9yYTBzVURIOVdXRzZPVUJndXQ3dnN1YlY1cEZB?oc=5">Apple Issues Urgent iOS 26.3 Update, Patching 39 Critical Security Flaws - 112.ua</a></td>
+      <td>Sat, 14 Mar 2026 19:17:13 </td>
+      <td>112.ua</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE04SDFreGxONE9vMXM4Mm1SeTVSa1BGMFk5U3BHc3hSNWlhU3gzU2QxUVZEcmJvSkZEa2U4aFlKYVNXS2VEYkx1VHdseXdOaF9HQXhwWHlxY3FNdXhwQ01yOEMzOVZXRTVBNlVvR19CeTZGdVpPRjNvenN3SDVDd9IBgwFBVV95cUxNZm5kRjZpdGZXR09WN0tUcDR2VmJIRjNwT0taQjlva3I2X0ZKMENKVDlYdXZMaTIydWZKY1FoYkZpamlxSjFiNkdWUEdNSkJxWTlHNUFLa1VQbHdpUUtFN2ROejJIY1BPUUJsUFhrbXFmUEJTOFlpUFFpNGNBVWtfaTRKYw?oc=5">CISA Warns of VMware Aria Operations Vulnerability Actively Exploited in Attacks - gbhackers.com</a></td>
-      <td>Wed, 04 Mar 2026 08:41:39 </td>
-      <td>gbhackers.com</td>
+      <td>Microsoft SharePoint</td>
+      <td><a href="https://news.google.com/rss/articles/CBMi_gJBVV95cUxPV2k2NmQ0TDlzckJ3YlRkaURNeGFVZHNPd2w2cV9OSFVVR0s0QUt2b0hBbEhUYmFtTHlWYTctRjREUUhiYmpGa2pwWmluSnpMS01HQUpmdXZNVS16RlQ0Q2o0SnlzZ09JaHBMeURDckpMSldrbGY4Yzd3UVM1azByWVhlTENLSGlockxDLUR0SFBGOWtUby1FR1Fma0ZDZEhfV0lCc1M0Ml9FUTlKYnNDU2lZSFAwY1JLMGlhX3JHV3lnR3M1eXhiOTJoYlZkNEtSRUFGbjJ5UW91azFDTGpSWWJBcnYwX3pwNkxXSzFTZklDNHpBbHJGUTVzSU5SN0haVHRpWjVoUXNrNU5TS2gxejVsYzJHcExmMmxkX19VWlY3Y1VVcjBwRVBGbDBJbldjNVRWalFxX1JYWThmNVBJaHV4RWtqQVF4cTlHc0hXaHJPSXZMZTBDVE1UMDlCcEdDOXFmQ29JVG1QYnBLajVGaW1JY05INzU5OUVnRVp3?oc=5">Microsoft SharePoint zero-day hack hits ‘tens of thousands' of servers globally - MSN</a></td>
+      <td>Sun, 15 Mar 2026 01:56:08 </td>
+      <td>MSN</td>
       <td>Critical</td>
     </tr>
     <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlJUcUVsVEdpT3VJbGlYZEpXNTNmTEVOcHNXZ1NDcXN3N01qU3ZTaHRlX1c3Ym43UnlPRV8xbDE4V3BSaHdwU0E4azBFckVSLTNiNUZkc2wxWjFLR3lCd3BkR3ViY1pZWEJMdWduZnlxbFBRN0VDa2M0VHpwRHV0bVotLURVck1SYk9KSWExZndlWTBu?oc=5">VMware Aria Operations Bug Exploited, Cloud Resources at Risk - Dark Reading</a></td>
-      <td>Wed, 04 Mar 2026 21:31:09 </td>
-      <td>Dark Reading</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzFmbUVFZ3hnd2l2a2taQ1ZyQ0t4Si1VZVJ1MGtIeS1FU3FMSWRURzlNajZrNGJhYzNyMnA5ZEdNbVRQU1kzTlpLOTdhWVlKMEFTeGd1b3NrVUZLTVBoVHJ6cGJBX2tCM1BxbGphOEN5MWNy0EXbjVSNlVKZTRtNjZCY1VtbEoxcFltS0YwTDlod2RJUVRLVzI2c0hBQnNUU1c2QlRqTQ?oc=5">Broadcom’s VMware Aria bug hits CISA exploited list, setting patch clock for agencies - TechStock²</a></td>
-      <td>Wed, 04 Mar 2026 16:47:50 </td>
-      <td>TechStock²</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2hSNGRlcDV3N0ZKeEh2VXNFdjJTMzNuejA0ZzNKSjJoTTByODZKd0UxdHpfWGpLRmRIdEpXT0ZPcHFxZi1fbFRiM2lmRVROb1M2MmhWN2FiaDA0alI1R05ZOWJiamJEcVA4aXYwTFpBaHBfZ1dIMUVLV2NET0N1cXZVMERqTlNxcnlKaTVQTGthSU91bnR4LTVvZERBM3puUll2eFJNbw?oc=5">VMware Aria Operations flaw exploited in real-world attacks - 디지털투데이</a></td>
-      <td>Thu, 05 Mar 2026 05:16:11 </td>
-      <td>디지털투데이</td>
-      <td>Critical</td>
-    </tr>
-    <tr>
-      <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3J1Y3hrS1ZpcG1fXzMxcjZHbmhtdEdvVWlMRk5GdUdUd19BZUpwLVpsSlUxOXRGN0llRnhVdnFQMGtja0ZpQXNhQ0JQTGN3bFhadVQwZEEydmVzLTZ4b2pJZm90VG5FcTVyY0tCZTl3aG1jT2lIR3B2LXhfUUV1dGQ0UUI0TFhY?oc=5">Coruna Malware Exploits iPhones: Update iOS Urged - 조선일보</a></td>
-      <td>Thu, 05 Mar 2026 06:48:04 </td>
-      <td>조선일보</td>
-      <td>Critical</td>
+      <td>Debian</td>
+      <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVl2aVpLNExZMWsyZDR5NDh0dDJBaUF4LWxXMlFsOWVQdGhxTWV5RlBIaGFiMVFzRUZDckdXTFlpcHNrX2dWcDFidGxYUWNoVmVTSmpEWnpfRmlVS1Bvd2lESk1OVjJWV2ZDSUtKclVqSi1fY0gtYWJHM1VQdGYzN2dxblU4UEtRMWJNQmQ2elY0VE1BRmRB?oc=5">Debian 13.4 “Trixie” Released with 111 Bug Fixes and 67 Security Updates - 9to5Linux</a></td>
+      <td>Sat, 14 Mar 2026 15:40:32 </td>
+      <td>9to5Linux</td>
+      <td>Medium</td>
     </tr>
   </tbody>
 </table>
