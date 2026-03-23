@@ -1,50 +1,56 @@
 <table>
-<tr>
-<th>Title</th>
-<th>Pub Date</th>
-<th>Source</th>
-<th>Severity</th>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3c2ZmRfYUlkMC1vcl9zWkF2WDFnb1JWWWppMlpCNEVCcVlNbzRZaGtJdHNaRXZ6YVE5Nm1SZkc4cWZHT2lXOGFVYmlQZWktRlduZmN6SlBocDdNX0hLa3Z6WllPQkJfUEpMUFc4UnJRLXNRelloUGgtWWVuSEg2N01LMA?oc=5">Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager - The Hacker News</a></td>
-<td>Sat, 21 Mar 2026 10:24:00 </td>
-<td>The Hacker News</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9EUnJQMmxWNDV4SldCYk96TGdjRHk2VV9aRDdxVDJHTUtQNWU4SlRJNlJmRV91ZDZMMWcwbXI0NHY5bGE2VG5tMzdjVFAtNlNTWmtXdk04RG52SjluUkdpU2VOZUNLX2lEUmdTZW9maGxfVncydGl2bzdFMzktbFE?oc=5">Oracle Releases Urgent Patch for Critical RCE Flaw in Identity Manager and Web Services Manager - cyberpress.org</a></td>
-<td>Sat, 21 Mar 2026 09:27:17 </td>
-<td>cyberpress.org</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOWG9tZkVYQi1SRVNmSEZURVhlVDFUVU82ZGVram5GTzhLY0F1UEdFMEduSWxuZXo3cXE0YVJOWVdfaUtjWnFibzZRcy0yclhEaEV0akx3d1VkQmdURjBYOGgyNEF3OU5nWE1tdWdSYXpnYkRtMGx6WmlaQ051RDhtWGZXWmNqX1RYYi0tR0NkWjdSUG9wamRzVUprWnRfVkxLOVp4eWlKVDhKMVgzdGM4VnhHXzF1VGpvZHZzQw?oc=5">Trivy vulnerability scanner breach pushed infostealer via GitHub Actions - BleepingComputer</a></td>
-<td>Sat, 21 Mar 2026 17:30:41 </td>
-<td>BleepingComputer</td>
-<td>High</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWRycHZUVTJwR2owSzZGX1NGcy0xR182OVhRUFp2NUdlV0d4aGt4a3hoRWRLTjRCaHhiRGRoSldrekdIZ2FvM3phOXN2bVBCUUF4dEczQ2hZZldpRXpVX3pUUzZvTnlmNDZPNW5ub3p1d19fNl9yYTV2bzEyT1VxV3ZSelNZZ3ZUV2FXdQ?oc=5">WARNING CISA Issues Emergency Directive For Critical Cisco Firewall Flaw Under Active Exploitation - LinkedIn</a></td>
-<td>Sat, 21 Mar 2026 16:00:03 </td>
-<td>LinkedIn</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdVJlallCcVQyVEdncHVIbWstRXlqMHUyQzN2M3oyYW5lSWN0TUVJWEtxU3UxZzVJYjMtbGpRSlFxYWNvNFhfNnBydEJvN2JieXo4XzU3RWdlb19kUzFEM3p6Z2tCRzE0d083OTJXVnpCbEpWbHItT1pmd1dNTmJyOUZhSGdxcW5KamJHVnBJLVhielZWTzUzMFhDMW5ES1ZaUEhvZV9OUXNuNnBxdGZpRjNMTER1TG5wVTRYcEE2MGNQQnpsVUgzQndIc3BXX190RDN1bVNsclJjMGVJaUw40gHkAUFVX3lxTE95ZFkwNklBNUY2ZlBTelFGdXNMRnQzQ2dlUktnZGN3bDk2dVVWNHQ1NkZtNy1MSnRGR0RCb3JXRjQwSnpNNV9YOTN3aFdVeVdBSTNvMUZsbHBOSmo4YWJpUndfbnowcHhveFhoREhJUmRCVWJ0RG5JTXJISVg2UjJ0OWpELVJWVjlwNGxZQjZUVDg3aE5NQmhpVHA3QkhlTEs4dGwwbGEyQVZWdmtnOW1zd0xXSmNldnRqU0x0OUZGbDExNkZQZ0paS2p4Y2JEU2F3b0ltVkpkblRKR2dOYlh6WGRyVg?oc=5">NCSA urges immediate iOS updates after Apple warns of active exploitation vulnerabilities - Qatar Tribune</a></td>
-<td>Sat, 21 Mar 2026 15:07:22 </td>
-<td>Qatar Tribune</td>
-<td>High</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm1Cc3lrRlVUZFlQMGIzYVh2S2U4cmMtXzl4NDJoWFNMODdMZzlLRjVDNUdTLTYyaGFhRm13WGFWRklDcXR2UnJaeHJVNFFFZFhEbGl3Z3JFR01JcE5vU1JpWUNndmxvbTkzb1R4aThfM2Q4bDBNSFVqLTFhSE1UOUthb1FLdFFHMFlWaUc1TjZoR2I1Ri1SaW5Ub0NNeDREekpzdTBMZGN2YkJEa0tjNmFFbDlUV0FKS0F6V0hiVzdLTnAyYk0w?oc=5">Apple warns iOS users to urgently update their devices as new hack emerges - MSN</a></td>
-<td>Sat, 21 Mar 2026 20:07:14 </td>
-<td>MSN</td>
-<td>High</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOeU5fVHk0YUdfcmZlMzJ4N0dGdFR4QjBMUEdRMkx4WjlnQk5IT1dEYTM4SXFtRGJmOVNUaE9WLXBnLXg2QVA2SHJUNlhoOVd5M2o5LW1IMFppUjBXdVRWV1VDYkNvVjM1SERCTEZveHFxMS1GdUVsaXlsbjJyaHNzanplenYyNlZCU1RpMmQ0Mm0xWTl5SDMyY2haM01lOU1ZY0hMNFhiT2xhYmdoXzJ3V09R?oc=5">National Cyber Security Agency urges iOS users to update devices for security - ILoveQatar.net</a></td>
-<td>Sat, 21 Mar 2026 13:59:00 </td>
-<td>ILoveQatar.net</td>
-<td>Medium</td>
-</tr>
+  <tr>
+    <th>Source</th>
+    <th>Publish Date</th>
+    <th>Hyperlink</th>
+    <th>Severity</th>
+  </tr>
+  <tr>
+    <td>The Hacker News</td>
+    <td>Mon, 23 Mar 2026 06:15:00 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNM09ucjUxWWxtcGxtSk9DS09QeV9UeUVrMmdpNVZaN2E5bUQ3aTRZQk04OUFjb3gtYkFfSTZYd0ExbGZFVE8xZ2hMalgxRzNaem1OclA0aUpFNWN1Y0N4MVRVR0lDaGxzWFJsdVE4WU5XZ2p1MHRoV3ZjdFB3VFpVSE9kSnM?oc=5">Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems - The Hacker News</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>Security Affairs</td>
+    <td>Sun, 22 Mar 2026 15:42:10 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTFuSElkT1h4V0ROekZmMEV4YlNDdjJOZEMwUVowdDlFS0dDSWJQQjIwRDVFOEpCcXg1TnotSjJKXzNYc0dsemwwMEFsc3pZS1l3WWFPYWQyT19qcHRaUW5ETHE2THFVcVVMQnVPUk5ReUdRTTBrSXBWeG9XV0ltVlJOUUlzSlg4TGtWMjNJZWtQTTUzN1N5eXdCSVFZZ19iZkhKUERfSmszb0NYaUhVNXdJR2XSAboBQVVfeXFMUFF0N3J2cGNNVFNMdEVGSlZfd2QwVzhvTHRsTmdGNGw0Rno3S1lfY3NRY0R0M2E2am52ZHZRaWtXQ250eGxSRFZvYzZFLUt1VlZtelk1aE9GMjFtM3RKQ2lkclE3OEJ6VVhHMXFGZElHSS1XcXE5d1c1VDZ1elVhRGgxS2ZjR1VQbGxleS0xcS16NE5EUThaeHVGWkNLNEV2a2JpcjJEaWdjOHhncjNhRDdET2RRV184eHVn?oc=5">Oracle fixes critical RCE flaw CVE-2026-21992 in Identity Manager - Security Affairs</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>MSN</td>
+    <td>Sun, 22 Mar 2026 14:27:28 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOaThxLUd0WWJUd0FfY3ZwZFlSRmFEaFJGUnFGYldTTTUzcFJPMjYwUlJTb19CTHZ6a09KdjU2UmtHakVOMlVoUFlweGxlR1RkajJlZzBYbjhMLVBDZDRSSzN3b1Y4X1o0T2N2cEhGUTJwQVlOSmctQjhaZDlTRmF6TThEbFFZVkU3R1kya1k0SC1EZjdjZ0txeURvSTJGejFpUlVfWGE1X293U0pKdTlnbzhmNUkzMTFrekhFeURDNA?oc=5">CVE-2026-32746 telnetd flaw enables unauthenticated root RCE via port 23 - MSN</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>SecurityWeek</td>
+    <td>Mon, 23 Mar 2026 05:34:43 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjc4MEZsTG9QT1J5M1JheWhxdmhXb0hleE0wWEFRYzRleWdMLXFBZWk2ZlJVa2xRYWFWRzlfYmJCMFRVd0FJNC1yMmlETExFcmNjMzZ5TzdnaE5OeXlhbWVWSWpQUVQwOTR2VXNFMk1fanRLalNaRXNKbjh3LXR3MkNFbU9zb1M4dWFXRzVMS3JYbXk5LU9wT0RhYzFkNXV6WExud05TNGnSAa4BQVVfeXFMTTh4RlJETmFyRzNTdWRabTdoWW1MOTVMZHUyUDF0Y0hMMXRQOHdjX3czU1psZ3hqUXpFODBlaHVkR2JhbG5HNXBQeTJzSGpkTk9FYjlKRFl1YUwwbnI2N1JLNXhhTU9udWJhUE9QSEF1a1FJRGxXUFdRSUdzZGJhUmhHTGNCT2lNVHAyME41RG9oVTRua2NadHE0TGNjQWNNS3Y0WWZDVzVJQV94TlBn?oc=5">Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability - SecurityWeek</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>Sun, 22 Mar 2026 10:00:02 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFVBMzYwVmZrcEUxclIzTmdJWW1aeGJjZTBzd3RSXzhIRU5tLTRPMmtiYzBYSU1TVWRMdUhERnR2QjNTcUI0bTc2OTVFYzlJQURqeWcxVllfaEZMNGhWWjA1LTFlam9OTEppWHlGZW9UTGFRLXBrSTI1LXhqV0thMnJ0RkZBaFYtTVl6cA?oc=5">Oracle Issues Emergency Patch For Critical Identity Management Vulnerability - LinkedIn</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>CXO Digitalpulse</td>
+    <td>Mon, 23 Mar 2026 07:54:36 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0tnbWw1TVBCd1dCbVI3RjdqS0pUbkxzVV81WmR6ZXJJWkgzX2JYQnJ1YVBTTmRSVGlKYUpJcG8tMk5PYzh0S2hFRVNWOGQxZ3JpcERkS3I0bVdjakxfLXpZRlV0MEN6MkZaemxJVUZTbmJlUUU2c1ZiYmJGQjEyZW8yRDhoWmZMTGhaaU5FX3RQMlA0WVMzUmt4MVFuT0doaHBPM0VaMmtFdw?oc=5">Oracle Issues Emergency Patch for Critical Identity Manager Vulnerability - CXO Digitalpulse</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>VoidStealer Malware Exploits Chrome Memory to Extract Encryption Keys - Windows Report</td>
+    <td>Sun, 22 Mar 2026 18:42:24 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFZRLXE5X2RjNUNQZFFzQkEzUTA2SUNsQ3VWZ1FpUElISkRoVm1mdkk3U1VOYVJOY0NCMkluclgyQVM1RmQ4ZXhzVTliR0VxNWw0czJoOE9XRmNWQWh5TkY2MUZHaFgxZm9DNk9CRVZVaDAwNWNHNEtnV2ZmdXQ4dFE0VXJOeTRhSXp4S0h2X0ZWZ3I1OUJTQUlQZUw?oc=5">VoidStealer Malware Exploits Chrome Memory to Extract Encryption Keys - Windows Report</a></td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>MSN</td>
+    <td>Mon, 23 Mar 2026 00:37:19 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMiigNBVV95cUxPd2w5VDhRV3h6LWxkWlRKeGRHbEZyU1BRSW1CdFhuYjFHMkw1RDFwNUZWa2tKcTJPTXV3b3ZuRkxSaWlGa0JpWEdPLWhPT215T09veGoyV1BwcERJM25ybWpGYWlScHZRVTN1WnFobjUwSHNUN0QybXRGYTZRUXVhWXl4VWEyb3NoOEUyQmhvR0R4WFczUWNIaE1va0JBZ0UyNXlxTGVvTml1RDdsRVZnM1BrbEJ1RGZCWXlBVk9pX1haUVV6dXVmQ0JreHBzVWlJM2lhdXdnc21uRVlONWt5NzV5T2FvTE1mUlZ3V3RzdnZJcUx4TzBlNGxyUGRzdG5aVmV6TkVZaWRMd0NNclRld3paeVozZE1MUXNnR19nMGU5SFlzTDJ6SEJwQnVWNlJjME5qT2d6ZnhVa1hVRm0xRXRERGhiM2R4R2FvcU5KdzFNbFVlRElMcnpGWlBWWE95RWVidEQ2cUhzdnRHNzk3akU1Z2xPZEJ6LW9ySFdxbVMwVWJWVmRWY2FR?oc=5">Apple patches DarkSword iOS vulnerabilities used to steal iPhone data - MSN</a></td>
+    <td>Critical</td>
+  </tr>
 </table>
