@@ -1,79 +1,86 @@
 <table>
-  <tr>
-    <th>Title</th>
-    <th>Source</th>
-    <th>Pub Date</th>
-    <th>Severity</th>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHNNMGdTekc5ZFlwTmZGVU9WTlVTVHZlS0xFNG9SOVA2azhRdTN3ZkdydmpOSllYVWVXOFFicDJDNnJuN2twcW1ucXZDWTVKNElvQ1FrNm53RHVGYUNaZHZTY3ZscXY0eEh6YUpDUWh4YVlmaUhUX0RXTjItbV9hUXAyajYxTEtSU3Z2NGVlSkZBeERqekpxdTlqOUJFVDI2akU2YTNPbmVrZTI2aE0wcmxGdk0yenlLMVVOUW1pNnBSWjdpSEE?oc=5">News - Infinite Campus warns of data breach following extortion threat targeting Salesforce account - teiss</a></td>
-    <td>teiss</td>
-    <td>Wed, 25 Mar 2026 12:04:41 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNellucG9VaUxWYk9jOFlDdW1sTHpzdmllQkZ1clBmdEcxaHhNSC1TZW91N3dfLVRRSkxXb1IyS3RIeDdVS042amtSaXozQ0pYVXZtaGM3djNYemZ3OEhFUDByMkNoemNfUU1sZW9pWEtjNXp1RmdhSEFtNzkwRzdTMjlGbjlkWVVBVTNsM2ZYN0x1Ylp4UkN2cFRhU2gwZEJvcDR5WldWX1JiVGJRa3pyWXZR0gG3AUFVX3lxTE13T1p5S1V4N29lSTQ5a19QTEJ3NW9UMTQ3T3FXeXV0Ui14dlZQQUZZWmdLZVRXTmw2VHR0RFNZY2lyRW4yOWhoSWxreGFuY2c5Q0YtQ2N2Vjk1M2J1ZXpNeGZkenIySE1mVGxKWXk1M3k1ZEVwWmc0OUFSYjI1YTlIOFBBSDJFbHlyVEJuWEFiZ0VjcEpGdkk0dmQyeXJiQ0FCc0lubW5tSnhzOUFhbndhR2hPUG1yQQ?oc=5">Citrix urges admins to patch NetScaler flaws as soon as possible - BleepingComputer</a></td>
-    <td>BleepingComputer</td>
-    <td>Wed, 25 Mar 2026 15:52:10 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWU2T2hER0h6VEw0NUpCY2dsZ1N1Ml80VnAxWVNxY3FxZ0lBUWZQaGlsRS1QNmhVRmxPT3V1Z0JLeTNVR002eEFlb3BBbEtLRHpDWHZVLTh6TFFjQ2xvRHpNdjM1UFZNd2dmUXREbjdmcXR5bDdQUDJjS3ZyQ3JxSkpqUkRZQjdNVDNr0gGQAUFVX3lxTFBodjFYVkdtZlFrd2tSNjVQS3ByRVhRc3FKcG5wS0VTX2o2RGhuYzQxM1AzT2J5Rk1rd3lJS0l6b1JrTjFsQ1NVNkg2MXU4eDVZUmFNYW8zbFUtRFBhQThacjV0VktYeG1YaHA4RU9lR083M3pFQlVfTU5aV3lKak5wT0s3SmxwSnhiSGhvcGdJWQ?oc=5">Node.js Releases Urgent Patches for Multiple Vulnerabilities Exposing Systems to DoS and Crashes - gbhackers.com</a></td>
-    <td>gbhackers.com</td>
-    <td>Thu, 26 Mar 2026 04:40:34 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbEYzVC1kamNaSkEtektrUFhjOGVMMWdLcGFJQ0N2OHctTWozU2FtTGVidERuQ2Fpc3hXTEs0eGZ0OUFxQWg0MjFIMm5mc2NxV29Tb250Vkl2UEFXWThVaUNSQzYzOHBMNzd0c2FuZ0pIbGlsRGs0WXg3a9IBgAFBVV95cUxPT2I4Z1duVU9zMWQwRjVsUC16UlhIRDBNY1lxM2QzRkZjbkx5VnBjbFNaS28xQmZhT3lHMk5qV21IeDBlbWJsNzlsUVFEVW02SmI4SEFzU2JGamJ6X2MtdUlYM3lOZnVMZ1g5N3I1WnJ0OFQyNzZJNmRfdFFtSHFERQ?oc=5">Node.js Patches Multiple Vulnerabilities That Enable DoS Attacks and Process Crashes - CyberSecurityNews</a></td>
-    <td>CyberSecurityNews</td>
-    <td>Wed, 25 Mar 2026 15:41:26 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1fLUxrR1ktSVFRZkpQVmdWTFRvQTF3TW83OE9PRXprX1RtSDl2bFdxTlVtcWxUR2w0b2g4VDFkSTJqU3pqX3VKcmhNVzJGUnY1emlhdGFySjcteGJ6R09CWVU0U29SUVBJdWUtTS1zRy1IQVRjYWlzVktMMzE?oc=5">Hackers Are Actively Exploiting a Critical Microsoft SharePoint Flaw — Patch Now - cyberkendra.com</a></td>
-    <td>cyberkendra.com</td>
-    <td>Wed, 25 Mar 2026 19:02:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNWi0weEd5eXR1ZFdudjZTaFEzOUZ6aFdib3RCa1NLc01lRkhtMU1ZMnZpZ2ZlUXFHWkhoMXNjT1ZxaC1wTEZVQWdmOWxpSGMxZzQzNFdDRGROT2VWaHUyVERjVFBnUUtTSWpDQ040MlhrZDQzUnVVbmR2QzZ0MHZ0SW9TNTBXQzFwT1VZZ2NR0gGOAUFVX3lxTE1aLTB4R3l5dHVkV252NlNoUTM5RnpoV2JvdEJrU0tzTWVGSG0xTVkydmlnZmVRcUdaSGgxc2NPVnFoLXBMRlVBZ2Y5bGlIYzFnNDM0V0NEZE5PZVZodTJURGNUUGdRS1NJakNDTjQyWGtkNDNSdVVuZHZDNnQwdnRJb1M1MFdDMXBPVVlnY1E?oc=5">iOS, macOS 26.4 Roll Out With Fresh Security Patches - SecurityWeek</a></td>
-    <td>SecurityWeek</td>
-    <td>Wed, 25 Mar 2026 13:35:29 </td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGFPQjZvUGkzS19GTk03NGVnVUNWRUxRc1dZSHlsUExITmVlUDhxUVUyakZ0Z2xFT0FyRlNEQ0lJQ25pTG1OY2NPbHg0cDRBSFVXLUZZdzAzSnM0T2hWN1ZkS0RUbDZNV0xsekRwalBCZmpxa1IxM05vNU9penY2VzZjN25DRThBcEh1Z2x3dw?oc=5">ClickFix Campaigns Targeting Windows and macOS - Recorded Future</a></td>
-    <td>Recorded Future</td>
-    <td>Wed, 25 Mar 2026 09:21:18 </td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5fbEYzVC1kamNaSkEtektrUFhjOGVMMWdLcGFJQ0N2OHctTWozU2FtTGVidERuQ2Fpc3hXTEs0eGZ0OUFxQWg0MjFIMm5mc2NxV29Tb250Vkl2UEFXWThVaUNSQzYzOHBMNzd0c2FuZ0pIbGlsRGs0WXg3a9IBgAFBVV95cUxPT2I4Z1duVU9zMWQwRjVsUC16UlhIRDBNY1lxM2QzRkZjbkx5VnBjbFNaS28xQmZhT3lHMk5qV21IeDBlbWJsNzlsUVFEVW02SmI4SEFzU2JGamJ6X2MtdUlYM3lOZnVMZ1g5N3I1WnJ0OFQyNzZJNmRfdFFtSHFERQ?oc=5">Node.js Patches Multiple Vulnerabilities That Enable DoS Attacks and Process Crashes - CyberSecurityNews</a></td>
-    <td>CyberSecurityNews</td>
-    <td>Wed, 25 Mar 2026 15:41:26 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNWi0weEd5eXR1ZFdudjZTaFEzOUZ6aFdib3RCa1NLc01lRkhtMU1ZMnZpZ2ZlUXFHWkhoMXNjT1ZxaC1wTEZVQWdmOWxpSGMxZzQzNFdDRGROT2VWaHUyVERjVFBnUUtTSWpDQ040MlhrZDQzUnVVbmR2QzZ0MHZ0SW9TNTBXQzFwT1VZZ2NR0gGOAUFVX3lxTE1aLTB4R3l5dHVkV252NlNoUTM5RnpoV2JvdEJrU0tzTWVGSG0xTVkydmlnZmVRcUdaSGgxc2NPVnFoLXBMRlVBZ2Y5bGlIYzFnNDM0V0NEZE5PZVZodTJURGNUUGdRS1NJakNDTjQyWGtkNDNSdVVuZHZDNnQwdnRJb1M1MFdDMXBPVVlnY1E?oc=5">iOS, macOS 26.4 Roll Out With Fresh Security Patches - SecurityWeek</a></td>
-    <td>SecurityWeek</td>
-    <td>Wed, 25 Mar 2026 13:35:29 </td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQdldnSTg5UTQ0djRUT2NYRzBEYzVCY1pJMGMyYzNPMG1RZkhZRmhFdTN4MWNqUTJNcnpoQ3BDWUw5YmY5cnNqSXV2NFRhUU4yLVY4Uy1mM1h1WjdXaFZFU2NMbGtMSzFtRVhWLVdGb3YtWTdpZDhFMEx5YWRrLWRSSFlpTGzSAYQBQVVfeXFMUHZXZ0k4OVE0NHY0VE9jWEcwRGM1QmNaSTBjMmMzTzBtUWZIWUZoRXUzeDFjalEyTXJ6aENwQ1lMOWJmOXJzakl1djRUYVFOMi1WOFMtZjNYdVo3V2hWRVNjTGxrTEsxbUVYVi1XRm92LVk3aWQ4RTBMeWFkay1kUkhZaUxs?oc=5">F5 NGINX Plus & Open‑Source Flaw Lets Attackers Execute Code via MP4 File - gbhackers.com</a></td>
-    <td>gbhackers.com</td>
-    <td>Wed, 25 Mar 2026 11:07:38 </td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEZDak03ZE1tcl93RWgySVl2MFh1MnlQVkMwR0RPUkd0eUpJTy1sUXlvREZ0NDlURlhfUDdhbDlkUE1xRGhISWhCZEFmQlZWdDNxZ1FqX1lFeU1MX0M3SWgtUWVJ3WjBUTmk5NnkyTGxlTHZULUE2ZTB5TDRGalRVajMwdWhpQ2Z3?oc=5">iOS 26.4 has fixes for 35+ security issues on iPhone, details here - 9to5Mac</a></td>
-    <td>9to5Mac</td>
-    <td>Wed, 25 Mar 2026 16:24:00 </td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczVUSFhrcEsxczZqcFRadW5oSTlfYkJ5UU1QUXBkTjRpRTI0OVZwTE1tbzVLdkhwMEhBSDlKMzlQdTl6SVhVek9UZkR6T2R0THd3OWtGa2J0U1ltX3d1WEcxWEFfRF9jSXRLYXE1RlFBb2c0UVhsY2lWZUxlV1h4Z3RpV2pKbDZvNXFDTk9nYTNjZ2V6SGN6aThmZ1JzQUlaN1diUWFESXl0UkU?oc=5">iOS 18.7.7 Update: Apple Fixes Dangerous Security Bugs on Older iPhones - zeera wireless</a></td>
-    <td>zeera wireless</td>
-    <td>Wed, 25 Mar 2026 17:10:06 </td>
-    <td>Medium</td>
-  </tr>
+<tr>
+<th>Title</th>
+<th>PubDate</th>
+<th>Source</th>
+<th>Severity</th>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE54LUlXNlZ0MG5uRFpiYl91cUVuTDZpRWRTM0tLRFQxSUJTR2NoYXZXakJ4RGQtNUNZcTRuUHJ3MTh3a1JPZmxZWmM5WmVINmlDT3dCNmFuN2ZHV1hFUFM00gFfQVVfeXFMTngtSVc2VnQwbm5EWmJiX3VxRW5MNmlFZFMzS0tEVDFJQlNHY2hhdldqQnhEZC01Q1lxNG5QcncxOHdrUk9mbFlaYzlaZUg2aUNPd0I2YW43ZkdXWEVQUzQ?oc=5">Node.js Fixes CVE-2026-21637 and Critical Flaws Now - The Cyber Express</a></td>
+<td>Thu, 26 Mar 2026 09:33:34 </td>
+<td>The Cyber Express</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxORkZfY0k3TzhIM2M5UHVwVXg1bzVlbDl5bVhDazRRbTNNWElCWGN4d2RCWENpMm1UZ0RnQnc4dWNuRlVJV21Pdk40aEVpenI3cFRhaFEyMVQ1YWpSdVVEWlNuTjROZ1AxUGo0SHRha3ZpU2d3Z29jazdTUVJGOUlDaG9jWDVtbGVsOTNtcGhKaDNhNmZWckpOSHRRZWJIeGhnM29R?oc=5">CVE-2026-33017: Unauthenticated RCE in Langflow’s Public Flow Endpoint Explained - HackerNoon</a></td>
+<td>Thu, 26 Mar 2026 13:06:11 </td>
+<td>HackerNoon</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWR3cWxheFhZbjBGTG5tb2RtaDZEZ2JTZ1BGZE9EM3BlOC1HS094cDN5U0dzRVdPd0NuZHJPMzU4cUcydmRweThWdU5QaDdCcjBpOUxZeGE0TDZKYjFyVHExWkM4aVlQa2NqRGs2TVA5QXdxcnpkRXdqeEEtam5LSDNiaE5kWDN4QVVMZW1tRExWU3V1elpsaTNJdVY3QU1zbEdHMi0wckdhZzQ?oc=5">Reflecting on Your Tier Model: CVE-2025-33073 and the One-Hop Problem - Security Boulevard</a></td>
+<td>Fri, 27 Mar 2026 04:32:14 </td>
+<td>Security Boulevard</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPNGZmVzVwVnFQdDlKSzlzMXhaR1BNbVYzaDZVRnlJdDZWWHFwM2NLWWYxZ2UxeUN3Ql9EaU5vamcwRUp0VVNwMW1QRWhKcnRlRG5LM2dndVd3WDVZYUVDYlZWbFF3R2hKYndRNktEOW1nNFdjY2VNU042WXhqRjNnS3JpRDJ2bWlYdnlnSklWcWVYeV9tQXZoc2dfWkpZSnNZdk9VT1l2Tm9oeVUyZWdIeXRwSV8wSGliSkE?oc=5">Critical flaw in Citrix NetScaler raises fears of new exploitation wave - Cybersecurity Dive</a></td>
+<td>Thu, 26 Mar 2026 14:49:37 </td>
+<td>Cybersecurity Dive</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzFuOXQxbVJ3Y2w0dDVuV0NmZ0N2U2RQSk1CYjhBMmFoSDdvVnNoT2NLNWNpV29ReUJmMnUyclZaaHNkZ0xNMHV4em1HUll4X2VZYlo1LTJlX2pHQWd1MDEwVDBTRmtjZkljLWMxN3ZCdXJ4SVg1R3JicjZOWkZ0SGlLTk5pY001WVAxaGVGVXNWZ9IBkgFBVV95cUxOYzFuOXQxbVJ3Y2w0dDVuV0NmZ0N2U2RQSk1CYjhBMmFoSDdvVnNoT2NLNWNpV29ReUJmMnUyclZaaHNkZ0xNMHV4em1HUll4X2VZYlo1LTJlX2pHQWd1MDEwVDBTRmtjZkljLWMxN3ZCdXJ4SVg1R3JicjZOWkZ0SGlLTk5pY001WVAxaGVGVXNWZw?oc=5">Cisco Patches Multiple Vulnerabilities in IOS Software - SecurityWeek</a></td>
+<td>Thu, 26 Mar 2026 12:49:57 </td>
+<td>SecurityWeek</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBCc3Uxb1BlNVctMk9rRmNaMVg2ODhIQlI3eUpNWHBCZGxRMU1QUld0akdXMU51WjViT2llX29DdTAtaFdmQlQ1VDFNclRCTk1pUTI4ZUdSZmhnVlNxNEdjNVdGX3hEZDJlbXR4b0FSVkFfNWM?oc=5">Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks - The Hacker News</a></td>
+<td>Thu, 26 Mar 2026 11:07:00 </td>
+<td>The Hacker News</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBTeUJUUEd1Ym1tU0VpYlZMRVhkcDN5Ml9LdUw2Z2RfMHUtN3RwMXZiX1NZYVczR3lFZUl2MERZLXpSNDk3UU5PQ0EwYWtKREs4dkh5Z1VHLXFtZi14bS1yX19sSU8ycS1zMWE5eWFtSFhGaDktM1duYjZDN1Npdw?oc=5">iOS 26.4 patches 37 security flaws on your iPhone - Rolling Out</a></td>
+<td>Thu, 26 Mar 2026 11:14:21 </td>
+<td>Rolling Out</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9IbTAxUFNHOFN5Z0F2MWhzWEEwWW54clBwcEZEdjhIMW5HYUJ2ckJrNEdRTlBNSUJLLUk5QmpKRnN1WFBuZmktYlE2bjJVZ1pQMVBJYllaOURZbThPVkp4Tmx3MW9fODdaSElSY0pVeEM2ckky?oc=5">Is the coruna exploit kit repurposing Operation Triangulation for new iOS attacks? - The Cryptonomist</a></td>
+<td>Thu, 26 Mar 2026 09:36:36 </td>
+<td>The Cryptonomist</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGZ2ZXo5elVkRlc1bGFoelBTSXAzLUtxZ2hRWHV5VWJNTThCcmV0UVRTN2JvZnFlYURNMmtmS3N4QU1XSVBmRmRreVRXV0tzUjZUSWo3RzR6Sk9iQVlDa3k4MnJQa2dmVXFSSE5xUUJ6c0NHVUcwWDEzQXVmLWpPdHUyR2xCbmdYS1QtT1FRQVp0UFBRWnJ3N05xelcxZ0YzR0h3X3RYODhtYnVZTHpN?oc=5">iOS 26.4—Update Now Warning Issued To All iPhone Users - Forbes</a></td>
+<td>Thu, 26 Mar 2026 15:55:00 </td>
+<td>Forbes</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTVTRWJoV1dNOXRsUnYwdkI3d21oQzZTS0VwQ1RVVEFwR1llMXc1TTZJOWxjQktmMExJX0w5OUtOZXVmdVp6UThkLVhoQnc0bnpVbjJGamZQcWhkc3ZKZFZZRnVoTWx3SzBCUHFSX01XelBVbFVHaFVWRHdzR21WNdIBhgFBVV95cUxNMWtnOEVGY0RXenpHUFhUTmYxcHQ1NzVaaThpOGoyRzdOdEZtSmltdGk5WUI0LUFfVUFGMldfcWRnZS1pcU1WdFdTcDhOcHNGMXdZd0ZwclBYTTJDeFQ3WDZWbHk2TUlHcDhXRG1UdmJ2Umk3cW1HTW1VQTVGY1Bwc3VuXzJBUQ?oc=5">Cisco Secure Firewall Vulnerability Allows Remote Code Execution as Root User - CyberSecurityNews</a></td>
+<td>Thu, 26 Mar 2026 11:04:34 </td>
+<td>CyberSecurityNews</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMijQFVX3lxTFBCNGJ4aWd6S3dCajJ2R1B6TGZwTjBvRzBQcUVuYk5oR1N3ZG1VYkJpRm9mM3p5T2NLNWNpV29ReUJmMnUyclZaaHNkZ0xNMHV4em1HUll4X2VZYlo1LTJlX2pHQWd1MDEwVDBTRmtjZkljLWMxN3ZCdXJ4SVg1R3JicjZOWkZ0SGlLTk5pY001WVAxaGVGVXNWZw?oc=5">Google Chrome Update Fixes 8 High-Risk Browser Vulnerabilities - WinBuzzer</a></td>
+<td>Thu, 26 Mar 2026 09:08:30 </td>
+<td>WinBuzzer</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5wcnJ5R0xjdWJERy1na202am0ycFNZZ2p4Yi1ZVGlScGFZWlhCU0d3NDE1YVRHdWdBNVJXcmcyZ1FFNUNKMkRjSWFnX094Y3EzbFphajZFUVZ3eGh2NVdQWlpvYzNQcGx3RkNNOTdtUkdHTE5aTjZsSkI0ZjA?oc=5">CISA Warns Hackers Are Actively Exploiting Critical Microsoft SharePoint Flaw - Petri IT Knowledgebase</a></td>
+<td>Fri, 27 Mar 2026 01:06:55 </td>
+<td>Petri IT Knowledgebase</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDh5UWc1eW4yc1d3V3B4cXJ0TzB5MVZaRUpLT1lMTmpJQWlyUTBNNS1iVjFlMzlzenViTDNhYjNjbWFtSTZ0SEVlRjZtWHhxRkVqdHlSX1dFOVNvM3czdk0za19iT1BId3hxOGJkbnlpeEY3WW1PdzF1MG9OTnFVcnJOdUJFSEs0Tnl6RS1zX2ZTeGg4X0JyckRyRFdNZWtnbGV5OUo5TGVfblU5bmxYb1FzRDQ4bzgyeDFOVXpJQQ?oc=5">A year of open source vulnerability trends: CVEs, advisories, and malware - The GitHub Blog</a></td>
+<td>Thu, 26 Mar 2026 16:01:28 </td>
+<td>The GitHub Blog</td>
+<td>Low</td>
+</tr>
+</table>
