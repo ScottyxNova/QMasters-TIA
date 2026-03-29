@@ -1,56 +1,38 @@
 <table>
 <tr>
 <th>Title</th>
-<th>PubDate</th>
 <th>Source</th>
+<th>Pub Date</th>
 <th>Severity</th>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2ptRHNXVVVzNGcwYnpmWnNGT1JPeXduZTRkUVBRZlQtUENaUEpsc05idlkxR0taWGJsay1lQjlWSWlpYWEta2thLXFWVm8wRHRDVExnMFBETlZ3ZnJOQ2ZZaDdLMTlqUW55Nk1oY2tRYnNsdTg0Si1TNzhVZHk4bjVGZ0dkZXQyd1Rxb3ZZVmM3emFPT284?oc=5">40,000 Citrix NetScaler systems found exposed following critical vulnerability disclosure - Cybernews</a></td>
-<td>Fri, 27 Mar 2026 14:16:55 </td>
-<td>Cybernews</td>
+<td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVB1VWkyS0MwMktoTDM0TDVyeG9XdHNlTkRsRWNrVUNHazh4TXpzSWdtekMxaEhfdHgwaHI4WHNpWFJlVFFjeXZSQy10cE9Na2pIXzhXTklPUlBQaWpheTBfOTBPTjQzdzdrSmJaQWVndnNQNm5fdTZtWEhBcmlCdXdVbGtkaEpVZF9FTDZoa3dYRFE3N1BoLQ?oc=5">Attackers are exploiting RCE vulnerability in BIG-IP APM systems (CVE-2025-53521) - Help Net Security</a></td>
+<td>Help Net Security</td>
+<td>Sat, 28 Mar 2026 09:02:09 </td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQVjROYmdDdi1xRmNwVURlNDI3UC0xQmF4SnZYeFlJckMxUUxNdDFVem1CN3d6cVBrWUc1dlV1R19mMlJ2Qmw3VERIUG4tbVFFSHVlMFB0RmtNUVZDN0p1MXBSQURzeWJPZDV4SlNwcS1NOFIySFZJTVBuRmh6cUJObGZtRDljR3NlUG5kUVBRa3BCWXNFSmdYS0FkY2RobjFD?oc=5">Urgent Action Required to Fix Critical Citrix NetScaler Vulnerability - The HIPAA Journal</a></td>
-<td>Fri, 27 Mar 2026 14:01:50 </td>
-<td>The HIPAA Journal</td>
+<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbW85SmFrSG1SelFYbFBVUWtGdFRRS3U1VDdDcUd5LUs0N3NiOEszazBnYmh6ZW9VYVFlRnpDTGF5MEZSWnd6NXZfNm5Qd1pfaVZGRFd6NjZ2VkFTbkVRTUYzZmpVS0tEekxPRzM1bHhyVXNxV2tFTnNmRDJfN0xReUdYS1g?oc=5">Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug - The Hacker News</a></td>
+<td>The Hacker News</td>
+<td>Sat, 28 Mar 2026 09:11:00 </td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFJnb01pOGZZWmE2Q09UQUZXMEJGVUlGNGV1NmFwSWVqYjFCcVN2RjVrcXUzTVBQWGxvRmYzdVlQYWZ2TXo1Vlh3UUMzV2xpUVNBQVJlUFpOZmpsYl93Y1owNGdVZTI1aGVXUzFObS16SW8wSk92YUx1dmxPVGpTctIBhgFBVV95cUxOdjdDbjBUaFNKVGIxcW4wV29PWVotX2NzWm1jRi1vN3BIX2ZSRS1LU242SDl6UjdwckhlNE50TmhUTjY2b2lDbW9oUmgzQU1HLWJsWE5GVVBYNUxqTXlYbnNOMW1LZjlQNlI3TEhVSm9SWFZCOE9EdDdhX052MHB3Y1pyeGk1dw?oc=5">Critical Citrix NetScaler and Gateway Vulnerabilities Let Remote Attackers Leak Sensitive Information - CyberSecurityNews</a></td>
-<td>Fri, 27 Mar 2026 08:26:09 </td>
-<td>CyberSecurityNews</td>
+<td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNVXVaTm1BTjBYMEVYX3d4aHd6NExNbHNwWENlVkM3ak01ZVZmdGdzMWM5eS1fSkpBUHhSQmY2cmhHN1A2TFk2XzZCdExZMUV4azZHdm1zRWpPTU52R2tvTVZRRThqcjNIdDRCV1p4bGw3dWQ5YUJFX1N0SVF6MXdrSUJTbDdkcnpITklJc1M1NERDOXc4Mm0tcG53aUVVUVVBQ2JxZ3dCQVIyQUlLVXZAX1dMbXVDTHBlbHlnUUQ2cF9FLV90dnc?oc=5">The Sequels Are Never As Good, But We're Still In Pain (Citrix NetScaler CVE-2026-3055 Memory Overread) - watchTowr Labs</a></td>
+<td>watchTowr Labs</td>
+<td>Sat, 28 Mar 2026 20:43:35 </td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNZGM1NkN5QWRXMWFsSjNKS1RMbm9hcHJFbUVCVEVQdTVBdmJteEFXRHZHVFdEY05ieXotUHZPNm55TlNZOVZBU1laSVVNSjhzS2NvQ0U4TlFVSFhFRjBWRnRLSEpWVXJrWUxabWxSN3p4a0lLendrb2NycHNlamZobzI2NVVxaGJEcGNZSE5GYWxycnRfbEZna3RXVGRLa2Q0bmhOSTZ2WkFlQVZvOUdON3NTeWhZeXM2ak1EcDllYThFblhyQk9kTkJpZ3AxR2c?oc=5">Critical Citrix NetScaler Flaw Draws CitrixBleed Comparisons as Exploitation Window Narrows - itsecurityguru.org</a></td>
-<td>Fri, 27 Mar 2026 14:26:13 </td>
-<td>itsecurityguru.org</td>
-<td>Critical</td>
+<td><a href="https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTWJJc3RYQmdhMi1qR2gyN2Jnak5sdUFXQUFDYTUydnQ2MzNVLW41eC1IWlk5T2lZRENFdHpLbFhURUI1OTJIcVE4dEVMVlV1ckpTMVREYjh2c2lHNjBzSVRXaVRacVVUSmk4Y2p2QkVCb1BldlFiR0g2TmJ2dno2Z1JoTV83VFlFNU5pUi1zZy1Bd05mQVphcl9WMzl3YXNHcjhjcWhfVl9jd0t4cXlIdkZ2SnBlblJET2xDNmZfVktTUVV3UzZvMUExVTRvRHFIbldWcHBMUi1ySDMxTGNpcF92dXZvQ2dycDBPcnZybGhxRkc1WTNVajBJSHNONDlMQ3BsLXpnUEdCRGhFWGxWdy1NaU9OSld2ZmZ2REFuRHBJbnkyaExXdERZVENjT0RBZVZhbmlxeXExTEtNd1o3dm5rb1hudTRuV2lITkV5VDVvZjBleHY1SEEyN2Rmakk?oc=5">European Commission hit by cyberattack, data breach suspected in AWS cloud systems - MSN</a></td>
+<td>MSN</td>
+<td>Sat, 28 Mar 2026 11:39:29 </td>
+<td>High</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQTFJnb01pOGZZWmE2Q09UQUZXMEJGVUlGNGV1NmFwSWVqYjFCcVN2RjVrcXUzTVBQWGxvRmYzdVlQYWZ2TXo1Vlh3UUMzV2xpUVNBQVJlUFpOZmpsYl93Y1owNGdVZTI1aGVXUzFObS16SW8wSk92YUx1dmxPVGpTctIBhgFBVV95cUxOdjdDbjBUaFNKVGIxcW4wV29PWVotX2NzWm1jRi1vN3BIX2ZSRS1LU242SDl6UjdwckhlNE50TmhUTjY2b2lDbW9oUmgzQU1HLWJsWE5GVVBYNUxqTXlYbnNOMW1LZjlQNlI3TEhVSm9SWFZCOE9EdDdhX052MHB3Y1pyeGk1dw?oc=5">Critical Citrix NetScaler and Gateway Vulnerabilities Let Remote Attackers Leak Sensitive Information - CyberSecurityNews</a></td>
-<td>Fri, 27 Mar 2026 08:26:09 </td>
-<td>CyberSecurityNews</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXdoQWdESm12TG45V3FESTF4M0VwR293V0xEa2lMMkljVTNWdTJBMC1sOUZCTUxiUHFlYzNaWXg3b2gyT2xmblY4UTY4UHpRYV9fYllza051OWpDS2dDYmhPVlM4bnN3UHJEXzFoSXFkVy1mOTdHV0pHRlY4NnpWZmFhSERyWnU0NUtuOTJTZnAtRVBLZnJ1X1ZId01mR2FjdUljN3h5RElrUmp0Z1dCWFU5cFFxSzRtYjhUU1E3ZDBrUEtsLXpLeGdKdGhJZw?oc=5">Cisco patches multiple vulnerabilities in IOS and IOS XE, warns of DoS and privilege escalation risks - CXO Digitalpulse</a></td>
-<td>Fri, 27 Mar 2026 08:46:00 </td>
-<td>CXO Digitalpulse</td>
+<td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNUWN1RmFvYi1FYXlFa0F6bXh2YmcyZWVXUGxaQmUwT1RmSTY1bDlmcGVSM090OHNSTk5zQ1hLTnlYY3ZkYXB4SFBaczgtdG01dzRkQjhOQk1odmFDMjdmOXYyanJvSThBWXRJNkdHeUtMaUNiN3FKaUxDNEhNVFlEbWR2Y2t2VWdLdHl0UnFxaVdMRy1Hc2tpY1NfZE1oQUR6RmVPUDZNR3ZyQkFpQU5GT1FPcWxCZExqSEg4M3Fn?oc=5">Apple issues urgent lock screen warnings for unpatched iPhones and iPads - Security Affairs</a></td>
+<td>Security Affairs</td>
+<td>Sun, 29 Mar 2026 01:03:16 </td>
 <td>Medium</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0JHVHEta0NReVRhZnNkeVZ3Mzc5TU5lRWZva2t0NGZRVUdvR1FyYVN5dHBCX0V1cHd6RXlfWWpkVVd6dTllYVdLUXpoYnhIV1d4VkVfV3Y4N2g4Zk8zVUFNWEpEQjNLTklBWDVEejlnOE5tZHpmcmpESUhPS0FqRkhvWFY4WnVUSktFanVTMjJCalpfTnBEMGdXd0pjY2hY?oc=5">Coruna iOS Exploit Kit Likely an Update to Operation Triangulation - SecurityWeek</a></td>
-<td>Fri, 27 Mar 2026 10:35:20 </td>
-<td>SecurityWeek</td>
-<td>Medium</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2xrXzFuNmYweWxCc1BFc3pyZjVmd3lOZEM0aVRobGdIeXB0djhwdUVuUWV2aFc2aE1JVGhrVmlQMDVsT2x4Z3JBb2ttbmpRNmNqTGhwbFVnU1llTHRseGY5R3BsQWJETUZtRFFxN2JCWlpUTmtBbl8zTnByTERmaXdHRF9sRUZJRHpEd1ZSVlllVTlydy1qZWt2Ulpsd3dxTTlfQVBudW5IdlkwbUc5ajVxMlgzUVN60gG-AUFVX3lxTE1hUExVQTMwdW1aa1dGVUh2TFp0SXV5eW1zM1VGTlBwc3kyM1JpMVZXb25sSmVPVFhJTlpHQThsYjRxaHdPdEJ6TktkdmhRQ1A0ZE9VUUozM3J4akVwakNzc3FtMmhfdk5uU2JCVXo5TEhlaVlFZzZSQ0xQaGVyTGFLRENUSkNzRGRiYXlTLUJvUkpxdzdpOXBBZ3k5aVdiekRqX2JPU0lHLTkwNDJRaS1mdUZWdERKS2pYeENhM1E?oc=5">Windows 11 KB5079391 update rolls out Smart App Control improvements - BleepingComputer</a></td>
-<td>Fri, 27 Mar 2026 09:20:59 </td>
-<td>BleepingComputer</td>
-<td>Low</td>
 </tr>
 </table>
