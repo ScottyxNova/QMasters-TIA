@@ -1,93 +1,91 @@
 <table>
   <tr>
     <th>Title</th>
+    <th>Pub Date</th>
     <th>Source</th>
-    <th>Published Date</th>
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUltS3JkYlF5ZnNkY2NqYkI3clZNNS1PeWRPNHpuLTh1NU9MY2FGTUdQcjB6eUFzb3kyT1N1X2diWjhYN3M5WmZnM0NhVlFqUzh3S1hucWNIYU5URW1ZVndrdEtVWXV3WE1xOUk0NmZ1aG9Qb1NqeEgzRmpRaW5IeGpFdzNaYmtxZTI0UC0wM0V6ZU02Y1RwRnBoY3M2NFpuVVc2M1BBR3VWdHVzM0xkVmd3?oc=5">New Chrome Zero-Day CVE-2026-5281 Comes Under Active Exploitation, Patch Release - CXO Digitalpulse</a></td>
-    <td>CXO Digitalpulse</td>
-    <td>Thu, 02 Apr 2026 08:54:04 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBsMjZsUGltdVYwTHM5QjdvaDRMMk9ZdjFjaGFjakR0c0ROcVhuMy1KUUVHTUhwcjlqdWVEVW54MUNvNGdOMTMzZ1M3U1pYUjhnX0dUMDRhYURiYjc0VVdEenRHQllkSlJJaEFNb1dUdHZES3R2OGt1SnhNU0c?oc=5">Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials - The Hacker News</a></td>
-    <td>The Hacker News</td>
-    <td>Thu, 02 Apr 2026 19:30:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9Iejl1dTBjdFRtUW5KM1FkMVppMnZPN1FMZlV6UC1aWF9QMzFpeWY1U3NpbGtmT3BIYWl6NWNUVVNVeFhhUHNpdmlaR0JhOHR2eUQyYmdQNDVGSnpkWTdFX0cyQWJnaEdIZzBIQklMNA?oc=5">CVE-2026-5281: Chrome WebGPU Zero-Day Exploited In The Wild - SOCRadar® Cyber Intelligence Inc.</a></td>
-    <td>SOCRadar® Cyber Intelligence Inc.</td>
-    <td>Thu, 02 Apr 2026 13:57:17 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc3dHcms4djRzZG9pSVg0Y2lIQ20xT0tncGk0ZVNsRmpCRkdUWmZSNUM2d0RzYmQ4bkVLcHFRbTBRZXZ5S1BKanY3ZkFwRlBhUER4eWFpMHpCeURwTndoMVZvQWlOb1FxbTZIaG83d2pBTVJyV1A1VG03dzZyNmJOV0xfMFhHWkdOOTlRTFl6SFpFME40Tm9oZVphdmVna1RRcXZGQ1d2Q2lpTEZpc3RjRHdmZy1SN3ZTalRDS285SW4xOG8zbDdaQXcydDkxdnQ3MllQX0t3?oc=5">You’re Not Supposed To ShareFile With Everyone (Progress ShareFile Pre-Auth RCE Chain CVE-2026-2699 & CVE-2026-2701) - watchTowr Labs</a></td>
-    <td>watchTowr Labs</td>
-    <td>Thu, 02 Apr 2026 15:26:28 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPWU1vdVNnaGdJWFhHTTJXOURRVHl1VEJKaFVKRG1sRnEzVkpLUE9JUkRzWGxIbGNfVmEtZlVSSWRBb0NOUlNwTDFiWWF5eUluS3hTRmlzSWVsRjIxUVJsZjRwQmFiVHBVTkVSUzdZVVVBSjNPcHJoWDFWelBlRDduazhLZ3phRy1JYVZMckMyb01vTEJyNk9vaFJlLWVqODJsSmhRTEJLdWpyX2hFbm10NzNNRHRobVhpVE1WcG9B?oc=5">Warning: Remote Code Execution vulnerabilities in multiple Cisco products, Patch Immediately! - Centre for Cybersecurity Belgium</a></td>
-    <td>Centre for Cybersecurity Belgium</td>
-    <td>Thu, 02 Apr 2026 14:30:48 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQUHpjTk4tM09rWWFPY2t5czlvbkJVb2FBSF9GcDNndi00QVU0Zk5ieExLWUticXlhZjQyUS1JR3oyQkJKcGV6eDdleG1DZWRDUF9SV25sODl6UktReU1IOW00VHMxaUd1Vy1IMVMteGFGWTY0bWZSRmlqOFYxQ0Zfemg3VVM5cXZfTm9wRHkxODRieGotYkg2aXktQXB4dkdZSWFDV1J1cUtnOF9i?oc=5">Cisco fixes critical IMC auth bypass present in many products - csoonline.com</a></td>
-    <td>csoonline.com</td>
-    <td>Thu, 02 Apr 2026 22:27:17 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9CenJjWHd4M0NsVUV0Zll4RkNUbHRNT0RoRm1UVkN5UjhIV3Q0VFVoYTZTdUNMcjBnTWljS29SaE9NWDlsYnNESXJRb3lCalFKZ3A0WEoxQ21qR28xRWNCRjM0YUs0eVJFdU5RUTlON2FPci1Lb0s1ag?oc=5">Cisco’s Salesforce CRM Breach Puts Three Million Customer Records at Risk - CX Today</a></td>
-    <td>CX Today</td>
-    <td>Thu, 02 Apr 2026 14:27:10 </td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNUS0wMGpNQjZQSnlmZjNrcFRGSlZNMGluVDBpYmQtVkp5M01WWnVGV0pvdXUzclJkNmVvLXotXzBiaXBRNGpuYnJNZm9mRGZ5bUNyVFY0RW1zRzNUUURWbUVrZUlhRXhRT0JEcVI1R0Zvd21kOUljQm1VdXdXREhacExpZlA4U0tMNm5wV1FGaUhseGlMRUg0NFhreXU4WEVIS3NmV1VCNGHoNFnSAbABQVVfeXFMTlVvcjkzNy1WMW9PSVNmN1QzNjd1Q3RtZ1hYaDJlSHc1RE9uVncwRGVwLVdXekR2Y2hOSThaQm9ad3hfR3VZc2NvMTBvd1VrMmJfc0g0ZDdnNldHZnpJem0wZ0FfRUk3MDB6X2lac3IzZHl1VXkxTHR2NEJNZzh2Ym1nUWVQS1FTVUhQVXRrRzlLVG1DZVdxZnJEUGs4Q01BUGRGZHBFNVNWLVNFS0FXZGc?oc=5">Critical Cisco IMC auth bypass gives attackers Admin access - BleepingComputer</a></td>
-    <td>BleepingComputer</td>
-    <td>Thu, 02 Apr 2026 11:01:14 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUx4YjFRZUZZeFpINTZGbkhqeTBXYXk3QTFQN2hrakc4UFd3aGFDWHFtMDNDRFFuV1dYOUFRWUs2bWxqc3N2Sm5JTHVlQXY4bTJSSVMyajliSkxUZ2V5d1d5OG5lUGFhZ3dnVHZLNzBNZjNPTHRHRjQ0aS1rZ09RQThpZXE?oc=5">Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise - The Hacker News</a></td>
-    <td>The Hacker News</td>
-    <td>Thu, 02 Apr 2026 15:21:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjVBU2llam1qUkkyRnp0bUJvQU4zNXJPYnF2bjR3Wk02bWEtdWsxN2NrYXVyWUdITkNmUHhsMXFSVGhNR3dQdmpteHNSWlJGYU42NVZPSGxmb3E3eEJzUGlPX0pkblhBRi1CU3hxT2VVNGN5Vlg0d19zdWJ1TDFHRl9TWHhHaHlvNTdZdlpMc9IBlAFBVV95cUxNNXRfNUxFa1BucEZsMG9MYVJ5SEd5dThMZklRZVJMVF91Q2VMNVFrMmhPclJDdDFOWWVxVEJQYURfYUg4QXB2QUhhckF0enY3Vm80X19RVE9KbU0yd2xsQkVPd3FVNVg1MmRacE5sekkwVFREQm43eldlN05DOGpreU15U3NpTzNZYVpUemgxaE94WmJT?oc=5">Cisco Patches Critical and High-Severity Vulnerabilities - SecurityWeek</a></td>
-    <td>SecurityWeek</td>
-    <td>Thu, 02 Apr 2026 12:34:10 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxObXM1TkRQaFduc1UtNmhWZ3NVeTlaMXktaGR4Vkc2eXowWFZoWEhFR0RVRnFwejJyTjNONVZTRS1jMDN0ME9KZnhRbmFsTjF3SEdTTHJCWWJaSEV4OUh2UDhkRmFQQS01QlplRlVpYWRiTzNkNGpyTjFGX1dxTW1aMzJNNnZQWlAwOHlYRw?oc=5">WARNING: Critical Cisco Server Flaw Enables Full Administrative Takeover, Urgent Patching Advised - LinkedIn</a></td>
-    <td>LinkedIn</td>
-    <td>Thu, 02 Apr 2026 21:00:04 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9CenJjWHd4M0NsVUV0Zll4RkNUbHRNT0RoRm1UVkN5UjhIV3Q0VFVoYTZTdUNMcjBnTWljS29SaE9NWDlsYnNESXJRb3lCalFKZ3A0WEoxQ21qR28xRWNCRjM0YUs0eVJFdU5RUTlON2FPci1Lb0s1ag?oc=5">Cisco SSM On-Prem: Critical vulnerability threatens enterprise networks - secnews.gr</a></td>
-    <td>secnews.gr</td>
-    <td>Thu, 02 Apr 2026 11:48:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjVBU2llam1qUkkyRnp0bUJvQU4zNXJPYnF2bjR3Wk02bWEtdWsxN2NrYXVyWUdITkNmUHhsMXFSVGhNR3dQdmpteHNSWlJGYU42NVZPSGxmb3E3eEJzUGlPX0pkblhBRi1CU3hxT2VVNGN5Vlg0d19zdWJ1TDFHRl9TWHhHaHlvNTdZdlpMc9IBlAFBVV95cUxNNXRfNUxFa1BucEZsMG9MYVJ5SEd5dThMZklRZVJMVF91Q2VMNVFrMmhPclJDdDFOWWVxVEJQYURfYUg4QXB2QUhhckF0enY3Vm80X19RVE9KbU0yd2xsQkVPd3FVNVg1MmRacE5sekkwVFREQm43eldlN05DOGpreU15U3NpTzNZYVpUemgxaE94WmJT?oc=5">Cisco Patches Critical and High-Severity Vulnerabilities - SecurityWeek</a></td>
-    <td>SecurityWeek</td>
-    <td>Thu, 02 Apr 2026 12:34:10 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOXJUalV6NEFMc21GejFGS0NieVNzTXRVNDFlWl9kRUVKTE92Y2VjQWVHYmRlQ3lyYzY2eG1oakZKRWNPSWJCeVNRWDhzUmF0Zmo0aG00UmFQd1kxdTF0T1FnN1AtVlFfeFNDLVZHcmtsTzl2QU1TUVZfbU42S0lQNHowZWhhbkd4SU1z?oc=5">DarkSword exploit forces Apple to loosen its patching policy - Help Net Security</a></td>
+    <td><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFNiWl9yUTZaMWs1eHFfQWpYcGJaY1RNTWhTazhnTzAtWDBlZEY4NnlXamZDT0psWHdzT1JXVVVHUFp4c3VPZmkzQXRDVnJtbFd1Rlhsa0IzSVZZc19nWWk4QVVzLW9pV21LRHRxZWhqXy04SXdQVUVZeHpLbmxQNnhmcW5hLVFqZHc?oc=5">Cisco IMC auth bypass vulnerability allows attackers to alter user passwords (CVE-2026-20093) - Help Net Security</a></td>
+    <td>Fri, 03 Apr 2026 12:59:22 </td>
     <td>Help Net Security</td>
-    <td>Thu, 02 Apr 2026 11:11:43 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhbzdxUXJQSW51VmVsdWhKMkNVaWVUQmpBaEpFQnhvUy1wSUdxNXlkckV2Zzh1anJCWkNGREc5TEdldTRqYll0T2FJcUtwcThjRloyZ1JrWDlBdkNyMUN6LWlNUG5HZw?oc=5">CVE-2026-20093: Critical Cisco IMC Flaw Allows Unauthenticated Admin Access to UCS Servers - SOCRadar® Cyber Intelligence Inc.</a></td>
+    <td>Fri, 03 Apr 2026 09:24:55 </td>
+    <td>SOCRadar® Cyber Intelligence Inc.</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPTklia1dPbnlVUUVXekRKWWVxbTg0Z19ja2NDY2liWkRqVDRGRnlxSEdTQzBJNE9rbFo5S2JSek52LTViRVROY3JBQkdrYVg2blExTXZnRnVrMDhMaC13NFV1SjV1elg4T3ZmMzh3T2FjdjdqN09wTEs0Y1lmUFlLaDBZRUNjWnhhd0ZwZFdmQkpmT3Q2SEo4X0puZG45cDdkLXI2UF9fclRIcjMza0Z6czAzRWY?oc=5">Google warns Chrome CVE-2026-5281 4th 0-day could allow data access - NewsBytes</a></td>
+    <td>Fri, 03 Apr 2026 15:30:49 </td>
+    <td>NewsBytes</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9nX3pndFl2UFNOMjNwWFV0eExuUHI4Y2tSQW5jVV9kM0s2TEc5RHJnU3RUa2c1UmtRSGVMSXVoRHhmbmQ1X1hROXcta1JVX3JNZFI0NWRYVFVBNzMtUjVRM3RkNTVmNmY2akYtaXdvRElMdWxfdGc?oc=5">Progress ShareFile Flaws CVE-2026-2699 & CVE-2026-2701 RCE - SOCRadar® Cyber Intelligence Inc.</a></td>
+    <td>Fri, 03 Apr 2026 11:05:48 </td>
+    <td>SOCRadar® Cyber Intelligence Inc.</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE11X0p1QllzQVJmbVBlLW4wcVVFNXFwY3l3ODF1SGY5WE1DSE9BQTBlbjMzbzk3ZVlydnZURUkzd3gtMGd1Y09DVnhWVHVzWHpFU1hWTC1ucmEyUjlNcUhFbGRJcGZDYkx2N0gtalJvNGtnMzZILXFpZw?oc=5">Google Chrome Alert Hits 3.5 Billion Users as Zero-Day Exploit Risk Surges Globally - Swikblog</a></td>
+    <td>Fri, 03 Apr 2026 19:08:28 </td>
+    <td>Swikblog</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUVItejJ0ZGhoRVZMMXh5a051VlNENDlVSDdNdk5YTjBEN1pyajlreTYza0ZIQ2E4SGppUVloTGxWS19lQmxQMklBalJMVFFxTjlwLTZEeTJyQktoMjJWVDAxcmRCUkZqX0pqbGhDbE5OQjZzZWtVTXBYUDFveWtYYkl3eDZhTGJrVDFv0gGLAUFVX3lxTE1iN04wZXYzUE1MZ2ZDbEdwQzAzdi1SZVc0VVFZdkkwV0diVkt6dEJNbVpKMHpqbHNxWmZJc1dndThYUk5mWlVjN1oxY05YNE1HN2tZOF94a2Exa2RfX1o5czRJbmJFTGZlby1lZV80MnJ4TnZnSkhia1lfRdIBe0FVX3lxTE1iN04wZXYzUE1MZ2ZDbEdwQzAzdi1SZVc0VVFZdkkwV0diVkt6dEJNbVpKMHpqbHNxWmZJc1dndThYUk5mWlVjN1oxY05YNE1HN2tZOF94a2Exa2RfX1o5czRJbmJFTGZlby1lZV80MnJ4TnZnSkhia1lfRQ?oc=5">14,000+ F5 BIG-IP APM Instances Exposed as RCE Exploits Surge - cyberpress.org</a></td>
+    <td>Fri, 03 Apr 2026 12:49:05 </td>
+    <td>cyberpress.org</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE53MWIxc2VCcTUtc2JmUzR0UGxQcENlS211Q2lhbHNoMTVtektsMEZlV3VfZ2FpRUtZNU5UZ1VuWDlETmJZYkYtZC1TSm9XR1dBWTZjZjFJcXZWUWdGNFRPbFlmd0FUeGQ1R015RHVVRTdrSTDSAXhBVV95cUxPUzhiWFVNYVBqaXItNS1ONWNFTlk2SmVvdTNlTlN6RlA3OUpMY2hETXRCdXhjQlRNY282dXhfTGNscnYycjRiTk9nX2xwMjdDUEEyYzlzanN5WVEzQ1JDcUtBaWtsX3N5bWcycDliUFlxd1ZRWXlrdk4?oc=5">14,000+ F5 BIG-IP APM Devices Exposed Online Amid Active RCE Vulnerability Exploits - CyberSecurityNews</a></td>
+    <td>Fri, 03 Apr 2026 17:02:42 </td>
+    <td>CyberSecurityNews</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1iN04wZXYzUE1MZ2ZDbEdwQzAzdi1SZVc0VVFZdkkwV0diVkt6dEJNbVpKMHpqbHNxWmZJc1dndThYUk5mWlVjN1oxY05YNE1HN2tZOF94a2Exa2RfX1o5czRJbmJFTGZlby1lZV80MnJ4TnZnSkhia1lfRdIBe0FVX3lxTE1iN04wZXYzUE1MZ2ZDbEdwQzAzdi1SZVc0VVFZdkkwV0diVkt6dEJNbVpKMHpqbHNxWmZJc1dndThYUk5mWlVjN1oxY05YNE1HN2tZOF94a2Exa2RfX1o5czRJbmJFTGZlby1lZV80MnJ4TnZnSkhia1lfRQ?oc=5">14,000+ F5 BIG-IP APM Instances Exposed Online as Attackers Exploit RCE Vulnerability - gbhackers.com</a></td>
+    <td>Fri, 03 Apr 2026 10:40:32 </td>
+    <td>gbhackers.com</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NbTd5UFpadF9NNUVCMGlwYUVMdnJlTW1PSzdjamgyUmo2U0NSbjdZeFJGVUNNTlU5VnIwdVdreGJmaU53eEp4bU1tdXNncUNicXc?oc=5">Iphone 18 Backport: Apple Pushes iOS 18.7.7 Patch After DarkSword Phishing Surge - شبكة تواصل الإخبارية</a></td>
+    <td>Sat, 04 Apr 2026 04:59:21 </td>
+    <td>شبكة تواصل الإخبارية</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTjVXTTM1Zzh5eU5RQmc5VDl3NUhYQXp6SlNRMzhRRVZYNTM4Ukk5X2Z0UkotcG5tUm9ycnpUN0x2b0hTazM5TmlDZDd6cXk3R2RqZ3RzX1Y2a0lsMmllbEFkZzZWaEdi?oc=5">Apple Rushes Out Rare iOS 18 Patch As DarkSword Hack Targets Millions Of Older iPhones - HotHardware</a></td>
+    <td>Fri, 03 Apr 2026 18:53:00 </td>
+    <td>HotHardware</td>
     <td>High</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxOZ3dhdVhwMTE5NWtMQW1MNkhTQkVJY3BLM0hMMkFCSzE5REI4RkJwdUYwTTNNTVFMY2NRMkhBWU1xMklDWC11cFZFYkRXQm9sTDdCY08wemdwWmpIWU8xdUJvbFl5cWZnUXMwZkEwa2oxNjNmcUxRc2xLdE5QZmRBaTJMZ1FqOGJTdERaczBBVnFIN3JOdUktak14N1hwVGlzUk9LenlZRFlINndkS1ZLRlNpU3YxcUlHblhqdWRhbTBEaDZoWTRUZzZoS3ZUejkxLU1wbDd
+    <td><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDhzMS1mVVhUQ28wai1hSW5neG5Mb2o4bUJEWXE3LXVaQ2p0cXlCaXBXbVBEdXNYbkFDTmlJdE9CVnliMVZVVk9Hb2ZjRkJBcjJxQWdvYU1vZzdsbmJPU3AyMGgwVmxYcng0aWIzbVdlNEVaYmN6ckZVYWk5eHFMNXJ2cTY0eUZRTU1fT3B0c0g5cG8yZWpCeENLWDBPd2tKVFZXN21UOGZqZw?oc=5">Apple Expands ‘DarkSword’ Patch to More iPhones and iPads — Update Today! - bitdefender.com</a></td>
+    <td>Fri, 03 Apr 2026 12:51:18 </td>
+    <td>bitdefender.com</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNRUtSUDZjcjVNRGJ3SHVPaTRsTG1VbWJmc0NPQWwzNnNXb05BVEZ2b19jTmRheVpDT3ZlNjl2Ukk3M2Rlc2dOZWVHdlNmVHlfT0pqVWZhb0J6dHpQSDZTalYtQlNIZ1g2VVZEWFByU1N0blVVSzgxdHR3Ykp0cEpUX0xxeUtMd1liSkFrVi1seGQzYmtuSzZ3N0M1THp6a25yYW9vcktwMUtXQllwLS1LcjRzS1JZM1FTQUp4RlRxamFjMWZqb2FkMF9B0gHKAUFVX3lxTE1FS1JQNmNyNU1EYndIdU9pNGxMbVVtYmZzQ09BbDM2c1dvTkFURnZvX2NOZGF5WkNPdmU2OXZSSTczZGVzZ05lZUd2U2ZUeV9PSmpVZmFvQnp0elBINlNqVi1CU0hnWDZVVkRYUHJTU3RuVVVLODF0dHdiSnRwSlRfTHF5S0x3WWJKQWtWLWx4ZDNia25LNnc3QzVMenprbnJhb29yS3AxS1dCWXAtLUtyNHNLUlkzUVNBSnhGVHFqYWMxZmpvYWQwX0E?oc=5">New Apple update fixes serious security flaw in iPhones and iPads with iOS 18 system - Mix Vale</a></td>
+    <td>Fri, 03 Apr 2026 10:12:16 </td>
+    <td>Mix Vale</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlR0SmFueTgtWFRiMlJxSWpMYUxQaXk4Q0o0cHR3SDVUazJIQXctdXVYTEI1bi1JVTZfbUR4X0IxM0pwdlNWVG1Cd1JjX0p0N2k1eTU0U2g1RHotaTBQWGoxSlo1LXVDY1EwMGpkNHNJOVI2bFJ5UVZzYU1iVUtSelRqRGRpVUI0blpZdTkzQUVOYXU2b2c3aWJtZ1ZKQ2dOdVdUMEJUSQ?oc=5">Apple pushes urgent iOS 18 security update for iPhones - mibolsillo.co</a></td>
+    <td>Fri, 03 Apr 2026 19:55:00 </td>
+    <td>mibolsillo.co</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXk1V1FFTjlST3IwR1hUdE9JeEFtNXZhX0NEM1h0LVRDSy1Fc1RiQmFTX3ZrNjZOTVBtd2dVNUhJeDlFT0dKbnlqX0dDTFMyNFFJbHNvcjU5VmlrLWY0Y2J1TzI0ZWdaZjlqb0o2OTcwWHZaOE9nU1lVcElmME1NbEYzVUc4bWw4VUVXQURsWGFqTFVVUmc?oc=5">Apple releases urgent patch to counter spyware threat - vietnamnet.vn</a></td>
+    <td>Fri, 03 Apr 2026 10:19:00 </td>
+    <td>vietnamnet.vn</td>
+    <td>Medium</td>
+  </tr>
