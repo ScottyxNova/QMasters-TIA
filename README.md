@@ -1,85 +1,92 @@
 <table>
-  <tr>
-    <th>Title</th>
-    <th>Source</th>
-    <th>Pub Date</th>
-    <th>Severity</th>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0lya05STk1GYWZxTzdBd2piTExpOGRhcDFsM0xkNWIySjEwWmdjNGNsUGp2VHJ3eUF6ZWtBMkdZeVVwdmFrTkN2LVVyX1hBSHlyVWxNWEFBQ3B6T1V3d1ZXUjRxeWNjRDRicTdFeVpjaG9aNms4RGtDbzhxeHF5dGI0RUc0LXJBczF0WWhSTGozZXN5MXVNZndSNlhDY2VidExMZ0FzWGdTNC1MRHZ4WkhEN01JaVcteUxtbHFB?oc=5">Act now! Fortinet responds to actively exploited critical zero-day, CVE-2026-35616 - Cyber Daily</a></td>
-    <td>Cyber Daily</td>
-    <td>Tue, 07 Apr 2026 05:03:45 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0I0UDlManJFby1iQTRkZ1BncDBScXVhRHN2N09wekdBeW1PSG9zQjFUWkZIdFRmeThNd012MmdST2hEcFM5eG4wenFPUFA2MHJMaTRjM3YtM0lBcUVqTEZsckZwY0lwN2dSTDI0NGtEdnBUckk3SlZ4VXJvZFBUcDdnd1F6aVU3dFFvZE5SZHNUendnejNuUWQtcS10WEVVWncxZXBmVHZzUDluWTJzMEh1aU55VDJxS0ltSnNVWUpQc2tXeUszVWtlUmZwMVhOMlZr?oc=5">CVE-2026-35616: Fortinet FortiClientEMS improper access control vulnerability exploited in the wild - Security Boulevard</a></td>
-    <td>Security Boulevard</td>
-    <td>Mon, 06 Apr 2026 17:21:22 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWQ3SXdLZURZRTYyWkFjZ21Ecm9qYVJIUklzMmh2d3E1TVd0TVJUUGF1dWVDMFRrZnlVdS1HYUtiLWdmSkZuWndPZkx3cWkzSUw3SHF0R2FNREZDbnJsMWVNZm5oNFZSMHVJa1JVRmxDazZjTTZTMzdiQnJaNTFiWWpHZkV3ZGlIYnBpeHFFZFhfNlc2QVNYdWtLejZzQTMzYXBv?oc=5">Apple issues security update for iOS 18 users, focuses on DarkSword exploit - O'Grady's Power Page</a></td>
-    <td>O'Grady's Power Page</td>
-    <td>Mon, 06 Apr 2026 09:00:00 </td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeGJVcUVyNjlwUkd6R3czQ3M4OHNKdXhabFlLZVo5QnNfcXZmNkVTZzVsNU1HNklMODhUTXpVdWhIWUhDWjBpVnV5OEVXNDAxZ2pmZF9BTFdkakFhSF80cFJ3ZUNYdWhYdjRhdDBYMXdxamJk?oc=5">CVE-2026-2699-and-CVE-2026-2701 - Arctic Wolf</a></td>
-    <td>Arctic Wolf</td>
-    <td>Mon, 06 Apr 2026 18:49:36 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUpCQ3RxZ1I1aUh1YTFXOHNjRVBqVmtzRld6Yms3Z2Y5eHlXZjlsSDVTZDc4QXRHTlBJQ2xlUE93MmVEUWRpdVdzbnl6NVdpQVBmTlp1YjVwZXMxQXhib1lHWlJlRWUzZTZiZW5Xd1ltcHdnX1lRdFlXX3RRdmIzTHRWa0MwUWlpMElnNnVZQlAzMkx6Ukk4ODFoVWFNXzlldWRrZlh6WklIVE5WdUM1MUVR0gG3AUFVX3lxTE9yZ2wyNWlvVjJFVVhBTERLcWZtRV8wdklmVGg2WWdDVFdHTmpRZnBUQzB2WkJmQmd6Y3VlV2VlTlJXWTZpa2ZtS2FGT3dzVnZTSDJVejhtYW83c25vUVcwS2pDVk5jZVZkTlZvcVNUbzZKc091bWxzWHFmZUo4bWg2NkdaV3R3Sko0RU5hSlExcHQ5ME9SQkRWV2dmQm1sdy1TSHhQM3pvSkVGYVNrV2oyZEd5UDNFQQ?oc=5">Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit - BleepingComputer</a></td>
-    <td>BleepingComputer</td>
-    <td>Mon, 06 Apr 2026 19:19:27 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR2p3a1hONGtLRnJ6UUstY1N2SDBBVmpwbmR2dU9ENG5sVmp1S1RudVNnRXZlbUFTS2hWa2piamJ4WkY5bWNrSWF6NlE2SFZTaWI5bDBzYlBvNzl5dldYMjlsdHZxQWppVkwzcHJQZHhJUXhqdEZYUFo5UllKWTB3SVJNY1hGQUlsQkJjSlV6c1V5WGJlaW5mTjRRWndTVjc4bVMtZ2VaTm92aFZoZXFURUt6Wl9XejFCSXk0OUwyMHFvcmM?oc=5">BlueHammer Windows Zero-Day Exploit Leaks Online - TechNadu</a></td>
-    <td>TechNadu</td>
-    <td>Tue, 07 Apr 2026 07:48:50 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxORWU1MzJQVmwxcW42bU55QlIwc2w4TEsyeW85MFltR1pFcEdadGloRWhhYXY0V2tZN0ZJMDJnUnZvX184MzFvcFBqNWZNOGUyMFJCZ3hrT3REOW51X2QxdXMyNTNPX0VzcGhPc2pJU3VSa0ZXaV8wTU84ODJBX29rMjNZWm9ZcHQxcGJEMWJDbjBKdw?oc=5">Windows BlueHammer Zero-Day Lets Attackers Gain SYSTEM Access - Windows Report</a></td>
-    <td>Windows Report</td>
-    <td>Tue, 07 Apr 2026 07:27:58 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVUtCdnV4b0NJM2pMbjF1VnZIZFVJelJuWUVMVUQwbnhrOC1wMzBoOC1BOE4wNkxncHRtellCVnF5WmxWZ3F4elJVTVF4dF82dWl2OVdzdFB2NDloVEI3WXRWQ1BCQ0ZkU2t3bWlUSXRsaDBoa0ZyOS1CQi1HaDIwcUF0Sklsa2F0QkpZcE9fOFluNnZWenR5Tl9mYWhLMWlJLTlzcktnRDlzUm1zWnA2YkVwMkdVZnp0NHkzQTU4OVQ0bEI2RkFNcjFxalhtLW1xTzZVdWhrYkU?oc=5">Apple releases iOS 18.7.7 to block DarkSword, and these iPhone users need to update immediately - MSN</a></td>
-    <td>MSN</td>
-    <td>Mon, 06 Apr 2026 12:14:28 </td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQR2p3a1hONGtLRnJ6UUstY1N2SDBBVmpwbmR2dU9ENG5sVmp1S1RudVNnRXZlbUFTS2hWa2piamJ4WkY5bWNrSWF6NlE2SFZTaWI5bDBzYlBvNzl5dldYMjlsdHZxQWppVkwzcHJQZHhJUXhqdEZYUFo5UllKWTB3SVJNY1hGQUlsQkJjSlV6c1V5WGJlaW5mTjRRWndTVjc4bVMtZ2VaTm92aFZoZXFURUt6Wl9XejFCSXk0OUwyMHFvcmM?oc=5">BlueHammer: Researcher drops Windows zero day exploit, says “I was not bluffing Microsoft” - News9live</a></td>
-    <td>News9live</td>
-    <td>Tue, 07 Apr 2026 06:39:06 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnAwaENMZUd0U0hyYjdaWWdvd0RqZGh2ajlodHRYakg4RDVyeldMc3d0Nkx2RGdUNERmZFRhQjhreGdwYkVFUzBBSnI1SDRmX2ttVVNkQWZkWEpkQ1RnblpSNWxibThQZ0tJNmNLYV9NTEhFbXNENlVaWkF3WE56RmI4TkpCMDIxQ2RLVTAyWEVwOHdVUEZuaEw3d1RYT2gwNU9jdzBJRG1fd0RHOEFZanVtRTc1ZEd3cXk3btIBwgFBVV95cUxPc0hfc3YwLUQ3eGxHcElqZ3lMNG1veGt6Q0hGb245eFB3ZWxLZmg5WEdJeVpMNEZ4NnhObFVqdF8tNlNDYUtTNGVvaHB4SXBEUHkxam9oUUpLcUMzZUZCUGcxdHFoN3lwdFBQazBmb2k0VjY1NHVDSnFVV2dxTFJvMVVUZUNacUp3RVh6VVY5V3hQNHBoY0xIMmE4M2dnMjh0NUU2NWlJNzJJV25nOW9UbGNxRjBlQ1k0YjdaTV85YzllUQ?oc=5">Apple issues urgent security fix — update your iPhone now to stay safe - MSN</a></td>
-    <td>MSN</td>
-    <td>Mon, 06 Apr 2026 12:22:43 </td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBwMWlLUjQxME90ZkRaeXJsYVRjX1NTek1tZ1JDcnk5OXJCU1V0SDlxYTdPbi1peVloM0cxMUZ5TzBlYzVLRXk0UUZqS0xlQ2F6TnZwV19tOVROdE1kMy1Na2VteTVKS2wwSmxYYzY5d9IBdEFVX3lxTE8wMGRoWmJDbG9oOUx0dVVqaWVwSmU5amxNa1BLSHhmdWVFaHVsMFVsTVNyU05TTVU0MVZ6UVctQ1ptZnVSanJKY0J6VmFDMzhJcXZrT0NBZGpQT2I1T2N1S0J4N2wzOExuWVBjWkZXdXZoM3ps?oc=5">Windows Defender 0-Day Published Online, Giving Attackers Potential Full Access - gbhackers.com</a></td>
-    <td>gbhackers.com</td>
-    <td>Tue, 07 Apr 2026 05:07:09 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3JhYXRYU3ViWlhKX2xMbFhmOVRmMFJTazM4SURIdzhXSC1YZVNMbklGbDdtbzVwM2ZnZlowN2JiRzE5bXJ3b2VGOW1Sb0NDb1ZEWWlPLTd4cHg5UEgtZjdLalRnXzEzTTFFZnI5Q0RGY20yNF9zanhOelZScXdKY21kQk9JeGs3Y2FhQS1RR1czUWhndzFHcUNINA?oc=5">Apple Rolls Out Fix: New macOS Update Could Protect 100M Mac Users - TechRepublic</a></td>
-    <td>TechRepublic</td>
-    <td>Mon, 06 Apr 2026 14:22:01 </td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE4zS3ZvU1ZYc3VxeU10VXE1YzZjMDNHdk0wQk91RjFBZFJxLUx4UWhvZWdzNFFESVpKREVUVWMxYnZhMDd3bWVRd1pHS21UTWdWbHUzTW81TGppSkFQSF84ZVhrbTZfcy1nY1RXMzR2RmxUS3PSAXhBVV95cUxPQWtUUTBVWXRzTkRBdktUemNqMnIwQ0lHbHFrRlktSHF2VE80aWhuTWY0LXFYWE5hV3VuR1gyUU5YODYyeklxOUl0aDdtYU5kRWJMUkNnNkgtQ1NOc3lUaGRvX1BtdlpTOG9kWERDczJCUHY3bU1tZ0xuNFppSDVwSmp2YXFkck00aHI1VFdFd09lbUNlTE0xY0NLZk5Ib1dJZTRWYm9JX0pKUEctX1NIVVMxSVdXb3hUbG44M2dtQQ?oc=5">50,000 WordPress Sites Running Ninja Forms Vulnerable to Critical File Upload RCE - gbhackers.com</a></td>
-    <td>gbhackers.com</td>
-    <td>Tue, 07 Apr 2026 07:13:53 </td>
-    <td>Critical</td>
-  </tr>
+    <tr>
+        <th>Title</th>
+        <th>PubDate</th>
+        <th>Source</th>
+        <th>Severity</th>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcGxsMjhRRGNUb1dPT2I0ZWc0Y29TM1hWWFBVYTZxSUlwVTh0S2xXYmVjNlZRM0tXQ2FlNDZ3YXFXMVFGdWRLaGkzeTBvOWdhWmRxZ080T25vUk9uSHQtVnZ3RWYwaU1HbUdpdGZKdjhlUllaUU42dW9xZTh4V1hvV0dqTjh5WGNBNlV1V3BhX1NnaUM0X3ZyTlBYQ1RFWHJvc1Zhbk1RMGdoeTljeGJvRUpuRU5NYXhLdDFyWW11SjF1d29GUERBWNIBzgFBVV95cUxOYW81YTVzSUxWY3kxdzNxbmhPTUxXR2FJcXRTOHlwVkl4UmhhTVVHYjdEazhudWlEVTR2WXNQUVpmR05LdHMxaDljcFBWa0tKYXFfQ3RtWExtQTMyeWtYN2szQUxDZE1ldEFnZ2hoT08zWUJBRkRRR2RkWVpiejJqMmptM19TY05RSzFKWjIwYkhVQ0dFT1hwT3QtRkFPeFV5SUhFREM2cG1adVotS0hoZWl2ZVA3SUJ6TmxsOXE2R2JRcWJGTzNSSEtYMEgzdw">Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution - Security Affairs</a></td>
+        <td>Tue, 07 Apr 2026 20:17:56 </td>
+        <td>Security Affairs</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQR04xUG1aSkh6VXM0SkhNVldwZ19kRFo5UVVEdkE2RVViakI2MmdzbmR2TnpVbFZzRWViYU92QTBEVkQteVQ3a0VOM3ZyUUREekRYcFpQWlNjV2F0Q0hEVHd0ckd2VG1WRDJxRVhWMWFfRWtTNXUwb2xsSWE3bDhodg">Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access - The Hacker News</a></td>
+        <td>Tue, 07 Apr 2026 15:15:00 </td>
+        <td>The Hacker News</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQbDV3MUc2bGdIMWJOaXZheVVVZllRcE5KaWJPNU9kZ0F0SktWNzdhTGxLYlRKSzE3SEtaeEJZUFNTek1hZ1pmcnJMOGx1ZjNYYjhLTUNMQW9sRXRUcDFsOHI4d2xDSXM0dVZPclJDMl82RmtnOU03cTl4S0xQNF9ya3VBX204MmltbFZwZnROMjU4OTVsV2R6X2tEcER6UF9lUEtLM29OUzV6MC1LOHRsVVJSMkZpUW4wbUtkU2dMRzUyQkd0QkE">Docker Flaw (CVE-2026-34040) Lets Attackers Bypass Security Controls and Take Over Hosts - eSecurity Planet</a></td>
+        <td>Tue, 07 Apr 2026 15:59:41 </td>
+        <td>eSecurity Planet</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBaOVBwdUZnWVNUcFRHTFJSRlVtYjhoZ2drLVdUU2lOSHI4Qy1qVmtpOUdLM3pwVDE3cmFCLURvckxNM2hNMWt2ek0yWlVGMGMxUDlCa1FoYXFNMERQXy05Ri1MYWVHeldEQndJYjdZd3I3cGxHOV8tcFJOd3E">OpenSSL 3.6.2 lands with eight CVE fixes - Help Net Security</a></td>
+        <td>Wed, 08 Apr 2026 04:43:43 </td>
+        <td>Help Net Security</td>
+        <td>Low</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUxNWVlEVzRHclRoYlZpbmZ0Z3ZIaTBhSWpYMlU1ZHlVaFdhTjlKQmYtbkl2MXNCQVlpVERfei1ZaXhPQXdvOFZ3NC0tVU5lSFdxbXBKbWptV3dmQlZHQlZKLUpFNUFUYUZSZFBQSVgzMmdkYWZKdjBjVVdWOFNFZl9SbF8yM0laSmE2MmpRb1ZWSFp5MGJ4MDRxR0dJdU4wdmd5dm9OcXhTLTVrZXfSAbMBQVVfeXFMT2thUFREMkREeDB3UDBmd1pDZk9XWWpZTUNNa2xxNjhkRXBia1N3MGRVVndUeWJHakhHWFpJd1VheFBSMmRPbkUya092YnJfZURNeEdZcnUtXzEwTXp4cmJLcXhqVlpfYlVuN0hXLXc5dkdOc3BYQjhPTFE4T0pBUGFockFxcXNJT0FsbUVsNDZTV0FJUWVhUlVGRHlxNXR4d1hlZVh5UDNBUmFiMDctSDNreFk">Hackers exploit critical flaw in Ninja Forms WordPress plugin - BleepingComputer</a></td>
+        <td>Tue, 07 Apr 2026 22:03:01 </td>
+        <td>BleepingComputer</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpeWNSY3lNdl9rdnZ6OWdWdXBTMXV6TE80RGt4UkV1RTFBRkV0R2VGdE9rSjgyM3BSeVZCSFpWOTZOc0pWcE5QNDZTOTc5VUJpYUZEQUlyY9IBV0FVX3lxTFBpeWNSY3lNdl9rdnZ6OWdWdXBTMXV6TE80RGt4UkV1RTFBRkV0R2VGdE9rSjgyM3BSeVZCSFpWOTZOc0pWcE5QNDZTOTc5VUJpYUZEQUlyYw">50,000+ WordPress Sites at Risk from Critical Ninja Forms RCE Flaw - cyberpress.org</a></td>
+        <td>Tue, 07 Apr 2026 08:21:54 </td>
+        <td>cyberpress.org</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0V1TklrVHBmWU5rYkdzVmdCRmhnbVVGWVF2cDFJcVoyZHAxUWdUMEpQWjhpaTkwZHVCcmFkVHVoS1RpWUFBenlfcEN5Yk9mbEo3VGpGYkJXLXVMX2hUaExEZGNPa3Z3dmNIbEx1Q3didjZUd3FpRTl3Y2xNcmtfZlpXVjIwZGhLZ2t2cXpTdmc5VUI5XzF2YVRCRU1uQWZzUTdoZ2JXcThwam1k">Revenge exploit: “stabbed in the back” leaker drops Windows security bomb on GitHub - Cybernews</a></td>
+        <td>Wed, 08 Apr 2026 03:30:30 </td>
+        <td>Cybernews</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1LQkdsUUU1WGpPaVdGQkxZbWNYa25Yck84OEFWcWE5QVBwVDhIYVl5c055bldXdzJpQWY0a0FFdjM4R0NubG9mdUQ5WkpQWV9naXRPd3ZsbXJFVVQ4bHYxX3JYTTYtMGItQjBjZndvMHo0alRHRW1hUWdDYlZHek9LbW5ETnc">Linux's Print System Has a Zero-Click Root Hole — and No Fix Yet - cyberkendra.com</a></td>
+        <td>Tue, 07 Apr 2026 17:02:00 </td>
+        <td>cyberkendra.com</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxdlZON2t0UkMxWVdLREpXaDF6ZHNCZWY3UzZyd0Z6SVBCOFYwdzJ0SEhLajF1aUUzZjZsNTdYNk5sNFNYZFZMb0FQa24xNzI0RFFHRXRjTUE1SEh4MEp4clByRkcxV2c">Hackers Exploit Next.js React2Shell Vulnerability, Breach 766 Hosts in 24 Hours - gbhackers.com</a></td>
+        <td>Tue, 07 Apr 2026 11:08:00 </td>
+        <td>gbhackers.com</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQZV82QVRtOG5lVllHSWlrZEFOZm9yZjA4SW1ReUk2MUNLX3RhUHZvUHlCMkR4N0hTalNfUU1sdFd0eTdLRWJ2Qm5oNGd0dWx1MFlHNzVIWGVXN3ZrSFlwcnl1TkdHTjVHV1pFcnlfSTFGZ2FyMkxXZFVvelhtanNEUWxHNEUyZw">Windows Defender: Zero-Day-Exploit und Ransomware nutzen Systemvertrauen aus - BornCity</a></td>
+        <td>Tue, 07 Apr 2026 17:31:03 </td>
+        <td>BornCity</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOMWE4dDVSUXhSd2YxZU9MeS1HTjBUQkV5M2Q5LU1QRlIwOGprUEtqcnFBM0Z5NW1IMnJ6SGFEZHBRQldrYlNLM3o0d0U0cVZEUGJaUE1IRUx4Q2NpU3djMVBoUlNreXR3QUZlNnZ1bmQ5VDRGU2RIMGJZYUNURHdISmdtbUtuZTluWW5wZ1Q0NVNhWGd6aVlndWp3">Disgruntled researcher drops “BlueHammer” Windows zero-day LPE exploit - CyberInsider</a></td>
+        <td>Tue, 07 Apr 2026 12:05:52 </td>
+        <td>CyberInsider</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQZV82QVRtOG5lVllHSWlrZEFOZm9yZjA4SW1ReUk2MUNLX3RhUHZvUHlCMkR4N0hTalNfUU1sdFd0eTdLRWJ2Qm5oNGd0dWx1MFlHNzVIWGVXN3ZrSFlwcnl1TkdHTjVHV1pFcnlfSTFGZ2FyMkxXZFVvelhtanNEUWxHNEUyZw">BlueHammer Windows Zero-Day: Privilege Escalation Risk - SOCRadar® Cyber Intelligence Inc.</a></td>
+        <td>Tue, 07 Apr 2026 10:04:11 </td>
+        <td>SOCRadar® Cyber Intelligence Inc.</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2xVNVN2LVVaWFF4SWxPZllpNzRXOC1zSHpQbmtXRHN0SklfVHEyYWJYNlBFRkp5VDR1WWFGeVBkaUx4VHk0Wk9rZUJFUXJEelBZbFpMQnpBdEppSmNaenp2NGtFSjI1RHFnNFhRUHl2TGsxSFRzVHlvZjc5YWJGUU5kZC1mOVRBbllFVVdFZVktSW5LNjZzYTRiSTlJUnJuU1hJOENDdDg4LXRhOFprczl6eFRKS1NlUWJGYXh6UQ">Disgruntled researcher leaks worrying Windows zero-day security flaw - MSN</a></td>
+        <td>Tue, 07 Apr 2026 17:45:18 </td>
+        <td>MSN</td>
+        <td>Critical</td>
+    </tr>
+    <tr>
+        <td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQdExNNXRteGxmRnV3VXFVMzJ5dDR3YTN3UHFSRi10bmFqQmJKMURHM1lqVjZDQW8zRjdKVTNZQUpRdjUxQmpfWVByTGRYUVQ3UzRIZmhNWTNFbmc2d0ZTQ1ND">Apple Is About to Push a New iOS Update to Fix Security Flaws on Your iPhone - NoMusica.com</a></td>
+        <td>Tue, 07 Apr 2026 18:09:01 </td>
+        <td>NoMusica.com</td>
+        <td>Low</td>
+    </tr>
+</table>
