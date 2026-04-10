@@ -1,50 +1,62 @@
 <table>
 <tr>
+<th>Title</th>
 <th>Source</th>
-<th>Publish Date</th>
-<th>Hyperlink</th>
+<th>Pub Date</th>
 <th>Severity</th>
 </tr>
 <tr>
-<td>The Cyber Express</td>
-<td>Wed, 08 Apr 2026 09:16:19 </td>
-<td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMk5TaC1zTzNNOGRkeEtialh5Z2FySVp3YmZEVmtxN3ZZblB3Z3J3Zl9TV3RBUE5xa0ZWWER5UVhyUFBZZ0FodXhyVE90N21MZHZPVmVCcUdSbmRwbml6M0ZWSU96OGw5eEEyRF8zaFZ5d2h1Y1poT9IBeEFVX3lxTE1tMk5TaC1zTzNNOGRkeEtialh5Z2FySVp3YmZEVmtxN3ZZblB3Z3J3Zl9TV3RBUE5xa0ZWWER5UVhyUFBZZ0FodXhyVE90N21MZHZPVmVCcUdSbmRwbml6M0ZWSU96OGw5eEEyRF8zaFZ5d2h1Y1poTw">Flowise RCE Vulnerability CVE-2025-59528 Exploited Now - The Cyber Express</a></td>
-<td>Critical</td>
-</tr>
-<tr>
-<td>Resecurity</td>
-<td>Wed, 08 Apr 2026 20:20:07 </td>
-<td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTY2UWQ1aGdvN0Y3NTRFNzd5NmZCcF9iZy1UQlNyUDBwd2I2UXFzazJTZklmMHJ5X1pYRnpwa3NCOXJhLVV6ajNmSFd4MDQxWmdtbjRmS3JMeTFEazFkdk1jRDVDU1IwZS1vYUd3bmZXbkxNS3NmckduN2oyc296U0FlaF96T0ZXV1NGeHZiR3JrdmY1V0dWLS1Jd3g1a2VXejF4X2NWQlBLZkF5REZJZnFtczdhUnpwZG5DXzdR">CVE-2026-25769: Critical Remote Code Execution in Wazuh via Unsafe Deserialization - Resecurity</a></td>
-<td>Critical</td>
-</tr>
-<tr>
-<td>The420.in</td>
-<td>Wed, 08 Apr 2026 10:43:54 </td>
-<td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFluZ0swMTNjaWNzeTljdEU1WVNzMmhwODUyYnhIQlJUVDBJeFBuNWZ2Z3NsWDZhdHZhMVJEV1BZQVZhNG8zbTk1d3RnRmRYbWFmZS1PZ0dRMnBtMEMwUlBycmp0TV9idm40cWdWWjVQeVlsbG93aGZVNEg4ZmgxOUlnYWRDOTlJSGZzZFBoOHhIUTNM">Windows Defender "BlueHammer" Zero-Day Exploit—Admin Access Without Patch - The420.in</a></td>
-<td>Critical</td>
-</tr>
-<tr>
+<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzJnWkRFcXlTS0RpSW9nWnI4N2E3YTNRdjdzYVE3NEt4OThBWHFEMHNjVmxQTUx0VjdqbjNGWUNyTHAtWUxScmoyblBWdzhOaVJKUkl5XzhKeW1CWHNIbzlJakRLOTVONGFRT2FKVy1BdDg4MzdFMHdmck5CT3dJN05MMnN3aGlXOTFNaG5YVUozbEhBb1gyVU9TVVZRaDV2?oc=5">Claude helps researcher dig up decade-old Apache ActiveMQ RCE vulnerability (CVE-2026-34197) - Help Net Security</a></td>
 <td>Help Net Security</td>
-<td>Wed, 08 Apr 2026 19:48:32 </td>
-<td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEFNV3lqbGpsQXRpT2xlQkpfVnp2RlVjSWYwQ2JudFRGY2ZMbHMwSGJyeExEbGYxaVI2d2c3OHJMWjljeFFERnVXNGJhc29lVkJWcDR3M1gzLUY1SWlnQzcyNWtNeHFFanZSSkM5WVlBbjhkSlQ0Ym4yaWtHUWRBUzBoZ0dkLS1pQi0zMW04MA">BlueHammer: Windows zero-day exploit leaked - Help Net Security</a></td>
+<td>Thu, 09 Apr 2026 13:04:54 </td>
 <td>Critical</td>
 </tr>
 <tr>
+<td><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5MSGF2ZVZYUUNxc3g3dkE3ODAzVUo3dmZKb0xnOVRpajR0alpfNnNpS3Vrd0FnNWd1dEFiRWk1X2tyZng3d01LX250ZVRqVTg4U29kMENJM0E0SFBIS1l3ZF9aNjF4SGRJSzZnaHZtcEpmYlnSAXNBVV95cUxOTEhhdmVWWFFDcXN4N3ZBNzgwM1VKN3ZmSm9MZzlUaWo0dGpaXzZzaUt1a3dBZzVndXRBYkVpNV9rcmZ4N3dNS19udGVUalU4OFNvZDBDSTNBNEhQSEtZd2RfWjYxeEhkSUs2Z2h2bXBKZmJZ?oc=5">GitLab Security Update Fixes CVE-2026-5173 Flaw - The Cyber Express</a></td>
+<td>The Cyber Express</td>
+<td>Fri, 10 Apr 2026 07:25:12 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXJTbjVlYU5PdzdfMmJmc05INEZ3NThoSHlpdl9EaTF5RzZnVXRGeFpUbnY5VHM0ajdRUXNtbHl3WjdFRzd5WHhIVVlkRnJZS2ZmNmtqbjR1a2NqOHJSMU54cHNwNjRoOXNuOXVaejQ0eGQ5NzRnWFlwZDAyUXNMOGwwUnI5d3lEZGhUcFJDOHRWVDRIVE9renNhb1JTY3RIUWZ5UXJUbXJMU2NOSUow?oc=5">'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues - Dark Reading</a></td>
+<td>Dark Reading</td>
+<td>Thu, 09 Apr 2026 20:43:56 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWRkM0VQSjhkM3BaR2plWHhieVU1d0V3OWt0bjUzQXpkX3c5Nkg1WUFXb3QyVEtCSmNTTzExQTlKam9wYlJiS0c3V2pxcGxzTnMzOE14SG9Fai1FakhrdWVKYW9GVjNaNFQwY3lpQzhmclhtMDFjNHVzUGNaTzQxMURPOGE4MTdtYzZHTzdmNzNRd01FWDBuTVoxQTA?oc=5">Windows Zero-Day Published on Github as Microsoft Fails to Act - WinBuzzer</a></td>
+<td>WinBuzzer</td>
+<td>Thu, 09 Apr 2026 20:10:17 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2xVNVN2LVVaWFF4SWxPZllpNzRXOC1zSHpQbmtXRHN0SklfVHEyYWJYNlBFRkp5VDR1WWFGeXBkaUx4VHk0Wk9rZUJFUXJEelBZbFpMQnpBdEppSmNaenp2NGtFSjI1RHFnNFhRUHl2TGsxSFRzVHlvZjc5YWJGUU5kZC1mOVRBbllFVVdFZVktSW5LNjZzYTRiSTlJUnJuU1hJOENDdDg4LXRhOFprczl6eFRKS1NlUWJGYXh6UQ?oc=5">Disgruntled researcher leaks worrying Windows zero-day security flaw - MSN</a></td>
 <td>MSN</td>
-<td>Wed, 08 Apr 2026 11:40:15 </td>
-<td><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnhVTkVKVXp6TnVxWmgtZFRDS2hqVlIwVHRCS2hZbkxEeHNuMUIwUEE5bjE1OEhmV2JLWW5pdmFhLTJMb2ROOWczVGFHTlpJX0tUTkNFNm1ZWjBhaFhacjBkUmtCai0zam5uV3VqcVVCVlBJWmxMeGx3S0F1THFoelg2dTNDa2pqT3VmVkpzeC1BUjJydjBTSjdBTFhDeWNHR1gtdkpqbWtrd3JjY2pMd2FwVnhhYTgxeWNiMS1UX3E4a3hjOF9oZVFCZjRteXZD">BlueHammer: Researcher drops Windows zero day exploit, says "I was not bluffing Microsoft" - MSN</a></td>
+<td>Thu, 09 Apr 2026 23:16:52 </td>
 <td>Critical</td>
 </tr>
 <tr>
-<td>Infosecurity Magazine</td>
-<td>Wed, 08 Apr 2026 15:10:00 </td>
-<td><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9sa09SZS1VZWJmMzN2THBxdnE2ZFpsTXp5ek83eW16MlhJbUd3RFNPUzZNS1BYU3hIQ19SalFnT2JTZDBCclVRTnA0S3ZKaVpyUlk4V2dfVThNLUhFVUFFWlRNSmdyb25tdzFtbmozX3hnV3lRRjdqWXpB">Critical Vulnerability in Ninja Forms Exposes WordPress Sites - Infosecurity Magazine</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DSFN4MW1iVFRHc1RHYmRvV2FjWTBORlJiQmw0Q2ZoMWczaER0V0p4S2xEdmQxYXU3UHl4eWpXamVVZi1mb1NhLUtSNXFUeDE3WjV4WGM5UVJDd9IBWkFVX3lxTE9DSFN4MW1iVFRHc1RHYmRvV2FjWTBORlJiQmw0Q2ZoMWczaER0V0p4S2xEdmQxYXU3UHl4eWpXamVVZi1mb1NhLUtSNXFUeDE3WjV4WGM5UVJDdw?oc=5">AWS Patches Critical RCE and Escalate Privileges in Research and Engineering Studio - CyberSecurityNews</a></td>
+<td>CyberSecurityNews</td>
+<td>Fri, 10 Apr 2026 06:16:10 </td>
 <td>Critical</td>
 </tr>
 <tr>
-<td>SecurityWeek</td>
-<td>Wed, 08 Apr 2026 11:20:23 </td>
-<td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDhFUFFXY2U0bUw3S083a3FUc284cnQ0TUdUOWtSc1Zzc09LWmlsQUxBTTdVQWYyUGhBMGxyeGxDOGFtY0phaW9TRDhKUTUzUzNMamVsXzVIVnFLdUxwd2w0cjVTZlRfV01aNHdtSFFvZkdsQXBHb2UxZmpkUXYzUVNvd3BURDNNTWR0MWFiZUVMRzJDcW1pMGE2LVpXYTA0Y0w1aHFLem5PQdIBuAFBVV95cUxQd24zS3ZfVzlaMDVmSDdzWDFDS2tOQUF6S0tKN2MxWmVzaTVsUFNSY3dlNGVES05NUVF3U2VkUXI4S2IxMW5yMDFPcUUtQzhLYS0yZ0pyQTh0b0pOT3piVE9TR1ItcXZUWHNWbnllYVFWaUlZOUdBMFk5dlE3R3R0bUg1OXl1WW5rWU1OSTdWaDBHTVdNaVFNaE9QTUwxdnBUUDhUS1YxMFNvRVlaSk40YUlHUlVXbnJ1">Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover - SecurityWeek</a></td>
+<td><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOOGx6azNnMVpUYXhPYkp2dzBFOE9FWHJoOC1EYVdhbHl4T2QyUHBoRlZJakNpY29JZVVEVWYyWEVlTUQ3dkZYeUhUakZyTDR0M2FYNTExNi1BWWtKaE9iaGpTdEhCM0pMNDV5TzNJZEJJc052RVBEbEx4U3hYc18xQ2JWazJsLWtkM0d2ckFqa1U0eWYxb3hlS3U2Zkh2M28zWUViX2RYUURqTDViYWpBSEwwMm05Y1FuY2c5UEZ0dEVVUmFvYV9HNTVR?oc=5">Apple Patches Critical Zero-Day Vulnerability in iOS, macOS, and More - National Today</a></td>
+<td>National Today</td>
+<td>Fri, 10 Apr 2026 05:10:40 </td>
 <td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2FMMlRPTDBxbDNuV2c2SGVNQ2FqbWhGNmdJalZUSER0SmhxRzBBVUFwR2hzVTlPVmlQc2tNcWZmUDJ3NGlJWmhUU203ZF9sdEs5SWtLZENQWW1ObDh6SXlBTllGY19Hd1FrUHQ0b3VkQ05pSDZ2ZENHVWdXWFBsaFNIUzFMTEQwSVNoUGcyejl0NHktZnBGQk5qU1JCQjVHbU9QTEZYSHA0VVlxSm05VDVwUQ?oc=5">Apple rolls out iOS 26.4.1 with critical security patch for iPhones - Deccan Herald</a></td>
+<td>Deccan Herald</td>
+<td>Fri, 10 Apr 2026 07:46:31 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHJwdDlZRDB2dWRSX1JVSzNMd3E1Zk5MeW9WZERIMU1Pd2o2TXpvWDV0LTg4Wnp4RmRzaXNpU181NVFfT1VseXJ0M3hqX2UwTTN2cmdKbEExYUV1eDFNdV9TVVVuaFJSSkh5ekVhcTBBQkhqZ0tVTldyWHBJcGtIR3pJNEoxbFdXUFh6OHVfVQ?oc=5">iOS 26.4.1 fixes major iPhone bug and adds a quiet security upgrade - Cult of Mac</a></td>
+<td>Cult of Mac</td>
+<td>Thu, 09 Apr 2026 19:16:48 </td>
+<td>Low</td>
 </tr>
 </table>
