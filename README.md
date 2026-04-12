@@ -1,68 +1,79 @@
 <table>
-<tr>
-<th>title</th>
-<th>source</th>
-<th>pubDate</th>
-<th>Severity</th>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjBQRzlraW5Nem5MQXI4ZWpUTlByZ2JscUhmeHBSZjNZbUlJbUdyUy11OG95aEpGNkhGekdoRkdUSHFoMDFEQ1ljNENYLVlZRjJ5TFU1TUw0SnJjWWh2QXhoRWFLWFYwTGVFaktjdWJ5bzNQTUhjQTJkNE9IWDd0aTE2MDRsWTNkQW9obkVjaWRGdEJhYWlOSDhUbU1oVTl5eW9xYw?oc=5">OneDigital Warns Clients of Alleged Salesforce Data Breach - Wealth Management</a></td>
-<td>Wealth Management</td>
-<td>Fri, 10 Apr 2026 19:45:19 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmp5NVcwcGViekk5LW5MVERFV2d3Z1F6a1RvaW56V2U5XzcwaWMweW5DZmljakRiM0lhRVpFMkJqUFc3cUwxSTlFaV82RGtpQVZyazdOX203V1BQZFVyQ0JzZHdyVnhlSHVRemRKSmMxdWsyUmVkS3Q0Yll6NXd6SDBoNl9ob1FiSjhZLUhzZHlaVDEzMVZYVFZjYmxzYVJOSFE4U2hBM1Q0QlBUTGdNSHB30gG3AUFVX3lxTE8yVXhYWTM0RzVPblVicXAtNXN3ak5nQlF5aElMbFR1c0l5dEFJc1ktTVBIV0FRT1RSYU1DQ0Z4cUMtWWlmTFFNUDdUakFOU3JSR1otTHpQc3hNY2xEcXRoemlOczUxYWxvNzFwRHVLSkxmSXBjRG9LT2JwOHg4emFZcVJSVjNLMnZrdDg4RmtsZDJXdXBQaHo3Z2V5LVBMczVPQWEwa3lKNlAyYU8yd2F0N1JjaTdXTQ?oc=5">In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack - SecurityWeek</a></td>
-<td>SecurityWeek</td>
-<td>Fri, 10 Apr 2026 14:44:53 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMi1gJBVV95cUxNbTV4ZTNSYzFFdWFCZ3FFV3VYc3l6WUd1VEt4MlBERGdlOVNfOXZhdVpLcTJaSlpyTkdadjI2Q2JTT1NGVTcyS2JyT0FKdFloVlNwMEJGZFlxY0MwZkFGd1FGMDF2Y2Y3TDdNOGxSaTczOUU3R1RNX1R5bWtaWjVQR2NqVVZJbmFFRUFGRkNEMm1fc0JiTUV0a1VZc1RHUk13M0hMOVhKdHl0SFZCR0l2UlV3UXZTMkhQYjNvU3lFMFJWSHBYTG9GbjhBNjRDRjJfRWhhaVFVSkswZ3EtTU1aT3BXUXJyNUtpaUR3a2k2cXltcEFqeTR2WVJ5YlhmWnktOW5LRUQtWnhIb0ZiR25EUjVjSmptSUZqbnROckpBSl9RYm9xdVY4SGItSlhYc3BpUWRubnNtdlNpR0FjcUh2aGdsY3R1dUd0S0dEa1ZBU251ZlNZTGc?oc=5">Disgruntled researcher leaks worrying Windows zero-day security flaw - MSN</a></td>
-<td>MSN</td>
-<td>Sat, 11 Apr 2026 05:15:46 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnhVTkVKVXp6TnVxWmgtZFRDS2hqVlIwVHRCS2hZbkxEeHNuMUIwUEE5bjE1OEhmV2JLWW5pdmFhLTJMb2ROOWczVGFHTlpJX0tUTkNFNm1ZWjBhaFhacjBkUmtCai0zam5uV3VqcVVCVlBJWmxMeGx3S0F1THFoelg2dTNDa2pqT3VmVkpzeC1BUjJydjBTSjdBTFhDeWNHR1gtdkpqbWtrd3JjY2pMd2FwVnhhYTgxeWNiMS1UX3E4a3hjOF9oZVFCZjRteXZD?oc=5">BlueHammer: Researcher drops Windows zero day exploit, says "I was not bluffing Microsoft" - MSN</a></td>
-<td>MSN</td>
-<td>Fri, 10 Apr 2026 19:43:11 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMi4wJBVV95cUxPcHhobWFheGtnRVdYemFTSjRfcTBnR01lUnhfSlIxX0xPajlTRWpyeHdIS0NzNldMX3JhU24zbXZoSDExS2hlTENKVlZyLU1EdVpFenFkdjRTbVN2Z2gwV3hzeFNGMmNncTlQa01uQ056bzBPVTduR2xmVlFIM1UweUZkM3lPVFVrczkxdTRKSldOMFlvc1U3R2Z4YmhBWTg2VmROODVMSVdwQnBSUmRCdU5SdVFIcEY5Vi1XMW5WV0lJS3psX2dfR2FveGtUMVdpV05TUVhNd1Z0enRXcEdaR21iZm1hYnQ5S2Npb29SMFVteElHeW5LLW13dGdtZDlRX040cW9pUGZreElrOGZKQlZQNXZKekkyaU05UlBxaXJHNEJ0clhYRU4tUDNVQlQxN0hwV3FWdXQ5YUlxYkVlTE1TbUowcXU5VEk5TFVuTDcwRy1kNmNMN0R2RC12QWJKX2gw?oc=5">Data Breach Alert: Hackers Target Oracle E-Business Suite For Extortion, Warns Google - MSN</a></td>
-<td>MSN</td>
-<td>Sat, 11 Apr 2026 04:29:17 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPS001ekJpeGRkb0lJX3VMTGdZeVhIdUNqcF96cmJOVWU0b3ljdDl3U010bGRELXVGcnpQN2I1T0VueFRPWi02R2ZWU3YwMlQzR2dsWlFuV3FJX1RlUEs5Qk9zZmwtb2RlanYxSERiZWdKbTBENmhUSDZZLTZXTnVLUldLdWp3RkR0c0JGQnBGbmRtUHFBaTZZdnBSY2ZWbWIzWTRjZnhKTkpDZG5Ga0ZRb3doczdWcVVtTFY1eWRFdw?oc=5">Hackers Exploit GitHub Copilot Flaw to Exfiltrate Sensitive Data - gbhackers.com</a></td>
-<td>gbhackers.com</td>
-<td>Fri, 10 Apr 2026 16:41:11 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE8zVkhyd1RXeThTU19DR2tLWEp4N19leDlJSExQT2g5cFVObGlqVlZvZXlHMS1TMXBMaEpTZ1RtcFFRZzFpTFpNc195Q2JkWmFPZDhmUlJJR0tzRllPTWcwcW5UQkJyMlN6Wk5MbNIBbEFVX3lxTE8zVkhyd1RXeThTU19DR2tLWEp4N19leDlJSExQT2g5cFVObGlqVlZvZXlHMS1TMXBMaEpTZ1RtcFFRZzFpTFpNc195Q2JkWmFPZDhmUlJJR0tzRllPTWcwcW5UQkJyMlN6Wk5MbA?oc=5">Hackers Exploit GitHub Copilot Vulnerability to Exfiltrate Sensitive Data - cyberpress.org</a></td>
-<td>cyberpress.org</td>
-<td>Fri, 10 Apr 2026 14:32:25 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9PcVp5bWUyVHFsY3BVUjBhUUU4dE1KcTdnSWFwc3l6MVZ0TWFOVlRjanlpVjVWWE5pMUQ0eEY2WHRmbUZzVmQxN3U4VEZJMjY5T080NDRwRkswQldkcVJTbmhuTmRQTkhualNfbkh1cEhRUzNP0gF6QVVfeXFMTnZEMTZTWEF6TGIyS3lXWVMwWWNVbXBPNVMwTklqNUZINHFMTnA4cXM0WFkwRWtVOW9RMWJrSkdEM3psYmZEOThPMmFhN202VDBmMWx5MGJBN3BHUElNSnNSN1JIMjY5UkN1Mjl2TTdDQ0twR0V2QklqYWc?oc=5">Hackers Exploit GitHub Copilot Vulnerability to Exfiltrate Sensitive Data - CyberSecurityNews</a></td>
-<td>CyberSecurityNews</td>
-<td>Fri, 10 Apr 2026 12:55:15 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGJ0Z1JFdm5TWlotOXo0T2VNZDRnVHczclFhelc5eURhek5XNVhzdnNzR0c5dWRtTVAzSDQ3eHVIYzZGdVYxMGZEODFNaW5sUkpSWjUySXdRc3B3VmZlNHVvWS1Ga0dxZ2drQkFSczVMaXE3QUczTnRYam41M1RBZVJwaFFPdDN6ZHp3RVI2ckhpU29hOGNwUw?oc=5">Juniper Networks Patches Dozens of Junos OS Vulnerabilities - SecurityWeek</a></td>
-<td>SecurityWeek</td>
-<td>Fri, 10 Apr 2026 13:51:44 </td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQclFaZTM0RjV0aS1xUW5OMHJVaGJJWk5YYmJwX0N3b3dmaDI5WDVsOGxJdzM3X1ZSRGFFZUZBbXpzVFNGbVByOElBQlNWREdHOGcycWpnME9JQWNOVFRBYk1oTlViLThNTE45bUtCUEoxbWtmWDB2LTZsSVBKM2NVcm9qVEtaSlRjVjFubHpzdHQ5eHpQLTZNQWR3?oc=5">Social Security Scam Emails and a Healthcare Data Breach: This Week in Scams - McAfee</a></td>
-<td>McAfee</td>
-<td>Fri, 10 Apr 2026 20:48:54 </td>
-<td>Critical</td>
-</tr>
-</table>
+  <tr>
+    <th>Title</th>
+    <th>Pub Date</th>
+    <th>Source</th>
+    <th>Severity</th>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBfbjI1eGRiTHNzeDA5VkRJbm5TaFkzNUVjUnpBSXB2STR3amZNVWVPQWhqelRDNWJPM1ZoV3NCUE54dFYyaHJoZmxLdk5TQ1ZrcTBoemRrd25sSzVLX2FkQndHZmhXdXJ3OXhSR1I2V2I5T1RzN05aLTZaVQ">Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621 - The Hacker News</a></td>
+    <td>Sun, 12 Apr 2026 04:25:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdW45T1pPZUEzN1dFMXZ1dC1ydWliZFp6WVN2akFITDNGZVZuYWdIQ3VJM2p3NDN5dmdQY3hmbjFqMjF2WURmY1B0UXdfT2hXWFlCLWZ2Mm5FZ1BpZ2hIRHlHWUpJS0FHdXEtbGd4VklPdWo0MUpJdGxXa0xXM3pNeG1mQ3R0Y3haM2M4Z3ZHUEZ2aGdvckZmR013a1BTV3ZoZUE3YVdPRQ">Adobe Reader: Emergency patch for 0-day vulnerability CVE-2026-34621 - BornCity</a></td>
+    <td>Sat, 11 Apr 2026 22:26:19 </td>
+    <td>BornCity</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQMWpmaGFOTDhvYWZHOGFkTUhVSkdfZ1pMdkZnWFR0M2xMV2NVeEl2NWg2bXNCMk9BUlE1OXpzNUl0OWp1dERrOHNPZVQ1U1JIOHpLdENYSnNaUGdESFNMVmZhZno4MGo2NFM1Ym5CWW53TWRFdEU5SVFDdmdCTWE0YW9JcmpOZHZ2RW5sT3dMTEJEUnR2YlRhbVpYRVJ5ZnFBcl9yWUJB">Adobe Reader Notfallpatch für 0-Day-Schwachstelle CVE-2026-34621 - BornCity</a></td>
+    <td>Sun, 12 Apr 2026 01:09:31 </td>
+    <td>BornCity</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOV0kzSnBuVTk3ZlhnX2YtSGJZY0U4Vm1WV2s3dDZBSk9QUGdQcEJTNjVhMlVxYXdsQWZYU09YWWdYNHNmcnBEUE54dFYyaHJoZmxLdk5TQ1ZrcTBoemRrd25sSzVLX2FkQndHZmhXdXJ3OXhSR1I2V2I5T1RzN05aLTZaVQ">CVE-2026-39987: Marimo RCE exploited in hours after disclosure - Security Affairs</a></td>
+    <td>Sat, 11 Apr 2026 09:52:42 </td>
+    <td>Security Affairs</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFNzMFpoTVdMRVZodTZPTWRMUmVZWTVHZ2M4NmFDNnRLUmNkVnJuaW9rMk1IY00xejJKYXJjVThhUWhfeHI4M1R4QjhhNHJYQmlaWXJzTkxUcjVjRVpkUjVqUHl3REZhcV9ueHVzZUtpZUtLWUlzOFlBODMxQTVUbmNJQVg">Adobe Acrobat Zero-Day CVE-2026-34621 Under Active Attack - cyberkendra.com</a></td>
+    <td>Sat, 11 Apr 2026 17:00:00 </td>
+    <td>cyberkendra.com</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjk1aDd4Q3RVOG9VazJjLTFPOGVLTjRtUTRCSU8wM0F6RllHRnhWUTJVU3RuUldQcTVwbHpzM2d1bWd4THc2UkFuZDg2RTBoRGg0akpqa0lPQW5ER19xUmxFU2dEZlpDY3AwdkFhQmVuTmthLVFDLUV6OXF0NjBKeC1pbVRPRl9xYlRlNTJPZDJGQ1Jza0I5MXdPWmNrUUVUYjNubjlZVXA">GitHub Copilot-Schwachstelle CVE-2025-59145 erlaubt Datenextraktion - BornCity</a></td>
+    <td>Sat, 11 Apr 2026 18:02:20 </td>
+    <td>BornCity</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNS193TWVYRHhYQlVLOUUycDVBbzltNUlndTNZNXVoTENoUlA2OUZER1RhUUx5Y3YzbEVIVTZya243X2tHb3JNNERyWFhfTjRsTWdiWEZzWWtnelAtcm53R3Q4TzIwQmZuMU12WW9CaFNfXzc4ZExIbHI1X1pkYjBWRktVWXJ5MS1ScmRmbThwaDc3NnoyNTR5bDZEalNpS1hLcWJrVHpyYzNYOFVxQlJYVHhiNA">Week in review: Windows zero-day exploit leaked, Patch Tuesday forecast - Help Net Security</a></td>
+    <td>Sun, 12 Apr 2026 08:00:55 </td>
+    <td>Help Net Security</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1ZRejV0d0p6N0Q5OFhGUExCdlRFTjFFNTM2MlZraG9CNUw2YWJ0QUZ5RVRGTWstYkdJbUdtbTVXRWdlMTE1T3NHNTBhdWV6MXU0NXRSbDR6MU9qdU9PTWdBb3BiZ3FpZmswZ0w1UG04VHBTaDNIMXdfUHptd2hJSFBoRXNJZDIzNVdnVkROSGJqMmV5ZjA4MGtiRlBDV1c5ZG02elYtZlkwUEZrNHZwSXZ5QkJBNTg">BlueHammer: Researcher drops Windows zero day exploit, says "I was not bluffing Microsoft" - MSN</a></td>
+    <td>Sat, 11 Apr 2026 18:28:14 </td>
+    <td>MSN</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaThnc01hSkZxSEZVMGlENWJBM1Vva0xKckY4cGdaVXB6WUFqdVhJcXBnaHNXU1RCOVNfM1JhM3pweUNLY3hkbXRMeVBlRkxLSjRfS2dnUkdPT3hIYml3Y2doTnpHekZ1Q2l5d0E0YmxBZ1hrVlVtYXBva1F4cnpDWEZnTmtNb0UxeFJ5Sy1iSzJRQldRcURRajBCQkRRZXZkb0lPeEtuYkVWTWstRHkzTEdWQlNuTW8tdFF3cVNka2dqbDQ">OpenAI Reveals Security Breach, Tightens macOS App Verification Protocols - Benzinga</a></td>
+    <td>Sat, 11 Apr 2026 19:41:19 </td>
+    <td>Benzinga</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMlFJUTE3eDJPWXAyb2lkT2EwWDJJeDlRQ2lRQ2MzLTJ4LUR0TGtxRWdXRWRBMUcyYmEzVERSWWdkYVgtUUN6SjBvYzJCYjFEU0lNSmx0dVhUcjRVbnFVU0tUanBiQ0JGZU9KRDQ0LXZ6STVOTUFhZm5TNi05dGdnQ0FoSlA1bS1naTZJSkFHcnFhQ3NQZjJHVEs3OWNIeVpaczVfZUpzXzcxS1ZxbTdFZ1dsTW1xcHR4Znh6R1g5YUM">OpenAI Tightens macOS App Verification After Security Breach - National Today</a></td>
+    <td>Sat, 11 Apr 2026 20:11:24 </td>
+    <td>National Today</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQVJ3OTBaV1BnSEdocWJ3UktXdDU2aVBTblN1eERVERmt4eTJZNW51aFc2Q21CMnlzV21qbG9EN3Z5SFZMbWxQcVQ1ajZCX2dlTXRjdExqVkFWaEd3eGFnX0ZuNUFndXZNWGRDN0QtenNFZlVSby1CQ0N2bHBRcVBTckUyd2xqX1M4SU1zWkhTZlRmTklaWkgxNkd0OU5xWEY0UW1Yai11NkJuVEQ1QXNsVVp5b3NjbDJLdkRYQkNrNnFmOGZtOFR2SFRGQUpOVm5sOHJ4R3hCR1B1WG93U1FBTThyV0ZUMTRCOWdoYmlpazl2SUd10gH6AUFVX3lxTE0wZU5veGhaOUtYSFRmM3kyTUVxME9aMFN0UHZPQ3ZzQjRiQXREbnlGeWhDanhiblFBU2Jkd05sa0RYdi1oSlZ3c2JZazlDd3Brc05HOVlKNF85YWN0M1o5QlNEczBFRE5RRVd2eEJ3U3U4U1U4UTNra0daeDVwS3NHN1o1R0RLYVFYSG9xVi1VZ1E0R3d6N2lSUG1fTTUydHdrNERoLXQ0dVBMMFpLV2x3VXJZakVabGNwelVYVXd4ckdYX3p1amVwWEZabVQzNHB3Y09IVVY5ZUZzR3RCM1A1MGtLcS15aEZIektvVUluNk9LTGF3bWNZQkE">OpenAI denies user data breach after Axios developer tool compromise; asks macOS users to update apps - Moneycontrol.com</a></td>
+    <td>Sun, 12 Apr 2026 06:54:47 </td>
+    <td>Moneycontrol.com</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE83NkJhdzZyWDFzYzlNbHllV21kREs2Ql9LM0lmcDl1UTNKSnE0ZHlnUDFVZWlzQjNoZHdxLWRyS0hJX1d1aVJ4QjNFNlVjdk9sMTBXUkFpcHVuYTVpbEHSAWNBVV95cUxNaEwwWHVkTDlCZlFlS0VmSThFemNsTFdGM1g4TlV5RGNQSjlFM3NvX0FvZGlZTDBtNUJfcVdXb0dzd05LQXN0ZW5LY2lYUTVNRXo1UXJFb1FjZkpSbWZZdzZjekE">OpenAI Warns macOS Users to Update ChatGPT and Codex Immediately - CyberSecurityNews</a></td>
+    <td>Sat, 11 Apr 2026 16:56:52 </td>
+    <td>CyberSecurityNews</td>
+    <td>High</td>
+  </tr>
