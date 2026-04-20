@@ -6,39 +6,51 @@
 <th>Severity</th>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxOYlBNX0kzMHVZanBMTzRaeUpHeFRxUzAtbXJ4alNJNzdxbFRWbzA2aVcxWTNVMkxFak1XRV9wRzZGQzVJM1ZKZGcxNUxrWVNEUjFLQkFEYWNoeURwRXpMSnZRQkhaUURhbE16dFRHRHRlanpLVzBDOE9HNkVUcTZURFVPTXYwTEYzWUhRVHFISXVJbl9YNXB2aDFlX3kxalFSYlNMRDZR?oc=5">Microsoft Defender Zero-Day Attacks Hit Windows as Two Flaws Remain Unpatched - Bez Kabli</a></td>
-<td>Sat, 18 Apr 2026 17:15:10 </td>
-<td>Bez Kabli</td>
+<td><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOXJYOFRWei02MlpLRzZfdE01YlpPd1hmUUliaGN1ejVNVUttLU9MOWVzQVhUT0lRZEpqVDVBQkUxNTVnTFVoQVhUc2tDWDY4NGlZMGtzWFR3VTE5V3pGdllySGJzdlFPM3pwaFBUMkJPNDF2elJNN0xKNnFsWXN5MmZnWncxRTN6WFoxbzc4NVE5NllPVS1jQUNRTHA4T0txZW5LSDFnTVJyRk5OS1QxR2VMZmNJbDZEQlNGaXF2QTl1M3NQdGN3TTltT3hLQ0luYmc?oc=5">Every month Windows gets an emergency patch, and I'm running out of reasons to stay - MSN</a></td>
+<td>Mon, 20 Apr 2026 05:19:15 </td>
+<td>MSN</td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQVjlCc20yS2NnbXBidWtiSVJzTU5hMVFYRmZaSDRpUWxBbEFoS2hBSUFUeFlhSXlJLW43RzJpQkg0VFh4MGZVbkdYTXk1QlJKSlpKdjBVQVRtcXdSQ0p1Mm95TzAtM2F3ajBOd2pueHpYcDhKZmMwNlFXU0hzLWp2UGNHZURmQXM?oc=5">Windows April 2026 update bug, LSASS crash, reboot loop fix - thewincentral.com</a></td>
-<td>Sat, 18 Apr 2026 17:46:10 </td>
-<td>thewincentral.com</td>
+<td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1kSGVMVl9WVGg0bUNIYVBJTDlNTmdsLXZEYXhITXNNTnJaNDRaVURkVkxfNU44aUlXUERIYVRfS0h5amYxQjNESlB5dTd4aVg2aGFZc09HSHRiUHhqYjRuOGF3NHN5bUp4WjZfNFhKR0l3UU9H?oc=5">Windows Defender Security Flaws Actively Exploited by Hackers - SQ Magazine</a></td>
+<td>Sun, 19 Apr 2026 08:29:37 </td>
+<td>SQ Magazine</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMizAJBVV95cUxQZWxzbm44SllEU2U0MWsxUXRYVkctNkluNTl2OGVMT1Mwc3ZQdnBILVhvT0ItNkpEck1IQURYY2hWSUxDRVJQSnVaVUwyNzgzSlhFNU92LXBCc2laakl4Um1SSUR6eVRVS0FyNTJoeUkzcFlVNVVHdUliSUhWWXlSQjVnYTRRam9OcjlOc0FlT2VwVE10enlkcEJJcmNuVC1hOG81cnE1RTUzdHBPQVJHNXhZa0wwMXdqS0RjNzVkQVBaMlhSR2FXd1JubktQSmZxT2tCTlF2OHB0bnZ2UVQtNGxOeHV3ZTBvaDEtbV96bTdldmhvV3hMaWFDYjBGUVY0dnNKOER0cjdZa2lNZU1VTkxtRmNVUlNrRjlwWGxDVklBejluS3VRd2kzOHA1ZHp1OG5yNl9jTFhET3lMdXd0dV9Jb0V1R1V0WXAwZw?oc=5">Disgruntled researcher releases second major Windows zero-day - MSN</a></td>
+<td>Sun, 19 Apr 2026 15:11:22 </td>
+<td>MSN</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM2ZBOVJ6NHJYQVpQRWFYSGkzR3JqSmJTc0kwem5ydXZiVXlQUWExSGRRekphTUtmNHBhS1J6Ujg4YVFMSzFrRlBEX0Z0Z3ZFOGdreU1QREhNRTBFbkVva0o0R25EZU12dkxyN2Z2enBkcmE4QnlBV0s1LVVBb0RiOVlEWGd2NTA4SzVIc2RWQ3QyUV85a21uWVZWOFR3Vlo5Vk9XOE5IV0ZoWHJ0bGdDcklXZUJaR2xEQ281WXpFWVZjWUJCdzhZNUFTb1dkQ0FaS0tUdUk4Qm5GOW1iSzl3Z0pNM09udw?oc=5">Over 1 billion Windows users at risk after disgruntled security research leaks Defender zero-days - MSN</a></td>
+<td>Sun, 19 Apr 2026 15:17:52 </td>
+<td>MSN</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi3AJBVV95cUxOcF9fV19oTFJsZmZiLXFpY0l5SkRxWkoxZGE4cTdFMjFnclh5eXd5TDkwOVRtWDZ0NHZyR2tjSGtNajc0YTlobW5SRkY2VTBod2hjWkNvVjlZa1VueVJBdWs3NFhmNVNXa0EzSTNVOVNCYTZXalJGUWxYYlItZE93VFpIaUIwUHZBbWlmNHhUSjE0c0poRTAtY010VzdMc0xYOWMwTGxEYUQ2U3h5Rko0SVR2R3REZk5TbXprcWdTaDZzQ2w0X1p4V2JPYXdpM3E5QU5jMDVmdXo5cEpDaGl0RUZuYkdfVzFLUGVRLVlvZmhwTVJJMHBIR0xwYnRIYm15VDY0eDRpNjJjMzNWUDlUeUhKT2h3VkJqYkNwY1lzRnJYbW10aFpWcFZPUGR1S2sxeDhiSGlBZWdMaW9ncU8yWGE5Q1FhN2d4YlFWWF95OG82ZWlJbEhTTzJSRzM?oc=5">Microsoft's April patch puts Windows domain controllers into reboot loops - MSN</a></td>
+<td>Mon, 20 Apr 2026 02:35:20 </td>
+<td>MSN</td>
 <td>High</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnhVTkVKVXp6TnVxWmgtZFRDS2hqVlIwVHRCS2hZbkxEeHNuMUIwUEE5bjE1OEhmV2JLWW5pdmFhLTJMb2ROOWczVGFHTlpJX0tUTkNFNm1ZWjBhaFhacjBkUmtCai0zam5uV3VqcVVCVlBJWmxMeGx3S0F1THFoelg2dTNDa2pqT3VmVkpzeC1BUjJydjBTSjdBTFhDeWNHR1gtdkpqbWtrd3JjY2pMd2FwVnhhYTgxeWNiMS1UX3E4a3hjOF9oZVFCZjRteXZD?oc=5">BlueHammer: Researcher drops Windows zero day exploit, says "I was not bluffing Microsoft" - MSN</a></td>
-<td>Sat, 18 Apr 2026 22:47:03 </td>
+<td><a href="https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRTJKSmJmTl83RjVPNlgzcF9pRU8zZjBESlpvZnlaVzdSb0dwbVU5ck1JUUhJVEhacHFHR200RVk1WWNyNzVBRVZrWEFOSUlrc3dieUVYemRhdFdDMkFmaHpYdFdqSERVeW9iZ3N4RWlOY3UzYWZYQXlFZmxyelVWY2E5UjJTc1RjTG81Ykc2cXVoc1JvSFQ0akltUWU3U19JTmQ1RU5pcVVjUndMeVhjckEwZnN0Rk56MTF5cmdGVTdKUF9lNXhPYkJNNy1EWkQ4bFNaMGZ0eE9qWHZxX01BckV2dmN2aTZvSlE1Vm5aNTdPZVlHbkFrWDc4cmY3STdMMUR3VEg4V0FrRFdPZUhtTTVpTEJnX0JSZnplQWYxSmFWZjM5VEdyQWJ5ZXBrWk92MjJBQ1FCLVRlMV93VnV4TWU4RjBLMVBKaGtIY2dNUlNfSkFEZ0E?oc=5">Cisco tells Webex users to patch critical security flaws immediately - MSN</a></td>
+<td>Sun, 19 Apr 2026 17:21:42 </td>
 <td>MSN</td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxPSmE2SmFkRlhwWEZIZW93d3psUE5leW43Wmg4V3pMTmk2QmttaThuWEY0TEFPWlYxcm5SVE9PREF5bWUweU12U0QwalE5Yzh0WXhGNkFDeUVlQVdvNXJVczhKTTZoNkV5MnFESkFRU3BvRzNQZF9MSmFCVzd0dTFvQS0yT0lveWxkM2N4aml5b1FDUlZ0Y1d0dERyQm1tQ21EVkNJU1dmb3JERXo4NnNQb2hFZmhuMGRpNUVJVDREYjgxQnZTR2N1ZHZDbUpNdnByOGJpRTZSNzJnM1NGdkdhV1hpdkVnTWlPdEpQV2w0SHJEbmRvT2p0X093VlhqOGI0?oc=5">A dangerous WordPress plugin bug is being actively exploited - TechRadar</a></td>
-<td>Sat, 18 Apr 2026 16:25:00 </td>
-<td>TechRadar</td>
-<td>Medium</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1lQV1NDWlZiMG1BeXdPS25pYWNtSWVCcXJ4UV9uYjZNVEkwRm5QT1YwN2doZVBiYkE5ZHNzbnNHUjd2eFZ4V1hXdW9jbU9RSHNReDhuTVI5ZmNrN0dQQml5bmZKQ3o5R1ZQSkdkTU1WeXVhd29ELW5PYVNCRnFpQ1Z2WWVzSkhTNnc3eFVVdFlPcmNiM2E5YzZaZWVySjV5WlRwallIcFlTbTQtbVZDZjk1ZUU4aEI3X25aTVJJTGR6RnM?oc=5">OpenAI forces macOS app updates after third‑party tool compromise - The Daily Star</a></td>
-<td>Sat, 18 Apr 2026 08:28:31 </td>
-<td>The Daily Star</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiggNBVV95cUxOYzF3N0RWS211NWhfUE9BWlViRWd2b2h1TVc5OTZZTXlCS19VYmNUYV94NkpqbGQ5Vm1Ia1RSM093UUlvdHppdVdxNFhJdExlNGhMdl9xQlhoSHZMdlQ4VnpxQXlvTDA1Z3AzajhlTF92aDJ2OU5uMEVEZHJCaWdFVE91M2VUTHFyaHYzS01XX2k2SFQ2RkZhSUc4blBVVHZja1FEZGY5Wjc0MXFsaTktcHA4MmRyYk84Z2dGQU9aaDJ0cnNSZHJuejk3TWJWaGE3MEtOSWtHZ2g2cVhaWWx4ZzY2eGFpN3hJUVVnYWRxbXcxSm84TERCOFlINzFZMDNkUHB6bVJxdVpnZWxDbXpOSWJZRTZWVU9qYk51RlhyUXdLOWNDTmJ2MXNYdmlsNWJMMHltV2phYzV5ZGM1amhCVTJKSEM0R3g2Nk1vVzA1Y2F3M2tTSS1saXpGMHZTdW5EMmZpbmNqWWI5bndyWFNNY2MzcEpLeGZseFJpSWhTcm8wQQ?oc=5">Apple releases iOS 18.7.7 to block DarkSword, and these iPhone users need to update immediately - MSN</a></td>
-<td>Sat, 18 Apr 2026 08:40:17 </td>
-<td>MSN</td>
+<td><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9LdUd3VDN5MUsyaXlLLXpJa2ZlTE1KSDZkUnJJRkFSbkNYblRGTVFIMzYzQ3ZqWkIyaDRReHRFNzg4TmdmQXJOOHBiSmJhUDJYbEEtMzNEUUxvUDBCbFVnTVg5N05LYmVJMkQ2dTEwR1MyMzM?oc=5">Cisco ISE Vulnerabilities Enable Remote Code Execution - The Cyber Express</a></td>
+<td>Mon, 20 Apr 2026 06:11:43 </td>
+<td>The Cyber Express</td>
 <td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE45OExBRG4zdVZ5MkdxVlNFa3VRdmQxZTV4TUFjRzVadHRYbENlaG5Fb1k5WG9TQlREc09iTEl4cGVBUVhLbE9icXcxeEFOd3g3bktwOXlqSWVVY2M?oc=5">Hackers Exploit CVE-2024-3721 To Deploy Nexcorium Malware On TBK DVRs - cyberpress.org</a></td>
+<td>Mon, 20 Apr 2026 08:06:27 </td>
+<td>cyberpress.org</td>
+<td>High</td>
 </tr>
 </table>
