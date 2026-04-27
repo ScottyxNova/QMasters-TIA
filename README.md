@@ -1,74 +1,62 @@
 <table>
   <tr>
     <th>Title</th>
-    <th>Pub Date</th>
+    <th>PubDate</th>
     <th>Source</th>
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOWUxWWItZTI5UVh5WWxDWTVmU2x2QlJPMXlvMFU4MGVES1d3cEtXWkFJbk9zSVFOVC1ISUNUSHJULWNlRUV1YkpFdGRPY0pVNDJINW1zckVtRVR3WHFPa28yand6YzNZN19hOWY0aTkyanNOLWVXNjJpbmRxRGNXVkpzZXFXdEhqb2ZGbWsxdVdSLUVvd3NSWmhjWldzWlF0TmFLQXVJSzBTM1lhbDN5Yl9sMm1vRE5GYkk2TUJxeEVBajNERDVBVkhsV28ybzJKSmpr?oc=5">Over 400,000 sites at risk as hackers exploit Breeze Cache plugin flaw (CVE-2026-3844) - Security Affairs</a></td>
-    <td>Sat, 25 Apr 2026 14:29:29 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMi7AJBVV95cUxOVjN1amk0cEhFRTNDTEJWcmFHa245cDV5aXdvQ3Q1Tkk1Rk5LZlg2eEE2c2ppc2RXdkowQzQxX3dHSWdCWGU1VXRXZWM4MVh2c0s5Qk55QksyTHktUC1WbjZ6Vm8wZGx0a3dtMzlzMWhFNWRpV0NlbkdXcmNmcnVxMTI1Q0xyRk5LSU8waHYyN1gyVFd6OGJsMkZaVkhXeTdUbFJaeWVMTllxS0pmaFVIS0NCX1BhREJhWDJkeWtuYWdzR29iQldtT3JpOE9uajNmdG1TMDNoU1gydkpLZDlyZHlTTWZPX2tFX0JNTmpFYTFYTHZuVlRRZkpLaVVCS1FoaUZ6MVAtYmFxZi1MZWFJemtoMVRqdVNwcEMzY01GOE5neXA4U1lOVGFvby1iR2FqcTRMWEF6WDlHQU1RT2lYN0lOejBnbUZhRGZ1QnY3ajNMVzB0T0drcnBOY2lPWV9nc1l1RTJJS3RLdEdl">Apple fixes dangerous zero-day flaw affecting macOS, iOS and more - MSN</a></td>
+    <td>Sun, 26 Apr 2026 15:38:42 </td>
+    <td>MSN</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi9wJBVV95cUxQdW9MdzJCZTJObGR0SjVYVFhmYW1FVlp0OXA2OFlJMHdiVDlJZUxTeGJ3WkVJclBiMENGbzdQVXpSdjdNaEoxMzR2cVRpTU9sOVJtT2p2amFSVGRRdFQxcEFGbjZkeVRQeHhEYWR4dW5yOGYycUhRb2xUXzYwdWVsbVpkaXZ2Z0ZjU1ZwVkUtMkFkaXF4T1RZR3lUVGh4cFBkNkxNQnR4TnJBXy1Na3Z0M1dpWElobkltRkJabTZDMUlIb0pGWURWeXY3dF81X0NIQkVhdzJQUU9MTXpYdmhrY0RLQ2tPN0s1WkVqYXNnenJnM2lrYTJ4dTBUbUZwT2t4OGVjTHBaemRaUlZJTDJ4VTdpeFN6c2Fwbkt2TEtLcndrZDZ6QmdscDRMYmstbTRxaks2RS1rbWZxbm1NS1lTWEN0ZnllRmhMLWNVcldaaHJhcXFITFhnX2QzQm04NFRVTlhxampqMjVRenlfSXlQaU5XTnZMOHM">Apple iPhone users, urgently update to iOS 26.3 — 39 security issues fixed - MSN</a></td>
+    <td>Mon, 27 Apr 2026 00:51:37 </td>
+    <td>MSN</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigwNBVV95cUxPVUpMTm9aVl9rMEdSMVJGeUZfbFh0bjF3bUVUVE5jZWZ3eWpHQmtUSXlBbXJjSDRGUkhkOVRUdloxM3NNNzV6TVJaOVlObGJfZ1Jycnd3ejFEaVhia0hUZkFiUmk2M1o1c3VqYmJPT1NfTU5xY1FleTR2cnppbnNyWHVlVUJzYmtMZjNMeG5Eb3V6Qks2cU9oVHZnQUstcU1QU1F0dkhMY0Z0cDQwSHVtMTJwOXFSNFlsZWhRRTkxQWJBc0hTU0EzaEYweWlsZG5NQUdfUTNBQzJsTXVmRWJCMVh2UzRsRkpkMWstNks2NEZaUVNiTElyVE0tMmEtOWcxcGhVM0V1QTVWX2ZhV2NtWEpZcUxUd1Y0Ull3bzNDR29TdkxCVzduX3pOUHNHeHdfQzg2M3BMdUJheTR0elowMjRFZ2ltaUdaYnFvNVNoRm9KWUpqa0tlR0ZwWDVOTUo3V0RoT3ljQmh1Zmk2ejM5M0VlSldfNUhNWm82RWg3Y0R3cnc">Apple patches iOS settings 'flaw' in iPhones that FBI reportedly used to extract deleted messages - MSN</a></td>
+    <td>Sun, 26 Apr 2026 12:02:03 </td>
+    <td>MSN</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeXJrT2lDWktKZm5QYkVkaF9Wa0Z5MlRfWmZtZHVQTWpJUV9xUUlvM3F2cDI0QzN0TElsR2ZXX3NwNjlWSUN2eVNwaFIxbnFoSHZsRFBqU0FzN2Faa2ZJZXc2VDdXZHZqakw0cGtjSXEyWlZac2lnekY1cE5VM09OVkhOck80bmFRRTdnczBSS2xnbV9aU0hhZldUV0N1MG12TWh5OWc0RUt0dmthMnRhX1g0UTAyU2pMOXdRZ1B0Tm40UQ">Apple iOS 26.4.2 Fixes FBI iPhone Privacy Shock - The Eastern Herald</a></td>
+    <td>Sun, 26 Apr 2026 20:24:10 </td>
+    <td>The Eastern Herald</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi7gJBVV95cUxQbC0tdXdwWi1vUHpCWV8tLTRZWmdVN3RDc01lN0p4dnhVdnlxMzZ0eEQ5UW9XWjZabm45Z3VIQTNJdFd5anh5TnVEdkVFT1B2dFJyQUJONGZrQ0wzTjhkWDNPSGhTYTRKaG5veUt5cjJEczBMcWt3RlItOVJjTll4SFhib0ltbGFaT2NaQl9WXzZWNk1mQUFGSWZXdlRqTUwtemJtVlhFTlRfdXg4WnV6Sm1CNXpNbDBTM0h3dWNFN0pFU3BTSERzUHVEUDlwWXctd1gw">Apple releases iOS 18.7.7 to block DarkSword, and these iPhone users need to update immediately - MSN</a></td>
+    <td>Sun, 26 Apr 2026 18:23:28 </td>
+    <td>MSN</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigANBVV95cUxPckJsMVVwSjZTTDFNWEFQb3hUdXljLUxrUUlIN2hoNUVsUVN3akJheXQ1ZjlKTWdWdUZrVTdIM0ZNaXlxamVEU0Mtam03T3dLOE9rcEdCaTZJd1U2WVZidUVsdVgyb09aMllaeGU4ZmRFQmdVV2ZGWFk5S2hWelhGSmdOdzUzNFY0OFVaTmlnMFIzVm4yMndUTUhpcUUxdmtONTM1ZFJGYVVfbGQxNXY1alMwZnU0dFRUS2g0QTQwcGduOXAtT0JUV0twbGF3eU5ZU05tWFpyLUkzeG9GdHpvSmZvdUV2WnM0M1pfSTlQQjRmVmxNbVhRTzdNaFBvX05yNHFEYWRNQy1fUHUyVUg1allZR0d6ZXQ1ZzNWU2V6SFZKbW1vMkRnSmZ6V3o">Google Chrome's latest security update patches high-severity flaw exploited by hackers: Here’s what we know - MSN</a></td>
+    <td>Mon, 27 Apr 2026 03:48:51 </td>
+    <td>MSN</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi7gJBVV95cUxQbmFibmdHdjV6TjNnaXFKSW8zVlBZdmpRMUJkZFVXd0tEMl9qQVlKX2ZYdkNHRXFfdTBxRVg4LU1IbzVfRDRMZXVJT182LW4tQUxUVDVqS2FUNl96ZllhaGJUVVZhUW04ZEdBU1NFSHRvZ1Zwd3lYOTRMN1dZWEtlMy1uQTY0ZGc1UldXRW13aW5yb1JGb0ktT0t3cmRiZkhlbWpNTzFRQjdZMDRmQkJyWVlIUDZhZ1Zla0dhX2s0SlVDNUpOb0s2T2NqUzlSNzVMc3l0TVJESXZPNVN2UmJMLXBRa1NTZElEYlNtbjRZenVYRFFoYThvRUtxQW9QZnRNVVNfRmIwb20xOVhPWDJkb2RTWkhfbnh3REtmZWZsQ0NmSTlFR0NVdkY4dnN2N3BjVlZHOWlyZWljVm5wZDdmQTNSX092RXFMOU8zWWljallEM2t6cUNSLTkzY3RpcGVyaXFHM0NvbFNhdC1SU3c">Microsoft issues emergency update for Windows 11 - MSN</a></td>
+    <td>Sun, 26 Apr 2026 15:32:04 </td>
+    <td>MSN</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWxHamk5Z1pkS1JhemlNdTBONU5hMktmbTJra2p2WDVnT3RkcjVQMUpBOVk0QkhUeFp2UEEwdVlxSHJGc2hoQW9QaXdwV2VfcTVpUlFDUlZtZG5MN0RTakZsU3VHdm5nY2FUNl9QOFlrZVE3SXNBQXoxcjdXWDZzZ0FndXBjb1psbXctSk5FbFJaWTBpQXk0YVdwOWZUM3dRVXBJUEw4ajBHNGo5S3diWWU4MFplWHRnVExySUF2ZzdhWkZtdnJtWnVZR19QaGZqNVllaUhfTXpjUm1jV2RhVS1Gaw">Critical bug in CrowdStrike LogScale let attackers access files - Security Affairs</a></td>
+    <td>Sun, 26 Apr 2026 16:08:15 </td>
     <td>Security Affairs</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNUnNaT3cwa2VUUmZNYUw5UlgyYXVPMXlaYjg2T1pSdENWbi1vTFJHbjVqQW5jc0Nma3ZQd2pHYVJOcHBOaTY2VVZmclE2dWxJcnVNQVF4V21IejV3dTZ5dmt1eUw4cXVYVmVhYWNvVUZTX2F6dFlrYzdsMUkxS2g1SkZhUWh3RHl2ZVB2SzMxSmVpRGIwaUd3YkpfUXVRb1Y4Nm9LNkFHcFFoVmdnUzVLUXlvaGp5UGPSAbcBQVVfeXFMTVJzWk93MGtlVFJmTWFMOVJYMmF1TzF5WmI4Nk9aUnRDVm4tb0xSR241akFuY3NDZmt2UHdqR2FSTnBwTmk2NlVWZnJRNnVsSXJ1TUFReFdtSHo1d3U2eXZrdXlMOHF1WFZlYWFjb1VGU19henRZa2M3bDFJMUtoNUpGYVFod0R5dmVQdkszMUplaURiMGlHd2JKX1F1UW9WODZvSzZBR3BRaFZnZ1M1S1F5b2hqeVBj?oc=5">Urgent iOS 26.4.2 update fixes flaw that allowed access to Signal messages - Mix Vale</a></td>
-    <td>Sat, 25 Apr 2026 22:05:07 </td>
-    <td>Mix Vale</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWlCcEl0aHpLMTJ4Yjl6X2ZVMnJ3Z1VHRjJYOWN2V1gzYjdwQ1Y1dzJ1aUNpd1lqMmFIWVBQMF9qcHA3Q2lJRWtoSE9MNmlSYnZPTVdqVnVFN3BCU21ycWNHb3lTMXJKZjlELTE5QVVvYTlMRHp3dGV3TVNvbkV4SXVHT2dHR2RSY0FvRm54ZGZOeENJaktUdW9JanVTelpiY1B1ZlJwT3FxM0t5dzB1eElyb2dhdw?oc=5">Apple issues emergency iOS update to fix privacy flaw exposing deleted messages - HESPRESS English - Morocco News</a></td>
-    <td>Sat, 25 Apr 2026 10:06:36 </td>
-    <td>HESPRESS English - Morocco News</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOSERlRS02RFlOdGRaTC00NlJad1pMR3FMVF9EUV9YNHFiaUNSUEQxN0xwUTNfMWRkdHVkX1NQX2xibGsyamVvYWkxd3VpaUJfQ2t0eFkzU2E1RXc0S2ZPRXJtbWgtaGprUDY3Y3BWMEwzVk1SdHdqc1p5emgtYVdkY096cHZRdktqazBvUTd6LW9wTV9aME5RSHFYcFdtekkwTllNRlJEejIwdVk3VUs2bjlpQm1qR29QbjdsTzhodw?oc=5">Apple iOS 26.4.2 Fixes Privacy Flaw Exposing Deleted Signal Messages - The Eastern Herald</a></td>
-    <td>Sat, 25 Apr 2026 19:44:36 </td>
-    <td>The Eastern Herald</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0dBRXNvZUpiSGFDN2QxYzdUQ1lYT19FR0c5UVdVM051VFpLcHRxak9kM2dwOXNMS1puMGp6Qk5LVWt2Zkc1dFJlVUhMUkNQSUFkLVZoNmFlLVloVU0xOG0yYnMxZ3BMYVRPMW04MVFjeVlxMV94SUtIa2tsN3Npbnllb1VrdEVCdWZ0UXhpdDVrazFMUjZKdzZFeFVPSTQ0a3d0LU9Jdlo1RW1HMWtDOGE3QXjSAbQBQVVfeXFMTTdHQUVzb2VKYkhhQzdkMWM3VENZWE9fRUdHOVFXVTNOdVRaS3B0cWpPZDNncDlzTEtabjBqekJOS1VrdmZHNXRSZVVITFJDUElBZC1WaDZhZS1ZaFVNMThtMmJzMWdwTGFUTzFtODFRY3lZcTFfeElLSGtrbDdzaW55ZW9Va3RFQnVmdFF4aXQ1a2wxTFI2Snc2RXhVT0k0NGt3dC1PSXZaNUVtRzFrQzhhN0F4?oc=5">Apple fixes iOS flaw that allowed FBI to recover deleted Signal messages - Mix Vale</a></td>
-    <td>Sun, 26 Apr 2026 06:41:17 </td>
-    <td>Mix Vale</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUFlRFN3ajV6cjI2bjRuaDIyX1g0VHQtOFZ2R19LMlJGdTRPYjEyNXVyRlRDVmNEbXFoY1ZqeXg2Yi1BZFhRam40RFo0Q3RqM2h6UVVrYmlCRnVPX1Q4bWI3OUFrYUtzNWl4Njlkc2JKMjJBZkhkS3dKNXFCY0M0TmZLbjRiVzFRb1pncHNRcHBZbU5CQk9j?oc=5">Critical Vulnerability Exposes Linux Systems To Root-Level Takeover - LinkedIn</a></td>
-    <td>Sat, 25 Apr 2026 17:00:03 </td>
-    <td>LinkedIn</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEJhcTVTcklaWkwzSjVnbzc5dnpzQjE4UGthbmRTemlaTzFXbjlPUmJxSFVsdGRGS01FNFhiczdIWk1ETWRDdl9lRHlwVzc1eG40c1NYOWV4cnkwMTFUTzJhTEFzWTVKZ0d4V2lOSVJqRGZya0N6M2d3azVfRlhKdE1FdHFTZkl2YmFTQ1FLdVBtS1FoWDBJMFUzX3NZOFJjZGtiMlY3QVZXajJQZkp2eUl2NXdKMXlsM3ZQR0pSZw?oc=5">Disgruntled researcher leaks worrying Windows zero-day security flaw - MSN</a></td>
-    <td>Sat, 25 Apr 2026 13:23:32 </td>
-    <td>MSN</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihANBVV95cUxPcWVMcjl1ZzRmNmhjU1luVEdKSjU0enVrekt3MnR4SHAxaXVpZFMxS3dYRWVVNkh3bDg4MFUySGtXdmJZZ3ljQ1laQl9obW5GRHN6UFFyRHAtbDJPQXQ4MDlXdzI2ZGhSdkd4LTcwRXMzblFUUUtwSWd1aS10VFM3emcyS0E5bkI2ZU5HdzJPWUxtaTBQcjlCcE56dGJDelJBR1Q1bVpFYzRDakdWeWRIbWZnWUF5OHhOM19ESkI5amd3LXYwNXBKZW5xejJPM2gzb1lGQ0VpVmdsMjltZVVrUExlLVNzTkpDeTlydEt5YU0xRnZGYkhjVThDaWYxTUZzWEg3WDYtVWlHRHU2d2xqbi1WNERVaEY4ZXlMNjIyYzNMMjBpc2Fpd2t0TzdhSUJDSFNYYkRlMElwU2lGTG5yNWcwN095SmRoXzZiNVViTjdLOFZnSW5XWUNlcFc4NlpWWWY3SGtoWkZVOVgzalZFTy1INENWM3ZuMlFIdXhpUzlTaU1i?oc=5">BlueHammer: Researcher drops Windows zero day exploit, says "I was not bluffing Microsoft" - MSN</a></td>
-    <td>Sun, 26 Apr 2026 01:18:45 </td>
-    <td>MSN</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi7AJBVV95cUxNeXAyS1ZsdmVOanZPd3MxMWFHclF6Vzdia21FT0ZoWHBwOUxiMER0WUhsYVZlUEpmZlBpUlhZb1JuZC00eUl6UWw2ZUM4VUxKZ2dfcDAtVGhZSnE1U2w5VUNER0JSWGFFWUpLR0FFTWJJcGlLVUkzZXljWGJQYXBzQTFXd0laQWpXZW5RaVpxX1NkUUlaU05jSW5qNkQ2cnhOYURzQ2Z2Y0pGN2lzNmJFSEt3M3ZfN3JCcW1uVl9IelNMdFVyU2JsYnJ4Y2s1TGJUVkJPUHhfSkJoUTFxQ1NKMksxSV9iZmZFMTBOOV9jMUtQb1ZVUWhEcjItOWpwZzBHaUZqWERFN3FrdGYwbDdpSGkwMHZCQjI5Y0FQdTdxeFhra1ZJMjFNMThFLVl6LXV3ZVVqbnZrMTNMRWFfYXE3R3pUZE5oR1RVeFRFcWViMGoyVF9rRUl1VC1TV0pVejFUYXVVa0JTb0RGS2tR?oc=5">Apple issues urgent security fix — update your iPhone now to stay safe - MSN</a></td>
-    <td>Sun, 26 Apr 2026 02:56:03 </td>
-    <td>MSN</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ290Sm51dnpLRk9ZcHNkZTl0S0lQMV9QWmZfNmQ1QjlWS3AweUQ4ZHpjM3BtUUdRNnI2YnFHZE5jTThjVVMyTlBkZXVETXF0bVlRaE55ZnRQTzM2V0pJTVpUMGJySHpnZDhlSVJCQVBDNHFQUzhHTnhoMVVyaHNza1Q1ME5wcmxJaUlTdDFEeXVkcG5XbVN5eTZOLWtLWXBNSWdoS3UxQVYtT1EwbXRUSS1VdFpmNUJCUGZIZ1lNSmFtemJGSkQzNnEyZk1sUQ?oc=5">Apple Urgent iPhone Update Released to Fix Security Flaw - RS Web Solutions</a></td>
-    <td>Sat, 25 Apr 2026 14:00:00 </td>
-    <td>RS Web Solutions</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZV2tYMFprb0xaVkV6M2IyVTc2a0pqZXlmMWNwSVVSc0dCNU9sRjlEUHJCLUk4WWJUR3NpRDhLZWltVEdmMTlDdEtUWUNYODZXTXJnaVRLb1hzMkhTSnV4aEFzMzBCOTk1d1g0YXFseEtIUzZKZGfSAXtBVV95cUxNal9PU2tKRHNCd01rc1ZQMl96T0o5NUExRThUYzl6LU1LcGQ1VG13Z2lzX0hTeEI3Zy1yT0RLUWg2Qll4UFpvSUM3M2hRNUV1R3BxUEZyNzVnVzBiN2NxYnQ4dlNfOGlVZ1p5Nmw3LUZ3NElVTTVkNVZkQ1E?oc=5">Hackers Leverage Microsoft Teams to Breach Organizations Posing as IT Helpdesk Staff - CyberSecurityNews</a></td>
-    <td>Sat, 25 Apr 2026 22:18:59 </td>
-    <td>CyberSecurityNews</td>
-    <td>Low</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HTlFMZ2FaWEFESzhPRXJMMzBsN3N2NnhMaXBFVHIyLVktUVl0bVMyQW53Qml3cEpVR2tzaWM1UmJUTDRMdnFRZA">Firestarter Malware Persists Despite Cisco Firewall Updates and Patches - El-Balad.com</a></td>
+    <td>Sun, 26 Apr 2026 08:27:03 </td>
+    <td>El-Balad.com</td>
+    <td>Medium</td>
   </tr>
 </table>
