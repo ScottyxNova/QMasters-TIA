@@ -1,67 +1,80 @@
 <table>
-  <tr>
-    <th>Title</th>
-    <th>Source</th>
-    <th>Pub Date</th>
-    <th>Severity</th>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNTm92SVpwa0Fodks1T3h5ZjZpUkxYYkJPNTZNeGN5OTdNb3RGeF9CeTY2SlRXaDFMbTE1MnVVVlZFdFB6Sk44VG1nQzdvaVdLaDhXWGhEd3kzWjNTOUtTSTRhZWkxQTBzbkQzZGdNWVdmV3ZRTDBDalM1RFdIaWZaSVpzYkJsY0NyUkJZZEp6RWs">WARNING: Windows Shell Flaw CVE-2026-32202 Actively Exploited - LinkedIn</a></td>
-    <td>LinkedIn</td>
-    <td>Tue, 28 Apr 2026 16:12:04 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQUC0wamk0a2tieEdoZ0F3TlNvc2U5Uy1vUS1TWmJoS2s5dU5JTW93N3pBMi1aeENWTENYWnUzdkc5bF9tMzNGUVdlbEg5azVKTUI0OUJiS1BPVE5zVk5MaU1JWFVzdzFBOVczbmxXU1V1eURyaEZIc3dxaTdOeG5qc0F3LUVwci1ScG9lZGxsc2EwVDZZV2VMSFA0T1U5X0hvWTVYRkJaRm5mcTBTWkE">Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202 - Security Boulevard</a></td>
-    <td>Security Boulevard</td>
-    <td>Wed, 29 Apr 2026 06:39:01 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihgNBVV95cUxPcWVMcjl1ZzRmNmhjU1luVEdKSjU0enVrekt3MnR4SHAxaXVpZFMxS3dYRWVVNkh3bDg4MFUySGtXdmJZZ3ljQ1laQl9obW5GRHN6UFFyRHAtbDJPQXQ4MDlXdzI2ZGhSdkd4LTcwRXMzblFUUUtwSWd1aS10VFM3emcyS0E5bkI2ZU5HdzJPWUxtaTBQcjlCcE56dGJDelJBR1Q1bVpFYzRDakdWeWRIbWZnWUF5OHhOM19ESkI5amd3LXYwNXBKZW5xejJPM2gzb1lGQ0VpVmdsMjltZVVrUExlLVNzTkpDeTlydEt5YU0xRnZGYkhjVThDaWYxTUZzWEg3WDYtVWlHRHU2d2xqbi1WNERVaEY4ZXlMNjIyYzNMMjBpc2Fpd2t0TzdhSUJDSFNYYkRlMElwU2lGTG5yNWcwN095SmRoXzZiNVViTjdLOFZnSW5XWUNlcFc4NlpWWWY3SGtoWkZVOVgzalZFTy1INENWM3ZuMlFIdXhpUzlTaU1i">BlueHammer: Researcher drops Windows zero day exploit, says "I was not bluffing Microsoft" - MSN</a></td>
-    <td>MSN</td>
-    <td>Tue, 28 Apr 2026 18:38:19 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFc0c0JfbWxYbmVXTVdqb1FvWXI5NUVNOFZzQWVpS0VqTmNKVHRDRlNVTVA4NTdzUlNDc0RwZC1kUmJTZDcwc3RvalAtenhuOTJfakh0X1VvOVVudjZTZU5iN3hXcHFLSnU3b0x3WWlCWm9RNXVhejRrLXFaOGQ1aVREcG93WmI0X1YxLUFPYWduUFNXT0ZfVHZyNVBPdVd1anNCWUZjRFZ3M0dm">Incomplete fix for Fancy Bear exploit opens zero-click hole in Windows - iTnews</a></td>
-    <td>iTnews</td>
-    <td>Wed, 29 Apr 2026 06:26:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxON3hRaW5Pc05WTTZEcTdoWERsM2JlR0JYdnQ0aERwbzktd1J5MFU0c1UxbkF3STUycmdMNUhERk1HVS1fNTJFZ0RfcVhLZURWWDFDX2c5clAtbklMQnhsbjljZnpLcUNnMElFTkRaakhiUlkzdmRfbTU2T0NqdmNoanlNX0pKWWJjVjVWRndIb2owZk00RTVPVktOdm95WkZnQ2U5LUVlTDczWmZidFhwdDBJQlM5WjIxRlZiNDRfM0V2ZzBZMTY4M0tz">Microsoft warns Windows Shell vulnerability exploit - PCQuest</a></td>
-    <td>PCQuest</td>
-    <td>Tue, 28 Apr 2026 12:28:07 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNMTE5V3ZQd0hJeWJOS25wdlNWcGV3VU1TY2Qxd0dfcEFmQXVZQThyb1g5RllMRHYxcjlCeTUxTTJKQ2J5ZDIyMzlnWmc3cGl2Z3I4M2wyQklGUkh2NmdFMkVsNzdhMWdNRkl0S0ZDNEJKOHpwWFlhcWtvNWxfRDVzTg">New Windows 0-Click Vulnerability Exploited to Bypass Defender SmartScreen - CyberSecurityNews</a></td>
-    <td>CyberSecurityNews</td>
-    <td>Tue, 28 Apr 2026 11:55:56 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ua0lBajZXYnBDdHZYNmxPNW8wLXFIM081LUhoREx1M0VNeV9sYS1TRWR0bEJ2d3J3cGFzWHVKazdLV1pMV3dZZjB0eHVHU1N2RlZKUmYtUjNvVVVTYWN3eXV6c2Y0WktneWRWMGQtWTFWcjBXd0E">Microsoft confirms Windows Shell vulnerability exploit - SecNews.gr</a></td>
-    <td>SecNews.gr</td>
-    <td>Tue, 28 Apr 2026 10:30:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOaHRXeENaMmFleGlvRUp0b0czTEI4SDFmWVQwZFJZTVJnWm55SnhjZ3hzSlM5VVRSTHdPcjNxTXd2NGRWMmdwVzhJMFlubjJHSDZmR2VCTHkzVHE4VkZYNngxUzR0NTZ2YkxCSUFKS0Q1NDhKMlNZR0hNOElpRmU0OER4RU8yZ1NfUk5sZmFTT1BhSXpzY0hIOGZNaXFOakJLZzVrd1lpd9IBrAFBVV95cUxPWmxtSURXR01laGU0TGNNOEFTSXE4MlNibTlmRGxuV1RVU1hNdVgtcHpJU2ZoWEdMd2FwNmwwWDdORXRjcmtZd0J2a2p5VGZnSXBsQklhYVcxWHlUT3Nwc0tEUzFaNmxGNHZQOWdWb2FFTzVNNnFCaU5VZnBjN2ktYUN4UUU2Tml3VWFrTzM2MmhDenBOMGRHNEJ5WFNoTVJTUFhtTXpCU2VoZi16">CVE-2026-3854 GitHub flaw enables remote code execution - Security Affairs</a></td>
-    <td>Security Affairs</td>
-    <td>Tue, 28 Apr 2026 20:40:18 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNMTE5V3ZQd0hJeWJOS25wdlNWcGV3VU1TY2Qxd0dfcEFmQXVZQThyb1g5RllMRHYxcjlCeTUxTTJKQ2J5ZDIyMzlnWmc3cGl2Z3I4M2wyQklGUkh2NmdFMkVsNzdhMWdNRkl0S0ZDNEJKOHpwWFlhcWtvNWxfRDVzTg">Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push - The Hacker News</a></td>
-    <td>The Hacker News</td>
-    <td>Tue, 28 Apr 2026 18:19:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3lPQVVyVHlmdmVyLV9KVDl1M01Gc0tqem1waGlXcU9DN0NNVDBLdGNzRFZRMHUzQ3BqSHBJeEFvQ2tfQzVndHZOb040UTNhTGlFRjVBaF93bnNQVnZQT2FQVGUtd3FsZmM2MHNzMHR3cGdmZUZMSVFcY0R5ZDV4RGhGNDNjMjB3VTZQRTBsMmp6dGxGYzEwUE9rVGNJUTlTVm9CZWpBa28tWXd5a2hBQzBwVzNzOXlSUmZ2WkZ2M1B3cU1Qa3JjUW1YR1M3LXl6bXJ1ZGt6bU1zT0tXUkh2MzdQdG5xNnZvRXdB">LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure - The Hacker News</a></td>
-    <td>The Hacker News</td>
-    <td>Wed, 29 Apr 2026 05:34:00 </td>
-    <td>Critical</td>
-  </tr>
+<tr>
+<th>Title</th>
+<th>PubDate</th>
+<th>Source</th>
+<th>Severity</th>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxORWNSeVlrYU85RFdWaURTdzVhT2VVa0NGcW1BOGlNd2RMZ0ozV1djTEkwUlV2STlMMGlfYmljWWZRa3pRMl9GbGJzVTllZWF5TE94YnFPa3ZfU2plbzROdW4ydU9Ibk1ZOGFTZDVqMTloZ3dFMUxvbnFBaEJxVU41TmF3">CISA, Microsoft warn of active exploitation of Windows Shell vulnerability (CVE-2026-32202) - Help Net Security</a></td>
+<td>Wed, 29 Apr 2026 10:20:42 </td>
+<td>Help Net Security</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQRi1iZWgyX2Zkam4yX0lUenI4NnpTQnptWFJ3SXFSc1lSUU01NVB2ZjZnZlZVX3pucDJ1emRRTXdJVGZsZUVxb3l1ejdlQ0U1SEpIT2JtbWV0RlRaMXAwMzdtRHpwcGQtMFE2YUFnS2sxM3h3QWNoV1Zwb3RQOXBmLVZtVG1rT3ZGa3FpRW55ME5hYVd3a0tveWpfWllSbnZQ">Windows zero-day CVE-2026-32202 confirmed as exploited - Notebookcheck</a></td>
+<td>Wed, 29 Apr 2026 14:28:00 </td>
+<td>Notebookcheck</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNQncwNkotckxLTy1xc3JPdTVTclVod3JlVktLM05nb084a015SVhGRTNjcWI1ZEF5WmZ3ZGlwSEFLNjF4TldQMzZJMVROT19IMVNVVUYzV05rT184RklKMkVRWVd0dGtHOWpLWTNxYlFrYXVuQ2U3QkdQbW11RnNPZGtQbjNKYXUzZE5PeFp6N09GZUV5dVBVWktVX1kyNllYTTFxcg">CISA Orders Urgent Patch for Actively Exploited Windows Shell Vulnerability - Windows Report</a></td>
+<td>Wed, 29 Apr 2026 16:08:12 </td>
+<td>Windows Report</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlRHb2JWSjBFYjMyRmRrMkJRLUdGNXAzbG1PSjZ6SG9zNl9QUklhS25sWmxmYWQwU09tY3FOWXJOTE82bzN2NTI3Z0VTdmlUUklZQkRvMUwzaHBUTk9SeGktNTJiYlpmamJDMDVTSDhZYlRpb3BCaTloT25rYWFHdE40bmU5dUtvRF9XeTNJNHFldzFUQm5pVlFPeXZ4RWFLNjRvQjRNNGZWVS1PcG5LNUdzQXVjWmPSAbwBQVVfeXFMUHk4aXh4Tm5GSWtxb1A2TnlKbVdMTHgyelFwTFRWU2VjU2c0Vi1OVFRXNzNMV0JpWENnN25qNXFxaUllRllpVkdVaFJCU3U3ZHpLMWJDT21iZEQwSVVyVE8xakdkb3ZSWTlfX3JLWXhhRm5uN082cnpqNGlhSFJTSDBmZDl4NHc0TkVsQmpJYlhFMl9ndHB5UWFtaEVRZmFJcVZkLTVSb2IwMVVPTnhIbzE2dDBwS2NNMUlZV3g">CISA orders feds to patch Windows flaw exploited as zero-day - BleepingComputer</a></td>
+<td>Wed, 29 Apr 2026 10:29:31 </td>
+<td>BleepingComputer</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSkdLMzhsUktUWnVJWU9xbFJQcVdFTjkxVHlORDU2VGpVN3JCZERSd2JvMEY1Y3lrSGRYZmp0NmlJaGprbms5bnNULXZ4Q2M1WWN1LXRyc0FSaEhFUGtad0lReDloc1pWdkZjWE9BX0pmVUd4SHM0">Microsoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack - theregister.com</a></td>
+<td>Wed, 29 Apr 2026 19:15:00 </td>
+<td>theregister.com</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE43dDY2STNCd2pmcnhBUTlwUlQzaUhlSkxtUTVCdU1VYThwRTBhRjRWR1R1SWgzVjRkaXdPb0lnN2x3NC1YUWdtTmZHTzVrZlFvZzVPUHdVZlRNQXdyYUhmbVRiSVRMb0RvaDJfSno3enp6NnphQkE">CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV - The Hacker News</a></td>
+<td>Wed, 29 Apr 2026 08:46:00 </td>
+<td>The Hacker News</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWJrTHk5N0FkNFdvcXJGV2ZwYzJMd1lVc3JlYmFqV1NweFBpeTg3SkoyTkt4SzI3MlRqaVhZeWN6SmFuZ2VFVjJSZkR4NzhucElVLXJrV2lUT3lBRUNIY3RpUkdvUFR0Xy1ndXR5RWNydzlFcC1nd0ZZRzRlTlRSWmJ6MkVyU3ZkeXdUdy1IbFJ6d3pzWGNqMkRBbWhTUnVSb2VkTHg0d296TEV5">Microsoft confirms active exploitation of CVE-2026-32202 flaw in Windows Shell - Foro3D</a></td>
+<td>Wed, 29 Apr 2026 16:17:33 </td>
+<td>Foro3D</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BU2hYeHY1UV83c2QwbFdIVXhqRmhkWXBmdnF2SVdkdmQzLWUwNUNucmNwdG9FMXY0RGJTdmN4N2g2SFNjMGNCUV9MN0hmUU1iWjJjOHV1cnd0MnNfTnYtMnBVN296X2M">CISA Alerts on Microsoft Windows Shell Zero-Day Under Active Exploitation - cyberpress.org</a></td>
+<td>Wed, 29 Apr 2026 10:34:51 </td>
+<td>cyberpress.org</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQX2tHTzNWQ2p2cVhRc2o1SjlTTHVLjmpPSndOS0NqN1pDV3FmLWhBSWltbGxvT1lYQ2NTcHZyWS1xb0xNNXVtanQzQzN4c1VGYjlMVktKa2p3bEJaaVRubWIyMjBxUUZGN0dlQmc3VXczUF9DLTQ0eE56UW9rR204S2JuM3ZXWHY0V0JxVDlyZlBTZWQxaWQ4eVNYX0NTQQ">New Windows flaw stems from incomplete fix for APT28-exploited bugs | brief | SC Media - SC Media</a></td>
+<td>Wed, 29 Apr 2026 13:11:00 </td>
+<td>SC Media</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWpqbmoxci1VUTRWQVhVcGREUV9EVEs0TkZ0aTkzV2FybTJQRkZYM0hqZF9XZ3ZPY3NoYkFTdUQ0Q2tDeWNhNDRRQkhpV1lDZXN0MlVkWWFFY21VeXQzd1FKaVZmX21aVHlzYnEySGNDdUp0QUYwSWJLYU4ycG55bXlOUGFQRHl0d2hRVDdFalllZVJqZHJYaw">Microsoft Confirms Windows Flaw Is Being Exploited After Incomplete Patch - TechRepublic</a></td>
+<td>Thu, 30 Apr 2026 00:55:08 </td>
+<td>TechRepublic</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMimgNBVV95cUxQZTVrZXFfQk1GbERNTDgyeWlVdDkyR290RFRTTE9KNmRFVGo4RW1Vbi1jRVVfWEpCSllNeS1FajVLQ1ZnbXFGZ1VRUmM5cExBbGxxemdLcHFoMTZYR0NIY29tZlBVcy05bEJ5SHNzakppRmhURXFGZTFLb2NCVFcyWDN4ZUZIblk5M3ZKUjUwaWtfcmpkejFDLWVWbFpCNU5HcEY5OXBNcnBCODFzczNpOFR5RDhXckFXRWlMbHVZSVZQZlVPZ01xcjN1U29oelAxeERnaGhmV1htTzBnTlQ5aWd4SGV2V2haM0gteXRZWVFCdDd4VzduZ1lqR1M0V3lXMi1sMUhJVWJfWXZyQlhjODlDUm56OVdEWU4yblJZZ1pfMDVsQ2drZVlYNVdnV2p5aEotSF8yRktHTnBBTmc2WjduXzVxX0FyQkVhMWNSNURrcE45M1RrcEJYb1Y2SUNWR1hrR1ZDVVILTzJ4STZkbmg2aHlHVEQ4Nlc3SzdiMXFBWGY3Z2ZqUE1zQmp2S1A0YTNzT3MxUnNMZw">Over 1 billion Windows users at risk after disgruntled security research leaks Defender zero-days - MSN</a></td>
+<td>Wed, 29 Apr 2026 17:37:45 </td>
+<td>MSN</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdzRTaWdlV1dJcmFDdEM2X2hsYmNfY2M0Q2Y5cXVwY3ZURVc1VGROeVJKa2hJMG1waU01bXY2ZnpHeVRMXzFaWTlKUmxQWnFCdUpUMm9kMzl5QWIwcWwtc1R1alREa3ZsNXBMbTVNNmR4dFoxYmZYWmd2SDF6blJWdzhEMFVSd3BCSGthSG1ua1RkWlZvUF9UWGs5TGJvTk0zQ3lWYmpZT240TUU0bWZwVC1sZmJ3V1pEd3VUWGxBcm43T2ZBTW44UzVtaWJhZlJHc1d1S0txc1dDLTZLNHM5TnU5R2ZCQUZxcjA3czQxSTlzVTR6VVVtSFBYS0xvelUtUXp6N2EwM2I0a1NTa05tc1hPZXRFZHFCWjBoSG5fOG5yeGplRW15RVprcHVJM3RJTmtXeDNHX2xRN2Z4dWJvek01UlhZZzFSTk1MbjN2QVJtMXBwb1FxNlREekNFa2dodDQ2UTZsQkZBZw">Disgruntled researcher releases second major Windows zero-day - MSN</a></td>
+<td>Wed, 29 Apr 2026 10:11:04 </td>
+<td>MSN</td>
+<td>Critical</td>
+</tr>
+</table>
