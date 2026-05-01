@@ -1,80 +1,97 @@
 <table>
-<tr>
-<th>Title</th>
-<th>PubDate</th>
-<th>Source</th>
-<th>Severity</th>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxORWNSeVlrYU85RFdWaURTdzVhT2VVa0NGcW1BOGlNd2RMZ0ozV1djTEkwUlV2STlMMGlfYmljWWZRa3pRMl9GbGJzVTllZWF5TE94YnFPa3ZfU2plbzROdW4ydU9Ibk1ZOGFTZDVqMTloZ3dFMUxvbnFBaEJxVU41TmF3">CISA, Microsoft warn of active exploitation of Windows Shell vulnerability (CVE-2026-32202) - Help Net Security</a></td>
-<td>Wed, 29 Apr 2026 10:20:42 </td>
-<td>Help Net Security</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQRi1iZWgyX2Zkam4yX0lUenI4NnpTQnptWFJ3SXFSc1lSUU01NVB2ZjZnZlZVX3pucDJ1emRRTXdJVGZsZUVxb3l1ejdlQ0U1SEpIT2JtbWV0RlRaMXAwMzdtRHpwcGQtMFE2YUFnS2sxM3h3QWNoV1Zwb3RQOXBmLVZtVG1rT3ZGa3FpRW55ME5hYVd3a0tveWpfWllSbnZQ">Windows zero-day CVE-2026-32202 confirmed as exploited - Notebookcheck</a></td>
-<td>Wed, 29 Apr 2026 14:28:00 </td>
-<td>Notebookcheck</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNQncwNkotckxLTy1xc3JPdTVTclVod3JlVktLM05nb084a015SVhGRTNjcWI1ZEF5WmZ3ZGlwSEFLNjF4TldQMzZJMVROT19IMVNVVUYzV05rT184RklKMkVRWVd0dGtHOWpLWTNxYlFrYXVuQ2U3QkdQbW11RnNPZGtQbjNKYXUzZE5PeFp6N09GZUV5dVBVWktVX1kyNllYTTFxcg">CISA Orders Urgent Patch for Actively Exploited Windows Shell Vulnerability - Windows Report</a></td>
-<td>Wed, 29 Apr 2026 16:08:12 </td>
-<td>Windows Report</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlRHb2JWSjBFYjMyRmRrMkJRLUdGNXAzbG1PSjZ6SG9zNl9QUklhS25sWmxmYWQwU09tY3FOWXJOTE82bzN2NTI3Z0VTdmlUUklZQkRvMUwzaHBUTk9SeGktNTJiYlpmamJDMDVTSDhZYlRpb3BCaTloT25rYWFHdE40bmU5dUtvRF9XeTNJNHFldzFUQm5pVlFPeXZ4RWFLNjRvQjRNNGZWVS1PcG5LNUdzQXVjWmPSAbwBQVVfeXFMUHk4aXh4Tm5GSWtxb1A2TnlKbVdMTHgyelFwTFRWU2VjU2c0Vi1OVFRXNzNMV0JpWENnN25qNXFxaUllRllpVkdVaFJCU3U3ZHpLMWJDT21iZEQwSVVyVE8xakdkb3ZSWTlfX3JLWXhhRm5uN082cnpqNGlhSFJTSDBmZDl4NHc0TkVsQmpJYlhFMl9ndHB5UWFtaEVRZmFJcVZkLTVSb2IwMVVPTnhIbzE2dDBwS2NNMUlZV3g">CISA orders feds to patch Windows flaw exploited as zero-day - BleepingComputer</a></td>
-<td>Wed, 29 Apr 2026 10:29:31 </td>
-<td>BleepingComputer</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1LSkdLMzhsUktUWnVJWU9xbFJQcVdFTjkxVHlORDU2VGpVN3JCZERSd2JvMEY1Y3lrSGRYZmp0NmlJaGprbms5bnNULXZ4Q2M1WWN1LXRyc0FSaEhFUGtad0lReDloc1pWdkZjWE9BX0pmVUd4SHM0">Microsoft's patch for a 0-day exploited by Russian spies fell short. Another Windows flaw is under attack - theregister.com</a></td>
-<td>Wed, 29 Apr 2026 19:15:00 </td>
-<td>theregister.com</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE43dDY2STNCd2pmcnhBUTlwUlQzaUhlSkxtUTVCdU1VYThwRTBhRjRWR1R1SWgzVjRkaXdPb0lnN2x3NC1YUWdtTmZHTzVrZlFvZzVPUHdVZlRNQXdyYUhmbVRiSVRMb0RvaDJfSno3enp6NnphQkE">CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV - The Hacker News</a></td>
-<td>Wed, 29 Apr 2026 08:46:00 </td>
-<td>The Hacker News</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWJrTHk5N0FkNFdvcXJGV2ZwYzJMd1lVc3JlYmFqV1NweFBpeTg3SkoyTkt4SzI3MlRqaVhZeWN6SmFuZ2VFVjJSZkR4NzhucElVLXJrV2lUT3lBRUNIY3RpUkdvUFR0Xy1ndXR5RWNydzlFcC1nd0ZZRzRlTlRSWmJ6MkVyU3ZkeXdUdy1IbFJ6d3pzWGNqMkRBbWhTUnVSb2VkTHg0d296TEV5">Microsoft confirms active exploitation of CVE-2026-32202 flaw in Windows Shell - Foro3D</a></td>
-<td>Wed, 29 Apr 2026 16:17:33 </td>
-<td>Foro3D</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BU2hYeHY1UV83c2QwbFdIVXhqRmhkWXBmdnF2SVdkdmQzLWUwNUNucmNwdG9FMXY0RGJTdmN4N2g2SFNjMGNCUV9MN0hmUU1iWjJjOHV1cnd0MnNfTnYtMnBVN296X2M">CISA Alerts on Microsoft Windows Shell Zero-Day Under Active Exploitation - cyberpress.org</a></td>
-<td>Wed, 29 Apr 2026 10:34:51 </td>
-<td>cyberpress.org</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQX2tHTzNWQ2p2cVhRc2o1SjlTTHVLjmpPSndOS0NqN1pDV3FmLWhBSWltbGxvT1lYQ2NTcHZyWS1xb0xNNXVtanQzQzN4c1VGYjlMVktKa2p3bEJaaVRubWIyMjBxUUZGN0dlQmc3VXczUF9DLTQ0eE56UW9rR204S2JuM3ZXWHY0V0JxVDlyZlBTZWQxaWQ4eVNYX0NTQQ">New Windows flaw stems from incomplete fix for APT28-exploited bugs | brief | SC Media - SC Media</a></td>
-<td>Wed, 29 Apr 2026 13:11:00 </td>
-<td>SC Media</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWpqbmoxci1VUTRWQVhVcGREUV9EVEs0TkZ0aTkzV2FybTJQRkZYM0hqZF9XZ3ZPY3NoYkFTdUQ0Q2tDeWNhNDRRQkhpV1lDZXN0MlVkWWFFY21VeXQzd1FKaVZmX21aVHlzYnEySGNDdUp0QUYwSWJLYU4ycG55bXlOUGFQRHl0d2hRVDdFalllZVJqZHJYaw">Microsoft Confirms Windows Flaw Is Being Exploited After Incomplete Patch - TechRepublic</a></td>
-<td>Thu, 30 Apr 2026 00:55:08 </td>
-<td>TechRepublic</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMimgNBVV95cUxQZTVrZXFfQk1GbERNTDgyeWlVdDkyR290RFRTTE9KNmRFVGo4RW1Vbi1jRVVfWEpCSllNeS1FajVLQ1ZnbXFGZ1VRUmM5cExBbGxxemdLcHFoMTZYR0NIY29tZlBVcy05bEJ5SHNzakppRmhURXFGZTFLb2NCVFcyWDN4ZUZIblk5M3ZKUjUwaWtfcmpkejFDLWVWbFpCNU5HcEY5OXBNcnBCODFzczNpOFR5RDhXckFXRWlMbHVZSVZQZlVPZ01xcjN1U29oelAxeERnaGhmV1htTzBnTlQ5aWd4SGV2V2haM0gteXRZWVFCdDd4VzduZ1lqR1M0V3lXMi1sMUhJVWJfWXZyQlhjODlDUm56OVdEWU4yblJZZ1pfMDVsQ2drZVlYNVdnV2p5aEotSF8yRktHTnBBTmc2WjduXzVxX0FyQkVhMWNSNURrcE45M1RrcEJYb1Y2SUNWR1hrR1ZDVVILTzJ4STZkbmg2aHlHVEQ4Nlc3SzdiMXFBWGY3Z2ZqUE1zQmp2S1A0YTNzT3MxUnNMZw">Over 1 billion Windows users at risk after disgruntled security research leaks Defender zero-days - MSN</a></td>
-<td>Wed, 29 Apr 2026 17:37:45 </td>
-<td>MSN</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdzRTaWdlV1dJcmFDdEM2X2hsYmNfY2M0Q2Y5cXVwY3ZURVc1VGROeVJKa2hJMG1waU01bXY2ZnpHeVRMXzFaWTlKUmxQWnFCdUpUMm9kMzl5QWIwcWwtc1R1alREa3ZsNXBMbTVNNmR4dFoxYmZYWmd2SDF6blJWdzhEMFVSd3BCSGthSG1ua1RkWlZvUF9UWGs5TGJvTk0zQ3lWYmpZT240TUU0bWZwVC1sZmJ3V1pEd3VUWGxBcm43T2ZBTW44UzVtaWJhZlJHc1d1S0txc1dDLTZLNHM5TnU5R2ZCQUZxcjA3czQxSTlzVTR6VVVtSFBYS0xvelUtUXp6N2EwM2I0a1NTa05tc1hPZXRFZHFCWjBoSG5fOG5yeGplRW15RVprcHVJM3RJTmtXeDNHX2xRN2Z4dWJvek01UlhZZzFSTk1MbjN2QVJtMXBwb1FxNlREekNFa2dodDQ2UTZsQkZBZw">Disgruntled researcher releases second major Windows zero-day - MSN</a></td>
-<td>Wed, 29 Apr 2026 10:11:04 </td>
-<td>MSN</td>
-<td>Critical</td>
-</tr>
-</table>
+  <tr>
+    <th>Source</th>
+    <th>Hyperlink</th>
+    <th>Date</th>
+    <th>Severity</th>
+  </tr>
+  <tr>
+    <td>Help Net Security</td>
+    <td><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNem5PU0pKVHZuUjhIY2VONmtLYnREMV9FanJWQUktZS1jUTBIaGQwY1hjU2ViVEZYOEplYTJfZU80cHZNeGFyZm1tdTcyUE1ZQUU4bUd0eG9BQVN3clhEZUpBbDZsLVJnWTlyVTBkcHk1WTloMnFUaDNnOXRrTnFwXzduSkJrSkVjTWhmRmVsZkdNaDNUQlZ2UVc3ZkcyWjA?oc=5">cPanel zero-day exploited for months before patch release (CVE-2026-41940) - Help Net Security</a></td>
+    <td>Thu, 30 Apr 2026 13:40:49 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>Rescana</td>
+    <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQT28xSDNiRTlzcEtKS3JJU0pOLVJObzl3cWgzWVBKX2dMbWxtdVZIc3VLVWNYb29EY2FnNzVxR3FwZldQdkRwTnRramw4Z0RPYWFBc2pWU21uV0trdFBBd2FyQWFHUGNHQjZENDNtQVlKUk9XUFNLN1RqQnJwMXF1VG8wQ2Qtb0FybE9GeHdxQnFtMUZKQ3Y1ajJxRGZaaXdwcWQwR2h6aG9NazFmZ3c?oc=5">CVE-2026-42208: Critical Pre-Auth SQL Injection in LiteLLM Actively Exploited Within 36 Hours of Disclosure - Rescana</a></td>
+    <td>Thu, 30 Apr 2026 17:06:30 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>Rescana</td>
+    <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTU1aEtEYUFwV3F2cXltT25DM1M5TE5nWmIyN3RTQnZWNmxZY1JIalczVWVrR0hCTjJ5R3BmVVVTUV9pWVZPdlF6S3ppRGQwcXpOTHFnT2Zoc2tIeFpIVTNWbUNRYkQyUjN3WTEyUi1hNnlGckFXQzFEQWhCX0t5RGstenQzM2doVzVhdWlubkJIeTQwOC03SFMzU1NPekUyOGl1N1NsZ3o5RG85?oc=5">Critical Authenticated Remote Code Execution Vulnerability in JuzaWeb CMS 3.4.2 (CVE-2025-5425) – Exploit in the Wild and Mitigation Guidance - Rescana</a></td>
+    <td>Thu, 30 Apr 2026 17:06:30 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>TechRadar</td>
+    <td><a href="https://news.google.com/rss/articles/CBMi3AJBVV95cUxQbmZxRTZvc3IxV0QyYzVDMWhnMk9UR1R3cXU4MWVGUTBQTmFVRm52NnJiamVDNERPc1JjcUdIU2tndE5PODJfamxlRHcyczhlRHpmNFNvejFhV0tEaTRPWWRkUXBGeVFGV3JfRlpsdGpwRHRCWnpJbUJERkswRzRFeFlGY3B4dVBNemhtcWxCdzdxLTJMQ1hyISTRvczliNGZ3U3lHeUt6bnhiZTZES2RoTllydEcwYWtuNDVCRUFGR19VejlBaV9PNXd5ZWpncVJWMV81T3lTUWg3QjNnc0kxNFJPSlp4NF9fZkRsU05BVXNBVHphWE1JM0lpcW0yS0xmVjVrQkNxbUh6czA0X1UyMWhiVTZEQTlGQ0JOUmo1YVdibG9PSmxQTVNMajdsaWEwQmNmSng5LVV4NVdYWnl5ZUZ2OXhCWFlWU3V0VVNLRFpJcTVVMEFlY3Jibks?oc=5">“The Internet is falling down”: Critical cPanel CRLF injection vulnerability puts tens of millions of websites at risk of total compromise – hosting providers urged to apply CVE-2026-41940 patch immediately - TechRadar</a></td>
+    <td>Thu, 30 Apr 2026 16:05:00 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>abhs.in</td>
+    <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDYwY19NcHVoUEgxVDhoOC1yaWJOWkk5a3lObGw0UHlfZkxiTk83akJta1ZGaHJiWUNjRjE4Z1NwcXpHQ2plLXVESkMwZ04wc2I4bk5JX1N5eHdzU0dKSDZkRjgxV0wxVTZnNldrMEZsVU9rNzR4dm9hblRWQm9JRTJZSE5palVnMkU3TDNoY0VidF92?oc=5">CVE-2026-32202: ConnectWise ScreenConnect RCE, CISA KEV May 12 - abhs.in</a></td>
+    <td>Thu, 30 Apr 2026 18:53:55 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>Help Net Security</td>
+    <td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNckk5LUJoMENwZDdHVlpiNzhOeTVGSTNFRWlLVnA4UHVmQWZkM3RTMzhOVjd4WmhCSnpJUzFjNFpwNFdqOFI4ZlN3QUVFdW44WmdGUDBFWUpvdkdHaXpNSzJVdW05RUtJSHc4bUdJTm9KN0hubWdwNnMzY3FPelBaYnVJT3F6bkRkSzFQeExlM3dRdVBSSmc?oc=5">Nine-year-old Linux kernel flaw enables reliable local privilege escalation (CVE-2026-31431) - Help Net Security</a></td>
+    <td>Thu, 30 Apr 2026 11:41:56 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>NewsBytes</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVk3Tld1SDRBcEdhTHoxeTBQT2hKTWViYml6cC1LSTYzbEhaQWpHcHlnNGR5U3pxWlVOODg1d0RaS2ZmeE1ZX0Y3bXZuamVEd3lCRENMVGdkVWRsQXZXRFVEYVJuSVg0VVJZem1td1NEN2lpRGFQSU0wQU5sRE1SR1hVaEY2VFFJRjNJdHdtUUVUQ2twX3VDMjJ5TndLVmZQT2RFZ2N5cG9md0F0anpUdmJYN0ZkLWhSZzR2X2VyQjJuZw?oc=5">Critical cPanel WHM flaw CVE-2026-41940 allows hackers access, customers urged - NewsBytes</a></td>
+    <td>Thu, 30 Apr 2026 20:41:29 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>SOC Prime</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEU1NFNqNlBiZVhEY2hvYkpXSk1fMjZReTRfT3ozaVpmT0FkYWxOd3VUMTdsZjNhZXpSbE5rZVJmRFRuVXN2Qm1STkFScHNlNlQxQ002emItMG95NEctN05VNjBLRzNSRlF4czAtRmJFV0g5NE9xSExsTHdhTFg3TzFQaVFCMEs1dlI0?oc=5">“Copy Fail” – Linux local privilege escalation vulnerability (CVE-2026-31431) - SOC Prime</a></td>
+    <td>Thu, 30 Apr 2026 16:45:41 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Arctic Wolf</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKRzNfYlZkUTNubnZhNEFpY3NZX1NQVGR1SXdjS241eTN6ZnNNQjE0V1FNM2tRNm1HaV9TMDJkYnhpQWpXd3JtX1E4bWNHZGdTYTFFR1NIODI3TXU2SE1tUE85WQ?oc=5">Recommendation for CVE-2026-41940 - Arctic Wolf</a></td>
+    <td>Thu, 30 Apr 2026 21:10:51 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>Security Boulevard</td>
+    <td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUZvWjVGdDFqN2pCNEZyRHVYbVZwaFpTQTBHVGdPbW5JYXZuUU9xT0gzWkxFT2gxbW5jZERaNWxQa1JwNTMxeGV5dnVPZzNYeWh3M3ZOSEtyMWdGS3F3RVhxZkhpekxoaXVkaG54eGFtV0ExTGZzNU1HQmN1ZUM5MEhwemxjYUhDTDNrdzdqNnJPaWFmS0ROQWhzYU1kSXpHMU80a2Jn?oc=5">Imperva Customers Protected Against CVE-2026-41940 in cPanel & WHM - Security Boulevard</a></td>
+    <td>Thu, 30 Apr 2026 19:35:20 </td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td>Centre for Cybersecurity Belgium</td>
+    <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNU2JIYk9nVEhGSGl6cmV6MmwxVnRBY0RsUDd2Z2NiZDY3OWZVVC0yMEV1VVBJLXBkVkY2dG84b2pZamYwSmRYUWtzc0JBNDlBSkJnTzBJRzhQMGc4S2xrZHM1VXBTbXdJUG1zV2VkdnFSVnR1RzVUc2V5c2FJSGtwTTZnVUdDdDBlZEpVaDhfZGpOQmpiV2xvdzlacWxyTS1zS0RIUkltZjBaVjZw?oc=5">Warning: Copy Fail, Getting Root on Major Linux Distributions, Patch Immediately! - Centre for Cybersecurity Belgium</a></td>
+    <td>Thu, 30 Apr 2026 19:52:54 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Cybernews</td>
+    <td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNSWdaUkdxS3lidnFTcFZjNTNJY1I0cHQtR0FZbmpPLWVVVmlvTFlvUmVqeV9OcHR3VWdzczFWWnZpTWxGejRFcWRZN1ZINFBMZU9NNUJVV0UwUUU3MFZrUE02Znp3N2ZobmJOQjB0NmZyWGV2TGx4YklDTlBaN0pwbzNoS2ZxZTA?oc=5">Urgent warning over critical Linux kernel privilege escalation bug: tiny script grants root - Cybernews</a></td>
+    <td>Thu, 30 Apr 2026 09:34:37 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>The Hacker News</td>
+    <td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBfTFRsZnZsZDZoM1dqVE1hOC13bVgzLUo5TGRfc1hLZFBDdmtqSF8zN0pITGVOV25MSnhrVndsX2g5ZVVFQTd1WjhvWEZ4QmYxZUY1eExsNWJzSzJrRW5KMFFrbzVCSGl0RnhNcHdpTDlNUnpDVlc4a040OEU?oc=5">New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions - The Hacker News</a></td>
+    <td>Thu, 30 Apr 2026 09:24:00 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPNi1OdVYydFk4N1h5LVFLOF9HY0NZc0hDRER1OU1PdFI0cWU2bEFDM3RIQ3dZdzdvelV0Wjc0bzU2eG9UMFVUVDF6c0tyMFY2aTZVZlpzZlJ2UEdHT0ZGeUlDdzM2aGFCTndVbkp2amE2aUxVNzV3ZmJGN2xOcEdGYnA1RmlyaUtDd1Q3VnVuRVNadw?oc=5">WARNING: New Linux Vulnerability Enables Root Access Across Every Major Linux Distribution - LinkedIn</a></td>
+    <td>Thu, 30 Apr 2026 20:49:53 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>SecurityWeek</td>
+    <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNZV9oeEJkMzNjZDNsMk82OC1TTEt2OFRQWlZWLU44ZEplVjV3SFZidzM3d251Z0g4MmZHQXRydU8yNUNMVmE1YTlRVDltS2VVRm5ObjBHd3RrYWpSZmlOMTdwa0FRQXZHYVpEbG91UDBKTnc4VUtnek13SEtkVW5hamJ6cFh5M01DeHhiZkZrbVBD0gFaAUFVX3lxTFBBNzVlcGU1VEZuS3hmQVpoOUxVOVJNUURRMS00ZktmLUoxelN2Y1VaT1NkRC0zU2hwNm1OS2w5ekkwWlJwdklxQ2dxLXJSdW1idFJZWGdxNE44VUxIM3lwLV9HVThTNnEzTVBBaHMyeFlJQ0xyVXl6VW1uTEQyb3dKT1R6TENvcHQ3UDNSaEMxQUxfS3U2eW9jY3c?oc=5">‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover - SecurityWeek</a></td>
+    <td>Thu, 30 Apr 2026 10:06:00 </td>
+    <td>High</td>
+  </tr>
