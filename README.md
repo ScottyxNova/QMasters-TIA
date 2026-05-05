@@ -1,44 +1,56 @@
 <table>
 <tr>
 <th>Title</th>
-<th>Pub Date</th>
+<th>Link</th>
+<th>PubDate</th>
 <th>Source</th>
 <th>Severity</th>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTV2YldhMjRzUXMzalJoSEJ5T0Y1UkRjRVRtMkFiM01EcEZtUXBHeEhzT3Q3VjFiV3RKSktvQUt5RFJnQlRxR3VQYWljM3VlX29TcTROSzVITWNZWGdVbmxfTV9laHVROXhHWUpaSF9IV0d4TWhvT0JKaDVBNFI1QWItZnhYNGU2Z29NVDRCa3BFclRYaU9wVHNCbkpQVXhLbzhFdlVuTHZqSmU3cXM4bFM0VQ?oc=5">CISA Flags Actively Exploited Linux ‘Copy Fail’ Vulnerability Allowing Root Access - CXO Digitalpulse</a></td>
-<td>Mon, 04 May 2026 07:27:34 </td>
-<td>CXO Digitalpulse</td>
+<td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJRSGJOazI3NXUwX2stSElNR3NndWV0bldHVXVjd2IwZkNFVENWRnI3eXlXcWhGUzhaRmxEdTNjY2I0VE9tT29oQmJ2a3ZiSzJZV201ZmJZV1JoTmY5MmlmWkhianhyWXo3eHNEdlJKb2ZmYWpDWFo0Zmp5UTJqV0V2b281dGUxVzBCYjA1bW10UlJlM0VrZW1vbFBCUFdENEVxb2VKcll3cHVhZ2lRVHR2djZlM1BKVko3UjRhenNlUjJiUGc">cPanel CVE-2026-41940 likely compromised about 2,000 servers CISA warned agencies</a></td>
+<td>https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJRSGJOazI3NXUwX2stSElNR3NndWV0bldHVXVjd2IwZkNFVENWRnI3eXlXcWhGUzhaRmxEdTNjY2I0VE9tT29oQmJ2a3ZiSzJZV201ZmJZV1JoTmY5MmlmWkhianhyWXo3eHNEdlJKb2ZmYWpDWFo0Zmp5UTJqV0V2b281dGUxVzBCYjA1bW10UlJlM0VrZW1vbFBCUFdENEVxb2VKcll3cHVhZ2lRVHR2djZlM1BKVko3UjRhenNlUjJiUGc</td>
+<td>Tue, 05 May 2026 04:08:43 </td>
+<td>NewsBytes</td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPVm9aY19CcEFmeEZzcWdCVTdSRlZlQzNLTDBWYnpmS2prTEM4Sm4wU2x6S1NUR0xyVVlSOHN0VW5JVm1LRng5UXpKdmFzUEdsZlFSblVEZGx1aEw5UFRWYjE2MWpkMUdFNlQ3WVZpY1dyck9HWWJPZzBCaXZkOHJjdQ?oc=5">CISA Sounds Red Alert Over 9-Year-Old Linux Bug Being Actively Exploited - The420.in</a></td>
-<td>Mon, 04 May 2026 06:49:51 </td>
-<td>The420.in</td>
+<td><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1I2Qm9XRjNhSThaRlJYVU1mYjF6NER6bnF0emJCYlB6aHNZZHBrdXVWNnZMRTUtSUJfaEJTc0VRRzdway00eGt4VS1VenI4OE1wNWtBT25kWXNpc3A4bVJMLU1ELTR3ZUdwZ21NRlc1OHZrMEgyQlZsQkFCdEk0alVGWDl4bXpzVkg3ZFlkM1VsYllPSlczdTdkT3dvdlBsNjg0UkxGeWJQTmFwWTBqV3ZVSlZPaVBJb2RsaE9pUkVWaEtqY1R2aNIBzgFBVV95cUxOS2hVZG5PdkF2SzF6OEx6LTdnQ1BtVXdxSGJCYmlSSDlkcmRDLU9OeUNFbnR2LUl0eENuZEVSckxBblg0aG52bF8tSHE3QWQxRHozUWVDbFZ4em9VYWdtaEU2M2t6a081a2JLUmR1Sm93UGJSWXJWM3RNME03WV90QjZKeS05cGk1VWYwdXk4dDdvMFY0LWpsWnU0QU9KcUpFNXFIMDBiZ0F2ekhYQ0pNU0FCeTlYSXlONktvVThKYWFidzlrdW9LbGtURnVydw">Hackers target governments and MSPs via critical cPanel flaw CVE-2026-41940</a></td>
+<td>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1I2Qm9XRjNhSThaRlJYVU1mYjF6NER6bnF0emJCYlB6aHNZZHBrdXVWNnZMRTUtSUJfaEJTc0VRRzdway00eGt4VS1VenI4OE1wNWtBT25kWXNpc3A4bVJMLU1ELTR3ZUdwZ21NRlc1OHZrMEgyQlZsQkFCdEk0alVGWDl4bXpzVkg3ZFlkM1VsYllPSlczdTdkT3dvdlBsNjg0UkxGeWJQTmFwWTBqV3ZVSlZPaVBJb2RsaE9pUkVWaEtqY1R2aNIBzgFBVV95cUxOS2hVZG5PdkF2SzF6OEx6LTdnQ1BtVXdxSGJCYmlSSDlkcmRDLU9OeUNFbnR2LUl0eENuZEVSckxBblg0aG52bF8tSHE3QWQxRHozUWVDbFZ4em9VYWdtaEU2M2t6a081a2JLUmR1Sm93UGJSWXJWM3RNME03WV90QjZKeS05cGk1VWYwdXk4dDdvMFY0LWpsWnU0QU9KcUpFNXFIMDBiZ0F2ekhYQ0pNU0FCeTlYSXlONktvVThKYWFidzlrdW9LbGtURnVydw</td>
+<td>Mon, 04 May 2026 19:13:44 </td>
+<td>Security Affairs</td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDlTWFVkVnFxMm5mQnZ2TU4tWUFWRFMxb0xjZUtDUmVvektMUUtPa0toSXNOTHd1dEh1VTBkUzNFSE14R0JTdXBsUTg4ZUNibFAxYmR0aFZjUHlXT19PTTBTdXdaNDRuVFZyZ3VEemtQTDR6UnIxVGVyWE5jUTJOQzBKYXU1cG9pYTl4bzRIMVNOU2VjRFhDM0UwRHFhelE?oc=5">Copy Fail Linux Kernel Vulnerability Now Patched in Debian, Ubuntu, and Others - 9to5Linux</a></td>
-<td>Sun, 03 May 2026 15:24:32 </td>
-<td>9to5Linux</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNLUlNblpWeW1EMGdqdGxkdW91ZUs1SEh2NzhxdHZpdVA3aUFzRWFGazFXYXdVQjFDcGVwRzh6WkpjSHgtUVpBRm0wOW1qM2NPdDR4MGR5YWFfWmVvTmVwbVVIQkJxYmhpRE9Kdmo1LXdna3Q1RzFGR0ZMZ21EUkY0TE9pTTRVb2VKQ0lwbUwwT2pQSUVSZ3FZa0thQnZEbnY5amp1ZWJaeE5PQW5fNUJkU193S3hxZmlWRmIzMg?oc=5">Update Linux Now As 9-Year-Old Root Hack Confirmed, CISA Warns Users - Forbes</a></td>
-<td>Sun, 03 May 2026 12:28:46 </td>
-<td>Forbes</td>
+<td><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd25VTzlTbXJja3ZISk1FVTVlczNyYWlmN0h3bzNtNDJaRjBwaGFKcnB3dWhxcE45Z1dYeU1lUS1QZE9weGw0WW5YY1NNOWdZSDJVLXd0Wmk1eU1nd1ZJRXZDN0lUMnhfYVpzWXdqazJZaGFSWEVxel9JWGN2ZVU0OVdwbEl2aDNscXdsTVI4aTE4elZNYUJRYXFTMHpncG1oMUU4cjNQUmZXMWQ2QlBTUzBycGctLVFZNm16VzktOUE5RG9BR0NFR3B0VkJ1aEd3MHM2SHQ1MGZkSEZCekxoMGt5aktpUQ">cPanel CVE-2026-41940</a></td>
+<td>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd25VTzlTbXJja3ZISk1FVTVlczNyYWlmN0h3bzNtNDJaRjBwaGFKcnB3dWhxcE45Z1dYeU1lUS1QZE9weGw0WW5YY1NNOWdZSDJVLXd0Wmk1eU1nd1ZJRXZDN0lUMnhfYVpzWXdqazJZaGFSWEVxel9JWGN2ZVU0OVdwbEl2aDNscXdsTVI4aTE4elZNYUJRYXFTMHpncG1oMUU4cjNQUmZXMWQ2QlBTUzBycGctLVFZNm16VzktOUE5RG9BR0NFR3B0VkJ1aEd3MHM2SHQ1MGZkSEZCekxoMGt5aktpUQ</td>
+<td>Tue, 05 May 2026 01:29:31 </td>
+<td>Security Affairs</td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xUW1BX1I1R3N5WWtGd1NJaWVwQ0pCUWtRR1NsckQybmVldUM0d3V2clplM3YtMkNxcEl2MjJkXy00WVdjR04zTjdxODRET0Y3QWhGTGJMYnJQZEVoMG5LU1VyZ9IBY0FVX3lxTE4xUW1BX1I1R3N5WWtGd1NJaWVwQ0pCUWtRR1NsckQybmVldUM0d3V2clplM3YtMkNxcEl2MjJkXy00WVdjR04zTjdxODRET0Y3QWhGTGJMYnJQZEVoMG5LU1VyZw?oc=5">CISA adds Linux Copy Fail flaw to exploited bug list - Bitget</a></td>
-<td>Sun, 03 May 2026 08:38:17 </td>
-<td>Bitget</td>
+<td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHJuZjhtNklwc21WdllhREVHQTVJY3NIUDBKT1dPU2hIc1psUUJ5Ty1ULVpydFlMaFpTZDFkNWpPUTdnWUxiTkxuQlJaX1FjaENvOE00TnY1WWY0QU5wbXNhcUpMN2pHRmh6SW9iUmJCUEVVWHpaWDhSbVE5OGlvSG5wV25BWUNXaHV0bDZwWXI">CISA warns “Copy Fail” Linux flaw is already actively exploited</a></td>
+<td>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHJuZjhtNklwc21WdllhREVHQTVJY3NIUDBKT1dPU2hIc1psUUJ5Ty1ULVpydFlMaFpTZDFkNWpPUTdnWUxiTkxuQlJaX1FjaENvOE00TnY1WWY0QU5wbXNhcUpMN2pHRmh6SW9iUmJCUEVVWHpaWDhSbVE5OGlvSG5wV25BWUNXaHV0bDZwWXI</td>
+<td>Mon, 04 May 2026 15:01:09 </td>
+<td>CyberInsider</td>
 <td>Critical</td>
 </tr>
 <tr>
-<td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGpFX2M1eS1UME5WRXZRT0ZKZUdPSlNsbk1lUDR4UFNZSnY0MTNPYzVlV09NTXZPYTNhRTZ0Tkt6WXRvX2RYNFJ4TVM1ZFNDTkE1TGhRT3lRTTc2Q09fVUVURjNtYzA1WHlFUi12QTJtOFBtSHVtZ1M3ZVBUVDFhUm10UEthSTZzZkZoXzJmNUtac215blVkanNB?oc=5">Microsoft Warns of High-Risk Linux Kernel Flaw Allowing Root Access - Windows Report</a></td>
-<td>Sun, 03 May 2026 13:10:52 </td>
-<td>Windows Report</td>
+<td><a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZ2ZmktU19GbGhZWWhWMFJfcHdTSFZPSDRIb2ZsZFNaT0FHelNVUko2VjFjY3ZJOVEtb1d4aUdiSTlqbHJrMnJISGo2MldVaFVaRGU4cS0tUElWVEd4RG9ieTduOE9pOUE5dTBhamZ4UG5BMXVwaklOZ0p4ZU9xR04xaUZfSFlXOXRVQ1RVRVVWVzE0eHdqU29TUC1FQXJNelJGVnZveVVVMWxRakIxN3JrN2FYNS1pTW5yRkZGOVhfak56ekM3c1BUNnJiTnNxZ1hlZWxQaVJpLWh4VlZhb2Jfd0hQcFBnQUNVdHdQSHd0cEdpdzNXUWlDNUhBZmI0ZHZtQ3hHbGdmNTkybHJkSTFaZXVHSFZNVXk0Z004N28">CISA flags actively exploited ‘Copy Fail’ Linux kernel flaw enabling root takeover across major distros — unpatched systems may remain vulnerable to attack</a></td>
+<td>https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZ2ZmktU19GbGhZWWhWMFJfcHdTSFZPSDRIb2ZsZFNaT0FHelNVUko2VjFjY3ZJOVEtb1d4aUdiSTlqbHJrMnJISGo2MldVaFVaRGU4cS0tUElWVEd4RG9ieTduOE9pOUE5dTBhamZ4UG5BMXVwaklOZ0p4ZU9xR04xaUZfSFlXOXRVQ1RVRVVWVzE0eHdqU29TUC1FQXJNelJGVnZveVVVMWxRakIxN3JrN2FYNS1pTW5yRkZGOVhfak56ekM3c1BUNnJiTnNxZ1hlZWxQaVJpLWh4VlZhb2Jfd0hQcFBnQUNVdHdQSHd0cEdpdzNXUWlDNUhBZmI0ZHZtQ3hHbGdmNTkybHJkSTFaZXVHSFZNVXk0Z004N28</td>
+<td>Mon, 04 May 2026 14:36:47 </td>
+<td>Tom's Hardware</td>
 <td>Critical</td>
 </tr>
-</table>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPaENTb3k3cFRFNWhyYzZ5djUwTDVvQXpVTzZyenJoMFQtZy1HU0J1MnBMR3NyNlYzSy1tQldjZXRmUnBLNmNzb1lKOXR4VWtnS1hxNG1LTHlfTGNlVmU5TVF3anVtMDVkNUlWRFVadzMyNWplMm1yc1FNMDFqbzduakM3Um1FTXhqZi10M29BUk1FbmZJOGN1bGlLanR4V1VLXzd1aE00eE4xS2kz0gGyAUFVX3lxTFBYMVZXRFgtVnRMOVRhT0MwWFVCNWlTYTdFbkNlMDhYTkxSb3g5RlRYUzZQMnYyQ1BkWFUwVTFBZXJjZWJaU1B2QWZaMXNwZURrbVk1OFJ6czNEOWVIeHB6ckJ5TnlYR1lRQy1sVmkzWUJ3cjlZRWRsMWR0LVlzaG5pY3BIdVRueXJoSU90S2JiNENkX05uMm83U1FCY21CZXZlbTY4Q0Z5ZUE3U2VxeUhtMlE">CISA says ‘Copy Fail’ flaw now exploited to root Linux systems</a></td>
+<td>https://news.google.com/rss/articles/CBMirAFBVV95cUxPaENTb3k3cFRFNWhyYzZ5djUwTDVvQXpVTzZyenJoMFQtZy1HU0J1MnBMR3NyNlYzSy1tQldjZXRmUnBLNmNzb1lKOXR4VWtnS1hxNG1LTHlfTGNlVmU5TVF3anVtMDVkNUlWRFVadzMyNWplMm1yc1FNMDFqbzduakM3Um1FTXhqZi10M29BUk1FbmZJOGN1bGlLanR4V1VLXzd1aE00eE4xS2kz0gGyAUFVX3lxTFBYMVZXRFgtVnRMOVRhT0MwWFVCNWlTYTdFbkNlMDhYTkxSb3g5RlRYUzZQMnYyQ1BkWFUwVTFBZXJjZWJaU1B2QWZaMXNwZURrbVk1OFJ6czNEOWVIeHB6ckJ5TnlYR1lRQy1sVmkzWUJ3cjlZRWRsMWR0LVlzaG5pY3BIdVRueXJoSU90S2JiNENkX05uMm83U1FCY21CZXZlbTY4Q0Z5ZUE3U2VxeUhtMlE</td>
+<td>Mon, 04 May 2026 11:28:15 </td>
+<td>BleepingComputer</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3BiN3RVY0hzVU5OWS0tMXM1N0lETXdfaHAtd2JVeDllM05ESHpfWlV3MUJsOW9OVDI3SDl1YkozWkdVeXJaY08tZk1BdGJnRjU4X256M2dFczBwT2NoM01WRFpDRUJpSXB3RWw0LWVMYy00bFJWS18wbUx1aHBBaDVxZ1hUVXg0">Critical Linux Vulnerability Exploited by Threat Actors</a></td>
+<td>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3BiN3RVY0hzVU5OWS0tMXM1N0lETXdfaHAtd2JVeDllM05ESHpfWlV3MUJsOW9OVDI3SDl1YkozWkdVeXJaY08tZk1BdGJnRjU4X256M2dFczBwT2NoM01WRFpDRUJpSXB3RWw0LWVMYy00bFJWS18wbUx1aHBBaDVxZ1hUVXg0</td>
+<td>Tue, 05 May 2026 06:00:39 </td>
+<td>DEFCROS News</td>
+<td>C
