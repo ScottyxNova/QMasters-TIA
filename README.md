@@ -1,56 +1,68 @@
 <table>
-<tr>
-<th>Title</th>
-<th>Link</th>
-<th>PubDate</th>
-<th>Source</th>
-<th>Severity</th>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJRSGJOazI3NXUwX2stSElNR3NndWV0bldHVXVjd2IwZkNFVENWRnI3eXlXcWhGUzhaRmxEdTNjY2I0VE9tT29oQmJ2a3ZiSzJZV201ZmJZV1JoTmY5MmlmWkhianhyWXo3eHNEdlJKb2ZmYWpDWFo0Zmp5UTJqV0V2b281dGUxVzBCYjA1bW10UlJlM0VrZW1vbFBCUFdENEVxb2VKcll3cHVhZ2lRVHR2djZlM1BKVko3UjRhenNlUjJiUGc">cPanel CVE-2026-41940 likely compromised about 2,000 servers CISA warned agencies</a></td>
-<td>https://news.google.com/rss/articles/CBMixgFBVV95cUxOVWJRSGJOazI3NXUwX2stSElNR3NndWV0bldHVXVjd2IwZkNFVENWRnI3eXlXcWhGUzhaRmxEdTNjY2I0VE9tT29oQmJ2a3ZiSzJZV201ZmJZV1JoTmY5MmlmWkhianhyWXo3eHNEdlJKb2ZmYWpDWFo0Zmp5UTJqV0V2b281dGUxVzBCYjA1bW10UlJlM0VrZW1vbFBCUFdENEVxb2VKcll3cHVhZ2lRVHR2djZlM1BKVko3UjRhenNlUjJiUGc</td>
-<td>Tue, 05 May 2026 04:08:43 </td>
-<td>NewsBytes</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1I2Qm9XRjNhSThaRlJYVU1mYjF6NER6bnF0emJCYlB6aHNZZHBrdXVWNnZMRTUtSUJfaEJTc0VRRzdway00eGt4VS1VenI4OE1wNWtBT25kWXNpc3A4bVJMLU1ELTR3ZUdwZ21NRlc1OHZrMEgyQlZsQkFCdEk0alVGWDl4bXpzVkg3ZFlkM1VsYllPSlczdTdkT3dvdlBsNjg0UkxGeWJQTmFwWTBqV3ZVSlZPaVBJb2RsaE9pUkVWaEtqY1R2aNIBzgFBVV95cUxOS2hVZG5PdkF2SzF6OEx6LTdnQ1BtVXdxSGJCYmlSSDlkcmRDLU9OeUNFbnR2LUl0eENuZEVSckxBblg0aG52bF8tSHE3QWQxRHozUWVDbFZ4em9VYWdtaEU2M2t6a081a2JLUmR1Sm93UGJSWXJWM3RNME03WV90QjZKeS05cGk1VWYwdXk4dDdvMFY0LWpsWnU0QU9KcUpFNXFIMDBiZ0F2ekhYQ0pNU0FCeTlYSXlONktvVThKYWFidzlrdW9LbGtURnVydw">Hackers target governments and MSPs via critical cPanel flaw CVE-2026-41940</a></td>
-<td>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR1I2Qm9XRjNhSThaRlJYVU1mYjF6NER6bnF0emJCYlB6aHNZZHBrdXVWNnZMRTUtSUJfaEJTc0VRRzdway00eGt4VS1VenI4OE1wNWtBT25kWXNpc3A4bVJMLU1ELTR3ZUdwZ21NRlc1OHZrMEgyQlZsQkFCdEk0alVGWDl4bXpzVkg3ZFlkM1VsYllPSlczdTdkT3dvdlBsNjg0UkxGeWJQTmFwWTBqV3ZVSlZPaVBJb2RsaE9pUkVWaEtqY1R2aNIBzgFBVV95cUxOS2hVZG5PdkF2SzF6OEx6LTdnQ1BtVXdxSGJCYmlSSDlkcmRDLU9OeUNFbnR2LUl0eENuZEVSckxBblg0aG52bF8tSHE3QWQxRHozUWVDbFZ4em9VYWdtaEU2M2t6a081a2JLUmR1Sm93UGJSWXJWM3RNME03WV90QjZKeS05cGk1VWYwdXk4dDdvMFY0LWpsWnU0QU9KcUpFNXFIMDBiZ0F2ekhYQ0pNU0FCeTlYSXlONktvVThKYWFidzlrdW9LbGtURnVydw</td>
-<td>Mon, 04 May 2026 19:13:44 </td>
-<td>Security Affairs</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd25VTzlTbXJja3ZISk1FVTVlczNyYWlmN0h3bzNtNDJaRjBwaGFKcnB3dWhxcE45Z1dYeU1lUS1QZE9weGw0WW5YY1NNOWdZSDJVLXd0Wmk1eU1nd1ZJRXZDN0lUMnhfYVpzWXdqazJZaGFSWEVxel9JWGN2ZVU0OVdwbEl2aDNscXdsTVI4aTE4elZNYUJRYXFTMHpncG1oMUU4cjNQUmZXMWQ2QlBTUzBycGctLVFZNm16VzktOUE5RG9BR0NFR3B0VkJ1aEd3MHM2SHQ1MGZkSEZCekxoMGt5aktpUQ">cPanel CVE-2026-41940</a></td>
-<td>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd25VTzlTbXJja3ZISk1FVTVlczNyYWlmN0h3bzNtNDJaRjBwaGFKcnB3dWhxcE45Z1dYeU1lUS1QZE9weGw0WW5YY1NNOWdZSDJVLXd0Wmk1eU1nd1ZJRXZDN0lUMnhfYVpzWXdqazJZaGFSWEVxel9JWGN2ZVU0OVdwbEl2aDNscXdsTVI4aTE4elZNYUJRYXFTMHpncG1oMUU4cjNQUmZXMWQ2QlBTUzBycGctLVFZNm16VzktOUE5RG9BR0NFR3B0VkJ1aEd3MHM2SHQ1MGZkSEZCekxoMGt5aktpUQ</td>
-<td>Tue, 05 May 2026 01:29:31 </td>
-<td>Security Affairs</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHJuZjhtNklwc21WdllhREVHQTVJY3NIUDBKT1dPU2hIc1psUUJ5Ty1ULVpydFlMaFpTZDFkNWpPUTdnWUxiTkxuQlJaX1FjaENvOE00TnY1WWY0QU5wbXNhcUpMN2pHRmh6SW9iUmJCUEVVWHpaWDhSbVE5OGlvSG5wV25BWUNXaHV0bDZwWXI">CISA warns “Copy Fail” Linux flaw is already actively exploited</a></td>
-<td>https://news.google.com/rss/articles/CBMikAFBVV95cUxNVHJuZjhtNklwc21WdllhREVHQTVJY3NIUDBKT1dPU2hIc1psUUJ5Ty1ULVpydFlMaFpTZDFkNWpPUTdnWUxiTkxuQlJaX1FjaENvOE00TnY1WWY0QU5wbXNhcUpMN2pHRmh6SW9iUmJCUEVVWHpaWDhSbVE5OGlvSG5wV25BWUNXaHV0bDZwWXI</td>
-<td>Mon, 04 May 2026 15:01:09 </td>
-<td>CyberInsider</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZ2ZmktU19GbGhZWWhWMFJfcHdTSFZPSDRIb2ZsZFNaT0FHelNVUko2VjFjY3ZJOVEtb1d4aUdiSTlqbHJrMnJISGo2MldVaFVaRGU4cS0tUElWVEd4RG9ieTduOE9pOUE5dTBhamZ4UG5BMXVwaklOZ0p4ZU9xR04xaUZfSFlXOXRVQ1RVRVVWVzE0eHdqU29TUC1FQXJNelJGVnZveVVVMWxRakIxN3JrN2FYNS1pTW5yRkZGOVhfak56ekM3c1BUNnJiTnNxZ1hlZWxQaVJpLWh4VlZhb2Jfd0hQcFBnQUNVdHdQSHd0cEdpdzNXUWlDNUhBZmI0ZHZtQ3hHbGdmNTkybHJkSTFaZXVHSFZNVXk0Z004N28">CISA flags actively exploited ‘Copy Fail’ Linux kernel flaw enabling root takeover across major distros — unpatched systems may remain vulnerable to attack</a></td>
-<td>https://news.google.com/rss/articles/CBMioAJBVV95cUxPeFZ2ZmktU19GbGhZWWhWMFJfcHdTSFZPSDRIb2ZsZFNaT0FHelNVUko2VjFjY3ZJOVEtb1d4aUdiSTlqbHJrMnJISGo2MldVaFVaRGU4cS0tUElWVEd4RG9ieTduOE9pOUE5dTBhamZ4UG5BMXVwaklOZ0p4ZU9xR04xaUZfSFlXOXRVQ1RVRVVWVzE0eHdqU29TUC1FQXJNelJGVnZveVVVMWxRakIxN3JrN2FYNS1pTW5yRkZGOVhfak56ekM3c1BUNnJiTnNxZ1hlZWxQaVJpLWh4VlZhb2Jfd0hQcFBnQUNVdHdQSHd0cEdpdzNXUWlDNUhBZmI0ZHZtQ3hHbGdmNTkybHJkSTFaZXVHSFZNVXk0Z004N28</td>
-<td>Mon, 04 May 2026 14:36:47 </td>
-<td>Tom's Hardware</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPaENTb3k3cFRFNWhyYzZ5djUwTDVvQXpVTzZyenJoMFQtZy1HU0J1MnBMR3NyNlYzSy1tQldjZXRmUnBLNmNzb1lKOXR4VWtnS1hxNG1LTHlfTGNlVmU5TVF3anVtMDVkNUlWRFVadzMyNWplMm1yc1FNMDFqbzduakM3Um1FTXhqZi10M29BUk1FbmZJOGN1bGlLanR4V1VLXzd1aE00eE4xS2kz0gGyAUFVX3lxTFBYMVZXRFgtVnRMOVRhT0MwWFVCNWlTYTdFbkNlMDhYTkxSb3g5RlRYUzZQMnYyQ1BkWFUwVTFBZXJjZWJaU1B2QWZaMXNwZURrbVk1OFJ6czNEOWVIeHB6ckJ5TnlYR1lRQy1sVmkzWUJ3cjlZRWRsMWR0LVlzaG5pY3BIdVRueXJoSU90S2JiNENkX05uMm83U1FCY21CZXZlbTY4Q0Z5ZUE3U2VxeUhtMlE">CISA says ‘Copy Fail’ flaw now exploited to root Linux systems</a></td>
-<td>https://news.google.com/rss/articles/CBMirAFBVV95cUxPaENTb3k3cFRFNWhyYzZ5djUwTDVvQXpVTzZyenJoMFQtZy1HU0J1MnBMR3NyNlYzSy1tQldjZXRmUnBLNmNzb1lKOXR4VWtnS1hxNG1LTHlfTGNlVmU5TVF3anVtMDVkNUlWRFVadzMyNWplMm1yc1FNMDFqbzduakM3Um1FTXhqZi10M29BUk1FbmZJOGN1bGlLanR4V1VLXzd1aE00eE4xS2kz0gGyAUFVX3lxTFBYMVZXRFgtVnRMOVRhT0MwWFVCNWlTYTdFbkNlMDhYTkxSb3g5RlRYUzZQMnYyQ1BkWFUwVTFBZXJjZWJaU1B2QWZaMXNwZURrbVk1OFJ6czNEOWVIeHB6ckJ5TnlYR1lRQy1sVmkzWUJ3cjlZRWRsMWR0LVlzaG5pY3BIdVRueXJoSU90S2JiNENkX05uMm83U1FCY21CZXZlbTY4Q0Z5ZUE3U2VxeUhtMlE</td>
-<td>Mon, 04 May 2026 11:28:15 </td>
-<td>BleepingComputer</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3BiN3RVY0hzVU5OWS0tMXM1N0lETXdfaHAtd2JVeDllM05ESHpfWlV3MUJsOW9OVDI3SDl1YkozWkdVeXJaY08tZk1BdGJnRjU4X256M2dFczBwT2NoM01WRFpDRUJpSXB3RWw0LWVMYy00bFJWS18wbUx1aHBBaDVxZ1hUVXg0">Critical Linux Vulnerability Exploited by Threat Actors</a></td>
-<td>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3BiN3RVY0hzVU5OWS0tMXM1N0lETXdfaHAtd2JVeDllM05ESHpfWlV3MUJsOW9OVDI3SDl1YkozWkdVeXJaY08tZk1BdGJnRjU4X256M2dFczBwT2NoM01WRFpDRUJpSXB3RWw0LWVMYy00bFJWS18wbUx1aHBBaDVxZ1hUVXg0</td>
-<td>Tue, 05 May 2026 06:00:39 </td>
-<td>DEFCROS News</td>
-<td>C
+  <tr>
+    <th>Title</th>
+    <th>Pub Date</th>
+    <th>Source</th>
+    <th>Severity</th>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGcwVHV4bHVhRU1ZVHhDOE5mUVJRMHpzRU1JNmNkNE9iU1hVVXFTOEFVc0xvOV92TGE3NjRVUGNIcGNNNFo2NUlrdHJMNFZGeWszM24wdk9ZMEZjMVBOYkRFaXl2ZlNqUENsUml1TnV6emxvN2FodVppaVJHMGZIUg?oc=5">MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks - The Hacker News</a></td>
+    <td>Tue, 05 May 2026 11:56:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9ISHZyUnNIeUVCbjRDSmJzYUVsZjVpTkZVYzQ4SklSM2hnNWhfUkN6cUlWamhNQ1F6M19nSDcxcTJCTlY1TFJlWTA2dkhMdmpqVjhXamRiSUVTVUZaVzZKc0FhTmxSVHRUa3BiUDg1ZVBWdGMzU0RBanJBaEFfeGs?oc=5">Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE - The Hacker News</a></td>
+    <td>Tue, 05 May 2026 16:19:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOOVBNb2RFRzBpTk5TSHliZ3VoQWNJaG1zOUVaVHlvWTU4Sm1nYWNIU1V2UEJuMEtsN1MwQld4eWp1YVlwV25GbS1qQ3ZfY0MzY3lIV2s4bEtUOC02d0ZuRThNZlFwOW0xeW0tZERZLXpJVHJ4X2wyeG1XMUFjRlFvM25TWE9PS2Q3U1lWU3J6SzZRZw?oc=5">n8n: From Parsing Bug to Remote Code Execution aka CVE-2026-42231 - DeXpose</a></td>
+    <td>Tue, 05 May 2026 13:56:21 </td>
+    <td>DeXpose</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOVS1nZUoyR3RmVkZkbk5mMFAxVDlTeWg3bWRDUjVYbDd5al9SeWNpLXZBVEowMGhaSWZ0QmdGNnRkU3RkMUtmMzdSM0x3Vjlnd2hjdnFZdE5pa3JfTEJOMW5aMWhLRkl1V2NxODZBNjZ2R0p5WWhBQlJjVlJjY3VWaU5NYmJ0QVdLX2c?oc=5">Two ransomware gangs now claim Cushman & Wakefield after Salesforce breach claim - Cybernews</a></td>
+    <td>Wed, 06 May 2026 00:31:59 </td>
+    <td>Cybernews</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1FobFRySzViSXRsdXdVanZZOHlHYlo5YmdYTVhseFRkMkwydnFDWVNoLWlMWldaYVJiZzQ5cXFtd21DN0VvWTkxTmstNXRTbXFzVXNmZVRyT0tDdU54S2t1eGZXX1hScl9SdW9ld2QzcUVYai1wcUc5ZWVXaHVzXzh2RzNhc1NGOF9XWlJWeU8zOUNNNWR3ODJ5NG5XRHpMejA3RnFvTjJuU3NsWmZLMThFWmVremll0gG-AUFVX3lxTFBJTkR1alJNQURqNHJpNUxISENZQTM4RXlvbzdVSlNtVldpd2dISDhMbUJiOUVRVGsyWDV0VXB0LXZSNl9MUzd0RDhzcFhxdFZublBUSUh3RGI2bG1tc2IwY04zalBxUlFuOTNCMFFDTENmbWQ1OHMwajJTRFljdFZKWGw2VTF0OXBubU5NQ0FqejBGTUtXX3J2N2R0Uzl4MUZjNWFHMTBKa0w0Y3JwbmUteW9ieXk3TG96UW01OHc?oc=5">Apache HTTP Server 2.4.67 Fixes Critical RCE Flaw, Immediate Update Recommended - TechloMedia</a></td>
+    <td>Tue, 05 May 2026 09:17:57 </td>
+    <td>TechloMedia</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUx4SUNiYXBFVXlQOENYQmpHV2hycWxiTkVGQ3htd0V5bTZKUkJHX1RjWTdMaVlLMkZtUTJPWlhxZE5qOElyT2VyaDRxbjAwdE5QMG9oZmozM08xUXBaZmxwY2ZTalZLTFpfWjE0dS1FWm8yaVBfd0I5NFNTMndiSFBrWURpVjh5Ymtn0gGQAUFVX3lxTE5wT0Z2RHZGd25tbDNpclA3RjFyTjdCaWpWRnBzNkNnZnhGc2F6SGNSQXUxeEVWZWYyZl94ZGtNWml0Y3I0YWxMVzJXZWVLbHdsS0h4dW05UXczZ213Y2xleFFpVEFNZW15eGtzNzREOVlkZUtGdHZuT2hpODVBcEhRYmREQUs2NW8xTXdXclJrZQ?oc=5">Oracle Debuts Monthly Critical Security Patch Updates - SecurityWeek</a></td>
+    <td>Wed, 06 May 2026 06:32:17 </td>
+    <td>SecurityWeek</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxORmpOMHh0eklLa2dCRGtJSDZHdmVhWm9tUWltZmcxREZRVDRCMksxbHdLYzk5cm9sRXpZYkRZcWdtSGpUZHhYamFDcjN0Mko4aXA4LVFGQXRENnhaRlRLTHR5UU5FdjA1VUdfQW15Xzl3UDVkb2FBTUpmR0szUHhrTg?oc=5">Oracle rolls out monthly security patch updates - Help Net Security</a></td>
+    <td>Tue, 05 May 2026 11:40:46 </td>
+    <td>Help Net Security</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0dWRk0tSnAzMllCOWNDTDB4S1Jtd3NrY0ZmNFJLb0tNQzdSakxGc0FWOGM0cDhPSjMyU0JUalpqTUl3RU5JMnhRMXVhb0xZSXFRRkpyelN6bjg0WEFtbmdEc1JXTWROSk9QQk9xaElDdFRKRkRvZWxQNG1CbHJLbEpjenREM21aVFk3Y0xYZmtLUHRXeW1wZmZYU0c4MC1fZTFoM3M4U3ZnWHBreVZv?oc=5">Oracle will patch more often to counter AI cybersecurity threat - csoonline.com</a></td>
+    <td>Tue, 05 May 2026 15:26:56 </td>
+    <td>csoonline.com</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMipgJBVV95cUxOeDdBWFQxbnB6MFVfZW82X2FaT1M0VnFvcW9NMmZKNTlWdFh5b1htZW1xY2hWTXZ2MDJtYXlnQzk2QVAyX2FBRDNpaHhwTjRfMzBOZEU2UzF1T2d2Nm5aZ0JPV25xOTNGTGNTVkpmNUx3cHVvQ2JNMnFjQ2F0YUYtVW1kRERiNm13Y2xoSGlWV0VtQ3Bsc3ZVMWhtbWNwZ3MyTHpCclFVUnpWbmNJc0dwejZ1dGNBS0RkLXVnQjg4Q1dNak5KeG5jM2kzVUdWX0Nna3pBUDNIbjBYVVpJTnhVZUx6UnVMQi1BblUxckVUNGNNN09RZFE0dWZxZDN5VkVhTUJCMzViMVFCZ2FiQTZfZTRwa1dGeWZzeFN2TUZoc3MzS1llc0E?oc=5">US Government issues an alert about a critical vulnerability in Linux that could compromise systems dating back to 2017 and exposes millions of devices globally. - CPG Click Petróleo e Gás</a></td>
+    <td>Tue, 05 May 2026 13:38:00 </td>
+    <td>CPG Click Petróleo e Gás</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzVxaURjT093YXBpb09XVFZJb08xLXdqRzNUbl9oQjF6aThibjlSYnJmYkotYUdmbmZFQklWLTJYamV5cUJfcmFSUm1ueWJyVm5BckpfOGhCYjFTWEREcjZwQWVvOGRWLTBMbW5xTVE5WlJNVEgwZE9Cc2RsbDdXUjI3blVjWnUzWG1ucW1ObFB5eHgtbVk1Qjc4RFpYaWZVZUIzaDZtdlZDUkJmUUQ1OHpfbmc0dw?oc=5">Microsoft enables Hotpatching by default: Windows updates without restarts become a reality - igor´sLAB</a></td>
+    <td>Wed, 06 May 2026 04:00:00 </td>
+    <td>igor´sLAB</td>
+    <td>Low</td>
+  </tr>
+</table>
