@@ -1,92 +1,92 @@
 <table>
-<tr>
-<th>title</th>
-<th>pubDate</th>
-<th>source</th>
-<th>Severity</th>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1NVjBFaDJhWk9wYy1MX0liRC1OODNNb0Z6SUd1aTlRM2JpVFhYRzhLX2ctUXFOempvMDNTakpUalRCMTJGYlZqMWVpT21JY1pIYk93Y3MtU3puampybmVod1U5cDFNd1ZQSk1FLXpNQ3Q5bEFCcGF5TW1yaHpKc1E?oc=5">Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access - The Hacker News</a></td>
-<td>Thu, 07 May 2026 17:55:00 </td>
-<td>The Hacker News</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNaG9mQjJGT053M3djemI2bVlIdmpUbXV0X0ZtTmdvaklhY2pWeVl1Mk9ueU1iSWsxZlNZTHJkZlFjZmZBWkpwMElLSFZRM2Eyb210ejRtd3E5ZGhnemhmNENsdVBjVGNjU1Bva3R5Tkt1RVQwWDZAXy02amtNanE2aU8zWHdLVjFJZXBzdTZDQy1abUhFblA2NHBSRFJla0QyZmJoVFlpaHFrMUdqSXV3?oc=5">Critical Vulnerability in Palo Alto PAN-OS (CVE-2026-0300) - systemtek.co.uk</a></td>
-<td>Thu, 07 May 2026 11:25:00 </td>
-<td>systemtek.co.uk</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQSnZ5V2lJSlpBMklYRWFkXzRIU0hWNVhfY3pEWGVQS19LNEs3M3hkckZ0SUFOQUVTcFZoeENTb2dRR0I2SFM0c2ZHMXIwaWo2ZUszVjNWUjE1eXZ6WFNfWmZ1R2NEQXpLVkpVMjRveU41YXdZQVBwWkw1YTB4cURjNGx6RjJXWTFyWXlmUDk4NFVZejdoUldXVDI1UWgxeTlia3hiLWhCSHpEWF9tUmVmNlBfWlM5RE5OWmxNUQ?oc=5">Cisco Enterprise Chat and Email Lite Agent File Upload Vulnerability (CVE-2026-20172) - systemtek.co.uk</a></td>
-<td>Thu, 07 May 2026 11:20:00 </td>
-<td>systemtek.co.uk</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2FGaXNKTXRjckZNaXVFTk1ZUmxocUh6SnlkWDRfOWZkUHJ0YU5Qdk10RFZLQ2ZhbDZmbnhFMXpyZlVBMWVtMzdNdDJIMm9uQ1ZzdC1KYTM3aWhYVDBJT1hKSXdfaVFNbHZJdWxYRHdOZ3Z2U0hKNlk2NjdULS1VYTJJVElXaXIyQzBHU2E4Z2RUWjJSbTd1X2V5RmJjUllEekdBYS1aWXlyc2xtMHoyZzNJS3Jhb1XSAbwBQVVfeXFMTkNKYlJfUEo2VW5UQlU3cmIzaE1OTHZkaVZSTnhzcXZGYU42azFsVmk0b1JrcWctWDZXQXFxTDZvQ0DtWFFDU0VacjdHVmN4VU1CckVfSnZXNU8zNG1ZOXJkaldfWXB4bEJLT1ZkejB5eU9Uc3Nkc0FiS1BJc0VaRWpUc2F3VFhIR2FuNy1fS2NfVG9wbTRPTmdqSFVPWkEzMzBhSnFwSWgyQWRVY2RHX2Y0QU9yZFZFdE5qMEI?oc=5">New Linux 'Dirty Frag' zero-day gives root on all major distros - BleepingComputer</a></td>
-<td>Fri, 08 May 2026 07:45:24 </td>
-<td>BleepingComputer</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPVDBIZUFrTTloQWxWaWhyQTdSYXEyZWFqS0lEeVlheU5yYXlRM3JlVlo5WFVlcy11RG1FaGhLSG5DVHFKRUxDSkZ2T1NaUVVxWko0OTRhd2tOSWhOdFNnSm1lck14M3NGdnVaU0Yta0ZLelptY2ZFZ1EzLW1TSkh1VXNB?oc=5">Dirty Frag — No Patch, No Warning — Root Access on Every Major Linux Distro - cyberkendra.com</a></td>
-<td>Thu, 07 May 2026 20:35:00 </td>
-<td>cyberkendra.com</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBGVkJDbEdPV1ZSMzE3ZkVHYzVMekh0STh3OUFhTThYUGdfUlcwcjNQQ1dIYkZSV2o2eWxuck84X19nNWlkMWd1VDFxTXBEaUpsSlBMSnBjNldLXzRqRVR1NDdaLUE4ZDR1LXZGaDhvQzFDYjEwY2F4c2JxM0RpOWM?oc=5">Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions - The Hacker News</a></td>
-<td>Fri, 08 May 2026 05:12:00 </td>
-<td>The Hacker News</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE42bDZpeXYtZEJZOXJmQWRxdFR3bDZTLXlIOXppRHdBZWp0YW95TDY2LXMxNWRjQ2RRbFF2ZFZCdzZHVkp0SGxVVHRCQWNFT3A0U21CTWVBUGtsRml5MDlVck9R?oc=5">Recommendations for CVE-2026-0300 - Arctic Wolf</a></td>
-<td>Thu, 07 May 2026 14:19:36 </td>
-<td>Arctic Wolf</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMitAJBVV95cUxQZE9RZEdqLVV2YnQweE1ZRDNVQ2NkbUdlck5QX1pTZE9ZQ3NEM2ROTU9Wc0dCMWhfLVZhcWVpQTJ1dnhoMmN4UnBWY1JtZnAyZ3MzS3pPQU1vejR5TDNyMEtRdkx0aEtfZXM2WmgwWE40bXRvODlrSlpRSE9aUWtab0d2anR3TmFDZC10X3pHZkRGYkMxaVl2LTZ0eEV1QzFmSVdJbDI3YzZhRVZZSUl4d1JNQnd3Z3VteVdFVWp6cDhLNl94aXZWZUp6Tk5RLUpVWWMzaFRNYktXeWVvSVRFcXoyU2V6VVp0Y09tTE9saFpkM2dzanFPZ1lZV3dLZWV0aDY3T1hnQXhWMlFuSFNWZDItN0NTZWNVMUlnQUFlWUpublRIcXJWOFoxX2VXdS1UMGlNSA?oc=5">Devastating 'Dirty Frag' exploit leaks out, gives immediate root access on most Linux machines since 2017, no patches available, no warning given — Copy Fail-like vulnerability had its embargo broken - Tom's Hardware</a></td>
-<td>Fri, 08 May 2026 00:18:48 </td>
-<td>Tom's Hardware</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNTG5QX1dBQy1xSk5FcUpYRWlWaDVNVEk2aXpWcmVqRjFCMnAxM0hBSWFjV1E3VUJYbWpuMGdFOUM2Y0Y2RXZUVUdaTm11ZFFDeHp4VFJiMWhJZ2dxM0pQamFpaUtOVG9tWDhSQUYxUkhJTzFFNFFFcks0V0tMRXVrcFZ0NnFHZ09vS2RsWWVLTmhsdUlVcGJmUTlMT0NGUU5VVHfSAaIBQVVfeXFMTUxuUF9XQUMtcUpORXFKWEVpVmg1TVRJNml6VnJlakYxQjJwMTNIQUlhY1dRN1VCWG1qbjBnRTlDNmNGNkV2ZFVHWk5tdWRRQ3h6eFRSYjFoSWdncTNKUGphaWlLTlRvbVg4UkFGMVJISU8xRTRRRXJLNFdLTEV1a3BWdDZxR2dPb0tkbFllS05obHVJVXBiZlE5TE9DRlFOVVR3?oc=5">CISA Warning: Firestarter Malware Persists in Cisco Devices - The National Law Review</a></td>
-<td>Thu, 07 May 2026 23:27:37 </td>
-<td>The National Law Review</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2RxTEF6anpaRlU3WTB5WkE2Ny1nQXNabHo1Rm9PcDlfQ29icThEdHpxVXhvb2VXQkRkVTF3Uk9wWTZCWUVuWkx0dFB2S2k1bWpWSnZfQUFRV3hzOUlsRGViRk5xYkw5RWpZYW1HQVI0X09abEdxZy02cUljcVdIWWtR?oc=5">Serious vulnerabilities in Salesforce Marketing Cloud - SecNews.gr</a></td>
-<td>Thu, 07 May 2026 11:12:00 </td>
-<td>SecNews.gr</td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9vRXRlQzZGYTltdkxFbzRMYzE3NTc5b0dWQXZ0eWlqV2NuRG9hSEYtNk5jemRXWVdiOFR0dGhzWm9Fc0JMeHZLeTRhRXc4czBkTXpQMTlxZ0lmU2I1VUlXUUpDUE9UUFVQR05ySm1MQ0ZyUEhraXpj?oc=5">Multiple Critical Vulnerabilities Patched in Next.js and React Server Components - cyberpress.org</a></td>
-<td>Fri, 08 May 2026 06:58:38 </td>
-<td>cyberpress.org</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9GdXk3blgzX2Q1RDNSV20tVUk4azQ1eDNpbXZqS05iU08tSDZlX3NjTjlyeE5GTHFnbnF0THVrS1hpS1BEOVJVOVR1bVlNWGRCX3BwOHZQcGlTR1E1Mnh1LUR3RXBUbjdLdWh3SnZDZmhhYkd3MXfSAXtBVV95cUxQbk1sSTUxRERraUlTb2FsdW5SUjFIblQxZ1VTOXJWRXY4WGg1bFR4RFdXZlo5NGRFMFBjU0tfWnc1ZzNzOENfakw0MXRLbmNHbld4bldvMEdqNTBJcmEzZnVBaVUtMHg3Nng1b0tjSkp1VEhMYTc3NTBaN2M?oc=5">Multiple Critical Vulnerabilities Patched in Next.js and React Server Components - CyberSecurityNews</a></td>
-<td>Fri, 08 May 2026 03:02:43 </td>
-<td>CyberSecurityNews</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1UWS1tNDBKRXV1R2FDNjVZWmFtM2FrcnZ4bmNqODN1WjBMVXZnSE8wQ3pnRkpRS2Q1dll6aXlPVTZ5WnVsLXM3NE1yRWlPbU04RThFV0hxLXVXOWVEaEs5QTlTeEpQYmozRGNnN09BWUVVcGVzdWJr0gF8QVVfeXFMUG1fRmN6bkNtREprWm41X0hvZzBrck9ZUGU1TVNQcGRad0JlTE5XcTBveWJZZkQyVVhUWlFBc3ZrZWh2Vm1BdHVIYWNWdWtNdUFhbkRzRHZaQWpzWnhSbjRjMjQ3U0ZxaHVfcndPa19faXFnZkN1cVJMSi1OcQ?oc=5">Google Chrome 148 Released With Fixes for 127 Security Flaws - gbhackers.com</a></td>
-<td>Thu, 07 May 2026 09:18:52 </td>
-<td>gbhackers.com</td>
-<td>Low</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1pWERYV0NEUVF0MWpSVDM5V1hjeUpnODE5ZWlqX2ptY2hQZ2h0WFRwaFl3dERzWFdnUkdWVVM1NzN0RmJhMkFZUFJ1dzVCRm5xTlhFWERlQkpCUU5Gem9EUmw4U1Y0bDRSNkE?oc=5">Apple Patches iOS Vulnerability to Block Unauthorized Signal Access - Readers.id</a></td>
-<td>Thu, 07 May 2026 10:28:14 </td>
-<td>Readers.id</td>
-<td>Medium</td>
-</tr>
+  <tr>
+    <th>Title</th>
+    <th>Pub Date</th>
+    <th>Source</th>
+    <th>Severity</th>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN3F6Y3V1NHJNbnlYSllFR0l2TG45Z3UtQmNPVDNNS1oyY0ZLMHJ3U3BIaVBkZnJTWU5yTVJXSUdaNWRTYW5KdDRNRVc4ZHctVmhOSmk4S3UwZ0M2Y0ducWd4NU9tNnJIR05zeUN4Vnp4d08xUEtyVll0STd5RFV4Q3lkbS1iQ1lBRmxfeENVVGpSMUZmTU51UkIza1RpdVpXcFowNnJ6MTBITWxPNURpQm1vV003RjZXUnBJQ2lhY2LSAcgBQVVfeXFMTmR4Ti1oeUFiQVZLUHprZzJRVkhmS2tNUHFVLUM0NU5ULTFKaGpCYTJBcTlJWkswSGJNdGdrMDRZTTYxTno3Um82WVlYRUI3bkdIOVQ4UmRSSmNMVVZneHhTTkttTlBNVTRwUS1LcVVTUVhldGtxeHR1eXpjYURFdDhpRFBGck1IWFo3S2lDS2xDTzZWQXdDR0xwcl9zS2RCb1B4RktyQ3IxZm9CNEFheF9KM0Y2TWhsVTM2cERTMG1YUy1GblhOVjQ">167 Windows Bugs Patched In April 2026, Zero-Day SharePoint Exposes A Deeper Threat</a></td>
+    <td>Fri, 08 May 2026 15:53:00 </td>
+    <td>Qoo Media</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxNMmhLNFZIVVZEWS05YlBaZ2w3OF9HLTctZEN6Y0JLV1B5clBVclE2REh3VzRuVkpJQTdocUFrZzZUbWZJUDYtbWJwT3RqSXFyVVF4ZVM4Q1VPRUZEWW1Yc2NCSEowM0NhTE5fUUlwb2tFYzlQNDFyZVpNRWFxOG1pS01aaGtNaVdzSXFnZy05WmRoSVJneWl3NXJkcDNsclFXdFRsRnhsc1M0RG9zNWNxbS1JcG1FQVU2VVp2eHF1a2ZQc2JkVlRVOTJiN2JWVktLbjNkUUx0N2ZHcDQ3Rm05OG1rYkY1YXNMLVF0dE5hYXZzbUVQU0NaUnZ0dWxxS2Nm">Dirty Frag (CVE-2026-43284, CVE-2026-43500): Frequently asked questions about this Linux kernel privilege escalation vulnerability chain</a></td>
+    <td>Fri, 08 May 2026 19:22:04 </td>
+    <td>Security Boulevard</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWhjbi1TaFBMdzZnYUh6ODNNWHpoZWpnWmZxUUNnX2tvdUY1RHN0aXl2Y1VSaGxGVVJ4SmJXaGZwYkJodHJBeXpta2hkdURNSVFBM21EYk5oTE1heE9EUkR2ejZQQzhsRjh5Q0NxX05YeUcxRVZHVXk1UUFjbi02bjE3azlneDdnUzFaSEFBZ2J1elNUNFdTODFBN1BjWmFDakJ2SnBsTQ">Dirty Frag: Unpatched Linux vulnerability delivers root access</a></td>
+    <td>Fri, 08 May 2026 14:13:04 </td>
+    <td>Help Net Security</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnZvSTdnNE5mdUt5NEtRRWtmV1FuMGstbmxsSkg1YTc2UGhfc0JlWjBmY3VSYjE4UEpqcllPZWNla1lvTGE3QVRCaFVQS2wwRG1JZ1FNdFJaa3FXTkFkbzNCeHlSUWlOM2FDdjBkclhEaHFKZFhUeFNtNUhxNTQ1d3BqZUpiMzdoMzJ4SzRqTXh2OUIxNk1HTGQ4OWR2dTY3empMNWFVd2FEamt1OXgtS0gyNzZkUFBO">Warning: Dirty Frag, a new Linux Local Privilege Escalation vulnerability, was disclosed. Patch Immediately!</a></td>
+    <td>Fri, 08 May 2026 16:29:29 </td>
+    <td>Centre for Cybersecurity Belgium</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVVpNOVpSNDFKeUZVR0NnN3R1OVM5Nk9PczdwQWtlTjdEWjlSbW42am4zNFpYRnZFbU5TOVhReGNKdHF6azJraV91XzAzLW1BeE9uM3hZaWFrMkR6c2o1bDBwc2RYTTdVeF9PdUhyZ2VuZnRmdndmdjlpQTQ0TEFweTk0T1JnQWlE">Linux critically vulnerable: two kernel exploits dropped, giving root in seconds</a></td>
+    <td>Fri, 08 May 2026 09:32:03 </td>
+    <td>Cybernews</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNaThVMEsxMDZjSTQ3SF93NS1LdVp4MWlaV005cmlYcm1IVVFNVGhZSW1UMnR3cEVHVjZ3d1Q0N3BONE9yTElWTlVLM3ZUNHNLZXNzMmZtNTBaQk5vbWRlSVBzbVA0WkZaRWpJYzVCaG4wLVhuUFZHZzhOSm0wWWJ3R09ZU21EMzR4cTN6U3d4UXM4UHRCMVFuVlpKSlNkNG9lNElub0lzSGY3NU1LTkxSZW1adVNTcmM2a1p4bg">Critical New Linux Zero-Day Goes Public—What Admins Need To Do Now</a></td>
+    <td>Fri, 08 May 2026 14:45:43 </td>
+    <td>Forbes</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUk0aFRZTzljdkJERzZ2Q2pSYnBCVVlkdGt5dGJ3MEZtOHZURkt2UHZ4V2Qtdm5uNzZmWWVRclgyaUNFRjJrcWlwWHdMUnBDOVBRV00ta0dCbElSRnlJQ0N5dlF5c3hGbW9od1hyUHFINmt4eFVmTXpYSnhWOGQ2WE4wbVNIMmZRZ3pwd0FkN2dNZw">Dirty Frag' Linux zero-day exposes most distributions to LPE</a></td>
+    <td>Fri, 08 May 2026 19:46:29 </td>
+    <td>SC Media</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWJENlExSGZTNnl6SmNiaWFzbW1kUHNWdTgzSnRRcG0tOGI1a0l0ZlFXODJGQkpCSEtDRHk1OWJlQmZ4Q3VWMko0di1fTjBRSjVMN0JPVkdvaE04NVBBVDdtZUZORlVzbEI5TUV3eGsyUE5fQWJhS0JGdVJTUDFfWkJqQXBkcFozUDdQeGhB0gGTAUFVX3lxTE5ibGRWekJONG1IdlBtdGszOG1ZaTBBdjg0REZYSzhPT1V2eGhjWW5OVFpqVGx6eUZkVlhyZlNXZUc4MG96VTNLX21waUg4VS1pak5YbGFaY1o3UF9fWUl0a0FmMkRXRFhQcFE4dmFFYmNHWDlGRnZMWGE0YURzNWtfQ0luTHB3ckFmOWlrbExjYzE1SQ">Dirty Frag Is a Zero-Day Disaster for Linux</a></td>
+    <td>Fri, 08 May 2026 14:59:48 </td>
+    <td>Hackster.io</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUZEUXM1NWRCZXNRTG4yV056UGhPRTBpR1JMNFFvY1ZQQVhFaHJxeFE2azFKY0FVTm1UUjIxV1MwbWNmV2ZDSVFMLTNBR1ZESVZCYUpIMnBoTy1SbTU0WnV5UGRNaWlJNXlsZm5JTWVVQlpCZW5aQVdHVDhSLWZxdFBRZWdGZlh2WXY1UG4zTGlMNWxVYkpuTVZn">Dirty Frag Linux Kernel Flaw Allows Local Privilege Escalation, Patch Now</a></td>
+    <td>Fri, 08 May 2026 13:29:54 </td>
+    <td>9to5Linux</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxJcU44YzhWcU9VZ3ZKQ2ZKd2d0eHBJR0x2dGpDdTdpY2U5RDNJbDJwSjQzd0V2eDdLd1NtYlVvRjFJSGx2d0FjWkF6bF9jWU4xR3h3MlN6eTNGNzFkRlZLdVdWZ1J3b1QwNnZqM1g0R1M1TkpVdWJ1QjN3N0h5RkV3RzEySXBvRlV3R0U2Rk5Lb3I5M1BjZ0FhQnNZbG9VNm1qRkJlM0tVdGQwcTlWc1JtRktQbkV3R0JnRzBjTzFqUlV5RzJnZzh5aTBJTzJnU0ZnTlVvR0t1dDl3RzA2N0Z3RzBnTG1jMk5VdGQzVzhnR0M5aTBJTzJnU0ZnTlVvR0t1">Google Chrome 148 Released with Fix for 127 Security Vulnerabilities - Update Now!</a></td>
+    <td>Fri, 08 May 2026 12:27:48 </td>
+    <td>CyberSecurityNews</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5mYXBCcC1hOGVOeWhmWmJycmw5MjlqbXZBeUN6UE1VWEtUd2EybEZPa2ZMZjRuY0kySjJ6dXFPSWx6MG1XcnpLQTNMaExRbm5uOGwwLV82UlRuaFpvSVlOb1Z3VDFXY0szTnVpeHZvYUt4Tjk4TjVR">Google Chrome security update fixes 127 flaws, including 3 critical</a></td>
+    <td>Fri, 08 May 2026 13:07:49 </td>
+    <td>The Cryptonomist</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNQW40RDBUWld3SlZObHJlMmJ3aE1qT1RhX2pLb1FRek9WMHlCU1BvM28zNDU3UjhXR2NlR3VKc2UtQ3N4bE1oTHBkTERXaWxDbGljd3hMUDFWZ3N6dEZ1NVpIOVZaVEJWNTUzQzBwV1djSmhfRGp6RHdVWG9yTWstb1Z3bnB3eGkweWswek9HUWc">Urgent Security Warning: React and Next.js Vulnerabilities</a></td>
+    <td>Sat, 09 May 2026 05:39:32 </td>
+    <td>varindia.com</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPNWIxZ0puVnAyUjNZbDZEcTJwUXEwR0NWdjhlZTRPNTNYdmE5TVBvbWdvY3N1OUxBcHJ2RFMxMk0tUjU4eDZzZ0ZYYWlrNlVRUWlNakVER2RCWUZ6emg3cWpNNnRXUjlzeUZLaW5ybnItclNkb2FfaEd0WTlDckVSaGlVckNxcnRDX0g1MjdlUDMyMksyTk1ORF9ab3k0eDRjWU5JQmYwWTdUQkdmczdnYg">CVE-2026-23918: Apache HTTP/2 Double-Free Vulnerability with Possible RCE</a></td>
+    <td>Fri, 08 May 2026 13:15:11 </td>
+    <td>Security Boulevard</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5lSUhiZUdnQ3BaY3EyOHZQSW52dERITUpSN0lJZU03RTR2X3E0UGRyYjkyTUIyeXBpbHR5RzVObVhkS2x6Tjk0UFRFU09qdF93ZVZVamkyRm55Y0d3TUlHQU9tOWZRWlpxOF9JZm4xTG5Zdw">CVE-2026-6973: Authenticated Admin RCE In Ivanti EPMM Added to CISA KEV</a></td>
+    <td>Fri, 08 May 2026 10:48:12 </td>
+    <td>SOCRadar® Cyber Intelligence Inc.</td>
+    <td>Low</td>
+  </tr>
 </table>
