@@ -1,0 +1,50 @@
+<table>
+<tr>
+<th>title</th>
+<th>link</th>
+<th>pubDate</th>
+<th>source</th>
+<th>Severity</th>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm8yb0pRVGxyTWoyQWNBc3VPSVNmSWRySjMxRk9fNXF0Q0hKVkFEZ2IwSV81WlpLcGMxRW5QcTZSLUQxOHRaemVtTE9nV205a2RReEtiS3J3OXVwY3BteE9raHc2VndMMndPTTRSXzJSWFpPUmRqYlZKZHRLSmV3TmVyeE1PTmhWVnNwLTBkS3o5MHR6U01CeWhjZnJFTjV5OWp3XzRfOFJ1WG5MMjJEQlRZbzdDQ0tmcUl4VlRObFlsRWZiVzM4LXh6Mkx3aXduU1E?oc=5">Week in review: Cisco patches SD-WAN 0-day, unpatched Microsoft Exchange Server flaw exploited - Help Net Security</a></td>
+<td>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm8yb0pRVGxyTWoyQWNBc3VPSVNmSWRySjMxRk9fNXF0Q0hKVkFEZ2IwSV81WlpLcGMxRW5QcTZSLUQxOHRaemVtTE9nV205a2RReEtiS3J3OXVwY3BteE9raHc2VndMMndPTTRSXzJSWFpPUmRqYlZKZHRLSmV3TmVyeE1PTmhWVnNwLTBkS3o5MHR6U01CeWhjZnJFTjV5OWp3XzRfOFJ1WG5MMjJEQlRZbzdDQ0tmcUl4VlRObFlsRWZiVzM4LXh6Mkx3aXduU1E?oc=5</td>
+<td>Sun, 17 May 2026 08:00:38 </td>
+<td>Help Net Security</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEVUb05Fbmd1dEdMU2RudVFoV0dHYmMzMS1IMVpFVlNJLUlwMkxOWHhHWEkzLUJtaTV5Vk0tYTFpT1JhU2ZkVXZpNERQNklkYWpLQ3NBLXozNUxuNXZCMTF5VDFHd3RwWjdkQzZFdGlxUzQxVS1yazYxR2hHSWxhWDhISC1tV0HSAYwBQVVfeXFMTjl3RTIxTmVYVGhKSVdEWVBNdHVWT1dFbkdwRkY3OXpNdm5xVC0tRjN1N1k4dWNkNkNneEJxZzlIbHpKamZnYUQ0cGVJaklJWHl1OFRGUzRQQ0tNLWIwdDVGbTFSdDE3WUtaQTJPR2VwQkNoanVTWUNuQnA0SGtKMU9sWVg1ZDk3M0VPb2Q?oc=5">Critical Microsoft Exchange Server Vulnerability Actively Exploited in Attacks - CyberSecurityNews</a></td>
+<td>https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEVUb05Fbmd1dEdMU2RudVFoV0dHYmMzMS1IMVpFVlNJLUlwMkxOWHhHWEkzLUJtaTV5Vk0tYTFpT1JhU2ZkVXZpNERQNklkYWpLQ3NBLXozNUxuNXZCMTF5VDFHd3RwWjdkQzZFdGlxUzQxVS1yazYxR2hHSWxhWDhISC1tV0HSAYwBQVVfeXFMTjl3RTIxTmVYVGhKSVdEWVBNdHVWT1dFbkdwRkY3OXpNdm5xVC0tRjN1N1k4dWNkNkNneEJxZzlIbHpKamZnYUQ0cGVJaklJWHl1OFRGUzRQQ0tNLWIwdDVGbTFSdDE3WUtaQTJPR2VwQkNoanVTWUNuQnA0SGtKMU9sWVg1ZDk3M0VPb2Q?oc=5</td>
+<td>Sat, 16 May 2026 10:08:55 </td>
+<td>CyberSecurityNews</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlBpdmxPN2dtV2RmZnI2TTZXNW8xSF9uUVJXQWtWUmJwaDg0OTB3emdETF83ZjcxTHZDa0YxNXV3ZklEclNRaFl4YWg0MlZyYWJPYl9uMEhoaHlRMHU2bWJreTRjdDJXZjR2OUpaaGJxRjJuTVdCbHlHUlRfVFhuN3BEdEJvXzlTbE9vNkNpX3FBa2M5R1BkNGFkdjR0S0840gGmAUFVX3lxTE1UOE5vQjJ2akk4R3FDNFJYTFVlTGJxcGpfSFpuZ0Z5alFuUEVJZzB0b0lSYWJZUmtZak9rdnVQb3ZsbVJhbkJqbzBNQmNyUHlhTnBSdkpoRnI5OGdhSTl0ZDdGclhVcWFJazdBd1FGZlNmMHVBSDcyXzVNcDVoY1V4ejllQVhyTXFJbHo2OEEyUnNNMDlBbjVnUTMwM29TMUxaWVVEb3c?oc=5">Microsoft Exchange, Windows 11, and Cursor Zero-Days Exploited on Pwn2Own Day 2 - CyberSecurityNews</a></td>
+<td>https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlBpdmxPN2dtV2RmZnI2TTZXNW8xSF9uUVJXQWtWUmJwaDg0OTB3emdETF83ZjcxTHZDa0YxNXV3ZklEclNRaFl4YWg0MlZyYWJPYl9uMEhoaHlRMHU2bWJreTRjdDJXZjR2OUpaaGJxRjJuTVdCbHlHUlRfVFhuN3BEdEJvXzlTbE9vNkNpX3FBa2M5R1BkNGFkdjR0S0840gGmAUFVX3lxTE1UOE5vQjJ2akk4R3FDNFJYTFVlTGJxcGpfSFpuZ0Z5alFuUEVJZzB0b0lSYWJZUmtZak9rdnVQb3ZsbVJhbkJqbzBNQmNyUHlhTnBSdkpoRnI5OGdhSTl0ZDdGclhVcWFJazdBd1FGZlNmMHVBSDcyXzVNcDVoY1V4ejllQVhyTXFJbHo2OEEyUnNNMDlBbjVnUTMwM29TMUxaWVVEb3c?oc=5</td>
+<td>Sat, 16 May 2026 10:59:32 </td>
+<td>CyberSecurityNews</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE52ZG9CNmNWY2Z6R1ZwaXVPN1JSNTF2UGY5Ym4zUG44WHg2U2hfeWlKaVZvRWpGcUFYZUhVQV9NLThCdEVlY1kzUmhYMUhTaHo1UkpPOA?oc=5">Oracle Data Breach 2026 | Affected Systems & What To Do Now - DeXpose</a></td>
+<td>https://news.google.com/rss/articles/CBMiVEFVX3lxTE52ZG9CNmNWY2Z6R1ZwaXVPN1JSNTF2UGY5Ym4zUG44WHg2U2hfeWlKaVZvRWpGcUFYZUhVQV9NLThCdEVlY1kzUmhYMUhTaHo1UkpPOA?oc=5</td>
+<td>Sat, 16 May 2026 12:10:14 </td>
+<td>DeXpose</td>
+<td>High</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPazNsS1JwVnI0Q0g2amJOWU5VRGo1ZkFqa0tEUnd4NEdPc2VhWGhRekkxZEFER0MtUEhjelBIeDFDVWhlVXZYWVJuVGlGNWlFS2RULXd1REZXWXVjd1ZBbEdId0t6alJVNnFaNk8xZlNpVjFJdHNiUjMyaUFZUzhxcE81VWVyTm11MHdab3hB0gGOAUFVX3lxTE9rM2xLUnBWcjRDSDZqYk5ZTlVEajVmQWprS0RSd3g0R09zZWFYaFF6STFkQURHQy1QSGN6UEh4MUNVaGVVdlhZUm5UaUY1aUVLZFQtd3DERldZdWN3VkFsR0h3S3pqUlU2cVo2TzFmU2lWMUl0c2JSMzJpQVlTOHFwTzVVZXJObXUwd1pveEE?oc=5">PoC Code Published for Critical NGINX Vulnerability - SecurityWeek</a></td>
+<td>https://news.google.com/rss/articles/CBMijgFBVV95cUxPazNsS1JwVnI0Q0g2amJOWU5VRGo1ZkFqa0tEUnd4NEdPc2VhWGhRekkxZEFER0MtUEhjelBIeDFDVWhlVXZYWVJuVGlGNWlFS2RULXd1REZXWXVjd1ZBbEdId0t6alJVNnFaNk8xZlNpVjFJdHNiUjMyaUFZUzhxcE81VWVyTm11MHdab3hB0gGOAUFVX3lxTE9rM2xLUnBWcjRDSDZqYk5ZTlVEajVmQWprS0RSd3g0R09zZWFYaFF6STFkQURHQy1QSGN6UEh4MUNVaGVVdlhZUm5UaUY1aUVLZFQtd3DERldZdWN3VkFsR0h3S3pqUlU2cVo2TzFmU2lWMUl0c2JSMzJpQVlTOHFwTzVVZXJObXUwd1pveEE?oc=5</td>
+<td>Sat, 16 May 2026 10:13:47 </td>
+<td>SecurityWeek</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMjJiQ0pfeTNSV0hELUZZNkdaTkxnWWI1eTFLRDI3VTktd2FaYWt6R3pCSEluOE9fQ1R4OHRzc0NibHpnZkloMUtvS3BieTN5SGIzd1hRRGlFQ29PcEc2QmY5cnBMWUJBZWxjbmxYbDZHRjdveEV2bjJFM2E2dGV4aS1VTlIta2pRUFRkV2RabDFXRHdEXzM5ZG43WFZXSV9VYS1jNU42R2k5OEszRm8zWFBqZzRFOEtHOWUwcmFhQ3ZySDBMUDJTZGR5NW85VWdITkxIdVlWVFVZalA1RndQTTNCd05EVWVsUWFoS1ZZczNQVkdrOTYyQkh2OWpIel9RNkpkcTNkVWxSektDQk54S1VLa3FXM0xyR3VkTUNsdVVYWFlwNWswZ0NXcVBGUmhtUVJyUEIyNnptbFJHUm82Z050M21jU3BZU0JyaUhyR2xGWHhLSGpza2M1SWhhWWV0QVp1ZU9B?oc=5">Apple Urges iPhone, iPad Users To Update: iOS 18.6.2 Blocks Critical Security Threat - MSN</a></td>
+<td>https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMjJiQ0pfeTNSV0hELUZZNkdaTkxnWWI1eTFLRDI3VTktd2FaYWt6R3pCSEluOE9fQ1R4OHRzc0NibHpnZkloMUtvS3BieTN5SGIzd1hRRGlFQ29PcEc2QmY5cnBMWUJBZWxjbmxYbDZHRjdveEV2bjJFM2E2dGV4aS1VTlIta2pRUFRkV2RabDFXRHdEXzM5ZG43WFZXSV9VYS1jNU42R2k5OEszRm8zWFBqZzRFOEtHOWUwcmFhQ3ZySDBMUDJTZGR5NW85VWdITkxIdVlWVFVZalA1WndQTTNCd05EVWVsUWFoS1ZZczNQVkdrOTYyQkh2OWpIel9RNkpkcTNkVWxSektDQk54S1VLa3FXM0xyR3VkTUNsdVVYWFlwNWswZ0NXcVBGUmhtUVJyUEIyNnptbFJHUm82Z050M21jU3BZU0JyaUhyR2xGWHhLSGpza2M1SWhhWWV0QVp1ZU9B?oc=5</td>
+<td>Sat, 16 May 2026 15:35:15 </td>
+<td>MSN</td>
+<td>Critical</td>
+</tr>
