@@ -1,80 +1,50 @@
 <table>
-  <tr>
-    <th>Title</th>
-    <th>Source</th>
-    <th>Publish Date</th>
-    <th>Severity</th>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xX1hTdjJtNFpCOGwyX0JXZFdCVi1keWtlZVhjSVBLWmZKOE15dVAxUThVdE1oanVWSTgycWw2YmJTemg1M3BzMGhBMWFIWWxHamZKU0hSbmJBaHJnazZj">New Windows BitLocker Zero-Day Bypasses Drive Encryption</a></td>
-    <td>cyberpress.org</td>
-    <td>Thu, 14 May 2026 07:16:57 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQLU1JeVFvOGFNTGYxQmhXeU9idGxlbi1TNFA5c2VWdGk4NHl0RjlrSjRsVlZoYUZNT0RtcEVUZWQtSVVfX0w5cHRtRGtrOUhnLXR1UTNoNmlQVTFIamluQWE3c09JNGo2WTR2ZVlkckVBUUQ3cXBzZHQ1RFo2cHR3eElCX1Z1dTIwUGZiTmdIQzhJeUJKM2Vlci1mQ0x2M2VMcWxkcHhIMFFOemVuLU9BOEM2LWY4aWtTMW5XV9IBwgFBVV95cUxPRVJvZDREYjJ1djBUWm5lcVNXUVZEOGxxMDN0X3ZMNF9tUW9RTlVFVk9HRjRFMERSbEVGUmtSV2syVjY0VGEtT3pkR2xqOEk3UVVoRlpoVkxkV0pGYnlmdlJnUzBod1l1V25hNWk5WjFZcEF5em10eWRTQlJnQmpwNENXZUpaVlRGUjhaSjJwcDdYX0tFNkVSTGRHV3VzMVlvQ3RPd1pLeVM1SVYtWm1hcDI0S0NZeE9xS3Y5d21nSGpTUQ">Windows BitLocker 0-Day Vulnerability Enables Access to Encrypted Drives</a></td>
-    <td>CyberSecurityNews</td>
-    <td>Thu, 14 May 2026 03:05:04 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1pckN1aFo2V3dIb0VVakdZZDFjMHFQSTRxbXNZYmNpajlTamNlQ1FxSl82Qm4xNDRfaHVsYlhPNWNkYk0wSEJOTS1qcXVLSkd3dDNHRnF5N3R3bWJxVGd4MldRaWFPWWpMcWNvZTRmY19MdDR2NzZN0gF8QVVfeXFMTXFRMmxMNUp6WW5uTjl3d3llOE9PWDdnNzRXb1JldUNfUVVydFJYR05KNTMxTEFKOFg1dDU3QXlITmhtNkpCazN4bkVVM3VWT2E3VlY5d3lscjQ1ajZidUNNd0YtaWc0MTRTOHBFMGk4dnpUUnNjT0YzbUhQWQ">Windows BitLocker zero-day gives access to protected drives, PoC released</a></td>
-    <td>BleepingComputer</td>
-    <td>Wed, 13 May 2026 16:37:49 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1J1OUpHM1RWdDF6LXdqLThRTUFHMFFmVWk5ZGphU2ZWVnR4NWQxeTZFWmpWQmFCSldobzFvVUZKdVVXNG14Y1Y1YTdWczhnUWNGX0JtSkJ2dGpxQl9vTUlSQkdpYzdvV3A5VWNqWG4xMTZwSVN0bE8yQVNVNnN2TURTSG1pSElaR0hmTUVHNmMzSDd1MTlwNUVSWkVobjlaWFhiblZ2VzczV21YcVR3WmxHNm45MHF2TU5V">Windows BitLocker 0-Day Vulnerability Enables Access to Encrypted Drives</a></td>
-    <td>BleepingComputer</td>
-    <td>Wed, 13 May 2026 16:37:49 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHRSZkJ6SFNEcklHdU12T1JSR3V2OWFiQ2JTMEhEYjVfSGhZRGN3b3R1eV83bl82RU5yYjRTcnFEajlKMkNWWE1LQW1rQWVXTHdRWWRWLXdpbFgwbmtSOGVPdW84WklocENJdVdKR01OY0p2aW1IWmZidUJZOTBOczNRcWI0QTJUUHBKcWFNRi1FZw">Microsoft Rushes Emergency Fixes for 120 Windows Security Flaws</a></td>
-    <td>The Eastern Herald</td>
-    <td>Wed, 13 May 2026 09:42:46 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHc2XzdfOVp4Q0JHX21uR1JPSkVXUmlCVFlhWjN4WmRsZUktNXpxRlhGY010N2lJN0ZsYmd3VkJmTWxSVnlENFdGZ0pOc2daREpkQmdBakplaWpVaDVvWWtDclhiRkhLMGViRHFXWUswcmd2RzZaYXhIQ0hjZ3F2Zk9oTGtvM0VMY0pueU05R0R6RzhTcmhfeXZDZlN6M2NId0FqUGtn">Microsoft's new AI tool finds critical flaws in Windows</a></td>
-    <td>NewsBytes</td>
-    <td>Thu, 14 May 2026 07:02:45 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHRSZkJ6SFNEcklHdU12T1JSR3V2OWFiQ2JTMEhEYjVfSGhZRGN3b3R1eV83bl82RU5yYjRTcnFEajlKMkNWWE1LQW1rQWVXTHdRWWRWLXdpbFgwbmtSOGVPdW84WklocENJdVdKR01OY0p2aW1IWmZidUJZOTBOczNRcWI0QTJUUHBKcWFNRi1FZw">Microsoft fixes BitLocker recovery issue only for Windows 11 users</a></td>
-    <td>BleepingComputer</td>
-    <td>Wed, 13 May 2026 15:42:46 </td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXhDRmJWYWR0VTBMVFdHWDR2YnZsZ3BCUVFlNVNLYXVYc0lCYkVNV2I3UzFqR040eDJoSTBtNmZNTklCdGhEYTlseTNzYXFlcHBxX2ZtWjVpZmVmRHBzNkVKMGdacm1hWTZEckMwSmVtQzNKNEtpQWljMlZYVUJYN1JvY3BvMUdKWWJVZXgtX1VzOUpsV3lDSlNkbjIwd0J1RWdNZ1NBX1JBOTNLcTNZUGE0WQ">Microsoft's May 2026 Patch Tuesday Fixes 130+ Vulnerabilities, Including 17 "Critical" Ones</a></td>
-    <td>Windows Report</td>
-    <td>Wed, 13 May 2026 12:06:05 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1J1OUpHM1RWdDF6LXdqLThRTUFHMFFmVWk5ZGphU2ZWVnR4NWQxeTZFWmpWQmFCSldobzFvVUZKdVVXNG14Y1Y1YTdWczhnUWNGX0JtSkJ2dGpxQl9vTUlSQkdpYzdvV3A5VWNqWG4xMTZwSVN0bE8yQVNVNnN2TURTSG1pSElaR0hmTUVHNmMzSDd1MTlwNUVSWkVobjlaWFhiblZ2VzczV21YcVR3WmxHNm45MHF2TU5V">Microsoft Windows Alert—Angry Hacker Drops 2 New Zero-Day Exploits</a></td>
-    <td>Forbes</td>
-    <td>Wed, 13 May 2026 14:25:14 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOdG5jODd6TzJ6cEF4bmNLYUdsWWEwRllFamh0MFZYYjh5a1Z0TjZ2elZvbmtVRDBPdldJd3MzZmF0RzBmUXFEeDIxRjdxXzJPUUM1LVYySlJFTFlaemlqQ0RWM3JKdE5pTnVaMVJHODdrYVp0ckFzdGsxMThRSmZJaUN5LWExNHZzblpNbmVvMlNVMXU4bk9vckh4bkZXM0JlRkk3T1hybEhDSmZFaXJfb3ZZRmM">Microsoft’s MDASH AI System Found 16 Windows Vulnerabilities Fixed in Patch Tuesday</a></td>
-    <td>Technobezz</td>
-    <td>Thu, 14 May 2026 01:18:35 </td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPVE9KXzduWlJteHFic2VLbTI1endmMzVDSWppU1p2d0lOQXBFUlFuNHZabFpTd0J5RTFNS2NWbW5ONXo5d3QtTEdJajFRUjhYbUdBSU1UZldtOFVRcXJMemQyc3NtLUt4R056SThsbG5fRUlfSnFOWVp5VzZBbGtWZE9vQkFTZGN1ZDFwSzFvaw">Microsoft’s agentic security system found four critical Windows RCE flaws</a></td>
-    <td>Help Net Security</td>
-    <td>Wed, 13 May 2026 10:41:09 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQcHRSZkJ6SFNEcklHdU12T1JSR3V2OWFiQ2JTMEhEYjVfSGhZRGN3b3R1eV83bl82RU5yYjRTcnFEajlKMkNWWE1LQW1rQWVXTHdRWWRWLXdpbFgwbmtSOGVPdW84WklocENJdVdKR01OY0p2aW1IWmZidUJZOTBOczNRcWI0QTJUUHBKcWFNRi1FZw">Microsoft Rushes Emergency Fixes for 120 Windows Security Flaws</a></td>
-    <td>The Eastern Herald</td>
-    <td>Wed, 13 May 2026 09:42:46 </td>
-    <td>Critical</td>
-  </tr>
-</table>
+<tr>
+<th>title</th>
+<th>link</th>
+<th>pubDate</th>
+<th>source</th>
+<th>Severity</th>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm8yb0pRVGxyTWoyQWNBc3VPSVNmSWRySjMxRk9fNXF0Q0hKVkFEZ2IwSV81WlpLcGMxRW5QcTZSLUQxOHRaemVtTE9nV205a2RReEtiS3J3OXVwY3BteE9raHc2VndMMndPTTRSXzJSWFpPUmRqYlZKZHRLSmV3TmVyeE1PTmhWVnNwLTBkS3o5MHR6U01CeWhjZnJFTjV5OWp3XzRfOFJ1WG5MMjJEQlRZbzdDQ0tmcUl4VlRObFlsRWZiVzM4LXh6Mkx3aXduU1E?oc=5">Week in review: Cisco patches SD-WAN 0-day, unpatched Microsoft Exchange Server flaw exploited - Help Net Security</a></td>
+<td>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm8yb0pRVGxyTWoyQWNBc3VPSVNmSWRySjMxRk9fNXF0Q0hKVkFEZ2IwSV81WlpLcGMxRW5QcTZSLUQxOHRaemVtTE9nV205a2RReEtiS3J3OXVwY3BteE9raHc2VndMMndPTTRSXzJSWFpPUmRqYlZKZHRLSmV3TmVyeE1PTmhWVnNwLTBkS3o5MHR6U01CeWhjZnJFTjV5OWp3XzRfOFJ1WG5MMjJEQlRZbzdDQ0tmcUl4VlRObFlsRWZiVzM4LXh6Mkx3aXduU1E?oc=5</td>
+<td>Sun, 17 May 2026 08:00:38 </td>
+<td>Help Net Security</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEVUb05Fbmd1dEdMU2RudVFoV0dHYmMzMS1IMVpFVlNJLUlwMkxOWHhHWEkzLUJtaTV5Vk0tYTFpT1JhU2ZkVXZpNERQNklkYWpLQ3NBLXozNUxuNXZCMTF5VDFHd3RwWjdkQzZFdGlxUzQxVS1yazYxR2hHSWxhWDhISC1tV0HSAYwBQVVfeXFMTjl3RTIxTmVYVGhKSVdEWVBNdHVWT1dFbkdwRkY3OXpNdm5xVC0tRjN1N1k4dWNkNkNneEJxZzlIbHpKamZnYUQ0cGVJaklJWHl1OFRGUzRQQ0tNLWIwdDVGbTFSdDE3WUtaQTJPR2VwQkNoanVTWUNuQnA0SGtKMU9sWVg1ZDk3M0VPb2Q?oc=5">Critical Microsoft Exchange Server Vulnerability Actively Exploited in Attacks - CyberSecurityNews</a></td>
+<td>https://news.google.com/rss/articles/CBMihwFBVV95cUxOVEVUb05Fbmd1dEdMU2RudVFoV0dHYmMzMS1IMVpFVlNJLUlwMkxOWHhHWEkzLUJtaTV5Vk0tYTFpT1JhU2ZkVXZpNERQNklkYWpLQ3NBLXozNUxuNXZCMTF5VDFHd3RwWjdkQzZFdGlxUzQxVS1yazYxR2hHSWxhWDhISC1tV0HSAYwBQVVfeXFMTjl3RTIxTmVYVGhKSVdEWVBNdHVWT1dFbkdwRkY3OXpNdm5xVC0tRjN1N1k4dWNkNkNneEJxZzlIbHpKamZnYUQ0cGVJaklJWHl1OFRGUzRQQ0tNLWIwdDVGbTFSdDE3WUtaQTJPR2VwQkNoanVTWUNuQnA0SGtKMU9sWVg1ZDk3M0VPb2Q?oc=5</td>
+<td>Sat, 16 May 2026 10:08:55 </td>
+<td>CyberSecurityNews</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlBpdmxPN2dtV2RmZnI2TTZXNW8xSF9uUVJXQWtWUmJwaDg0OTB3emdETF83ZjcxTHZDa0YxNXV3ZklEclNRaFl4YWg0MlZyYWJPYl9uMEhoaHlRMHU2bWJreTRjdDJXZjR2OUpaaGJxRjJuTVdCbHlHUlRfVFhuN3BEdEJvXzlTbE9vNkNpX3FBa2M5R1BkNGFkdjR0S0840gGmAUFVX3lxTE1UOE5vQjJ2akk4R3FDNFJYTFVlTGJxcGpfSFpuZ0Z5alFuUEVJZzB0b0lSYWJZUmtZak9rdnVQb3ZsbVJhbkJqbzBNQmNyUHlhTnBSdkpoRnI5OGdhSTl0ZDdGclhVcWFJazdBd1FGZlNmMHVBSDcyXzVNcDVoY1V4ejllQVhyTXFJbHo2OEEyUnNNMDlBbjVnUTMwM29TMUxaWVVEb3c?oc=5">Microsoft Exchange, Windows 11, and Cursor Zero-Days Exploited on Pwn2Own Day 2 - CyberSecurityNews</a></td>
+<td>https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlBpdmxPN2dtV2RmZnI2TTZXNW8xSF9uUVJXQWtWUmJwaDg0OTB3emdETF83ZjcxTHZDa0YxNXV3ZklEclNRaFl4YWg0MlZyYWJPYl9uMEhoaHlRMHU2bWJreTRjdDJXZjR2OUpaaGJxRjJuTVdCbHlHUlRfVFhuN3BEdEJvXzlTbE9vNkNpX3FBa2M5R1BkNGFkdjR0S0840gGmAUFVX3lxTE1UOE5vQjJ2akk4R3FDNFJYTFVlTGJxcGpfSFpuZ0Z5alFuUEVJZzB0b0lSYWJZUmtZak9rdnVQb3ZsbVJhbkJqbzBNQmNyUHlhTnBSdkpoRnI5OGdhSTl0ZDdGclhVcWFJazdBd1FGZlNmMHVBSDcyXzVNcDVoY1V4ejllQVhyTXFJbHo2OEEyUnNNMDlBbjVnUTMwM29TMUxaWVVEb3c?oc=5</td>
+<td>Sat, 16 May 2026 10:59:32 </td>
+<td>CyberSecurityNews</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE52ZG9CNmNWY2Z6R1ZwaXVPN1JSNTF2UGY5Ym4zUG44WHg2U2hfeWlKaVZvRWpGcUFYZUhVQV9NLThCdEVlY1kzUmhYMUhTaHo1UkpPOA?oc=5">Oracle Data Breach 2026 | Affected Systems & What To Do Now - DeXpose</a></td>
+<td>https://news.google.com/rss/articles/CBMiVEFVX3lxTE52ZG9CNmNWY2Z6R1ZwaXVPN1JSNTF2UGY5Ym4zUG44WHg2U2hfeWlKaVZvRWpGcUFYZUhVQV9NLThCdEVlY1kzUmhYMUhTaHo1UkpPOA?oc=5</td>
+<td>Sat, 16 May 2026 12:10:14 </td>
+<td>DeXpose</td>
+<td>High</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPazNsS1JwVnI0Q0g2amJOWU5VRGo1ZkFqa0tEUnd4NEdPc2VhWGhRekkxZEFER0MtUEhjelBIeDFDVWhlVXZYWVJuVGlGNWlFS2RULXd1REZXWXVjd1ZBbEdId0t6alJVNnFaNk8xZlNpVjFJdHNiUjMyaUFZUzhxcE81VWVyTm11MHdab3hB0gGOAUFVX3lxTE9rM2xLUnBWcjRDSDZqYk5ZTlVEajVmQWprS0RSd3g0R09zZWFYaFF6STFkQURHQy1QSGN6UEh4MUNVaGVVdlhZUm5UaUY1aUVLZFQtd3DERldZdWN3VkFsR0h3S3pqUlU2cVo2TzFmU2lWMUl0c2JSMzJpQVlTOHFwTzVVZXJObXUwd1pveEE?oc=5">PoC Code Published for Critical NGINX Vulnerability - SecurityWeek</a></td>
+<td>https://news.google.com/rss/articles/CBMijgFBVV95cUxPazNsS1JwVnI0Q0g2amJOWU5VRGo1ZkFqa0tEUnd4NEdPc2VhWGhRekkxZEFER0MtUEhjelBIeDFDVWhlVXZYWVJuVGlGNWlFS2RULXd1REZXWXVjd1ZBbEdId0t6alJVNnFaNk8xZlNpVjFJdHNiUjMyaUFZUzhxcE81VWVyTm11MHdab3hB0gGOAUFVX3lxTE9rM2xLUnBWcjRDSDZqYk5ZTlVEajVmQWprS0RSd3g0R09zZWFYaFF6STFkQURHQy1QSGN6UEh4MUNVaGVVdlhZUm5UaUY1aUVLZFQtd3DERldZdWN3VkFsR0h3S3pqUlU2cVo2TzFmU2lWMUl0c2JSMzJpQVlTOHFwTzVVZXJObXUwd1pveEE?oc=5</td>
+<td>Sat, 16 May 2026 10:13:47 </td>
+<td>SecurityWeek</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMjJiQ0pfeTNSV0hELUZZNkdaTkxnWWI1eTFLRDI3VTktd2FaYWt6R3pCSEluOE9fQ1R4OHRzc0NibHpnZkloMUtvS3BieTN5SGIzd1hRRGlFQ29PcEc2QmY5cnBMWUJBZWxjbmxYbDZHRjdveEV2bjJFM2E2dGV4aS1VTlIta2pRUFRkV2RabDFXRHdEXzM5ZG43WFZXSV9VYS1jNU42R2k5OEszRm8zWFBqZzRFOEtHOWUwcmFhQ3ZySDBMUDJTZGR5NW85VWdITkxIdVlWVFVZalA1RndQTTNCd05EVWVsUWFoS1ZZczNQVkdrOTYyQkh2OWpIel9RNkpkcTNkVWxSektDQk54S1VLa3FXM0xyR3VkTUNsdVVYWFlwNWswZ0NXcVBGUmhtUVJyUEIyNnptbFJHUm82Z050M21jU3BZU0JyaUhyR2xGWHhLSGpza2M1SWhhWWV0QVp1ZU9B?oc=5">Apple Urges iPhone, iPad Users To Update: iOS 18.6.2 Blocks Critical Security Threat - MSN</a></td>
+<td>https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMjJiQ0pfeTNSV0hELUZZNkdaTkxnWWI1eTFLRDI3VTktd2FaYWt6R3pCSEluOE9fQ1R4OHRzc0NibHpnZkloMUtvS3BieTN5SGIzd1hRRGlFQ29PcEc2QmY5cnBMWUJBZWxjbmxYbDZHRjdveEV2bjJFM2E2dGV4aS1VTlIta2pRUFRkV2RabDFXRHdEXzM5ZG43WFZXSV9VYS1jNU42R2k5OEszRm8zWFBqZzRFOEtHOWUwcmFhQ3ZySDBMUDJTZGR5NW85VWdITkxIdVlWVFVZalA1WndQTTNCd05EVWVsUWFoS1ZZczNQVkdrOTYyQkh2OWpIel9RNkpkcTNkVWxSektDQk54S1VLa3FXM0xyR3VkTUNsdVVYWFlwNWswZ0NXcVBGUmhtUVJyUEIyNnptbFJHUm82Z050M21jU3BZU0JyaUhyR2xGWHhLSGpza2M1SWhhWWV0QVp1ZU9B?oc=5</td>
+<td>Sat, 16 May 2026 15:35:15 </td>
+<td>MSN</td>
+<td>Critical</td>
+</tr>
