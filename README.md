@@ -1,68 +1,103 @@
-<table border="1">
+<table>
   <tr>
     <th>Title</th>
-    <th>Pub Date</th>
+    <th>PubDate</th>
     <th>Source</th>
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNbVNrVG9jazlNeHhpNlhfckJtVWthU3dMZ1RfajhaWUtCZFp2NmMtRTdPREZxWDhNdk1KSlAyMTNLMzlmM2NpT2VHbGhpaURRN3dNVzNrb0RwZW9NWldJRzFUOTJJOWVISUZNTUMtUXNGZG9zMVhvN2w5LUlTckdVYmVrYV9ic1hPM2lmWGpHM1pheUFDWW1yZXh6TnBHWkQ3Xy1sYTk2UVhhd0RvM0VIQTA4R2pidlBFUTczdnVn">Experts warn of active exploitation of critical NGINX flaw CVE-2026-42945 - Security Affairs</a></td>
-    <td>Mon, 18 May 2026 11:01:03 </td>
-    <td>Security Affairs</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPazh4RGxqSnFqbU9vcVJrNEJiMGU1ZVhFdEpxTUZ2MEk5Ny1UTVo5NDZFb1M0NllSLVFJRUNXaV9kekp6REc4VUM5OUtUWWxvMnlrdkFQLWFoNkhnZkFnVEQteVRKT2g3ZnFsNWg0NXZCbHZfSXd2cFkzZWktMkwtV1ZPWk9LdVdNUzRKWk1tVGctdw">Attackers are exploiting critical NGINX vulnerability (CVE-2026-42945) - helpnetsecurity.com</a></td>
-    <td>Mon, 18 May 2026 13:29:49 </td>
-    <td>helpnetsecurity.com</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBxU2tYOEhPeGJkZXJZcm1UN0lKajg1X1kyOXE1MWdOSXhMTzl5U09TZEJ6eW4wSk15cE5FR1RVM09WWXduTVZHUzE3UWtnZTZ3RzBzRzlEMWR0UlFkY2cyc3d1T19ZbGk3ZmZmNmlzRGdDMVZ2RnpscmdjSUh2VUXSAX9BVV95cUxPcVNrWDhIT3hiZGVyWXJtVDdJSmo4NV9ZMjlxNTFnTkl4TE85eVNPU2RCenluMEpNeXBORUdUVTNPVll3bk1WR1MxN1FrZ2U2d0cwc0c5RDFkdFJRZGNnMnN3dU9fWWxpN2ZmZjZpc0RnQzFWdkZ6bHJnY0lIdlVF">NGINX Rift: CVE-2026-42945 Exploited in Attacks - The Cyber Express</a></td>
-    <td>Tue, 19 May 2026 08:00:06 </td>
-    <td>The Cyber Express</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHV0bkRvSHNmOE05cG1PTVV5MjNQNWVZWmdFMVNuNzJBcDlseUZaY2NHMlN6VlJKOXhDLWpzckVPc2VyNlN6eXV0NzFtdWU5VUlMZ1VJdVVndDlyTXZ3X3BWV2U3OUZMejhBMkJISVQ3eWhDN3p3QUtqdHVtY3I5bndPZjhmWXJxLWZrVXlwQVpHRE02Wmd3VDctYnpVU2RFcFlpUEJld3pUaFdnMFFwSkFObWxhb1lpbVow0gHDAUFVX3lxTE85ZGZfcUdFLUYtcUpOMk9KWTg5OTBBTTlra3hOUVhCeG5VRkhxUFd2b2E3OEFaYm04ZXN6U1FnQy1yVTE3QnVMQkVtUmJwVVNpb1oxXzZrbFR4dWVZUUtLXzZuRW5pVlVkMHdXUGxKaWRUR1lzVFRydHpjaXMxdEhteWdqTzJ4Y05OaVJReG51RUlBZWtscVlXczlaRXN2dXNOUUEyZUVVUTFVRHhHbUFxbFFaRHpLdm1HMGlMMmNXT0dvZw">Microsoft confirms Windows 11 security update install issues - BleepingComputer</a></td>
-    <td>Mon, 18 May 2026 08:33:14 </td>
-    <td>BleepingComputer</td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVY2YThfdWRKVmJQcDNmeWVKTDBnbHFvMl9iZS1LeDFjdEtObVBQeHoxNzZ5ZlVlUWxHTHlZS0RCVlU5VmtEa0ZhYnFiU3E1VWNOSWN4N0ZPTE5icWl4X2hkZnVlemZQNXljYWNUcGVPRkdVOWF2VjQ3ak82MGFSNg">Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws - The Hacker News</a></td>
-    <td>Mon, 18 May 2026 10:54:00 </td>
-    <td>The Hacker News</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOSVY2YThfdWRKVmJQcDNmeWVKTDBnbHFvMl9iZS1LeDFjdEtObVBQeHoxNzZ5ZlVlUWxHTHlZS0RCVlU5VmtEa0ZhYnFiU3E1VWNOSWN4N0ZPTE5icWl4X2hkZnVlemZQNXljYWNUcGVPRkdVOWF2VjQ3ak82MGFSNg">Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws - The Hacker News</a></td>
-    <td>Mon, 18 May 2026 10:54:00 </td>
-    <td>The Hacker News</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHpYR05yV0F5T0V4OXFxbGtrQzRabkw2WmpBeUNEeVl2Y3pfSDd3U0QxYjNZOEtNcTd2ZDVQbjFJNDhycUZQdkdMOUxtb2VfWGdrNlExalZCUFVXTEs5U3FvMV82RXctOVNQRDRqUVlEUFpBVUJrUTJwNndRUWpNODJwMUtCZm1vVnJFWWhoU0trSi14YmM3aDNPbUs2eHhCUnVNMkJZUTZJZDJNWTQ3b3o5d3B5WlBmY0JvOTFCdw">WARNING: Cross-Site Scripting in Microsoft Exchange Server Can Be Exploited to Perform Spoofing and Session Hijacking. Actively Exploited in the Wild, Apply Mitigations Immediately! | CCB Belgium - CCB Belgium</a></td>
-    <td>Mon, 18 May 2026 15:25:45 </td>
-    <td>CCB Belgium</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3YwMnZpNU9EMUQyaC1tODNtOGM2QmZRT0pUSHNvQlNhLXRZd0NhX2ViR0IzcVZwbnpUZENITXVYBi10SW9WTWc2ZFMzTUVkYzg4TGt2QnVDNVpoaEZ4WGp6Y3FwZ2NvR3dPYUY4dmxkYkd6cHdqUW5PU3dYbjRtQmN1czl0d9IBhgFBVV95cUxPQ3YwMnZpNU9EMUQyaC1tODNtOGM2QmZRT0pUSHNvQlNhLXRZd0NhX2ViR0IzcVZwbnpUZENITXVYBi10SW9WTWc2ZFMzTUVkYzg4TGt2QnVDNVpoaEZ4WGp6Y3FwZ2NvR3dPYUY4dmxkYkd6cHdqUW5PU3dYbjRtQmN1czl0dw">CISA Warns of Microsoft Exchange Server Vulnerability Exploited in Attacks - CyberSecurityNews</a></td>
-    <td>Mon, 18 May 2026 08:32:30 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GMklFWEY0VE51TVUzb3puTFFrcTQ0eXFLLVRVR3FPZVRBeWJNWjgtdF9KZWVxRWt1Wk9ZdnYxNFo2TDlNNVZPUmp4VGVsYktfeUNpVHdvSzBodFNwWEHSAWNBVV95cUxNeWxFcm5ERU5Lb2ZPTWNBdGlKVWhYem5aT2I2R0VaSi1vcjFlNGJkUEZVdHJQRE1tdWlGOW5TS0pVQTcwZEliQmxFMzZNd3dMM01ZOTZZZWZqSU5tdDR1YnlYUnM">GitHub Confirms Breach of Internal Repositories Via Hacked Employee Device</a></td>
+    <td>Wed, 20 May 2026 04:47:29 </td>
     <td>CyberSecurityNews</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX0RkRWdyV2UyNnpIQTZCMzJkZW01V2dSZTVaVFI4dUhROFRRX3ZkSTEwT0JxTmJOSnRiaW94TnE1aEZHLWthLXRYbmRSTi1VeEdBSmdWeDAwY0VMY0E4OEU0aXE3RHFjbmJhd281LURsMkd0SE9PQVhZWkJzSEp0NzdGbHcySjRReFJwMFpCUnVNMkJZUTZJZDJNWTQ3b3o5d3B5WlBmY0JvOTFCdw">Chaotic Eclipse discloses MiniPlasma zero-day, suggesting a missing or undone 2020 Windows security fix - Security Affairs</a></td>
-    <td>Mon, 18 May 2026 08:22:51 </td>
-    <td>Security Affairs</td>
+    <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUYwSTcxLUhITUZMMnhJZDdEZWVTZkVzQ05wMUxnbHlPaDhjX3doMHBqMU5tQVkxeXdPV0JxS1dETGQybHBwWDF3ZS1YMjhCcHo3Sm5IdGY4SGdJSWN1b0pJVW9vdXVNc0pOTXM5bXNHLVo4Wkp5Q1RNd0JlUTZvU0FsaFpWbl9ST2owalVaS2Z3dlk5">Drupal Warns of Critical Security Update Ahead of Emergency Patch Window</a></td>
+    <td>Tue, 19 May 2026 18:36:22 </td>
+    <td>LinkedIn</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmp2YkFYZDlrMUNSQVVRbGZHa1V0ZVk4UWhLSXQ3aWRtSmxZY1dfcWFFYnBNZnFZekNvbWp4UmswRTIwcVJOa0xiRTRLWTNPQkRxUDVrcmpTTkl3aUFWT3ZfNVczaWVyNU9FVDdzTU5oMWVycDZUVDJOZDhBOC1IamFRWHZvdndVXzJsZHNHZVdfcW5LNWJ1RVpwNkNLRmtFMHVtcHdzb2s2b2VmVTY1aWVIajBqaGs3b0HS">Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare</a></td>
+    <td>Tue, 19 May 2026 10:44:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGVHc1NXM0xZM0NScnQ3dHRuVmZaYmN0a1pzRE05anVwRGxVSXlVOFl3c3NGZHFybHlOalJxSnl1YkxzWWZBeUlnbEpTdE5LSEd5MVVkNGk1V2ZqUzlvSF9wWTRfWGNvUmJ1R3EwaE5KbzIzeXJJemNfd1QxOEZiOWh6VWJRUmUzWTFVbnNSVnNJbHUzdlJZa1pQNHhEcUlDaG5JWVlvTU1teE1OU3c">Windows Zero-Day Barrage Continues After Patch Tuesday</a></td>
+    <td>Tue, 19 May 2026 21:26:42 </td>
+    <td>Dark Reading</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYWxuY1phaTBLaC1TYk9iQ0xPMV9pbkJMOVJCZWJDWjlibzAzWFJxdGRWX0twWXlTUUE0azlfVzVWQzBLVTJ3b3RLLVItN2t5aGhhTmFCQ193LVd6NHVQZXMyUkhRbERXSktkWVJhQU9rSGpZRjY5Rg">Microsoft Confirms Windows Update Bug Blocking Security Fixes</a></td>
+    <td>Tue, 19 May 2026 16:51:47 </td>
+    <td>TechRepublic</td>
     <td>High</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFBvMTRBOWtmanBNdEI5eWtXZnl3Y2FFV2FETXlSZTBLdThERVQzVGhuaFRyZkdhZzVOeExxYnBMdDFnblRrZFRFbzFLakM4T0NKWk5sRDBqcWpDb29peF9LX3NVbDFsb0Y2OXlwYklzR3M4b1dzT0hOUm9xbGlvWGlTOHVhZVkzQzRGWDZxQ0xMQ0FoamRwRzJCWnVnTlBIQTYxbGRPYnlqWGc1RjRKY3ROSmV0WXB4c0VZbzJxMlRvQTRyUHc">Windows boot partition runs out of space for Microsoft's May security update - The Register</a></td>
-    <td>Mon, 18 May 2026 11:30:00 </td>
-    <td>The Register</td>
+    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVJDcDhmTzJMTmZZa2wtdEEtTXRCV0Y3amllS2hqaWlHTEx4MVNYNmRfdmlheW9oUGlvZEtFRUpaeElpeXdWeHBFMURFWUd6bWhLWFJPZFFPZ0p6SmMyeWZBWTJnZUJOYUJMcGVwam8td05NV0JubXBEWWJyWXVyaldmSmp1WWV3WXF0NFVHbE52dmlaUm1uMk9kQm9Xa3I5bG42XzBoYlRwcFgycG5YeEJZSE9mbGhJclV1aE1fQQ">Drupal Prepares Emergency Patch for Highly Critical Vulnerability Amid Exploitation Fears</a></td>
+    <td>Wed, 20 May 2026 07:43:10 </td>
+    <td>CXO Digitalpulse</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3Q0d2p6RC14czhlc0lzRjR1cVI2b0NoOGhRakd6YnJlMl9lRGc4SHVJSHR4LTloZW5JeWhUZDQzNW9BNzJ1ZFJrVEpzXzEtakZkY2xtbzJPUXpoRVN2Q2l4SGtIenNmSnYxUzRSQXpKZkJ4bWFZMWlCc21ORWNoSA">GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories</a></td>
+    <td>Wed, 20 May 2026 04:01:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUll2aWxyQmVZVi1KbHVZSUJ6b2dKWXBncXZBY1lzeGFLdTdRaEZMeHJ4OVhFMENSMzRHVW1pNTFKOTRwVkR4SDlFZkhoRURyUWpvN1hxNXNVeENUdWVSMHBWYjgxN0xGRmRMRm1Jbk1UX1BVSk8tTlVCUHNidGJXNFg3VnHS">Critical Wordpress Plugin Vulnerability Exposes Websites to Authentication Bypass Attacks</a></td>
+    <td>Wed, 20 May 2026 06:41:30 </td>
+    <td>CyberSecurityNews</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQaktWbURnOVFfSnBnQi1idTY2eXAwYWZ4bXEtTk9TdTY4TlM1NjNGNi1VSXBpRmUzUzd6bnFBX0pERThXQnVDMThHWXpWWXlXcG14Qm1RU3Uzdk1yTFZCNVpnb1JVUmh4Q0tqbkkzbkM5V0Z6eVhkZHNqbnFuUkJHWFYweFctazBaZHpyRGRBRHFLalJuT3F3YlRrbDUtcVdqZndfSHBZQm4yX1ZTS3NrcF9KYzdjNVJaTGFiRdIB">Microsoft Self-Service Password Reset abused in Azure data theft attacks</a></td>
+    <td>Tue, 19 May 2026 19:35:32 </td>
+    <td>BleepingComputer</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9Eemx3MkhQZzhiUWNmMkU1aEd2cDJiVzBPSktaUEVjaVBqMmQzcDJIQWo3TXF2aXpYLTFwS1JBbVp6aVd0VmNEYXJVaGg4V2xFWnNpTUJwakF5NjVuT3h6eEpEcnU2aFVDWUQ2SzR4VER4ZjBrQnhMWDhJZXpsQTg">DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability</a></td>
+    <td>Tue, 19 May 2026 14:56:00 </td>
+    <td>The Hacker News</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiX3lxTE1DaUh3SXdKUzhWV1ZsRU1QZzVxVnRJcVpKNGxYQzNwMm1VdGxZb1R3a1hVZjBRRGR3b2pKbW5xT3F2T2ZqNElqSGJqWW9jM3FVZzBOQXl5a3BtQ2ZqTlBkRHdFNDhXNVRuZG9qMHB4UkJvN2h5V2JzT1pUeWl4bXZ4QnJiRlFVZkFBbGx4M3YzQzRnZ0Y0N2RJbF9wRHVZTzJzTk1v">Exchange Server OWA Zero-Day CVE-2026-42897 Exploited With No Permanent Patch and New Mitigation Gaps</a></td>
+    <td>Tue, 19 May 2026 19:49:27 </td>
+    <td>Tech Times</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQZW1LbnJ0VXk3UDItZ1BDVUsxQXpTSXU4bjY2QmdManNGNGRZTmxqS1ZtU2FqMlBhQ2pKcGZBNEt4aHhZQVl4U2NnU3FtNTR1U3V6Q2Y4UzhVNmZ3b1A3T1U5ZVY4R2FFVkdqVUJnU2l5QVJqWU1vQzB4UkJWcXRXb3l3">GitHub Confirms Breach of 3,800 Repos via Poisoned VS Code Extension</a></td>
+    <td>Wed, 20 May 2026 06:02:55 </td>
+    <td>Coinfomania</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpIeGZPWUtjR29mTFliQjlubkFaUWhDSWpla3VEajREWjRwS2lkM3ZNcndnMXBZNzYydDdncTY3SVlGcWZyTzg0bzRyWE55V0NaR1FYV1kzOU5OM29CaTkzR1VvWFhPcEJ0OGhDNUpjbmdwX1hfb1pQeTBCazlYSzB4bDZhNHlLXzNmdnBvYzh4SDdYYnowUndZME14dllHNVJlY05YaTRPcTF4Tlp6cDlIVVbSA">Microsoft confirms patching issues in restricted Windows networks</a></td>
+    <td>Tue, 19 May 2026 11:22:15 </td>
+    <td>BleepingComputer</td>
     <td>Medium</td>
   </tr>
-</table>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYWxuY1phaTBLaC1TYk9iQ0xPMV9pbkJMOVJCZWJDWjlibzAzWFJxdGRWX0twWXlTUUE0azlfVzVWQzBLVTJ3b3RLLVItN2t5aGhhTmFCQ193LVd6NHVQZXMyUkhRbERXSktkWVJhQU9rSGpZRjY5Rg">Microsoft Confirms Windows Update Bug Blocking Security Fixes</a></td>
+    <td>Tue, 19 May 2026 16:51:47 </td>
+    <td>TechRepublic</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPX2s5MkFtWDhBSE5XeFcwUC1hWW13Q2pkY3RpNUhjVXVvRGxYVXc3dGtPT2s2TC1ZZVZVZmY4MFlXVm1xdktxNzdtZUhkYzkwUXhIYkpENjdhQTVPVkNPNEVyc1JMOHlTN2dTT1lTdWxLVTZNaUczbDFNaXFTVTdBNHp4VHhhQlZwTnFGRGVhQdIB">PoC Released for DirtyDecrypt Linux Kernel Vulnerability</a></td>
+    <td>Tue, 19 May 2026 09:42:56 </td>
+    <td>SecurityWeek</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUROQ3NnUmREVU1PM01SZmdMLWpsRTRDdVkxXzBua201YmxsVml5WFIySWtCakJIdThjeWNocUJFbUplc3JEd3pTYXB2SEVKbFRPellkSnJzcHU0NEhraHNITjZYb3VrOHUwZ0lGQ0VrcFNJd2dwMFI5dThVbzU2dURtQQ">Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</a></td>
+    <td>Tue, 19 May 2026 16:22:18 </td>
+    <td>SecurityWeek</td>
+    <td>Critical</td>
+  </tr>
