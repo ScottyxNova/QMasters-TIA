@@ -1,103 +1,91 @@
 <table>
-  <tr>
-    <th>Title</th>
-    <th>PubDate</th>
-    <th>Source</th>
-    <th>Severity</th>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GMklFWEY0VE51TVUzb3puTFFrcTQ0eXFLLVRVR3FPZVRBeWJNWjgtdF9KZWVxRWt1Wk9ZdnYxNFo2TDlNNVZPUmp4VGVsYktfeUNpVHdvSzBodFNwWEHSAWNBVV95cUxNeWxFcm5ERU5Lb2ZPTWNBdGlKVWhYem5aT2I2R0VaSi1vcjFlNGJkUEZVdHJQRE1tdWlGOW5TS0pVQTcwZEliQmxFMzZNd3dMM01ZOTZZZWZqSU5tdDR1YnlYUnM">GitHub Confirms Breach of Internal Repositories Via Hacked Employee Device</a></td>
-    <td>Wed, 20 May 2026 04:47:29 </td>
-    <td>CyberSecurityNews</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUYwSTcxLUhITUZMMnhJZDdEZWVTZkVzQ05wMUxnbHlPaDhjX3doMHBqMU5tQVkxeXdPV0JxS1dETGQybHBwWDF3ZS1YMjhCcHo3Sm5IdGY4SGdJSWN1b0pJVW9vdXVNc0pOTXM5bXNHLVo4Wkp5Q1RNd0JlUTZvU0FsaFpWbl9ST2owalVaS2Z3dlk5">Drupal Warns of Critical Security Update Ahead of Emergency Patch Window</a></td>
-    <td>Tue, 19 May 2026 18:36:22 </td>
-    <td>LinkedIn</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPSmp2YkFYZDlrMUNSQVVRbGZHa1V0ZVk4UWhLSXQ3aWRtSmxZY1dfcWFFYnBNZnFZekNvbWp4UmswRTIwcVJOa0xiRTRLWTNPQkRxUDVrcmpTTkl3aUFWT3ZfNVczaWVyNU9FVDdzTU5oMWVycDZUVDJOZDhBOC1IamFRWHZvdndVXzJsZHNHZVdfcW5LNWJ1RVpwNkNLRmtFMHVtcHdzb2s2b2VmVTY1aWVIajBqaGs3b0HS">Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare</a></td>
-    <td>Tue, 19 May 2026 10:44:00 </td>
-    <td>The Hacker News</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGVHc1NXM0xZM0NScnQ3dHRuVmZaYmN0a1pzRE05anVwRGxVSXlVOFl3c3NGZHFybHlOalJxSnl1YkxzWWZBeUlnbEpTdE5LSEd5MVVkNGk1V2ZqUzlvSF9wWTRfWGNvUmJ1R3EwaE5KbzIzeXJJemNfd1QxOEZiOWh6VWJRUmUzWTFVbnNSVnNJbHUzdlJZa1pQNHhEcUlDaG5JWVlvTU1teE1OU3c">Windows Zero-Day Barrage Continues After Patch Tuesday</a></td>
-    <td>Tue, 19 May 2026 21:26:42 </td>
-    <td>Dark Reading</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYWxuY1phaTBLaC1TYk9iQ0xPMV9pbkJMOVJCZWJDWjlibzAzWFJxdGRWX0twWXlTUUE0azlfVzVWQzBLVTJ3b3RLLVItN2t5aGhhTmFCQ193LVd6NHVQZXMyUkhRbERXSktkWVJhQU9rSGpZRjY5Rg">Microsoft Confirms Windows Update Bug Blocking Security Fixes</a></td>
-    <td>Tue, 19 May 2026 16:51:47 </td>
-    <td>TechRepublic</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVJDcDhmTzJMTmZZa2wtdEEtTXRCV0Y3amllS2hqaWlHTEx4MVNYNmRfdmlheW9oUGlvZEtFRUpaeElpeXdWeHBFMURFWUd6bWhLWFJPZFFPZ0p6SmMyeWZBWTJnZUJOYUJMcGVwam8td05NV0JubXBEWWJyWXVyaldmSmp1WWV3WXF0NFVHbE52dmlaUm1uMk9kQm9Xa3I5bG42XzBoYlRwcFgycG5YeEJZSE9mbGhJclV1aE1fQQ">Drupal Prepares Emergency Patch for Highly Critical Vulnerability Amid Exploitation Fears</a></td>
-    <td>Wed, 20 May 2026 07:43:10 </td>
-    <td>CXO Digitalpulse</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPX3Q0d2p6RC14czhlc0lzRjR1cVI2b0NoOGhRakd6YnJlMl9lRGc4SHVJSHR4LTloZW5JeWhUZDQzNW9BNzJ1ZFJrVEpzXzEtakZkY2xtbzJPUXpoRVN2Q2l4SGtIenNmSnYxUzRSQXpKZkJ4bWFZMWlCc21ORWNoSA">GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories</a></td>
-    <td>Wed, 20 May 2026 04:01:00 </td>
-    <td>The Hacker News</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQUll2aWxyQmVZVi1KbHVZSUJ6b2dKWXBncXZBY1lzeGFLdTdRaEZMeHJ4OVhFMENSMzRHVW1pNTFKOTRwVkR4SDlFZkhoRURyUWpvN1hxNXNVeENUdWVSMHBWYjgxN0xGRmRMRm1Jbk1UX1BVSk8tTlVCUHNidGJXNFg3VnHS">Critical Wordpress Plugin Vulnerability Exposes Websites to Authentication Bypass Attacks</a></td>
-    <td>Wed, 20 May 2026 06:41:30 </td>
-    <td>CyberSecurityNews</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQaktWbURnOVFfSnBnQi1idTY2eXAwYWZ4bXEtTk9TdTY4TlM1NjNGNi1VSXBpRmUzUzd6bnFBX0pERThXQnVDMThHWXpWWXlXcG14Qm1RU3Uzdk1yTFZCNVpnb1JVUmh4Q0tqbkkzbkM5V0Z6eVhkZHNqbnFuUkJHWFYweFctazBaZHpyRGRBRHFLalJuT3F3YlRrbDUtcVdqZndfSHBZQm4yX1ZTS3NrcF9KYzdjNVJaTGFiRdIB">Microsoft Self-Service Password Reset abused in Azure data theft attacks</a></td>
-    <td>Tue, 19 May 2026 19:35:32 </td>
-    <td>BleepingComputer</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9Eemx3MkhQZzhiUWNmMkU1aEd2cDJiVzBPSktaUEVjaVBqMmQzcDJIQWo3TXF2aXpYLTFwS1JBbVp6aVd0VmNEYXJVaGg4V2xFWnNpTUJwakF5NjVuT3h6eEpEcnU2aFVDWUQ2SzR4VER4ZjBrQnhMWDhJZXpsQTg">DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability</a></td>
-    <td>Tue, 19 May 2026 14:56:00 </td>
-    <td>The Hacker News</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiX3lxTE1DaUh3SXdKUzhWV1ZsRU1QZzVxVnRJcVpKNGxYQzNwMm1VdGxZb1R3a1hVZjBRRGR3b2pKbW5xT3F2T2ZqNElqSGJqWW9jM3FVZzBOQXl5a3BtQ2ZqTlBkRHdFNDhXNVRuZG9qMHB4UkJvN2h5V2JzT1pUeWl4bXZ4QnJiRlFVZkFBbGx4M3YzQzRnZ0Y0N2RJbF9wRHVZTzJzTk1v">Exchange Server OWA Zero-Day CVE-2026-42897 Exploited With No Permanent Patch and New Mitigation Gaps</a></td>
-    <td>Tue, 19 May 2026 19:49:27 </td>
-    <td>Tech Times</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQZW1LbnJ0VXk3UDItZ1BDVUsxQXpTSXU4bjY2QmdManNGNGRZTmxqS1ZtU2FqMlBhQ2pKcGZBNEt4aHhZQVl4U2NnU3FtNTR1U3V6Q2Y4UzhVNmZ3b1A3T1U5ZVY4R2FFVkdqVUJnU2l5QVJqWU1vQzB4UkJWcXRXb3l3">GitHub Confirms Breach of 3,800 Repos via Poisoned VS Code Extension</a></td>
-    <td>Wed, 20 May 2026 06:02:55 </td>
-    <td>Coinfomania</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpIeGZPWUtjR29mTFliQjlubkFaUWhDSWpla3VEajREWjRwS2lkM3ZNcndnMXBZNzYydDdncTY3SVlGcWZyTzg0bzRyWE55V0NaR1FYV1kzOU5OM29CaTkzR1VvWFhPcEJ0OGhDNUpjbmdwX1hfb1pQeTBCazlYSzB4bDZhNHlLXzNmdnBvYzh4SDdYYnowUndZME14dllHNVJlY05YaTRPcTF4Tlp6cDlIVVbSA">Microsoft confirms patching issues in restricted Windows networks</a></td>
-    <td>Tue, 19 May 2026 11:22:15 </td>
-    <td>BleepingComputer</td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9YYWxuY1phaTBLaC1TYk9iQ0xPMV9pbkJMOVJCZWJDWjlibzAzWFJxdGRWX0twWXlTUUE0azlfVzVWQzBLVTJ3b3RLLVItN2t5aGhhTmFCQ193LVd6NHVQZXMyUkhRbERXSktkWVJhQU9rSGpZRjY5Rg">Microsoft Confirms Windows Update Bug Blocking Security Fixes</a></td>
-    <td>Tue, 19 May 2026 16:51:47 </td>
-    <td>TechRepublic</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPX2s5MkFtWDhBSE5XeFcwUC1hWW13Q2pkY3RpNUhjVXVvRGxYVXc3dGtPT2s2TC1ZZVZVZmY4MFlXVm1xdktxNzdtZUhkYzkwUXhIYkpENjdhQTVPVkNPNEVyc1JMOHlTN2dTT1lTdWxLVTZNaUczbDFNaXFTVTdBNHp4VHhhQlZwTnFGRGVhQdIB">PoC Released for DirtyDecrypt Linux Kernel Vulnerability</a></td>
-    <td>Tue, 19 May 2026 09:42:56 </td>
-    <td>SecurityWeek</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUROQ3NnUmREVU1PM01SZmdMLWpsRTRDdVkxXzBua201YmxsVml5WFIySWtCakJIdThjeWNocUJFbUplc3JEd3pTYXB2SEVKbFRPellkSnJzcHU0NEhraHNITjZYb3VrOHUwZ0lGQ0VrcFNJd2dwMFI5dThVbzU2dURtQQ">Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</a></td>
-    <td>Tue, 19 May 2026 16:22:18 </td>
-    <td>SecurityWeek</td>
-    <td>Critical</td>
-  </tr>
+<tr>
+<th>Title</th>
+<th>Source</th>
+<th>Pub Date</th>
+<th>Severity</th>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1HbnJaT244SFNDdVBxdDU4YlprS3VOM0RzZlhrQ09ZYWRvNEpTRWdyR1M2QU1mUUpYSXpjWktpdlVzSTlTZlJzd3owUFlGUUNzZ1I3anZqWXZWTmxnOE5neDlJdUg4Um1BQXF5WmZIWWtnUdIBckFVX3lxTE1HbnJaT244SFNDdVBxdDU4YlprS3VOM0RzZlhrQ09ZYWRvNEpTRWdyR1M2QU1mUUpYSXpjWktpdlVzSTlTZlJzd3owUFlGUUNzZ1I3anZqWXZWTmxnOE5neDlJdUg4Um1BQXF5WmZIWWtnUQ">CVE-2026-45829: ChromaDB FastAPI ChromaToast RCE Exploit Now - The Cyber Express</a></td>
+<td>The Cyber Express</td>
+<td>Wed, 20 May 2026 08:25:43 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5SaF9FZkhyczJzQUdPZ3cyeVl0XzNvWEdRZmxLa3ZqWkRBT2lNb1J1NUNEdWpVVFUxVHZZV0tUemQwampadGNhc2E4VkNMVm5Oa1ZGa0Q1TGVGbGF1QUNGWGQ2SkdWY3FGbzgtRHI0eENXWHJ5UmUzQ1VtTks">Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit - The Hacker News</a></td>
+<td>The Hacker News</td>
+<td>Wed, 20 May 2026 08:28:00 </td>
+<td>High</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWxVRno2eG5zMFJMd1dHSEJTX2JBUGFkN05QWThvNExyQTl4LThZYjJKS1Y2bDA0MmpaVnB3dUw3ZTdIZEluY1RRUUJSTXZoTDhtVDE3WWFEOFozdUZXZ2ZuMWpzbm0wNlRLdFZwaFI2SEs3a2ZNOWNMMXlpdy1ZTzhqbHBCZlQ4WUxIZkRIaVhPZ1U">Microsoft provides mitigation for "YellowKey" BitLocker bypass flaw (CVE-2026-45585) - Help Net Security</a></td>
+<td>Help Net Security</td>
+<td>Wed, 20 May 2026 08:33:52 </td>
+<td>High</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQTVhpc29mRVNHem8zLVFYdzdhemtWTkx2NUZLX3VfTW5USkFNRnpOdms3UEdLWTJYLXBwRVk3amlOUlRUZ3ZjRnFvS3AxQzJvS19Ec3hiNF9NYXFuMDlCRGNuVGJiNXI2NTZjdG1WUjNnX0ZNOTMtTUVSUDYwaGFqLVBDMVhXVEpDdnhfd2EyUkJmN2kzeno3WFNFZ1hsa3BuWlB0UVRFTTdwdmI3MG1CWVNhRGVKNElOOUR5MFQ1eU1XbEV5UTRqWVY0WUFUNV9SVW53aHhONDMxVzg2Wm9NTldFNk1naklnQUZtRF85cFI">CVE-2026-46333: Local Root Privilege Escalation and Credential Disclosure in the Linux Kernel ptrace Path - Qualys</a></td>
+<td>Qualys</td>
+<td>Wed, 20 May 2026 20:57:46 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxObm1Wamk3b2NmWmlEWUdIWnRCaDlCX1dBQnNyaDBvS0pIanotTmJGaGd2RVBuZ0xSYmdqWkUzN0xHRXFqbFIzVEF6WkJrcEdLUmk4clZZOGJBT2ZIcHJGeUNVa21ZcHJFM3dRUjdwU3BvZUxPMy1kMGVkTldNenplbl9QMUdfVE0">Nine-Year-Old Linux Kernel Flaw CVE-2026-46333 Lets Attackers Steal SSH Keys, Shadow Passwords, and Root Access - cyberkendra.com</a></td>
+<td>cyberkendra.com</td>
+<td>Thu, 21 May 2026 04:08:00 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5qVUcwNWZLcS1WYVp0UFdIMjdjYTJ4VEhrLTJVbGpDemJ2c19OeEVXX0pHWVpaOWpEdW9uaHRzTjJ1VTA5LU9seHZUck1CaVRoWUFCSGsxWTNYblRmS2ZFYzNlUUxfZFNka1o1T3MzLWo2c08tbXlHZkNxZW5EUQ">Compromised employee device leads to GitHub breach: source code for sale - Cybernews</a></td>
+<td>Cybernews</td>
+<td>Wed, 20 May 2026 14:01:58 </td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxObm1Wamk3b2NmWmlEWUdIWnRCaDlCX1dBQnNyaDBvS0pIanotTmJGaGd2RVBuZ0xSYmdqWkUzN0xHRXFqbFIzVEF6WkJrcEdLUmk4clZZOGJBT2ZIcHJGeUNVa21ZcHJFM3dRUjdwU3BvZUxPMy1kMGVkTldNenplbl9QMUdfVE0">GitHub internal repos breached - StartupHub.ai</a></td>
+<td>StartupHub.ai</td>
+<td>Wed, 20 May 2026 22:02:10 </td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzczX0V3ZFlHektabHpuMlAxZV9JVTRtR2NIcHI3QVV1cEpSR3pXWHNrb0FXZWRuYk5zVTR1VzZRWE1pTEVWaUNvNl9kNGNlN1ZxbTNjWGh3aXkzR0JRN1oyeVhHYmtrZ0cxWm9aN2FJdUR0d0V5M2NEZjUzd3Y4QlZ0WjQ4Wk5Fak9VV0tnMzA2dWNaTXRKS0lCY25kSWVhcEc0V19ub0dfbGxkY1MxY1EwbFYweEHSAbwBQVVfeXFMTXhMZnVVX3BYSGtXS3hRb182d3JPUFk3cUZvdlhSX1JlU09WVnNXRTZ4bXdTLWJjb2s5U2NjdUJETTAxWjZhQzhzWUplMXd0Y1k1UXRPWDFSUU9hSUVLTVphQ0pVWnQtQlFuaVhXSmhhd3ZfTVN4MjQxNEllTzlHcGRyQ29hZVJzbzZJWFFhMl9YSDJTaXd6cVN4QnM0bURmbXFzamRjUGh2WkVZdnBndDFJZDNIdE1RVC0wNFc">GitHub Breached: Malicious VS Code Extension Exposes 3,800 Internal Repositories - SecurityWeek</a></td>
+<td>SecurityWeek</td>
+<td>Wed, 20 May 2026 09:28:53 </td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xZTVtSHJRdXNZWGktZjZ0a3ZMOF9VOWhJSkdZdm4xeGU1OXBRMW4tazhaNFU5YkhseHhkLVY2Zi1xX0xOWFRoSnVTd1U1bDVDRkFPNmRqQ2hiZw">CZ Urges Developers to Rotate API Keys After GitHub Breach Raises Crypto Security Fears - Cryptonews.net</a></td>
+<td>Cryptonews.net</td>
+<td>Wed, 20 May 2026 14:24:35 </td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGtyYWdTcUZlMEJId2xUeGtNQWZCNlBNbDB6TVUxZmk4UFZBeENBSHdXSTdJZXdDbjYzd3RfaTdlMzltcUM4SDE2TmFSOVVwT2QxRmVqQmt1bjZpbHNHSDZCSWVFZG1uUk95NVhiV203QmtEcjBPdkpjbnU1b1NqUG9BVTY4TGJvVll0Q3Z3SHlxQnFTRDBhb2xFQXNVTnhfTjQzTldEaThySS1Yd1Niekhfcnh3dXkxbWZuRWVfUUxpYndFdGRDQzdndnd3cHlMRjQ1NklsS2Y">PinTheft: Another Linux Privilege Escalation, Another Working Exploit, This Time Targeting Arch - Security Affairs</a></td>
+<td>Security Affairs</td>
+<td>Wed, 20 May 2026 20:33:53 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlc2UTFoNXR4eTN2VWt3ZUJtRHlPbk5SaVZrX0FTbjgyWFVhc1gzM0UzZG9EWnY5RHEyVWwyQ1dEWTRxZk9ZcmJYbEVtLUVFQ3gwYmNQX1dUTktOakRDX3k1WG9tdVlMOEdibUplaXJkRXVoZVBLYnBxQk5fdHVEWTVvRi1HZ3o1U2IzMUFaWDlFWG1oQXN0Y3hvOEFWQ2VRUmlHR0Jn0gGrAUFVX3lxTE9WOTQ4WHc2TEJYS1QtSmdybmFiYzZJem10Tk9fampaTlBpWkhhQ1lWRDNYckxsSFBrRDJvUks5SHEwWGxQUXdvSUU0dkFhVzZWYzZMdVpaRldqS0lfcW1EenN6YXlwTlU1MTlpWmJrSUw5bDFFMVJ3UHJkNjVNMnVtWHpacjEzVWNkSnlLV2stUWhLQ2FVODF5bUlMMGVqR3FzM05yUTJVbmkwSQ">GitHub Security Breach: 3,800 Internal Repositories Compromised - The Hans India</a></td>
+<td>The Hans India</td>
+<td>Thu, 21 May 2026 05:42:09 </td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXVxRGVaVXBKdDJ1cVRzLTRwTm52TWpqX1NPbGdJYTRtdWpoSnhTRHMtWlNvWjI2RGRjNjJEcTV1bHhFdjdYMEN6TWZzLWtPaHpudUZ4UmZyQXowX2FVX0JmY2ludjZ2OUk3bUFyOU1GcUlEalgyTmFmYm5QRVU3MmRpZ0UzU09RcjhUWVZva3pNVVNXTl9zaHQ0MmwwcFEzaWtCaFdLTEN5eElOSlHSAbMBQVVfeXFMTmJaNDhaRDN5LWkwQ0FzblZ6aGEwQkxvWTYzYklreV9fRzlOTk00QjIzd3dteUlmeUwyS08ySkttV3A4bjlKc3VrOVljLW9RbENpT2U1eVFTVkl6UkxwT0RUaEppN2NUYmZLS1E4S2tKYWxKRndqamdhWWlIUmFQU2dHRUtlQ1pKNmNr">Drupal critical update to fix bug with high exploitation risk - BleepingComputer</a></td>
+<td>BleepingComputer</td>
+<td>Wed, 20 May 2026 12:52:29 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5IaHFEMFl1RWEySFBpakVzN0ZkdVl0YXh4VVJXODVQQkViV3VLbDgwQXkzdkdNOTVvQUdqLUstZUdCZzhPaUV4Z2djTmxfMEpzZVpQY2FYX1ZyZmp2SDRleWVZd0RqalRtR1V3MFBmMXlqQ2V0N3J3Q1F2bG5vRlZz">Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks - The Hacker News</a></td>
+<td>The Hacker News</td>
+<td>Thu, 21 May 2026 03:44:00 </td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hc1JYTmVsSnJHdXI5dkdCUTBsTlNNT0hyY09YaEtVb0I5SmFseGsyeWptOFlXUTJPZmVnZlliU1RaWnFPOGQteQ">GitHub Security Breach Raises Supply Chain Risks for Crypto Developers - MEXC</a></td>
+<td>MEXC</td>
+<td>Wed, 20 May 2026 14:08:47 </td>
+<td>Low</td>
+</tr>
