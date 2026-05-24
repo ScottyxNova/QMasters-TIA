@@ -6,92 +6,39 @@
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnF6c0cyMml1UUQ5NkxLZDJHQjBad2hqSk11V1NocEc1WVdQUWh5UW5aQ2pEUG1CS01hSTlmQ0kxYVFNVmIyU1haUHpRR3A5R2g3WGdUWkxQeUxkdHoxLW9oX0VHM05PUEdDcUdkWDE2M1JPUU5HaG5vNXBkeHhnSWJsQQ">LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root - The Hacker News</a></td>
-    <td>Sat, 23 May 2026 07:35:00 </td>
-    <td>The Hacker News</td>
+    <td><a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUHVmel9JcDRMaWo5cnVZcXRKNnJ4QmozbExoVGYwQndNVi1pMWRCRzMxcWc5Q3BBUTNvUWRCUUpzQWNEMmdIS1ZtU244c2diOHVCdzhfajBTR1ViWjN6a2F6eTVJcU5Eb1VwaFZvVmp1V2lmU2RkWEdKUHFVNDJxb2h0YXNkQmxKY2hzVjFtTEJsNlN6enNfcTU0S0lhbWQ0WkNvNENGYTFUMjI0YV9kLVQ0cXUyTlpPY1hUVG9pdVFBY0xpT3RXdXVoRjdWbG5IR3c?oc=5">CVE-2026-9082: Drupal’s Highly Critical SQL Injection Flaw Is Already Under Active Attack - Security Affairs</a></td>
+    <td>Sat, 23 May 2026 16:29:11 </td>
+    <td>Security Affairs</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2h0NDZRYnc1eWxjdUZfX1Y2anM5MmxQZHVLM2hUT245TlJ0WVBiUHlKUWg5WVVkd0FQX1ZzRHN3c3hfZHU0WFJJUDlSNTMzSzhXTVdUMVBteTJDYXFRZkR0SDRPWV9SREstbURmNFMxbGNISHRtWVRRQ2JEUGwxam16Vkc1N0k5UnRmc09tZWZFTVktZWJNY3hQTU9CWXMxZkdqXzA3X2g2Zw">Kritische Cisco Secure Workload-Schwachstelle CVE-2026-20223 – patchen - BornCity</a></td>
-    <td>Fri, 22 May 2026 11:41:32 </td>
-    <td>BornCity</td>
+    <td><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNmVrblV5VGFMeG9BMGJJMHV3LUtDeHU4dlZWQ3ZkZEpBYk1aWnFqNjk3TzZvcEFOVXMzczBfNWJ3am5JTWFUV0dOamlaSHQ0ZWZvTkVsdnNxUDd6cl9WeEhTMWpqZjdLaEw0bEh6bXUtczFldmIteUM2T0lZM1BTR0VDNWJyemd1bE5pM0pZSzU3dUN1ejJ2VDFBUlJWNUhNLWczYTlzcloyV3VwSFkwYXVsb2hKOEpmc1R6S01hYUlkdVZKTUJseXZ1UWd1dTBO?oc=5">Week in review: GitHub breached via poisoned VS Code extension, critical NGINX flaw exploited - Help Net Security</a></td>
+    <td>Sun, 24 May 2026 08:00:37 </td>
+    <td>Help Net Security</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQV3EyQXh6S0swSjJMbDQ4RXJhYjJXN2JaZWpwWFRZeEoxRzVWeXBDY2gybXKrY0xGVU14eGE0Tl90bGtXLVRmWFVPUTV3LUNqS0dVRDJfMDc3aXZEQ1R4blN1YVZEUjY3ampYcWNPTFdXem9Yd1JlWEF4YVE3SUZ0cWh0NVNOTWphRWJKcEtoaXZZZklZeWtGSlRTdjM2T0VyRUJGR1V1YXlKOUNvQVVjbjE4OGdwNjZDMDVJUllwVUJyRkh2REhGWEJhYmp5ZVdVRDQ5NHI2ZmpibmcxbWkzOWEtZEtNMEpGVlllVjVnVkMtYm41djNpQVU5cHlXbzU2">CVE-2026-46333: Local Root Privilege Escalation and Credential Disclosure in the Linux Kernel ptrace Path - Qualys</a></td>
-    <td>Fri, 22 May 2026 13:41:22 </td>
-    <td>Qualys</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5VODJFNjZjMHVILVlTMmduUTU5azhtU1JMenhEcGRyMlktTjI4UmxNa0wwcDhvRmV1NFhEWE9vZkY1MDdjZGtqNElCeGpDbUNtbkZkaFF2UFN3bnpSZXZtcDNDelJCa3lDM2g5aTJvYk9ObDFuczdr">CVE-2026-45585: YellowKey BitLocker Bypass Exposes Encrypted Data on Windows Devices - SOC Prime</a></td>
-    <td>Fri, 22 May 2026 13:44:55 </td>
-    <td>SOC Prime</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUlhcTM3LU5OWEFNN3IwNV84M01WVDlFY2RzZUhlSmFxR19sTG5xQ0pvWWJkMm1uNjdGeXA1SEpqVUxfRE5WSk82RmltTldqbmRZdS1OYkJldjM4RFd5NWNrVHFyYWpZZmVoeTBNdlBvM3I1RVFuVnQyd0hiRjdReTNjQ1F1aXVLTnMxQ2pJZW5kRGVrNVQw">Drupal Core SQL Injection Vulnerability (CVE-2026-9082) - Security Boulevard</a></td>
-    <td>Fri, 22 May 2026 20:27:09 </td>
-    <td>Security Boulevard</td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sendVTFROQzRGVXhlX21INzlHdDJ0MnRJaVB2N0RoVWpBVmJwdTI1b2twZHpHbVFNSkN0XzZIR0pWdlJQdnRGSHZGWXhFMXYxeVpMQnByRUtxSExhTEE">CVE-2026-9082: Critical Drupal Core SQLi Flaw - SOC Prime</a></td>
-    <td>Fri, 22 May 2026 14:29:14 </td>
-    <td>SOC Prime</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5Tc3NOdWM3YThvbkxHV0Itc2VnMnF2ak1ZSzd0ZVc1TllUZ0wyNk1nU1hVS1UxQUVSdVZXcXlJVExtSnRwNVJ6dERfbEpFVldkZUxaS3BDY21wS1ZYZm9tbVhTdk1RUjFyYXZkUUJ5OW1TR0VTZThZQzV4WdIBe0FVX3lxTE5Tc3NOdWM3YThvbkxHV0Itc2VnMnF2ak1ZSzd0ZVc1TllUZ0wyNk1nU1hVS1UxQUVSdVZXcXlJVExtSnRwNVJ6dERfbEpFVldkZUxaS3BDY21wS1ZYZm9tbVhTdk1RUjFyYXZkUUJ5OW1TR0VTZThZQzV4WQ">Microsoft Defender CVE-2026-41091 & CVE-2026-45498 - The Cyber Express</a></td>
-    <td>Fri, 22 May 2026 09:28:37 </td>
-    <td>The Cyber Express</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAJBVV95cUxQa25YUDhydmFlWk83REtuUzBKdmNTdWdDQzFsbHN3Wl9hYmstdHd0UHNjbjJYR3JIX3NqWVBmVkJWUDhHMXFXczdJN0w1NmVWX19KLWxyQ2oyY2w0eTNOaHNkdmtHWVM0UWRyYnVnVEs3V3FUbjVJS3BfQVBxck1SSjdkVlZGLV900gGOAUFVX3lxTE5qTUNzS3pMN0dfUEZSTXVCelVDUUw5bkVlbFdzVnA1cDNJQlNRSUhTNzk0MUFMb1B2QzVUVmxDRUd1Y2w5XzBFaDhKVk16QmJPRzdfSGdkT3l5ektnRFFkTktMTGVfcUtMSXNHNDN5STQ2eVowT2ZRaHNIZTI0N2VTQzlES0hWUlU3QjdGeWc">CISA Warns of Microsoft Defender 0-Day Vulnerabilities Exploited in Attacks - CyberSecurityNews</a></td>
-    <td>Fri, 22 May 2026 16:13:10 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBzcUVRLXVpMnZxYmRicUFab3c5SERyV1NHQnBua0JONlY2THc1M0FteHljLVpJRUJxOENwSEk4NWpCTmR5aldlOTl3QmdXdkdySmFfVktobGs4SUM2VzltVmxtejVWVnR1NkVr0gFwQVVfeXFMUHdXa1hRR3ZlQkl6czhtVDJKU1R6a2tDaE9nR1dIVWJrVzMxSm1tMDVieGxqQlptRmZJQTYzcHAwX0gySFNZalliVEc4NDY2SDUzdGpzQmN6RFBYYkdsVDhkeGxfTU95aUJ2WVY3czZxTw?oc=5">Nginx-poolslip Vulnerability Enables DoS and Code Execution Attacks — Patch Now! - CyberSecurityNews</a></td>
+    <td>Sat, 23 May 2026 11:53:10 </td>
     <td>CyberSecurityNews</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNTXpocXIycm0zN09NVVlpT2ptcm15T3FQUmlUaHh3TWlsTlN2MlN3NFNuMEtqVXBvUjhRRGlYT19rQ18tN0RtVlNRcXBXdWFaUkdxSTRrVVIzTVFfelAzYlNBY001dDloZzZMc2oyNUJ5VklJT3F4N0wyVDU3X2I0RnFPUm5lUnB4QjhETjVWbm9kejZZemNFZkx6Zy1CQm9hSmNOdi1tS1BObFd6OXpVMGZsQzdEeE0">CISA adds Trend Micro Apex One and Langflow to its Known Exploited Vulnerabilities catalog | brief | SC Media - SC Media</a></td>
-    <td>Fri, 22 May 2026 20:13:21 </td>
-    <td>SC Media</td>
+    <td><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5yTHNXSS05Q2RiWFlDd0J5WGE4X0xtTlhVMHpTLWk1WFBDbkNadHFpSDc3NDB2U0dPc0dkYXRiZ011dG02eWZBRHpUNFhaaXRNbHRyR3d6RER5S3VsYUozM0ViUkxheUVxMWFzUmlMY2ZISjDSAXhBVV95cUxQOHZNeVRrUmFjUW9KTDBYNjNPTkVGNUo1WF9VRDgwYm14b1N5Ml8wWEFkaHRYVlZCRGt3TDFnRUZTR1JoZFR4dlNDTGxQT2I5eElWNnQyenJXbFFVVVF0V1F6OTVSRVE0V2d3dXFWUmNDaFB5R2FNajE?oc=5">Hackers Exploit F5 BIG-IP Appliance to Gain SSH Access and Pivot Into Enterprise Linux Networks - CyberSecurityNews</a></td>
+    <td>Sat, 23 May 2026 09:33:10 </td>
+    <td>CyberSecurityNews</td>
     <td>High</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE43SjlVdXN2SmhqSXU4Nk4yRUVVbHk0clhJVElDbTRNazNXdWtSV1MxNWhEeHJidEhhQ3I4YUJZOVRnbWpBR2VEenlndmNPVWxWbzBnU19mN2czSENxWjlj">CISA Warns of Exploited Trend Micro Apex One Flaw - cyberpress.org</a></td>
-    <td>Fri, 22 May 2026 08:31:48 </td>
-    <td>cyberpress.org</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHhTZ3NzeXo5MG03VGo1TXdPOEtGakJnT3BCbHNhclhELU1hbGpFNWtPZ0pHdWQ5ZEpCMEJwSzhLeFYwblY1OGFVRTlsRW1Qck1RZjBIWmx3U3BKWnM4TDJuWjlYRGpMa0N1SndlcXlteUFXZ000QnBYYjJCdTlKYnY1cFU">Trend Micro's Own Security Tool Turned Against Enterprises — Apex One Zero-Day Actively Exploited - cyberkendra.com</a></td>
-    <td>Fri, 22 May 2026 15:40:00 </td>
-    <td>cyberkendra.com</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVXBVNkNCaC1IVkpBakt4S3ktV2Y5M0h6Y1lhRldteTVNWVlmV0FoX3VTRVJrV042UkZyX1A5Y2FLaEtJY1piVnREbVk1TE1objRpU3BVcy0wZlJtNnBDdDdtSURvMEo5RURRZkNzVXN3WmRSZm53M0ZoWDYyMGhXS9IBhgFBVV95cUxPbVJpNl96dEdyX2h4alAzX2RwQk1tV1VuTmtPbi13LUk5RzdLQW9ibVlqTVlCZzZvYTZvS3hkQmF0ckpRcHY3TURCZ080M2o5QW03RWVkN0dzUjdiUm9YT09WX3liOFRRSWFKNUlxNVBYTnpLSUxqRk5pdnNmYUxXYVFvenNidw">U.S. CISA adds Trend Micro Apex One and Langflow to its Known Exploited Vulnerabilities catalog - Security Affairs</a></td>
-    <td>Fri, 22 May 2026 09:46:22 </td>
-    <td>Security Affairs</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxaTVZM1JFQ0pWNWVubzB1b0Y1dUR1RWhEclhSZE0xYzhaWThNbHpDWU9UU2NrNFhpMEhsY0dIZUtlcFpYVkNKbUEzWVJ5S2F0YTBaR196dWVqR0ZwNEM3StIBZkFVX3lxTE10Z1U1MnZrWVRWZDJ2UU1hakxSOTczbkFXZjFEZk1Wa1lSUFdBSVRQa2lsVWJUUllGUzByTTVpallreUR4ODFRV3A3cjNURG1kbXZNaF9lVGtxR0tJSGM5ZlZ5Y2N6dw?oc=5">Hackers Exploit F5 BIG-IP to Gain SSH Access and Pivot Into Linux Networks - gbhackers.com</a></td>
+    <td>Sat, 23 May 2026 10:16:12 </td>
+    <td>gbhackers.com</td>
     <td>High</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigQFBVV95cUxOaHhkSXRuZkdXZ2RzZ0tLbU1ZWW5mRDN5eTBFc3d1b1d3b3R5RDNiRmRSRnZJbUJnR2t1R3B2eGh0WlZxT2Z5U0ZzQ3hLcWtqRTRWU2pXQ0hCNEpRNXF0M0F5WlVqM0R5cHh5RzR6bUxvNVBxTzl4RzBnSjVhV2Z2VWd1UVBnNXdRUVh6VXh2Qkx4SXdqMnJvNE5iVHd3RQ">Critical vulnerability in Cisco Secure Workload – Update immediately - SecNews.gr</a></td>
-    <td>Fri, 22 May 2026 08:56:00 </td>
-    <td>SecNews.gr</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQeGNrTUdKc3ZfVjcyMUVMYzBCTjhBYTlaVElRQXNCYm1TaGZQVWh6S2R6UzNLbUN6NW1nNkdJYjNlbjVVYWNSUDBZa0plUks3ZjBqYzJ1aTd1a1hydGx6MkRYMTltUU9GVERMdkp4VzVsc3ZuNnFlUkxCN2FJaEZZLXd3?oc=5">Cisco Fixes Critical CVSS 10 Secure Workload Flaw - The Eastern Herald</a></td>
+    <td>Sat, 23 May 2026 17:39:44 </td>
+    <td>The Eastern Herald</td>
     <td>Critical</td>
   </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzFvRjdsekJmcmwyeWdjY3ZGb184SUVXM1U0Y0ZEQmpkbnJGaVU3bGVXZ3h2UW5zTG5CRllzbTlKWW8ydEpKSTlJS3I5UTFRRnd0ZC1QUDgwdF9QRmpOLV9qUXREUVBQZWZHa2h0SzJMdlBJRDkxTWJKdkxjeU1PVVExMHA5NkViUk9NNg">Cisco patches critical 10.0 flaw in Secure Workload APIs | news | SC Media - SC Media</a></td>
-    <td>Fri, 22 May 2026 19:08:59 </td>
-    <td>SC Media</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFRBSHAzYVBiYm9JM3k1dlRtQlNWUTQ2X0Q1bzBtdTRiV0s3X3J5VE55eFlWUkJ4dmsyYTRhNks0TWk1UWZtdzktYWZzaVF4anhla3dJMlVyUUxyWWlyZDVrOFNzbzNXTTRuT3Z2YU1WV0h4aEg4NG5Qb2ZjS0hKSEJqZzRzSjR4d2FvRkZGdmd1dGd2aHRjRXd2RnNxc0dDZ2RmTm9pR2dJcFhWV1Z1dW9wS1dKUzV3dXhXN0lGZ0JLbDZqN1NzT3pVb3l0T1dKbU1KdEdKbTQzT0R3dGJXa3FVVEYw">Cybersecurity News: Cisco’s 10.0 vulnerability, Microsoft email spammed, Chrome vulnerability surge - CISO Series</a></td>
-    <td>Fri, 22 May 2026 10:00:00 </td>
-    <td>CISO Series</td>
-    <td>Medium</td>
-  </tr>
+</table>
