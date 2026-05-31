@@ -1,73 +1,44 @@
 <table>
-  <tr>
-    <th>Title</th>
-    <th>Pub Date</th>
-    <th>Source</th>
-    <th>Severity</th>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1SMUFFbVJVd0ZIb3RwWmRTWkxkS2wtTzdFZkdHZHRfNmxoeF9DTHRQNGt6UWxvNGlyai1aaDVjck5VSHZrNnQ3V0l4VUFPeGtxbTNPekF3WHItZjdWekxpUXBleWVvWVF1UENiZlRtNElUNDVpcjdWQW5YSzJPRmM?oc=5">PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation - The Hacker News</a></td>
-    <td>Sat, 30 May 2026 06:41:00 </td>
-    <td>The Hacker News</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBvbFJIY0Y3TnJwX1JUNHplWC1pSU5jbnpLS1hOZWczcDRReUtuWmNZWmdqV1B3T2toN1NydjctMFFsb1YxZElrRTM2MXl3TzZnWVJVRXZpRDJKUl9aQVh5aVpMVFZXLXpFVElicU1NWVBydHVr?oc=5">PAN-OS GlobalProtect Authentication Bypass Flaw Under Active Exploitation - cyberpress.org</a></td>
-    <td>Sat, 30 May 2026 07:44:54 </td>
-    <td>cyberpress.org</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBBUVM5YjR2S1dKdWt0dlF5eUJPTnlJcUtEY2QyS21HeWI2OEM5bjdtZmwyZWhMbFkxWXhYdVBKa2RDZjVfc3paNDQwQnRGdlREX0NkTHRsdHJYR1UyblJKNEVaRUdZU2I3elFScktKT1htQTVWLTVKZTZoSQ?oc=5">Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit - The Hacker News</a></td>
-    <td>Fri, 29 May 2026 14:39:00 </td>
-    <td>The Hacker News</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBma0FfVk82QXFOZjNZUHZtR3BUMmVHRzRWb19RUUtxVldjN3hzRFp3cU1XcGNySHNDY2Q5STJzYTVJY0p2MjVTcEZ5OWpYTnExc29ubXp2WVpoQXFybkFNMkp0MDQwb2tHVVcwTw?oc=5">Endor Patches | CVE-2026-32320, Ella Core: AMF DoS via malformed PathSwitchRequest with empty NR security capability bitstrings in github.com/ellanetworks/core - Endor Labs</a></td>
-    <td>Fri, 29 May 2026 20:15:12 </td>
-    <td>Endor Labs</td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRX25UU1VXWGpCOTFiU1dTZnQ5RkliS1RONlQ1M19SRWZUV0tQTEpTaGtRbEN4eXMweGhYOHo3UkNUbDdMQTZMTEhHQ014N3doOGNrMUFaWjhkdlhUXzk0R1FNMA?oc=5">CVE-2026-4448 - Endor Labs</a></td>
-    <td>Fri, 29 May 2026 14:45:44 </td>
-    <td>Endor Labs</td>
-    <td>Medium</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDllY0h5T0lRTloxQ1NlRlE0VWJlSnVOcHQ0cEs1ME5fUF9kMzBUVDlDNXVMMnpMeDVfaXREFER29lY2lVd05hMXJXVFo4NC1TWnNZUFl6azRFeWVxcTBwOF92YkhDd0RtbzA2RFh1X2tEdmpoWi1pMUM5WEFpNVJIb0NvV1VkV0FxOGx0Q3hUYS1xbGNkbnJBaU5EeFllb21DV19VSGl3?oc=5">Imperva Customers Protected Against CVE-2026-45247 in Mirasvit Full Page Cache Warmer for Magento - Security Boulevard</a></td>
-    <td>Sat, 30 May 2026 01:31:29 </td>
-    <td>Security Boulevard</td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE15bFRGZjkzREMzNW85ZEo1b1BPOVQtdDRZeHczUTFaVlJZVW40NGRWOVVNVVozLWJEQUFxSmlDb0RYUVRVTlJCMjhIXzZpcF9aRFpGM2Y4TFNhTnFIY0xUWHVJdkZyMk5lOHRDUXkyODBvbnRieTExN0hYOWhQVGc?oc=5">A security researcher who posted about a zero-day vulnerability in Windows claims he was 'banned from GitHub in retaliation from Microsoft.' - GIGAZINE</a></td>
-    <td>Fri, 29 May 2026 11:00:00 </td>
-    <td>GIGAZINE</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQcm8xR0tnWWdqalM3aTVsT2FSaVN2U0RxeVdaQk5EMTFGRGh6RWlhaUo3NnRURGN1QUJya2NOYjdFeG4yYldZVWwtNFY1SnQwQUo5T2FZQ3N6UFhrMUlvRk9pTEx3MkllNXFZbU1sRkNyUGlVRUhkZXdGMllDUDlUSlhudTdPMktTMUpua3I5MnR5UlpBUFJCZ2hjdWtUYkk5dlg0MWtsTzNDYTI2Qkc2R2pILThVVmh1a0c0UG5JRjBQOVMxRHlJ?oc=5">Trend Micro users beware - dangerous Apex One zero-day exploited in the wild - MSN</a></td>
-    <td>Fri, 29 May 2026 15:59:36 </td>
-    <td>MSN</td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDllY0h5T0lRTloxQ1NlRlE0VWJlSnVOcHQ0cEs1ME5fUF9kMzBUVDlDNXVMMnpMeDVfaXREFER29lY2lVd05hMXJXVFo4NC1TWnNZUFl6azRFeWVxcTBwOF92YkhDd0RtbzA2RFh1X2tEdmpoWi1pMUM5WEFpNVJIb0NvV1VkV0FxOGx0Q3hUYS1xbGNkbnJBaU5EeFllb21DV19VSGl3?oc=5">Windows BitLocker exploit sparks messy feud between Microsoft and the researcher who exposed it - TechSpot</a></td>
-    <td>Fri, 29 May 2026 14:46:00 </td>
-    <td>TechSpot</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOaldVeWQ0UlJ3VkpxaG9QR1NITUJUbk11NVo5WjhLcUhuVUhOaVhZc1g3R0dMWnA0eDAzOU43anJkdElxblJjOG1jZFlseVotNHAxOXh3QlZTTEdIX2tlN2pXT1VSNVpVbFBtQ1JJM2tFNnNiYmxfaHlLZHlVXzcxZHNKNHJ6dHpmdUI2RkNYUWg5aVVN?oc=5">Warning: Multiple Vulnerabilities in Oracle Products, Patch Immediately! - Centre for Cybersecurity Belgium</a></td>
-    <td>Fri, 29 May 2026 14:55:57 </td>
-    <td>Centre for Cybersecurity Belgium</td>
-    <td>High</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUUtT3RJSzNueHlnZlR5dXg1ZEZtNFdiSmYxOEl0S3ZQTFB6aF9ZZ0FsZjZxekpuTndVVHVqTUQ4Y19yNVVPODRBWlIyazcwWDVSRkp1STRUZFZaZFM4YjhtTXdpcWFKVVRDQXUtRk9nS3NEbEhMVS01YWE0elpjeTc4aHc?oc=5">Automated Exploitation: Synack AI Slashes Vulnerability Windows - AI CERTs</a></td>
-    <td>Fri, 29 May 2026 08:41:17 </td>
-    <td>AI CERTs</td>
-    <td>Medium</td>
-  </tr>
+<tr>
+<th>Title</th>
+<th>Publish Date</th>
+<th>Source</th>
+<th>Severity</th>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzZDWGRLRUpyWFNaV2xJZG02ZnR6WlYxNXlwQnNGM0M5SWROWUZGWDlkV19uWVBUSnFjY3pJNTM0WVdkd0FrMXZnSDZPRENVazk5czlSaWw2bGVxcnpDOWI4MTd1Zm4tMUZNb2xKdEJMOHM5QnVfSEZoNmowak4yQmU3UEFaOEU4NUEyM1FFZUpZUU03Qmk4Wkh1ZTlnVjhlQVF1ZVBNT1lTVVZzY01pQldMb1c0WlFu0gG-AUFVX3lxTE04ZHBWaEhCUldkQVA2aVMwVWEwT0dtQVVOS2VNU0hYam1XYV81cnJzbGk4blhlY0hpNjJFby1EakYtQlBkWklYZVVqa2t6LTZ1bXNuNTc3M0FvR0puelhhdWhocGt2TXNqNDZwcGx1d3lhNmdndzFtWmtyQmpjU1dGVUpqS19OZm1DRURXMk1CRmxMNnBYU2dFYU5sYk5HdUhhT2U1bEpuSlZhRVVfMHJ6Ml9RUFRlOFVPOWNkYWc?oc=5">Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks - BleepingComputer</a></td>
+<td>Sat, 30 May 2026 18:02:51 </td>
+<td>BleepingComputer</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUk9kbnk1LTRyMi1vS1d2LU55TkFjUWE4WERjcUJmR0ZMV2dDcU4wQ3J2WUdSSEVaYjB3SW5nS2tneXlIQTdBQ0FGUE5ab3hMRFl4aGk2OGtGRVNZWEhqMVM2S0h0LTk4Yk1XVGxrdTZtZDFCM1FMM25uOEtYM09zaDdtOUV2dnNSZzV4MFZqVjJHVWVOWFctdmRGODFYd21ZWWxxMVJPRVNsZE5NM0h2SmVoXzFSZmxoSHFVX2h5S2tCX0p2bG53Rg?oc=5">Palo Alto Networks stock (US6974351057): Security flaw CVE-2026-0257 puts focus on PAN-OS and Prisma - AD HOC NEWS</a></td>
+<td>Sat, 30 May 2026 17:09:57 </td>
+<td>AD HOC NEWS</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5FbHBsYkd5cjZFZzk3LWhUS21TN2ZmVlYwWVdLTTJKWU50NWZyYURHM0JxQmRLZlFqc2p0RVVOcC1SMEhOUWVtcmgyelFHa0d0WmpROXVxUTk4aC1taE9JSnpOaW05UzZ2aFpuWWxn0gG4AkFVX3lxTFBxUldBbXMwNDlpWF9MbVFkXzBGcE1Od3o1eG12Zkh6aW9aNlktcFRocmllbkM5UDItSFF3YWFhcThsY0lNVW1UbTN1RV9WVDdEVlBHNU1ibGdpYTcxOGVpR2hvcjJBX0M1Ym9aWWlKeFM2TXAzMmEyYmJDMG1YSDFWSTVJbVo0VXljSUduYUczNnZSeHB2X19rUDA1aE9YMFZNZzJjN3RvWklfelAtSFhVcmpzZUUtUWozNFFiQWRZTjV4M0E1UHZILVlLMnF3UGY0WENYc1lFZVlleXBOam9qVFNpVS01NUJQbUFNcEl5MzYzNmw4YW9HRTVrNWdxTHBFaTl4ZHZxa3FaU3htdVg5VUxiMEdCZGgtN3VuVEtjQXVlOTNvSXEtMExka1RxZGdUNmZfSTZVTQ?oc=5">Microsoft Releases KB5089573 for Windows 11 to Fix Patch Tuesday Install Issues - CyberSecurityNews</a></td>
+<td>Sun, 31 May 2026 02:22:11 </td>
+<td>CyberSecurityNews</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSzJpeEtTY056dnkwQTBYTXZZMEtGNUJFWWhNSjNtM2FkWllCeHlMbmxPUnhoLS1jM3VzUm84UGloZ2dTMy1KYWxKRWRnTV9sOFdOazB5blhhVkdfVEZmUDhVQkdUdDdLczF2TUVJQ0NtdmpmcG5Kd3RVSldfME5YVHZ2R1BIYmEyMWw3cU1RdlItdnBCczcwX3lCRzlhYmt1aXZJdTFBSGtDNlk3V2ZQSnd1VzJZaGtaRlpJQjlPWTZJeDJjLXhCVGZodUd2ZHQzMllnbmtB?oc=5">Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw - Help Net Security</a></td>
+<td>Sun, 31 May 2026 08:00:26 </td>
+<td>Help Net Security</td>
+<td>Critical</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPODRxQTZMTW5nSkJMVTBHVWZGLWJuSGNONUdwZEtaLUFzRnlhcHc4b3pKa09RdnRHRk9lUjRTRUhNakpnR0hRWmJZLS1tbG16UV9rdk9sTDV6TFE?oc=5">CISA Orders Emergency Drupal Patch | Microsoft Server Bug | Google Fights Canada Surveillance Bill Al-thani Jd Vance Meeting (sLwydb7Z6D) - Mshale</a></td>
+<td>Sun, 31 May 2026 03:14:17 </td>
+<td>Mshale</td>
+<td>Low</td>
+</tr>
+<tr>
+<td><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjJQRERuOUIxamEyejd4eUR6MHIzMjV5c1dRUGpRcWZFVmllYXZJaVdSYUJyNTJGbXpHUDdsWHpyNUxqenlGbEsyWTgxY2F5Qmg4Zl9WRnYyNE40UFJ6S3FhR29EQnFLQmRqSGtJX3FwcmFKRWpyRkp6NDY0dlhJWmhKSVRhMHZGM2NmTFdjLUFNY2IxTnZYZi1tWnl3YWpuQUZMZW5DbFo0cm1tWkdtUWFOV0xMMjhXRExN0gHDAUFVX3lxTFBia1dEZXBPLVFacG1aNi1SUWJHUzNzb2NOR2M0Xy1pTHFDWHNYYm1tSWZWTHZfM1RJVHRFMUFlMWhrb0paM3A4R2tMRXhSc0tHUWNsX2lHSWZJNFRmQ0R3SkJkcm9YLTB3TTB6a3ZJWnFBSnRjLWFJV3JFNV9UWU9zQnhyRVlBWTZDOXlKZVVqQkV2UkdDc3VHUjYtTGcwRVRuenl6WjVPM3U1Vk9Gc0V5VEotZlh1WVFsZll4WkpfbHFzOA?oc=5">GitHub And GitLab Bans Fail To Slow Nightmare-Eclipse, July 14 Warning Escalates - Qoo Media</a></td>
+<td>Sat, 30 May 2026 09:26:00 </td>
+<td>Qoo Media</td>
+<td>Critical</td>
+</tr>
+</table>
