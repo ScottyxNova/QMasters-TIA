@@ -1,93 +1,109 @@
 <table>
   <tr>
     <th>Title</th>
-    <th>Source</th>
     <th>PubDate</th>
+    <th>Source</th>
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVUtY0hwZFU5dmlZNnpjZVpodlVickwtUUVWOTBfb3QtMk5aNi1wdFNBVng0UllFZUs0OE4zeGV0b0NnUDB3Vk9uTzh3eUZocXBwN3NRTmdWYTJRdVgyRHd5cTJ6bEM0NExZWnpDZloyRnBMVEpzaWFtRDB6Qk1lc0h3ajdmZU5NSlk2aUJRQ3VoZFpj">Google fixes actively exploited Android vulnerability (CVE-2025-48595) - Help Net Security</a></td>
-    <td>Help Net Security</td>
-    <td>Tue, 02 Jun 2026 12:17:26 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3pLbXk1T0JZMkJDV2IxR2M5ajIzRnl2blA2Y01MRkhJY0ZiNE11aXlMaFE2NTgzOTJsc0VMVUFYOGZZWUxHdnNwa1U2enY0UkFMOHFWVkFjSXNhNmJ6MUdjQTI0SnVBMEkxaXhfdTdaUEoybEpBdWxwVW5ydmV0WWc4enZGRmtCbzAtUU9VZWh5a1hsa0xORElyLTBNS0gzOVRPZWhJVHZrLU9FZGxwNDgzbUJTSDdWaFZwa0Vhenc3cXJNMWNVRTA0eUxJNGwwQzBIbERpYi1oY05z">Active Exploitation Alert: Palo Alto Networks PAN-OS GlobalProtect Authentication Bypass Vulnerability (CVE-2026-0257) - Rescana</a></td>
-    <td>Rescana</td>
-    <td>Tue, 02 Jun 2026 11:53:03 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmZLZVZwMzlVWmRfQ1lxQ2dvVXBaYy0xUWVDQ2w3M2hUUUVPWDltZ2YtRTQ3bXlPYnNVQUFHZ0hkSTJObmE0YXpWRUROaDZ6NmZrYWZEMUtIMTB4R2w4SEEyTmFlZFVCQU5KeW5qRUU4TEJZdnYwdlprOFdZX3JRNEdMcTQ">Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation - The Hacker News</a></td>
+    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlBlUVhIcFlkWTlJQ2ZGbEFoWmNweG5mbWROLVdJaXVNWEVDZmhXWEtuQ2NXQlB5R3BaT0liaFF5eVhxenRaRnFhdmgwaXh3UlRrRnUydkxPQTgxV1hqVUptMUM3T25JTGxHNHdJNU9ER0VLdlVrQXF0Mk91Um9UQg?oc=5">CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog - The Hacker News</a></td>
+    <td>Thu, 04 Jun 2026 07:19:00 </td>
     <td>The Hacker News</td>
-    <td>Tue, 02 Jun 2026 18:14:00 </td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOek1WdWRUZF9TQnhoTUFvT1E5YkFWOUhhYUNITHFEXzRMWG1QSFdmbkdHQ012SE9kWmVySl9rc0xkWGk2RGkxTXNMZkR3XzlzZHVReFpwM2U3bGJBTk1LUVduVFpmQVVRN25uYXZMOV95aVBZNUx3N1l0aXBENnJTdno2YUx0b3VHMFJTWm55cFlLNTVrcG9nM3lTUmM2dw">Critical Windows Netlogon Bug CVE-2026-41089 Now Exploited in the Wild - Windows Report</a></td>
+    <td><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBkWm02eXRJQUd2cmlMZG5KN2FKNlVBeTlPNzFCVmMwM2V3QnVra3Q4clJFVlhoMS04UGtzNzlsaXVOX25YaW1QdThMdHFRVTRlLUppZ0dZTlpFOUdiTmltSmQ1S0hHYVZWRkJ4TlAzYmJrVkIyVWc?oc=5">CVE-2025-48595: June 2026 Android Security Update Fixes Framework Zero-Day - SOCRadar® Cyber Intelligence Inc.</a></td>
+    <td>Wed, 03 Jun 2026 11:38:18 </td>
+    <td>SOCRadar® Cyber Intelligence Inc.</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmJvTXJ6R1ZZVmNmeFN6MmNqUVItUjVyM1RlVUJoMFBpUmJRSzJDMXl3bVhkel9zMmlwcEE3WmZvUkh4VVd6LVprYzZjQnRmUlkyOVJnM0FLYlVNNWlyRGE2bng0MXBNM2VISnJGcTFLSFZud1hGNjYyUVVWN0tOQ0JUZ28?oc=5">Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479) - The Hacker News</a></td>
+    <td>Wed, 03 Jun 2026 13:47:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1JXLWdWLUNlaEVUMWpaMFEwMnM1TGlWUU1KZVVVM1hDS3ZZcDBJX2pnQklIMDNzdEVNc09mYlJidzdqbEpZa25RNVR5dHBlM3o2NDBzeTFDQlpmbkJqekdGb1JRUG5SSTllUjRlRHpMXzlvN2YzazZLNlpFcDlPX3FSR0N2TU9BcEhtNFZqdzdqNkZQWWMyUFBsX0FISFpBQzEtYldqcjlXenBn?oc=5">Windows Netlogon CVE-2026-41089 exploited: Priority patch needed - Notebookcheck</a></td>
+    <td>Wed, 03 Jun 2026 09:01:00 </td>
+    <td>Notebookcheck</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5lcmxNUmpFVElIWTRHNVR2V2tnbVU2Q255ZGFCaWhBcDVkSTRjX3VhNG5GdkRhVW9fWHlWRkRIbGVocnpTU2ViWE1rOHZxU0wwSzlUQ0tQTDdXbDZtUF9mejdkY3Ytemt1UXRRekpR0gFzQVVfeXFMUDZTc2FOT3BxeFdab1FZcDA5ei04NlR2SThtYXJTc2paQnI5Z3NTSlc3MWxzcnZ4am9zTV80SGFmYTd4a3VjSmNMVU5NalpUVEtsRjVGZ2ItdFVFQk4tb1BVSFhQYjlIdXh2eW81aTY0OUhEUQ?oc=5">CVE-2025-48595 Fixed in Android June 2026 Security Update - The Cyber Express</a></td>
+    <td>Wed, 03 Jun 2026 13:49:21 </td>
+    <td>The Cyber Express</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPVjVNczRJdVljcFR0RWRKWFlJSnRXamYtR2E1T3NZZ3FFcklvMGxHbWhpYzI1NkZ6TWw1M3N6VnUwR0NtVGh3bGhNNXplcG9lOS13R19hYTRYY21Kc3FPRlQ5YlJDd210T25SNldxM0xhb3RKSXd1MmJQMFZLTHlKaWF2aGUtX0o0UFNFNHVXN2lyTzhjTkpvSE52dFRWZndLeG16b09rQUM5UWJfMFJWR0ZVZmtLblQ0WHZlVURfOA?oc=5">India's CERT-In warns Microsoft Office CVE-2026-45659 could allow data theft - NewsBytes</a></td>
+    <td>Wed, 03 Jun 2026 09:03:16 </td>
+    <td>NewsBytes</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORF96MlVBLTZoNmdCV1pMQmRYTU5wZlhhUFEwT2dULVQ5MzBtUmhIODkxSDUwRF9YLUVTQmoyMXdCWmYwbTd3TEZpTzMyNjNnbEctSWJDRQ?oc=5">Node.js Compression Library Vulnerable Again After CVE-2026-24884 Bypass - cyberpress.org</a></td>
+    <td>Wed, 03 Jun 2026 13:20:47 </td>
+    <td>cyberpress.org</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQbVg3M0Jsd2pETkF3VE5nVlhFVm4tUGM3QzQzWGdKSUVHSzFQWVpVYm9WN2dtV1BORnlWMnRNdWJWUlBuVFl1aXhTSDQ1eXNPS284QVkwNVcyY29QdXI1cS1sWmh3RVBXc0JjekM3SGtJSTNiV3Z6cHZTS0tZaGxmMmF2Y0IyQTNhVG9UZXdERUJGeTN2QVhfVkZNcWZIZw?oc=5">New VS Code Zero-Day Lets Attackers Access Private GitHub Repositories - Windows Report</a></td>
+    <td>Wed, 03 Jun 2026 09:34:48 </td>
     <td>Windows Report</td>
-    <td>Tue, 02 Jun 2026 10:26:58 </td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPZkc4U05ELXhkeXE2YmJ6RktzS0x5YVU5MDVMVVFBU3NxWUJGYjBkYUhZZXZ1SXJjQTlyQmNYODZUYndCWHgyWWViWi1yTTFJZE54VTJXMzZNeXF4SnMxSnRyaVZZMUUxLUVXUE1WVTE3RFQ2a2NQdnpOZ0ZoRFlFc0tER0RvUklmZ3Z6OHdIWDhUakhvQ3VlM2VMREE2Wm1JcTNUbzlnQXo0emJGaWJ4enpzVdIBuAFBVV95cUxOdzIxc0g0b2ZKSGFVWEw0ZENPQm9fOE1lTG9SeU52RnZmZEN6VHZMSHRRb1d4N2JPTG9TQ3JNMTlBQWRkRXNjdHF4dHJkdGlRRXhrNXVlQTBpd2U0Q2dXV29SZ1BydkMtdlFCWDN3UzhHako5eEZXNzhBVG1OZmJubEtUQXc5REhyTnlBckJUSVhROXQ4WWg3ckQ5a1YxSDk5Y3g1RjB2VlgzRWRkYzkzTnZram1rdXpl">CISA flags two-year-old Oracle flaw as actively exploited in attacks - BleepingComputer</a></td>
-    <td>BleepingComputer</td>
-    <td>Tue, 02 Jun 2026 12:40:33 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlgtNEJhcEVqU3BpdEJ2VTJLVjdhWkE3Tm1KYWtCNVRxRXhBcTh3VnpJeGY3aVh1dkthNFVPbE5NSFNkbnAyNUZCQ2lOYW03YW41ajNSQWFRY05ycGYxVW8wbjdWcTJTeUhkS1N0M1liSmhUdWNLeU01S0VjRjFCVnQtUHZlSzQ">Oracle's first monthly patch release fixes 35 vulnerabilities - SecNews.gr</a></td>
-    <td>SecNews.gr</td>
-    <td>Tue, 02 Jun 2026 09:55:00 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPQVNJZDYtVmdwd3hONjJhTXk0TTJrY0VfenZwRVVPa2xTVGsyMjItZUFqcXplbjd4MXRqR09LWkZvOVhKMUNqbHpVaEJPRm02cm5VeU5pckRVR1VKR2IxdWdUd0RSbVVneU5SR3RnMUY3WVZEOVpEV3hLMnlrbTRRQUFMbEJGYUYyaEd0aFZn0gGOAUFVX3lxTE9BU0lkNi1WZ3B3eE42MmFNeTRNMmtjRV96dnBFVU9rbFNUazIyMi1lQWpxemVuN3gxdGpHT0taRm85WEoxQ2pselVoQk9GbTZyblV5TmlyRFVHVUpHYjF1Z1R3RFJtVWd5TlJHdGcxRjdZVkQ5WkRXeEsyeWttNFFBQUxsQkZhRjJoR3RoVmc">Oracle WebLogic Vulnerability Exploited in the Wild - SecurityWeek</a></td>
-    <td>SecurityWeek</td>
-    <td>Tue, 02 Jun 2026 11:46:51 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTFB6U0M4SGVPN3VPQm53TEhMV190SVV4QXlVWElUeTZ6NFZsU2FuSWwtU3oxWU5Lb2F0VXhLV3FYMF9kTlNXRElXaFhUdGl1b08waTcyZFBYX1ZEVVZrdTFEa3pEaGNpTy1TVG16SjFEMGszUGIxUy01a0Vadw">CISA Issues Alert on Oracle WebLogic Server Flaw Under Active Exploitation - gbhackers.com</a></td>
+    <td><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFB4MElQeUxHYXN3VHk2T0RNaWVxR1VPSFdrajZTN3BjQlhEeWY3bnUxRFlndmRSSnhzdU5wUGxHQnhieTJ3Qkl1bmFDQ2JXUkhtZDNHNkEwNzZfOGQ1R1ozbTJfcXF4dmlkZkx2WXFHOG4?oc=5">Windows Search URI Handler Vulnerability Exposes NTLMv2 Hashes to Remote Attackers - gbhackers.com</a></td>
+    <td>Wed, 03 Jun 2026 09:59:13 </td>
     <td>gbhackers.com</td>
-    <td>Tue, 02 Jun 2026 08:39:45 </td>
-    <td>Critical</td>
+    <td>High</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzMyMGVBazMzbkZGd0pHcmF1ZnF3dnBTZkR1M1ZpUk5UQ2t6TWJUdlBSWmpnRmt3ZUFrR3c1RHpBMDdHc04zejFrNGZiVHVlQXV2TTB2c0RpcUc0RUdrX0NRT0JyNGRoLXpCVDRNaVh3RDlGc3FXcURyaTVyc3RNVnRLRVdRQ0t2aUpqR3VyMU8wZHJuUkZveDBURzJUWEcyXzVLeTY5d1o">CISA orders agencies to patch critical Oracle WebLogic Server vulnerability - SC Media</a></td>
-    <td>SC Media</td>
-    <td>Tue, 02 Jun 2026 21:45:27 </td>
-    <td>Critical</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNSktDcjlHSGh6aUxiSS1BYnVHMnJPN3UzMDNnWUV6cTZRd21lQzZNYnF0NnRzQlpoRk5RYVdIVmdSRl8zUktxNDU5dUZCQm1KaXZ6X3dZeDU0dVptbnVjRHFsUkVVWW5ET1c2d1E1WTl1MGRSOXhZX21yQk1EWThldg">Critical RCE Windows Netlogon flaw: Patch immediately - SecNews.gr</a></td>
+    <td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFpsZzJSLV9qMUJBWVNVMVN4SXgtd2RmdUlJUmpwRHJpWm1MNWEyNWxmUUNUbmUzQVZ0bHVNeTFLRlBhQ3VRUkRzZmcxcF9VOWVfVjRDUndmQlNvSHB0YTBoZ1RLQlNlTm1YYVBSbWlTQ1FBeTFlbmRzdVRVOEt3QnlB?oc=5">Windows Search URI: New vulnerability steals NTLMv2 hashes without patch - SecNews.gr</a></td>
+    <td>Wed, 03 Jun 2026 12:10:28 </td>
     <td>SecNews.gr</td>
-    <td>Tue, 02 Jun 2026 10:43:00 </td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxObUZQM21ZZ092aXFNazBGc0RraExjRFlFdF9DOXAtMnhLTUhMdkVNY2lvaW50bTdtRG5GUUNldEY0SmZLSlNuQTJ5ZWZ5YjNTdWlRRHA3UTBTMXVlU2VUUGgzMmEzZ3c1YndUQnFhVWo3c1gtbWMtMUxmSWpBUzRIYXRWd1M4MmdadGp6NDhkNzFZb1JMd1h4a0VPdGtHam02RG1HbGYtSXZnNXZQd3dBblAwekdURGoxY1J2X3ZVNEczUUdxMi1veGYtS2s0c1BlYzRJX0hmbw?oc=5">Critical Windows Netlogon Vulnerability Under Active Exploitation Raises Enterprise Security Concerns - Security Boulevard</a></td>
+    <td>Thu, 04 Jun 2026 04:07:35 </td>
+    <td>Security Boulevard</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSXVnVjFzODd2MXFPcHNWVXhaSjRZemtZSEdGUGxMNjYwMXR6b2k5U3RvS3lKektKRFZkSDNzN2tGcGlvZ2NxN3IyNURMVTl0bzQ0cmVFT0pvLWhleFVLSVRnenB0MkR0OWRBeWVHN1VoakR2Z2FRQm1qRnJzVGw4UDNiVi1UckdmbHpJaXBHVkVWSDV6T2lQRFFhaFk2VUtGSWRnejhtYmtrSVZtc092X0xiazFRVFpEa0kxbG9jWXRmc3N2d1Azb0tHR3BZSUZYaVlPcjMyNmczRUZjX3BERmtSRQ">Active Exploitation Alert: Microsoft Windows and Defender Zero-Day Vulnerabilities Trigger Global Backlash Amid Legal Threats to Security Researchers - Rescana</a></td>
-    <td>Rescana</td>
-    <td>Tue, 02 Jun 2026 11:53:03 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT19qZFBYOEEwYUVaZGFMbENUdUN2VTg1T2JqeTZnNC1FbmR2aHNsSHRpQTAweFBmX2FzakdBNXdTNWdBZGdCVHZYeDlJNEVBZjR2UXhiX3dhVTZSUC1yaS1DY0NqSk5Uc0JjMmV1dU1wdWZ0WU5HWk83NC1iaWZvQUZORGJhQXdWWlZvUWhEYmlHVFlSSFRVRmtJdnZiVXlkSVFBQnFwVVdLUEE?oc=5">CISA adds Android and Linux kernel flaws to exploited vulnerabilities catalog - SC Media</a></td>
+    <td>Wed, 03 Jun 2026 21:44:21 </td>
+    <td>SC Media</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlM5cWhhZ3B1QWE5VEVvSXV6YldEMi1aM2hKYmxXWGx6QW9TcnBQWEhWdmhjcVBLekVobWpOR0xvZk5qSkNJVEItckFISFVUd2pfaVZFRDBsQnQxSW9GMXJnbEJxRDNhUEpaejk4RF8tSTFIN2xCYlZWbFI2aTJDemI5VXFsX2tUOVZkMy04N2U?oc=5">CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited - TechRepublic</a></td>
+    <td>Wed, 03 Jun 2026 16:22:18 </td>
+    <td>TechRepublic</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xRFZJSVo3alJXc2JHU2hCbzVTWm55d2NwUWxxTzlIQUo1eGFtWUZtV2swNVlmNXV3U0diN1NUN2pwQTdkMlBUMU8ydEhwRk1BOGdmek10eEpDSnlQeXVPQTJhZw?oc=5">HTTP/2 Bomb Remote DoS Exploit Impacts nginx, Apache, IIS, Envoy, and Cloudflare Pingora - gbhackers.com</a></td>
+    <td>Wed, 03 Jun 2026 09:59:13 </td>
+    <td>gbhackers.com</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXhGdHFfMGtZSnJyM3NRWVJJQWRsN1FhNGRBdWR0a3A4X0NnVGZsaHVQNl9aaGNkLXk4c2lnUUhXTnRxbXhxWFh0NFdVZUVKYjREM25iTjRfSmZqc0hNT2JKcC1QdV83eVdCQVhtN0YtMW1Vcy1qTDZsY3lrOVJaZA?oc=5">Apple’s 2026 Security Events: iPhone Exploits, Zero-Days Put Millions at Risk - TechRepublic</a></td>
+    <td>Wed, 03 Jun 2026 20:11:19 </td>
+    <td>TechRepublic</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmpnWVY3TGEzT29FZ0ZYX0oya0thMXhHek5pTEdRMVBfT09mTGV0V3lhYVN3RlF1RFI2TU1BdUpUVWtxRHZUWXo4dWhBbWtFMHZTY1lmRTRhY0NUeHhWVHZGb21HaXhNOFdXZ3pTbWlDQlVoMlI2WVE1X0xsU25pQVByOW85cnd3M0lHRVpFSU9CQWJZSVFMdUw4c2tEMXdvUkpjUUxTMzQydW83VzdHZ3B5dFFPcmFTcmpsM3pmX3BuNi12MzAzc3BPcTFBX19BUWlTM2RMTQ">Microsoft bans security researcher after Windows 11 BitLocker zero-day exploit release - MSN</a></td>
-    <td>MSN</td>
-    <td>Wed, 03 Jun 2026 03:06:40 </td>
-    <td>Critical</td>
+    <td><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE82TFN1anQtT1VDVlhsS211SGdJeUxvYnhzWGh3enJBc2dONDB4MWFoMi1NbTdWOVpnQmNMM0xCM0RzQlVQeTlkXy1QWHFrdE9ickl3Z0taWWwzSmJUdjVHOHFTNVBTWFJULXFTRnZ3?oc=5">Hackers Exploit Google Gemini Flaw Using Malicious Messages from WhatsApp, Slack, and SMS - gbhackers.com</a></td>
+    <td>Thu, 04 Jun 2026 05:14:53 </td>
+    <td>gbhackers.com</td>
+    <td>Medium</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPYUpJM3VXSWRIRnBjcXc0REFUY0IwLS1RdVhwdHVpWE41OEtfclFvWV9MSExxZ3BZdF Zac3I4RHA4ZzJDS2t2M2xXanBzSmUwbGtIUHpZc3NjTjNFYnhrUVYyQWgySENIekN6SFBTWTFKT2RKZFRKYngtNTZXNkw2OFQ4clhuYy1EckpPeXF1bHRNUHU3NFFj">May 2026 Updates to EBS Critical Patch Update Checker (ECPUC) - Oracle Blogs</a></td>
-    <td>Oracle Blogs</td>
-    <td>Tue, 02 Jun 2026 15:49:10 </td>
-    <td>Low</td>
+    <td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWtCSks4WGRDbG8xVWp2NVFCS0pUWU8tZWE3LWhQdU5LeGh1cFlQb1JiSnVQeDludWdQVnUTES0t0ejUxYnF1LXFOZ2JqdEx5aVhwd0pUX01lU2dqdHR3d200eVNrX2hjRVpVdHN4MldvdEJuUnhVZkxwVXN3aXdBNG4yUDZRaDZWVzA3UENVUGFPanhfTElCcFRn?oc=5">Kirki Bug Exploit Risks WordPress Admin Account Takeover - RS Web Solutions</a></td>
+    <td>Wed, 03 Jun 2026 18:00:00 </td>
+    <td>RS Web Solutions</td>
+    <td>High</td>
   </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNLVdBSEtQazZ2SEZkT0pBbmYyak00RHhTRkpUMWFmZmZsM3FETndnR0dBZllSUXV1RHg4SmZjOFFuV2ttM01xY29YdUZCQzBEUjNCUWxYVTBGbzJUbzJhc0ZMZC1faExWUUMtbkxHM2Z5RlBwWXc3UzVodE1iQkRtbGpmTVJXaF9laHhKRnNRLVhKbUdxVzZRLUZacTZiZkk">May 2026 Updates to EBS Java Critical Patch Update Checker (EJCPUC) - Oracle Blogs</a></td>
-    <td>Oracle Blogs</td>
-    <td>Tue, 02 Jun 2026 15:47:18 </td>
-    <td>Low</td>
-  </tr>
-  <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmpnWVY3TGEzT29FZ0ZYX0oya0thMXhHek5pTEdRMVBfT09mTGV0V3lhYVN3RlF1RFI2TU1BdUpUVWtxRHZUWXo4dWhBbWtFMHZTY1lmRTRhY0NUeHhWVHZGb21HaXhNOFdXZ3pTbWlDQlVoMlI2WVE1X0xsU25pQVByOW85cnd3M0lHRVpFSU9CQWJZSVFMdUw4c2tEMXdvUkpjUUxTMzQydW83VzdHZ3B5dFFPcmFTcmpsM3pmX3BuNi12MzAzc3BPcTFBX19BUWlTM2RMTQ">Anonymous
