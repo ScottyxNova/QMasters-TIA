@@ -1,50 +1,86 @@
 <table>
   <tr>
     <th>Title</th>
-    <th>Pub Date</th>
+    <th>PubDate</th>
     <th>Source</th>
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHF4MDdwbllWMGZqd1pjMV9jOTB1SzNoTVB4NEVNTnVXYXBhenlwVXdqWHVCSTBZemR6MzJxNDAxMFFlT256Wllic3ctMzlnSFhoUnp2UEFjZW1ocHdGNElMVkQ4blYyOU50UTM4TGV2TTlmWW5iTVpzdjlyQ0plOHFOdndja1o5SlZfU2Z6VHEyR2w5bHVIS1N3">Cisco SD-WAN 7th Zero-Day 2026: CVE-2026-20245 Exploited, No Fix - abhs.in</a></td>
-    <td>Sun, 07 Jun 2026 12:47:35 </td>
-    <td>abhs.in</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbDNjVlh0QTlROW1yLWl4MjRmeHBoUWk3QVdzSHZNbDNfV1dGU2xQR01NSGh0d2VkU2IxdFNLaDF6NVBxZjVVT2hPcWJVU1NYVlZWcXI0eDRPSFRtWmNTUWFVUUNZdXlUeVQzN0pHR3JLaVFKT0pBVkpwZEFVSkR6OU1KZk9qSjFRZDBpeWNHNWdHVXB4YldEZVIzZWh3TDRPVzZKbkRaT0hmYW1tUjZzMUI1bEtlYzB3OWtoTENnc1FEQQ?oc=5">CISA: Patch actively exploited SolarWinds Serv-U DoS vulnerability (CVE-2026-28318) - Help Net Security</a></td>
+    <td>Mon, 08 Jun 2026 10:26:34 </td>
+    <td>Help Net Security</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE4zcDJubU50UV9mN2IwXzNqTEVmN2Q3NVBuZk5ueVptT3dBelJaNXhtS1RBeFNVbUZlTURzSU1ZV0lXeFNvcVlQcmVhR3JwbVF3aFFlTndQakF0azdoWW9EelhzMEJiZkhZSGlJb3VoRzJtM2RURzgw0gF3QVVfeXFMTjNwMm5tTnRRX2Y3YjBfM2pMRWY3ZDc1UG5mTm55Wm1Pd0F6Ulo1eG1LVEF4U1VtRmVNRHNJTVlXSVd4U29xWVByZWFHcnBtUXdoUWVOd1BqQXRrN2hZb0R6WHMwQmJmSFlIaUlvdWhHMm0zZFRHODA">CVE-2026-20245 Exposes Cisco SD-WAN Networks to Risk - The Cyber Express</a></td>
-    <td>Mon, 08 Jun 2026 06:51:55 </td>
-    <td>The Cyber Express</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNWXFPYVVsQmFrdVpOdXlsMUJFd1phaGp2TU1tZGkyNzNxbkZlT0VwanMzclFjTm9tQ0pBU2VmVkw5ZS1NcVZvN0pUaTJJdTA0eG45eWExYm1QdmliZTdHWjI1NTNld2RkOHZ4YktIX2dNZWxaamtQcmk2QTIxQUhBYVhB?oc=5">LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE - The Hacker News</a></td>
+    <td>Tue, 09 Jun 2026 06:26:00 </td>
+    <td>The Hacker News</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3NBUlVEOXNwelFfX0syNTVOYUZXVXo0Q0ltT01oSlRQaEMtUVprdjRCUkstOGNtbjYxVmdKempZdEVweGFkamFzenlKQzAwSldMeXNKVXVjSnJmdDMxc2M2SVF1MDc1V0tGTzFKRGlORGZGcENBSEdoaFQ2UmFpOW5JNWRzSGZWUVo0em9ZdzJUM2x0RjlTdA">CISA Flags Actively Exploited Linux Kernel Vulnerability - Orders Immediate Remediation Across Federal & Enterprise Systems - LinkedIn</a></td>
-    <td>Sun, 07 Jun 2026 16:50:52 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVp2WkttdDQ4RWd5UDlKZjBteG1MLXVfdFZqQ1hlZUZ3R3lEdjJXMVdZa0gwTkF1RmZPYjF2MHBBSUEzNDZYdXRzZ20zVVNSVU0xbTg4ZVhSMEthVzRvYWttN2VJazN0RXhEV0o5M2NmQl8tSGdJQkRFN0NERnVycGlpSDhzeVdCaHhxT2lDNXA?oc=5">Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) - Help Net Security</a></td>
+    <td>Mon, 08 Jun 2026 12:23:16 </td>
+    <td>Help Net Security</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPeDZ3VDF4X2s0M0gtOTF6YjhvcHQyMnh2TUZ5MkpqaUNtSVlOcXVkNXRyMjNNS1Z0a0lrNFZJclhJMkh0azhiQVdTMElSdTY1X0drcDBNX2xPZ3ZwVFdmbVJKNTJ2eW84ckFVZU03ME1Xa2RwWXVlZWFjelllVEZYWVBWMDJmVW0ybzZWaVozNnV3MGNhSFB6MkZfV2drU2gyZFpFWVM3Mk9ZUGRrWU55LVBmRDJRTG5SLUxLNVB3N2dCREs3SmwzMGFiYw?oc=5">Alert! Critical Check Point VPN Vulnerability Under Active Exploitation - Cyber Daily</a></td>
+    <td>Tue, 09 Jun 2026 03:05:28 </td>
+    <td>Cyber Daily</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU5JdE1CWlRyd0RaajEyN3Bud0JaWW9RSjVRQ3gwN290dFRNSWViaGx4Y2JYUng1ZS1Gejk4RG16cU01Z3ZEdFFNNFM3NTBlOWtQd0ZMSkdfZzhCRnJuR1h6NmcxX3F4R24tb3V6WlVFMkd5UVVHRnlyR2FCWGVKb190LVg?oc=5">Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups - The Hacker News</a></td>
+    <td>Mon, 08 Jun 2026 14:17:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXRTTDRnbVl3Q04wWnVyLWxzdkxOdTYxeHpWQ2JwZVY3eXBwWjVWdFF1QmNuQ1NRem5qM04zWUlNbnpQbzdYQTI1SFJQYmN1bkZZY0FFSlpWRFFBcUZKdWlIVzRMcHBORGFHSFFwenZSczlYWmswYnJIRERRS19GRWVBOVdKbXFuMmZDMVdZbzA2Z0pidE9V?oc=5">Check Point VPN Flaw Exploited Since Early May - Dark Reading</a></td>
+    <td>Mon, 08 Jun 2026 20:46:49 </td>
+    <td>Dark Reading</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhQU1FQZ2hKcVM1a0RkVW5HZDBPUjlMaWpSMEhvd3N0MGhxUmFYM3JzYVo1ZUdTejZ6MXZORWx1UjRnTVM1STNvczRlM05qc2R2SG50RjRqWjZjdWkzMHk2TXM2ZlhlelZLandscG5rUlEzdWJxUzVHLUtLQk9FRVh0bzBLbjF4NEdj?oc=5">WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation - LinkedIn</a></td>
+    <td>Mon, 08 Jun 2026 19:00:08 </td>
     <td>LinkedIn</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDQtV3BkZVAxSlBBV1hkRGFtd0dldi1Vem4zZlhVT0tVLU82SE9pS2lZWmo2TENLOFMzRDBDOUxOUEQxeUg5d1VsYWFDWUh6VnM1YWpIMTZYRVRDa3NNaUVfZWZuejFhLXNNNkQ1U0haMGZwRG5Ya3RRZnlvQkJDU1NEX3I1TGt40gGOAUFVX3lxTE4ySlUwbXpWTDJzREc1alRNSXN1N3VCVzdhUlRtb1RONHVWenJRalM0eUROajdTUXNMcXA4dmlCUVBaTFR5dXprLS1wbF94S3BZM0NTeUpNeFoyQUVyUENSOWJ6ZVVtOFNOMDJsV0ZySU5XNDFRb1NmdHFxT2tZMFhLN1RKeV92UlhqdUs4aGc">CISA Warns of Linux Kernel Improper Authentication Vulnerability Exploited in Attacks - CyberSecurityNews</a></td>
-    <td>Mon, 08 Jun 2026 05:46:29 </td>
+    <td><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVp2WkttdDQ4RWd5UDlKZjBteG1MLXVfdFZqQ1hlZUZ3R3lEdjJXMVdZa0gwTkF1RmZPYjF2MHBBSUEzNDZYdXRzZ20zVVNSVU0xbTg4ZVhSMEthVzRvYWttN2VJazN0RXhEV0o5M2NmQl8tSGdJQkRFN0NERnVycGlpSDhzeVdCaHhxT2lDNXA?oc=5">Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) - Help Net Security</a></td>
+    <td>Mon, 08 Jun 2026 12:23:16 </td>
+    <td>Help Net Security</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPU21Yb0xkRkRxbE1Wc2xZOW1IYWdoSEF6ZGRXbFNCREMtS1liRWliRHQzN2lEWWZDRHZmM25jcF8yTmJEQWQ5ZU9JM0NDLXZ3X2Vucnk3bWJxQjYxcnBsVk9pTHZ1Q3czaXpnQkk0Skg3NjdJX2hobWE5bHFQUFJGWEw2N1hSOFBRN0RxZXJKY25LNFV2TnhBb3V3Ym9pMUhtenAwWDRaUXFzSU9Eb2xactIBtgFBVV95cUxPbWdaYUZZSnVZSUhNX25KSUFOYV9fTzJVQ2QtMDRFSFVqMTVvZzMwOUR3Sldmem1USkVuSFMzZ284c0dhZ29JSm5oeFgydkY5eUpvOW5XaFdReWxLUm0zZnhLTW9udTFnMUtPMUNObEJXT2lfRUltdjlJRGhsVUFzZTYzLVpqTlhPMkotbzBuMWRQS2kyOXFmdGsxTUFnT0ZJMnIzSFdvZ18xbi1yM2pucXhuSHpaUQ?oc=5">Check Point links VPN zero-day attacks to Qilin ransomware gang - BleepingComputer</a></td>
+    <td>Mon, 08 Jun 2026 13:05:16 </td>
+    <td>BleepingComputer</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE14anY0QVFWdjhpd01GaUdhNDFLRkdYVnFENDVQVDJ5Q0k0YUwwS0lleEY1OUJGNW9vYVFTamJaUjhaREhRcTJDd2RjUWs1eHdobmZQLU82S3RJWWFzWVNWa0dmNXVQRUdYVUxXRUZfMVkyX1l50gF6QVVfeXFMTlpTQlhndnpHeUZ0SGVHQ1RGM0Qxa1pQVmxxYUFJbllZUzBtUmFUZ0VqakpNTkVNMzljcDh2TkMxMlF2TXc1RDFld1padk9QeDJFYmRVY0VBdldGY2MxdVBlSlFJdXdIMEFnQUdXajBSX0E5TWxMc1ZKa0E?oc=5">Check Point VPN 0-day Vulnerability Exploited in the Wild to Deploy Ransomware - CyberSecurityNews</a></td>
+    <td>Mon, 08 Jun 2026 17:19:24 </td>
     <td>CyberSecurityNews</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE14TjNMQkFYUTgwaml2UWkyM1JETk1FV0ZxeGVBc20wejE0NEhyWEVWRlFxbWhydXozMFp1ejQwb1gwbDlNVVFhSDRlaDZXa3p5ODhqNFdneTVNRk0">Update Windows Right Now: Zero-Days Everywhere Jack Ahcan (1Ti1TiPjcN) - Mshale</a></td>
-    <td>Sun, 07 Jun 2026 08:44:04 </td>
-    <td>Mshale</td>
+    <td><a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTE1lM0l4QlpfY2RLX0ZBMjhaUlozZmxySnYwa3paNFZ0RW1KdjdxbkwtY0JYSTQ1c2lkblZYSzgzLXZSLWM4SllsY0pGdlZYMEpfQ1pZZjdFOXlya1B3UlFFazRfZw?oc=5">Check Point VPN 0-Day Exploited to Deploy Ransomware Attacks - cyberpress.org</a></td>
+    <td>Tue, 09 Jun 2026 06:48:05 </td>
+    <td>cyberpress.org</td>
     <td>Critical</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVp2aWs4N3lHWVJUbGVTVV9sQTgtUUlMVE1NWjBRNjFrWG0yOXFKaFFXbXU0UEpUVG5TTTVDbjNjQkJHQWRHMUtCNGpDNmpvSTVzdFlZS1pzak16dmpEVmN5YlJucDFGSVRJQmRQcFMwUDRUSGVEVUVOay0wd0J2cEl5RkVLaW1kbnU5N3R4Ty1kc2Jqbnc3cHhaandaNUtlQ2JjUXlIUlNoMHhfb3VkX1pwNnU3RUVxWkV1czIxeEhlVXJ2dFdEX2JIYlU">Google Chrome 149 Patches Record 429 Security Vulnerabilities in Largest Browser Security Update Yet - theblunttimes.in</a></td>
-    <td>Sun, 07 Jun 2026 17:26:56 </td>
-    <td>theblunttimes.in</td>
-    <td>Critical</td>
+    <td><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3BwVW50MTdiejB6ckFpUElZbEJBUFI3Q24tenU1TlIzVWM3ZnQtMFdhYlFta3d0c1U4b0FmU0FmRkNUNzRHV1Z0VHRZdnZaZEx0SFhBMmJqY19nUjVneGtCX3pFUzQ1WnVyZjQ4cXhHOC1Uc1pDTWlpVEdldEN0UktBYXU2bUFoVk1uLWRmWlNBZ1lLT1RKbjQyaw?oc=5">Attackers exploiting unpatched Cisco SD-WAN flaw - csoonline.com</a></td>
+    <td>Mon, 08 Jun 2026 21:49:43 </td>
+    <td>csoonline.com</td>
+    <td>High</td>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPalpWNm9HVU01ZmFmRzJvWnU4WkN2X0RFM2xIc015REhmR2Z5dUtsa2tVU3pzNWkyY2xNdXlXY25LTW0zenU0Rld3ZjFhWXhIYy1ob3FqODJ2QjRiNXFPcXVhSVNaVHFJVnFvaVhGSXh2MnhEVVN4OFlxR0MydGlJSE5MS3h4NWZPTUN2UmJvMA">WARNING: Your WordPress Site Could Be Compromised - TechJuice</a></td>
-    <td>Mon, 08 Jun 2026 07:32:09 </td>
-    <td>TechJuice</td>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEdjYVFTaUpjT1pKdmJBbTlseWhUMkpwZVF5SlYxQ2JHMlRLNkRSY21YY2xxb0tZd2d6YjA0RndOWVhoUTVmblo3Z1FfdTlJLXBDQkRjSGljY2dQaTRoZW5ucDNxX0lpLXZ3WnBWSFJzaXdISk80U3RsQTNtdHdpV2JGb2k?oc=5">One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public - The Hacker News</a></td>
+    <td>Mon, 08 Jun 2026 20:17:00 </td>
+    <td>The Hacker News</td>
     <td>Critical</td>
   </tr>
 </table>
