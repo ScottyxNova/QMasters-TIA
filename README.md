@@ -1,93 +1,92 @@
 <table>
-<tr>
-<th>Title</th>
-<th>Source</th>
-<th>Pub Date</th>
-<th>Severity</th>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPM04tQ0RNSk16WEFYWjBlc0cyb0pubjMxWElEd25Vai0wRXVjYkRWX1hBczMtb3Q5bjBlaEp0THQzSDNlQzBSeGhyazBCM3c0dlFSVWZJYnpqaHQ0R0xNT2VvQ2tBNTN4M0Q4YkJlRFk5QkNwZ2cxbkJMWTBSVTdwQjlFN3lCZ1hoOU8xanotSQ?oc=5">Cisco Releases Emergency Patch For Actively Exploited SD-WAN Zero-Day Allowing Root-Level System Compromise - LinkedIn</a></td>
-<td>LinkedIn</td>
-<td>Mon, 15 Jun 2026 19:29:46 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1HN0VyQ1RoQzlVZmFnTjlRbVpHYS0tSktLSGlwOU1pZXdsTXBMUm1NU0ozckRmck1DRXN1U3RuQy0wSjJJSGxPbnJFcVdiQ0xZeHZvdGJ3QlN4bnBnYnNmYlZkVzFGNjVmNXBsaHlPQllNMTEzNC1HTG9LSQ?oc=5">Cisco Patches Actively Exploited Catalyst SD-WAN Manager Zero-Day Flaw - The420.in</a></td>
-<td>The420.in</td>
-<td>Tue, 16 Jun 2026 05:17:42 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGI1SkFVenVETkxtUmQ0OGxKQkhqQVZ0N1pJbGUwX0F3b3hwVGd6Yjd4MFZDMzcyd1pFOEdvclhzWk41c0Q0SmltM1M1RkFjVXFvS280VDRlSjRKbmtabW80dmN2YW5kS29HY1ZFb0RJS1BETDhFMTJLZ3dEbkdVWkFxWG16OHVISmg2SUpUTE1IcDdZQXlvS3N3eUktRUxuc2NsZVpuUndtYzFSZmfSAbMBQVVfeXFMT1liTURMWmxlWUp3eWFDSllJZExKMlVtM0pJZXZEMW1wZG9Uc2tHS2N5ejBhMnpURjhOREkzc19tRW1KSHNiME85QTh5dHlTZFkwRkJTVTVCWjNGd1dwa1J0MFZoMk1lbjJRbTBzREc5bXRMTmUtRHRjZjRoUTJkS2MxQ0RxY1d0TzVfbkw0U3RzMGluY285XzBaanVmTF9IRW04Z0NGaTkxVWZSRHU5QktOcXc?oc=5">Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks - BleepingComputer</a></td>
-<td>BleepingComputer</td>
-<td>Mon, 15 Jun 2026 17:12:42 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPR3lGMEU2RjJrSG43WFdOSUt6MVg5eTdYai11MFIydG1JSXVjcWNqYUJCR1pCaW5WZkcxYUJRd25CS3czMUZuU3c2X1pDQUN4TkxmTmZjdEhHT1FZU0wwSDN6RUJIN1F2WjIyNHk4U1ZZLVp4dnFIQ2JxQzc5YjVvX0xHM1dFcVg0QUZtME5CVTFMQdIBlwFBVV95cUxQOWdhVlJRQ3A2dXMwcm4wcV8tSldPQmVhVjVaUmx5SkdXWjdnU01ISGJPTUdlMndiTFFrN1dUMGthUUNlTnppczN5RVlncm9wdFp0Q0JvZzVYaVB3eGtiM3htS2VOak5yTnU0RF9tRTNjeGxsa1VySW9NSFhuMmI3MnRWQQ?oc=5">Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks - SecurityWeek</a></td>
-<td>SecurityWeek</td>
-<td>Tue, 16 Jun 2026 06:20:18 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5IbVFwbDhUdWx3bW5oYnBzNjFnMzJkMUVNZWxTYVE2NmZqQW44dXpDZk1sdlZ2RWk1ZHJSN0REazhBR0VDeHFkNjhWbkRrNzNFTHNFejE4b1Bud3pSamZKUWh2enVzRTVxdTJaWEY4YUJXSVNBdXptUmdQV2VxQ1U?oc=5">Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw - The Hacker News</a></td>
-<td>The Hacker News</td>
-<td>Tue, 16 Jun 2026 06:05:00 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBNT3Z2M1pWdGVWSjhPVV8zU2tOb0xrMzAxckhOYmVmYjdOd0hzNUlSZlFIOGdfNTNEMmJvbnY3YjRKdkE5SWFqbENKRThtVmtUOEtUREU1Q3ROajAzdmFMUUZSWG50Z1puemItU28zdGJFbGRweWlEMDQyOEZ5d9IBgwFBVV95cUxQOWdhVlJRQ3A2dXMwcm4wcV8tSldPQmVhVjVaUmx5SkdXWjdnU01ISGJPTUdlMndiTFFrN1dUMGthUUNlTnppczN5RVlncm9wdFp0Q0JvZzVYaVB3eGtiM3htS2VOak5yTnU0RF9tRTNjeGxsa1VySW9NSFhuMmI3MnRWQQ?oc=5">Cisco SD-WAN vManage Vulnerability Exploited in Zero-Day Attacks - CyberSecurityNews</a></td>
-<td>CyberSecurityNews</td>
-<td>Tue, 16 Jun 2026 05:55:50 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOSnhtLVYtRFpvOWtsQWlxZUZpVnNjTl9zZk0wU3VtLWRXbGY5czRTWXFzMlNZT19Wa2tHZkpCOTZ4VERCMldzbzBQeDVfSWlRczlwWW5mQTdLNlR5V3NrWVNHRmlwQlRkR051WXNucWt1RlhmamFnN1RxTkZLM0RBUndwcDZjUHR3Q3Y2eTVGUDh5UjUzeWVjWWxSQWZvUQ?oc=5">Cisco SD-WAN make-me-root bug under attack - The Register</a></td>
-<td>The Register</td>
-<td>Mon, 15 Jun 2026 21:48:25 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiiQFVX3lxTFpLcFZjTkdVSk15c1o0Mm1ZQU9iQmZuMlZ3NzZ3dUxqYmY5ZGtDZDJ1R1N5bU5jRGlzZnA1TlRzQm5jR2p3Z1R3aXZvTmxWQjJ5MkFqS3g2c1YxZnQ3b1BwSHNkS3Q0RlRwWm9QWVp2Sm9iMjF2QnJrSUNxR2dYekR5dHdFbkdGQzFVdG9JbTlVb1A?oc=5">CVE-2026-35273: Oracle PeopleSoft Zero-Day Exploited in the Wild - SOC Prime</a></td>
-<td>SOC Prime</td>
-<td>Mon, 15 Jun 2026 16:03:00 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVBjZ1RXdWVSeXFGYTBIeXZFTTcxZ1Nob0xOYjlveHRYVEoxRW1yTTRCWEVQd1lUemtLOFJ1MVZKbVpNTlk4R0d3VHJVWVVTTnBqYktoNmRFUk54bldKRnB5bU9DekNvMFZ6emlGdFZreVVteDU1WXZhT3pxOFRIRnF3TUN3V19MaVE?oc=5">Oracle Warns PeopleSoft Customers After Critical Zero-Day Exploited - TechRepublic</a></td>
-<td>TechRepublic</td>
-<td>Mon, 15 Jun 2026 13:18:23 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOLWRJZ2NRdW9aVHlLMlJ3Z1Q5Y2Z3Um45LWU4cVdzaWxrQnpKYzVZdDl5c1VmSVMzV2l5SnZDb3hhZnRkZ25xVTNNU3BOcE5WaGZCNkkzRDdDVUdzRVRzc1NJY2dQbzhwVUZlcWNkZzBVRzNwaUx0cXdoQUxRUS1ZdGxmQ1ZINUdia2RYdjF5UTZRbDJhS0E?oc=5">ShinyHunters Hits Universities Via Oracle Zero-Day - Bank Info Security</a></td>
-<td>Bank Info Security</td>
-<td>Mon, 15 Jun 2026 21:15:49 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxOTDh0cWVYTG1GaVV0S3pvNV9KUkx2aDN5eHNyeWVpSWZvb3BQMHRHR2VtODZkTjloS3JMNUdSRFAwaWFOaFd3WEJTSjdRaERUN0ItMjJMdm1mRVFfY1R3RnNBS1oyUE12dkJGaFVScm9hTU4zT1h4bDZNV1dhbEJKRkUzZ2x4c0lfalJYU3NWLXF4OE9YUFpMc0d3?oc=5">Google Sounds Alarm On Active Oracle PeopleSoft Zero-Day Attacks Linked To ShinyHunters - Yahoo Tech</a></td>
-<td>Yahoo Tech</td>
-<td>Mon, 15 Jun 2026 17:30:46 </td>
-<td>Critical</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOUWJDcmhheTZtSmxBa1NJQ2RpSUF4VlY5N0VBQnNLa2lMR3RBS21TanF5NlhGRmpjaElVQkxGN2Z3NWFkTE5ZWEwtb2k1bS0wanBnQUx5NGhIR3lHVENCeGN4VmVLNS0yOHN0ZUI4VDgxTVc4M0pMX0x4MlF4WlowODdyVjVCNUZaOHVJd3BHZnlDa2JUbWxUN3V0WEZlLWlCWHdIc19femFNNzRZd3BONnRRUWtYamdnZEFFT083S3puTWc3T1NET1pWZDI?oc=5">Palo Alto Warns of Exploitation of VPN Bypass Exploits (CVE-2026-0257) in PAN-OS Flaw - Security Affairs</a></td>
-<td>Security Affairs</td>
-<td>Mon, 15 Jun 2026 11:11:15 </td>
-<td>High</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWs0eU82Z2FaTTF2aHBCNVVodGctWFhveVc3UWcycnZXSDlENE16eVQ1dXgwT0dfdV9TT1ZOR1B3R2xEZ3BuSnBJcEZNc3hQc0oxYVN6NTJtbnpTcWdlZkNtNzViY2t0TzI5elo2cmI0WThvM3EtNU9zcWdKM1JxQTJLLWhLT2R6dW8zTENhekdXZWFEQnBldS1qbUc5YXBnT0g2MmYwcHBhSlZBSlV3RVZHMXN4RnhWS0ZDbWJB?oc=5">Samsung rlottie Numeric Truncation Remote Code Execution Vulnerability (CVE-2026-8916) - systemtek.co.uk</a></td>
-<td>systemtek.co.uk</td>
-<td>Mon, 15 Jun 2026 18:45:00 </td>
-<td>Medium</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMC1tSWlIR2t1ajFLRWRJckZHM3ZjeWdaUWxiSEM1bko0VTRYd1hoSTJPYnRIOU1tTEhhZ09WRVpOSTJSODZTRHlyUEllUV9IcFd3Q0hwWGVQdHJXazB2T19SWGtMMXcyWkxNRG1CUjBOSHFPQ25v0gF8QVVfeXFMTjk5alBFNXZQSDVoclI5SDBmaVpITWJLRWZ0MVhIdmFQcmdacHQ2Y0pLak1Zdnl3eUxYbVNheS1sMHZ5MEJCU0N6QmJzb1prTUV3cjRIRjhaMFlNUHEyNHN4SUNTTGQzM0o2ZFRJSnNhT2N5cVhNUUhHTVZNTw?oc=5">Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild - CyberSecurityNews</a></td>
-<td>CyberSecurityNews</td>
-<td>Tue, 16 Jun 2026 07:42:41 </td>
-<td>High</td>
-</tr>
-<tr>
-<td><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1MQmMtUHp0b0Q1b2hOTW1NT1NUN0NQRGx6OS1yT2FqOFlHVm5sWnl5Nzd3UkMtWjANDINGFxWVV1SGZJeEpfTnZsdjI4eG9kb0VyaGRSb1V6TVFxZmI1SXdBdTU5XzlxRjVpeTdLcXN30gFzQVVfeXFMTVM4Wi0ycWtaamhhZ0V5cmxKSDhhNHRHdnFHT210dTVZSGdYNFJDMy13NXNidk9Od1Z0a3RTcDZMVTUxQ2ItSHB4SnY1NG5qRUs4NVBsa3RBTjR6SHc5eVAxWmNnMXNqN2ozRTA1R2s2b1hHRQ?oc=5">P
+  <tr>
+    <th>Title</th>
+    <th>PubDate</th>
+    <th>Source</th>
+    <th>Severity</th>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTEFKczJRLWlvWlBNaW5UQktfSFhEY1E4RkpQVUY5d3UtNGJMY291a3praHRqOUhpekFHYTFlMzlTUFhCSWlHUkhTMEtHTHBiYVRudl9Pck5iWlNxV3ZLS2VEVGFjb2s3eU5IaW1vZXZUdnVLTnZVWTctQzA1Z3ZxREEzRURvYlMtTzVJSHZ6VDVwOXRkX1VDUDJoYzdUcGVjOXoySGZaYjlBRkp6NHdDbng5Z1pfcXhH?oc=5">CVE-2026-35273: Active Exploitation of Oracle PeopleSoft Zero-Day Vulnerability - Security Boulevard</a></td>
+    <td>Tue, 16 Jun 2026 22:32:32 </td>
+    <td>Security Boulevard</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVnVfbXhaXzFtT1l0X1BZQlR6QXNzZV83dnFMS0ZJR1dMU2ViRVJ4WXZmSjRNNl9SNDljclpjNmh4QXdFcHdUVmdOSnhNdWprWVIxbUNCWE9UZUtQM2ZrZjdHaTVvSDFyamJUb1pXOFpNYmpvdlgzUnlGSUxqUmFsMHVEX29aRWI1?oc=5">Cisco discloses second exploited SD-WAN vulnerability in two weeks (CVE-2026-20262) - Help Net Security</a></td>
+    <td>Tue, 16 Jun 2026 10:20:16 </td>
+    <td>Help Net Security</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGtFbVhDMjhTMVRTenVxRFZpZGFJRmxDV2dKYUxRLXoyMnVISXRiSk4zX2xwZ01ycHgwb3F1QmlpN2x2ODdrZE1sUDN0UEVscllQWGdKMmZ6TjBYTWNweEhzN2xDTjRJVEdlRk5hTVpYbUdSRW1WQU5nMXpLVTlJb2RXeUlDVTIxOWhGR3EtZ2RQVldxWEN0XzZvUk9yWXRrQWxoOGpUWUQ4QXNSc2swUXA2QktIMkNMY01PT25qOURFVkVqWjh2TVNSeU5xYUVZc0s0TVZ0WGkyNDRaaDY4WmVaOA?oc=5">Critical LiteLLM Vulnerability Chain Enables Remote Code Execution and Full AI Gateway Server Takeover (CVE-2026-42271, CVE-2026-47101, CVE-2026-47102, CVE-2026-40217) - Rescana</a></td>
+    <td>Wed, 17 Jun 2026 06:58:51 </td>
+    <td>Rescana</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPaXM0TS14MFV5UXpZbFNuWXZmRERPYS1wZGZnOWNvazU4Qlkzc1RybklmdVNFRkpadFF4NjdaQkFiX0RYbUZ6TGpYd0NhU192MWM4U3hZUUx5NUJTQVpCSk83V1NOLV9HazltRG5Kbl9iMHcwU3drUTVqUnU4VlVCQVpXd2NDM3ZIT0RzeFc4ZVpkMVIyTUJTNG1yMXhrWWhhUnNZRXdudTB5V1BjOEY0VWhGVWRudTB2QUZVNE9CdGxsWjQ?oc=5">CVE-2026-20262: CISCO Catalyst SD-WAN Flaw Under Active Targeted Exploitation - Security Affairs</a></td>
+    <td>Tue, 16 Jun 2026 11:55:35 </td>
+    <td>Security Affairs</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPSVc0WFpkMjV5R01vV1pWa0hMYTJJQXlTbkNaZWF3T2FiWFF0WHlVZFlaSDVNR2ZiSGdOeG1xRlFtOWR4WkxKaEYtS1RmUi15cVBISUl0b2VRdjg3b2ZwZzRvVzd2VlA3UkhOTU5GOEVIN0ZnTldrYjg3Z0VCVTVyZ1l3N2tpbzhjMVE?oc=5">Oracle PeopleSoft Hack Hits 100+ Companies in Zero-Day Attack - Memeburn</a></td>
+    <td>Tue, 16 Jun 2026 10:53:53 </td>
+    <td>Memeburn</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1MQmMtUHp0b0Q1b2hOTW1NT1NUN0NQRGx6OS1yT2FqOFlHVm5sWnl5Nzd3UkMtWjNINGFxWVV1SGZJeEpfTnZsdjI4eG9kb0VyaGRSb1V6TVFxZmI1SXdBdTU5XzlxRjVpeTdLcXN30gFzQVVfeXFMTVM4Wi0ycWtaamhhZ0V5cmxKSDhhNHRHdnFHT210dTVZSGdYNFJDMy13NXNidk9Od1Z0a3RTcDZMVTUxQ2ItSHB4SnY1NG5qRUs4NVBsa3RBTjR6SHc5eVAxWmNnMXNqN2ozRTA1R2s2b1hHRQ?oc=5">Palo Alto Warns GlobalProtect VPN Flaw Is Being Actively Exploited - gbhackers.com</a></td>
+    <td>Tue, 16 Jun 2026 15:43:16 </td>
+    <td>gbhackers.com</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3Y4bEpfQ2RKeEQzM3ozRnphUExTb0pfaW52eExDNmNjd2w0SmFGQ01hdjA2ZlhyLUVmRDZmLWk1OEwzZ1R4WlVFYmk0UzdpT2FTcE56SndibVdxQmJKRnhDeGtPTG85eWNJREc1N2h2ZG91S2ZxZ1I5OVZWYnpDSWEzVkE?oc=5">CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution - The Hacker News</a></td>
+    <td>Wed, 17 Jun 2026 05:50:00 </td>
+    <td>The Hacker News</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi9AJBVV95cUxPQ3U5X2xTZzVkT2lMaEdfSThVUXNrdGRoeTZzcUJ5YWtDWHA2SVYwVEVhbWdhNEtMOS1VakJJd2pPdGt4dmtQSDFRTk5RSUFyUVZkQUppN3ZoaDZLUll3NFFma2MtMkx2Wk5xdEtWR1ZHQjdIWVF6TFUxTjZtRlpZSkVlRk1XMWsxWjRhaFRKRm96OXZDMmcxazJNM1FwYnpxRDNVa3VETmJBT1FCYmJ4LV8zMmlTcG56eWRGZ1hDUkF4dWt1QVF1RTdvc3Q3NW5jVWhLNjJFMFdsOHRFQXc3ZkRIeWJUNEVlSzFTMW1NSy0zU0tsS2c2bEh3eWRlZGNaUU9DYm82cFpsd1lzYVVXejZZd0libEtaek1HdjdxRmV4cFBqdWc2YlZabnpJWXd6X3RyTjNOOExhdVpXRlRaRDRISFEzWGdac1JsZWJxaTZodDRydzBYRmNjM2ZJV3B5c3pwdWFxTUN2STA4OWozWVdWVXk?oc=5">Microsoft patches record 206 Windows bugs in June update - and 3 are zero days - MSN</a></td>
+    <td>Tue, 16 Jun 2026 11:05:45 </td>
+    <td>MSN</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFB5aTcxeWJGaVVtZVo5aF9vVFZlQTRQSlZvVFR0VUhQeWVxT2V2dnpiZF9HX2g3a0hhUnEzOHJ1TzY0d1BEZ3BUd0pkYlVwSHNJaEhLcGswNHJ6dlk5VllWQVBTQ1lNTmNNYnkwVWptMy1nUUtHeUFIbTJuckUxZw?oc=5">Hidden in Teams: DragonForce Attackers Weaponize Microsoft Teams Relays to Stay Hidden - SECURITY.COM</a></td>
+    <td>Tue, 16 Jun 2026 10:11:05 </td>
+    <td>SECURITY.COM</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOEU2dmtmQnVJWkYtbXB4cWRHZm92WF9hWk0wTjAwVDNpMjNDSXdFTEgxb3VwbExESGVJQ0g4TGtQbU1aaVhBWjZFQ2dfWlBISENuSUVIV2Vpam1RWkduS2ExekE0TldhdC1MXzhiNnZTTjN4T1RNbHJLbFFNdUpxajRzN01LYlFJc0tPT2hVbW9lYmdfUmhLczJoNUhaY0s4Q0J1X2F4cGZaaVJCMjdIbGw2ZlkwQVRTenlRSkpycFpka0pMdkhLUHJqLUJhbTEteU51UkZSclU1Vmg1U1FMQ1JHQQ?oc=5">CVE-2026-20253: Splunk Enterprise Pre-Authentication Remote Code Execution - Resecurity</a></td>
+    <td>Tue, 16 Jun 2026 16:38:53 </td>
+    <td>Resecurity</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTR0ZzF1enlPNDRJR3pjMERMQ3JwX0Fvek8xeFZ5Qm5IZ180R2tISy1zdUE3clU2SWJxNGxETFZtaHF6TWwyNFlTaHdYVXNwSnZ6N2h6bEM3VzRlN1puVWhEdXVBVlNCTEgwcU1id1RXUk94M2h0OEdCSEQ2NkgwRTVXcFl6eGlwSUNNaDhQbzRmUXFSMUJYOThhbTRrWl9LOHRqMU9tSVhJcGQtejhHcndMZw?oc=5">Microsoft Defender Zero-Day Privilege Escalation Vulnerability (RoguePlanet) - Security Boulevard</a></td>
+    <td>Tue, 16 Jun 2026 16:25:37 </td>
+    <td>Security Boulevard</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV0UxSVBweElCczc0OEE2MzdOWHdzT0dyT3RjVlpUbkZkSm1wOWRIdXVQRGpFcEFVRnBzVXpjMktQczgweW5yNWNlbEhJQ1EyZ0h2YTMyLVFyc2pWTzQtQTlwQ2dEelNCd2NmcnowQU96NVl1RFBmeGRGSzVycjloTmFQLUFiU0s3Z3JfcDZ2LWxWSGV6b2VQWE5GOUd3TEtRaHBtTE1PM19DVWwxbS11cEtCOS1fZGhLYnlmZ1RWb3pIZF92S2o4a2lIUUlzQlVMbFFycXBmOA?oc=5">Oracle PeopleSoft Zero-Day Exploited in 100+ Breaches: Council of Europe Deadline Falls Today - Tech Times</a></td>
+    <td>Tue, 16 Jun 2026 20:27:01 </td>
+    <td>Tech Times</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjItSS0wQXRBMXpGLWE1cjlQUkxFNnNZZElzcHRBYjRZVElpQmtGeFZRamhqaGlFTzlyNlRnd3JzNFVQV255ZnZDeHFlS1FrdFJXUUhLZFBucGN1M09KbGNadW4wWi0wMkV6REdOVEZOMGRuaHVDVXVEdzN0aFNQRjBVUEt1YmtLS1M5Y093Ylo3a0hIOUxsdUZnTFk3RDZQak5kcmRXWlpEWC1xUjFKbHJrVEo2M0xJUDdhNzlxVjBPM1Yt?oc=5">Patch now! ShinyHunters extortion group actively exploiting Oracle PeopleSoft zero-day - Cyber Daily</a></td>
+    <td>Wed, 17 Jun 2026 03:33:45 </td>
+    <td>Cyber Daily</td>
+    <td>Critical</td>
+  </tr>
+  <tr>
+    <td><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOb2EtM3NjYjBYNEwxN3FERFE0cWlVb2VQV2wzUkc4NDk0MV9tRDlHX0htRmpQcUxZaVF4eUg2Y0FUTTdGRlRHWEdFbUlWLW4zN1RVU2FReC1uc3ZEeHh4bnpwcHBPSi1fT0hlbm93SmFwdzBfeThVTHM1SmhlM0lJTw?oc=5">CISA Issues Alert on Oracle PeopleSoft Vulnerability Exploited by Ransomware Groups - gbhackers.com</a></td>
+    <td>Wed, 17 Jun 2026 07:15:16 </td>
+    <td>gbhackers.com</td>
+    <td>Critical</td>
+  </tr>
+</table>
