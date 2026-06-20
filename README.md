@@ -1,68 +1,92 @@
 <table>
   <tr>
-    <th>Title</th>
     <th>Source</th>
-    <th>PubDate</th>
+    <th>Title</th>
+    <th>Date</th>
     <th>Severity</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBuM0VhekgwNDdsSkpvWnRIQXJhUUVUVHYxR2JDX2ZBYVc2bXR1ZUQta3V4M2ZEZ1lOSTJRZi1rQ0I1RTQwOENabmVuRnVia0RRcjd2LXlzSktob1NJSktQdHJkOUdJd2t0VWhTOVF0bUFOMWpINlVXemo0TE91dw">F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution - The Hacker News</a></td>
-    <td>The Hacker News</td>
-    <td>Thu, 18 Jun 2026 17:32:00 </td>
-    <td>Critical</td>
+    <th>CCB Belgium</th>
+    <th><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOZmpyVl9kcTBPclgyMEhleE9CMXdsS1FMU1R0Uk1GRi04ME1GNUhhNE1ydklOdHQ3dHZKWkpPREFTNVBHMDlkTnRBMHcxWkJBME91aHFiWTVjdnVHa1F2Zk1Za0gtVXlfc0hKblhxRWVWWVExSWdIRGg4aG04aHNXTEhuVFN3YlJjTGhDazlhQXZLZnNMRkpVZ1dnRVc4NVRWcy05ZTg3U1h2YWdmazByUWVvSGNzMWZyQW5qUA?oc=5">Warning: SimpleHelp patched CVE-2026-48558, a critical authentication bypass vulnerability, Patch Immediately! - CCB Belgium</a></th>
+    <th>Fri, 19 Jun 2026 12:56:11 </th>
+    <th>critical</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPX241d0k4X1ROYS03U2loQklUZGk5UDJQbmtRXzR6WENaNmlqZ0hwR3RiN2xieE1zQ1hjM3lJUFFaVGc4VmRrY3M5VkIyT0RUQ0hfQ0RyM1dfQmVIUUtNZUVKejFqN0tDREc5eHZ3eVJKTjhDVkhkRjdzYmhwaW9aeWVDYmxMdFE3S29qU2VnUXl3T2FwQUFCRHNiSmh1TWE1eDZsdFBLX3RMN3dBWjREeGdB0gG3AUFVX3lxTE04bWIta1BNSXZwQllfQm1jdGZ6WVBqM0JTVF8wN25HM0duZEtmaGVsblhsQVpzdC0yWktzTTY4aTZ3aHlZbVFpbUxDNTVnZTBTc1V2OHBRMWZvOVNDZDNhQk1PUV9GM3I2cl83S1BmRHpJYS1ySEdXdHd1SmpFaU0xM0FYUnA5aUx6dHVZS0Q2TTNFVmxkS1diaTU4R3YtNVVGVjE2T0ZvdDFHeUJNTGd6aE9YNzdWRQ">Microsoft fixes Windows Server 2016 security update failures - BleepingComputer</a></td>
-    <td>BleepingComputer</td>
-    <td>Thu, 18 Jun 2026 10:14:20 </td>
-    <td>Low</td>
+    <th>CCB Belgium</th>
+    <th><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWZRb1hVYXRSc3V2cnA1cXkzVW5IZzI0QV92WTVGRHBJZU15OG9MNkZ2SlQwXzl1LXhINUhxSUl1ZTBNUURSd0R4VDVQNjV4Vl9KUUNBVk1Fdk9Sc0Y2dmh0c1o4TTRWNVlWeGlOT3NoNkZ2Sm1tQ3lNRndXeU1oWFdUcEhSOUc4dmk3cnZMRkhRS2tGekNCTmtCSkRPbHBSNmltelg3dlFReEQ0NXZSRlRPQjF6ZHVUY1E?oc=5">Warning: F5 has released security updates for vulnerabilities in NGINX Open Source and NGINX Gateway Fabric, including CVE-2026-42530, CVE-2026-42055, CVE-2026-11311, and CVE-2026-50107. Patch Immediately! - CCB Belgium</a></th>
+    <th>Fri, 19 Jun 2026 12:56:11 </th>
+    <th>critical</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3ZrNlBUU3FhU2EzTnpVMVBVTmRtbnFpSWhhT2VNRW1FR3JCTnhfeDZEUHVDdU9kREhIbmxFSjRHZ0VxYVZNdWtrLUxaQ1lFWE5YQ2NzOGJ3Nk83NWxoZnQ3WWVmbmUwUlhOUmtTWnEzVGMyZFVpUU5CVVZuQlBseU1RQW9nZ2hWaWRfS0o1X2RzUU4wUWVVZ1dHMF9LRllvalRWWTJ0NEYybVczQzhvWEZRTlVVOXZiZVkzcw">Oracle June 2026 Critical Security Patch Update Addresses 243 CVEs (CVE-2026-35273) - Security Boulevard</a></td>
-    <td>Security Boulevard</td>
-    <td>Thu, 18 Jun 2026 11:46:15 </td>
-    <td>Critical</td>
+    <th>Help Net Security</th>
+    <th><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ1dsU0llU2h2cDByaFNOYjRiLUd3RjZ0UkVIb19Lcnc5UWd1YjM5NEJhRDlJbmg5elBOWUl3aWZKUWRyWHI4QTJ2UUhsMDZxU0RtUUFxeFVjR3l4eWZJSzJuUVlmQzdGWDlEaDRBbHhJa2JHSTYxRXVGQTdEVGI2emlrMlFJazdQb2JHeVRWa0ZfMkk?oc=5">Unauthenticated RCE in Splunk Enterprise under active attack (CVE-2026-20253) - Help Net Security</a></th>
+    <th>Fri, 19 Jun 2026 10:50:33 </th>
+    <th>critical</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPX241d0k4X1ROYS03U2loQklUZGk5UDJQbmtRXzR6WENaNmlqZ0hwR3RiN2xieE1zQ1hjM3lJUFFaVGc4VmRrY3M5VkIyT0RUQ0hfQ0RyM1dfQmVIUUtNZUVKejFqN0tDREc5eHZ3eVJKTjhDVkhkRjdzYmhwaW9aeWVDYmxMdFE3S29qU2VnUXl3T2FwQUFCRHNiSmh1TWE1eDZsdFBLX3RMN3dBWjREeGdB0gG3AUFVX3lxTE04bWIta1BNSXZwQllfQm1jdGZ6WVBqM0JTVF8wN25HM0duZEtmaGVsblhsQVpzdC0yWktzTTY4aTZ3aHlZbVFpbUxDNTVnZTBTc1V2OHBRMWZvOVNDZDNhQk1PUV9GM3I2cl83S1BmRHpJYS1ySEdXdHd1SmpFaU0xM0FYUnA5aUx6dHVZS0Q2TTNFVmxkS1diaTU4R3YtNVVGVjE2T0ZvdDFHeUJNTGd6aE9YNzdWRQ">Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks - BleepingComputer</a></td>
-    <td>BleepingComputer</td>
-    <td>Thu, 18 Jun 2026 14:19:50 </td>
-    <td>Medium</td>
+    <th>SOC Prime</th>
+    <th><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOS1UxSzNDd19iOG9mcEZNajF0LUVkWUM3ak90Zy1pZng4UmxLZFZ1QXVwZGk1SUcwcWZ6RGkwTmV5RDFYVkxxai1QdS12VHVJR3JzVWhCeUp3a2VNaS16Ul9JOUhmMVllMVA2R1VGV2pmLTdTQUVwSGpoYVpGa09WWjkwLUYzMHNFMG9BVmJVUG5FTl9mbFc4c1l6VW9ab3Y1cXM4?oc=5">CVE-2026-42530: Critical NGINX HTTP/3 Flaw Can Trigger DoS and Possible RCE - SOC Prime</a></th>
+    <th>Fri, 19 Jun 2026 12:28:10 </th>
+    <th>critical</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX1JyM1JuVG1nUGFFLS0yVXJ1VTNVX3ExcnAzVTJyNEtPVW45S19YUXFNM1JCUU80VmNiTTZfQjhNVEZ6bTZJdkpfNEI1ZjdNZ0dDUEFkV2k4MGRNcFppY3l0VHNHM3UtUm84SHY4bWJXeG1Hakk3UmdKY2N1ZWY0SlBNM3hKUFRXVzZvN01Md0J2V0RzUk14MGVFQzN3b3dfSDVhVVBod0tlbWo2LXI2c3I1MWhQbGRvbkg3NlNKYUN0RGxocFZCN2ZoRnpHLU5wbjQwQQ">Open Source Security Conference Opens: Linux Patching Cannot Survive 50,000 CVEs a Year - Tech Times</a></td>
-    <td>Tech Times</td>
-    <td>Thu, 18 Jun 2026 10:05:43 </td>
-    <td>Low</td>
+    <th>SOCRadar Cyber Intelligence Inc.</th>
+    <th><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE11QlFvOEJOcTBiQlpiTklxREZ3UzZpck9hcDVydDlDcE9XOVNrMnc0M042RFk4S2Z5R0U2QzNYUy0xeFNCWUZmbTVRcW1PS1A4b3ZjVTFpT0F6eXl0SnFTbFAtYm0wTFZuTHFkcjE5NElXUQ?oc=5">CVE-2026-42530 & CVE-2026-42055: F5 Patches NGINX Vulnerabilities - SOCRadar Cyber Intelligence Inc.</a></th>
+    <th>Fri, 19 Jun 2026 08:48:38 </th>
+    <th>critical</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE44MEpxWmxOV1doWVllc05pNlB2LXdXbWNyd3Z3LVhhWXZZdk5lTkhIUGpfNl9qQkNnekR2Um1wUzN1YklkSWpaNmgtd1doZjdNc3hFUndDV0h2RGNxYm5kRUFOaTZQMTkyVG04ZHlZZWwzTjFsQ3VfQTFza2tFb2c">DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic - The Hacker News</a></td>
-    <td>The Hacker News</td>
-    <td>Thu, 18 Jun 2026 13:30:00 </td>
-    <td>High</td>
+    <th>The Cyber Express</th>
+    <th><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3R5bUo3QXJROTE3am1HQjhUZU9LUTRHZFlfdkpMR3JTSGZjcnhtaTNGLUEyNjRIM2xuVElzRXNzQVdxU014VXBNQWhtTTRMVDRhNndTQnRkQmxmNE81em1idzM1ZWpDOGJ3a2hQclZCVFZwYXB5Si0yVkRrbFdSeXpreHJDeDR00gGIAUFVX3lxTE03dHltSjdBclE5MTdqbUdCOFRlT0tRNEdkWV92SkxHclNIZmNyeG1pM0YtQTI2NEgzbG5USXNFc3NBV3FTTXhVcE1BaG1NNExUNGE2d1NCdGRCbGY0TzV6bWJ3MzVlakM4YndraFByVkJUVnBhcHlKLTJWRGtsV1J5emt4ckN4NHQ?oc=5">CVE-2026-48907, LiteSpeed cPanel Plugin Flaws Exploited - The Cyber Express</a></th>
+    <th>Fri, 19 Jun 2026 12:18:06 </th>
+    <th>critical</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHZOYXUtLWRPaTcwVUlIM2dWUHB4bk90eDR0aFR4bGdxTDFiaUMtZjJKSGJObXBxVkVjTHhOVVNlMjhQMlFTNGRnSktjS2xFM2RjdjdZTGJsWDdrRlA0emp3dTJsdkVibW05OHF3Y21KMHhiQTNrcmp5ZWJlNllrRWVQR1VFLTdwbU5tZWF4WlUyY2t3eFHSAZsBQVVfeXFMUEk2OXJ0bXVtMmRuMDR6aEY0bVdZRWJrc2JSemxLa0hLVVFpRHRFMFhfSkVFSmlNTFZtb1Y2QlUtWmRpSzl1U1o5UXpBeTdIM1RDendKcTN3SFdyR2pzVmRxV3lpNUZnZUMtOXFHRlZHQjIwbzhPMkRqZXFMT29oQm50UlJWVEx1em9PVlNvcGJqM1FRNG1BSDB2ZWc">Critical Command Execution Vulnerability Patched in Cisco ISE - SecurityWeek</a></td>
-    <td>SecurityWeek</td>
-    <td>Thu, 18 Jun 2026 10:27:14 </td>
-    <td>Critical</td>
+    <th>Help Net Security</th>
+    <th><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGxBV0FSRjFEdGtvb05Ndmx6bHdjaFVjanF2QmloWjgyTmxoQ2dHT19RUGZIaEp2TWFwZFZFTVV1WXM5c3BDWGdzNGJYUE9STTh2a2Q3ZWo4V3RZaVI1U3o0MmRVQTZ6WmRxelBvcXpSaTh2VTI1dlJ5aEVFc3RuSWtvT05FUHc?oc=5">Klue breach lead to Salesforce data theft, Huntress affected - Help Net Security</a></th>
+    <th>Fri, 19 Jun 2026 12:57:39 </th>
+    <th>high</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOWF9rTGpncV80SlJHaHE0X21ra3B6cFA4UXN3OC1GSzAydk16cmltbjFnZXFTeVBLeGVmY0FZSW51aUN4RlVTSkZNd1JMc1pLLTFINnpRUk5nNV9HQk9SR19PaWwwUzVzT3FnS2JzTFR0RTlGZUJBRUNDM0kwQ3hKcW5vckhtM3hLalAyQ1hlREZRcWhPdjlIMVZ2QWhUbE0">The first unpatchable iPhone exploit in six years targets chips still running Apple's latest iOS - TechSpot</a></td>
-    <td>TechSpot</td>
-    <td>Fri, 19 Jun 2026 04:02:00 </td>
-    <td>High</td>
+    <th>The Hacker News</th>
+    <th><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1FSkp3N1BqNGRsQThIOVlUMlJENE14QVh6LTN6OFV4aTFPcWZ6VXMyUDZ0QTVNcEJXcWpPcmdkZFg5Mnh0cDdhaENoWEs3dS0tNVAyWE9rQnBkUUFwbkttcjlQM29qZDVhc09GUzIyTFpJeEhtTHc?oc=5">Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data - The Hacker News</a></th>
+    <th>Fri, 19 Jun 2026 09:03:00 </th>
+    <th>high</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5iVGgzSkZzUzBKM3ZsMkF2eWxzRWVuSWFVOS1ycHRkLTlRSklGUWp3eE1rZDR5Q1RVYWV6TENGb1dXWTRkUmNYQWloQ0JlU2dVN0NtVHRibUoweVB4cE1PT2pabTRqTUdGMGpmTmlDSzBXT1ZOdzlj">Windows 11 June Patch Triggers Microsoft Office Startup Issues - gbhackers.com</a></td>
-    <td>gbhackers.com</td>
-    <td>Thu, 18 Jun 2026 10:49:43 </td>
-    <td>Low</td>
+    <th>CyberSecurityNews</th>
+    <th><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5VQmdNV3c0TE91Y1o2VHRTYVZQUHdaV2Y3NHcwV3BrQVhxaXNkMjdmTWtPcGlERXNseFFZYTA0MXRHbUZmZlBiYTdmQjlXQ1VqVGR1QWl6RF82aVp3Y2x3bHUzNlhueGhZWkhoT2x1UURlcVHSAXhBVV95cUxNbzF4TmtYRzBSS19EcHJ2QnZXeVgwbndhRVhqLTBpVWw5Ti1SUElBZUduTHVfSkhaVXpuN0s0ZUJPUnBvUk9MaGc4QzRCMG53VTl1TXdlRTJIRllBWmxjTzBHWlpSdXBDZDdfYmVLOU9PVEozZzdBMnU?oc=5">Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses - CyberSecurityNews</a></th>
+    <th>Fri, 19 Jun 2026 08:37:57 </th>
+    <th>high</th>
   </tr>
   <tr>
-    <td><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE9GVUJqYlR2M0EwQXV3NlVOY2dpUHVtODQyMmh6b1l4T3lQZGtHTUNRMHBmblhHeE5hNENpRk85RXBfSkFOVmxyb3RHMVI2WnFEVlVZTmxGa1cyZ3FYLVpxLUNOLWhiN05PWTdTT293Tkk5WFV3WXVrdnQxUdIBgAFBVV95cUxQUG9yc2hKTUxYeF9kNkhlV3g1VlppT25jQkZ4TXJ2M2NSTWVTWkt4dHZtVW9hMkM0WEJRdUZoRU5IbDJrdkJpZWM0dWR1WmpYSlYxZ1VudHpCdjRwdGFKSG9oNkJPNjZJeXh1WWEwWUhWdmRJR1Z4WEpTVm9SNjVjVQ">Hackers Actively Exploiting WordPress SMTP Plugin With 100,000+ Installs to Access Sensitive Data - CyberSecurityNews</a></td>
-    <td>CyberSecurityNews</td>
-    <td>Thu, 18 Jun 2026 09:36:25 </td>
-    <td>High</td>
+    <th>cyberpress.org</th>
+    <th><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9odVRJNHNndXJmZmU0VXBpa1ZXRE1hODh1UTVTRFNlMTVHVmVzaE43R2gtNlliN0wyWFB6Ulc3cFpScUZiQzJSckhIa2pTc09ROTBjSTFZM2tJMmRDMkJjTTRoaUVtMTM3YVdLN19uLU1wbW8?oc=5">Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass - cyberpress.org</a></th>
+    <th>Fri, 19 Jun 2026 08:34:04 </th>
+    <th>critical</th>
+  </tr>
+  <tr>
+    <th>Information Security Buzz</th>
+    <th><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWVZZmpmZ21JNThtRW42clVpYWx5R2VBNDUwQmd2bmRESk1xRFc3UzZpck9hcDVydDlDcE9XOVNrMnc0M042RFk4S2Z5R0U2QzNYUy0xeFNCWUZmbTVRcW1PS1A4b3ZjVTFpT0F6eXl0SnFTbFAtYm0wTFZuTHFkcjE5NElXUQ?oc=5">ShinyHunters Targets Oracle PeopleSoft Customers Through Critical Zero-day - Information Security Buzz</a></th>
+    <th>Fri, 19 Jun 2026 18:48:27 </th>
+    <th>critical</th>
+  </tr>
+  <tr>
+    <th>BleepingComputer</th>
+    <th><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOc04tUWMxOE11NGFCWndILXF4ODA4TXFjekZJVURocGJTM3FUcVd6ZzRDSWZrSS01aWExQ19saEhRY2F4QnF2TVZsVEVEdW40dEJfTHd0ZF9ST0JuY2FpY00tMmFuOUJnTXB1YjVCVXdSMzhQamVmQk5QMVQwZGN0YmlfUFZQWFpKQkdqWkNPX1NoN2w5eG9HUkVZOERfNWlpMkVXNWFEc0xFZWgwdlpONmVzM0ZCckHSAbwBQVVfeXFMT2FlUi1DenBrNnJkdE9RWVdsZUlnNWIzOWUtbTJNbUR1MUl0WVNhd0R2a0ZkR3ZxUzY2alVNTnk3Ny1lYVBGRWRRbTNQLXM3ZVIxa3VpZVFrczhCXzJfT1MtaEFJRGZUel9JYzBNY3FmX05vUFZENU0xVkxNdlo5LTBKSEhXWXBpcHcxSTJSV05LbVJyeFIwLVlGNUJxZXh1MjN6dkdBN0dqdU5XS3pqbjRxcUh0ZzNXZWpDSnU?oc=5">Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin - BleepingComputer</a></th>
+    <th>Fri, 19 Jun 2026 20:25:02 </th>
+    <th>medium</th>
+  </tr>
+  <tr>
+    <th>cyberpress.org</th>
+    <th><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMHRDVE41SDBXYi1FZkg4U1dtRC1kSkM0UEF1eXdXQ0s2NXNaU3NDb280ZUxIa2RwbUJHdXBqcTJNcDJxSFZtN3RLSWFjTWhIMHRCVURpWGJMczlCaGRTckRjeVJaOUxn?oc=5">Critical Flaw in WordPress Plugin Allows Arbitrary File Deletion on 1 Million Sites - cyberpress.org</a></th>
+    <th>Fri, 19 Jun 2026 08:34:04 </th>
+    <th>critical</th>
+  </tr>
+  <tr>
+    <th>AD HOC NEWS</th>
+    <th><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1o2M2ZXLWNxOE1wM2oxd2hpTXFQU25tUzJXdnJ4Q3VrQkN0Z09OQnFBNjNOMlZpbGI1VXZCUWhpc2haRmhUaDdOYzhLU1FMVktFekNSZnZQM0wzZFFmaExEbEFqY2ZwMWdsRWJqNGg1YjNlUXNnV1JnbzIydm5iVHZRTndPTDJEZThnV2w5N2JjXzNReHNCdUF5bExKdXpDTF9JMnlZRUwyUXNnWlZQbC1nTmV2YXk0cW5fNU1zeEJBbWtWMmpOSFZn?oc=5">Oracle’s Dual Headache: A Zero-Day Breach and a Compliance Stumble Cloud Record Cloud Growth - AD HOC NEWS</a></th>
+    <th>Fri, 19 Jun 2026 16:56:10 </th>
+    <th>high</th>
   </tr>
 </table>
